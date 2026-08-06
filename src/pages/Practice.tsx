@@ -64,10 +64,17 @@ export default function Practice() {
 
   useEffect(() => {
     typing.reset()
-    savedRef.current = false
     setNewBest(false)
     // eslint-disable-next-line react-hooks/exhaustive-deps
   }, [id])
+
+  // Re-arm saving only after the reset has actually flushed (finished=false).
+  // Resetting savedRef on id change instead would save the *previous* run's
+  // stats under the next article's id during the navigation commit, creating
+  // phantom records for articles never practiced.
+  useEffect(() => {
+    if (!typing.finished) savedRef.current = false
+  }, [typing.finished])
 
   useEffect(() => {
     if (!typing.finished) {
@@ -108,7 +115,6 @@ export default function Practice() {
   const next = nextArticle(article.id)
   const restart = () => {
     typing.reset()
-    savedRef.current = false
     setNewBest(false)
     inputRef.current?.focus()
   }

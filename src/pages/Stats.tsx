@@ -3,6 +3,7 @@ import { Link } from 'react-router-dom'
 import { useTranslation } from 'react-i18next'
 import { loadRecords, clearRecords } from '../lib/storage'
 import { getArticle } from '../data/articles'
+import TrendChart from '../components/TrendChart'
 
 function formatTime(ms: number): string {
   const totalSec = Math.round(ms / 1000)
@@ -37,6 +38,17 @@ export default function Stats() {
     () => [...records.articles].sort((a, b) => b.ts - a.ts).slice(0, 20),
     [records],
   )
+
+  const trend = useMemo(() => {
+    const asc = [...records.articles].sort((a, b) => a.ts - b.ts).slice(-30)
+    return {
+      cpm: asc.map((r) => r.cpm),
+      acc: asc.map((r) => Math.round(r.accuracy * 100)),
+      labels: asc.map((r) =>
+        new Date(r.ts).toLocaleDateString(lang, { month: 'numeric', day: 'numeric' }),
+      ),
+    }
+  }, [records, lang])
 
   const clear = () => {
     if (window.confirm(t('stats.clearConfirm'))) {
@@ -109,6 +121,24 @@ export default function Stats() {
           </div>
         )}
       </div>
+
+      {trend.cpm.length >= 2 && (
+        <div className="mb-8 grid gap-4 sm:grid-cols-2">
+          <TrendChart
+            title={`${t('stats.speedTrend')} (${t('practice.speedUnit')})`}
+            values={trend.cpm}
+            labels={trend.labels}
+          />
+          <TrendChart
+            title={t('stats.accuracyTrend')}
+            values={trend.acc}
+            labels={trend.labels}
+            unit="%"
+            yMin={Math.max(0, Math.floor((Math.min(...trend.acc) - 5) / 10) * 10)}
+            yMax={100}
+          />
+        </div>
+      )}
 
       {recent.length > 0 && (
         <div className="card overflow-x-auto">

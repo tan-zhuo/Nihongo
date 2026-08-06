@@ -63,6 +63,8 @@ export const zh = {
     sessions: '练习轮数',
     wordsAnswered: '答题数',
     recent: '最近练习',
+    speedTrend: '速度曲线',
+    accuracyTrend: '正确率曲线',
     date: '时间',
     empty: '还没有记录，去练一篇吧！',
     clear: '清除全部记录',
@@ -98,6 +100,13 @@ export const zh = {
   },
   result: { close: '关闭' },
   footer: { blog: '作者博客', source: '开源代码' },
+  feedback: {
+    title: '留言反馈',
+    note: '提交后会跳转到 GitHub 新建 Issue（需要 GitHub 账号），你的反馈对改进本站很有帮助！',
+    placeholder: '写下你的使用体验、建议或遇到的问题…',
+    submit: '通过 GitHub 提交',
+    cancel: '取消',
+  },
 }
 
 export const ja: typeof zh = {
@@ -165,6 +174,8 @@ export const ja: typeof zh = {
     sessions: 'セッション数',
     wordsAnswered: '解答数',
     recent: '最近の練習',
+    speedTrend: '速度の推移',
+    accuracyTrend: '正確率の推移',
     date: '日時',
     empty: 'まだ記録がありません。練習してみましょう！',
     clear: '記録をすべて削除',
@@ -200,6 +211,13 @@ export const ja: typeof zh = {
   },
   result: { close: '閉じる' },
   footer: { blog: '作者ブログ', source: 'ソースコード' },
+  feedback: {
+    title: 'フィードバック',
+    note: '送信すると GitHub の Issue 作成ページに移動します（GitHub アカウントが必要）。ご意見をお待ちしています！',
+    placeholder: '使ってみた感想、要望、不具合など…',
+    submit: 'GitHub で送信',
+    cancel: 'キャンセル',
+  },
 }
 
 export const en: typeof zh = {
@@ -267,6 +285,8 @@ export const en: typeof zh = {
     sessions: 'Sessions',
     wordsAnswered: 'Words answered',
     recent: 'Recent practices',
+    speedTrend: 'Speed trend',
+    accuracyTrend: 'Accuracy trend',
     date: 'Date',
     empty: 'No records yet — go practice an article!',
     clear: 'Clear all records',
@@ -302,4 +322,11 @@ export const en: typeof zh = {
   },
   result: { close: 'Close' },
   footer: { blog: 'Author blog', source: 'Source code' },
+  feedback: {
+    title: 'Feedback',
+    note: 'Submitting opens a prefilled GitHub issue (GitHub account required). Your feedback helps improve the site!',
+    placeholder: 'Share your experience, suggestions, or problems…',
+    submit: 'Submit via GitHub',
+    cancel: 'Cancel',
+  },
 }
