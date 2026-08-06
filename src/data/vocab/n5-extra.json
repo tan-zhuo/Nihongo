@@ -1,0 +1,2702 @@
+[
+  {
+    "id": "n5-0401",
+    "word": "いらっしゃいませ",
+    "reading": "いらっしゃいませ",
+    "meaning_zh": "欢迎光临",
+    "meaning_en": "welcome (to a store)",
+    "level": "N5",
+    "pos": "expr"
+  },
+  {
+    "id": "n5-0402",
+    "word": "ただいま",
+    "reading": "ただいま",
+    "meaning_zh": "我回来了",
+    "meaning_en": "I'm home",
+    "level": "N5",
+    "pos": "expr"
+  },
+  {
+    "id": "n5-0403",
+    "word": "おかえりなさい",
+    "reading": "おかえりなさい",
+    "meaning_zh": "你回来啦",
+    "meaning_en": "welcome home",
+    "level": "N5",
+    "pos": "expr"
+  },
+  {
+    "id": "n5-0404",
+    "word": "いってきます",
+    "reading": "いってきます",
+    "meaning_zh": "我走了；我出门了",
+    "meaning_en": "I'm off; see you later",
+    "level": "N5",
+    "pos": "expr"
+  },
+  {
+    "id": "n5-0405",
+    "word": "いってらっしゃい",
+    "reading": "いってらっしゃい",
+    "meaning_zh": "慢走；路上小心",
+    "meaning_en": "take care; have a good day",
+    "level": "N5",
+    "pos": "expr"
+  },
+  {
+    "id": "n5-0406",
+    "word": "失礼します",
+    "reading": "しつれいします",
+    "meaning_zh": "打扰了；失陪了",
+    "meaning_en": "excuse me; pardon the intrusion",
+    "level": "N5",
+    "pos": "expr"
+  },
+  {
+    "id": "n5-0407",
+    "word": "どうも",
+    "reading": "どうも",
+    "meaning_zh": "谢谢；实在",
+    "meaning_en": "thanks; very much",
+    "level": "N5",
+    "pos": "interj"
+  },
+  {
+    "id": "n5-0408",
+    "word": "おめでとうございます",
+    "reading": "おめでとうございます",
+    "meaning_zh": "恭喜",
+    "meaning_en": "congratulations",
+    "level": "N5",
+    "pos": "expr"
+  },
+  {
+    "id": "n5-0409",
+    "word": "お大事に",
+    "reading": "おだいじに",
+    "meaning_zh": "请保重（身体）",
+    "meaning_en": "take care of yourself; get well soon",
+    "level": "N5",
+    "pos": "expr"
+  },
+  {
+    "id": "n5-0410",
+    "word": "お疲れ様でした",
+    "reading": "おつかれさまでした",
+    "meaning_zh": "辛苦了",
+    "meaning_en": "thank you for your hard work",
+    "level": "N5",
+    "pos": "expr"
+  },
+  {
+    "id": "n5-0411",
+    "word": "こちらこそ",
+    "reading": "こちらこそ",
+    "meaning_zh": "彼此彼此；我才要谢谢你",
+    "meaning_en": "likewise; the pleasure is mine",
+    "level": "N5",
+    "pos": "expr"
+  },
+  {
+    "id": "n5-0412",
+    "word": "ええ",
+    "reading": "ええ",
+    "meaning_zh": "是；嗯",
+    "meaning_en": "yes; yeah",
+    "level": "N5",
+    "pos": "interj"
+  },
+  {
+    "id": "n5-0413",
+    "word": "あのう",
+    "reading": "あのう",
+    "meaning_zh": "那个……；请问",
+    "meaning_en": "um; excuse me",
+    "level": "N5",
+    "pos": "interj"
+  },
+  {
+    "id": "n5-0414",
+    "word": "じゃあ",
+    "reading": "じゃあ",
+    "meaning_zh": "那么",
+    "meaning_en": "well then",
+    "level": "N5",
+    "pos": "conj"
+  },
+  {
+    "id": "n5-0415",
+    "word": "では",
+    "reading": "では",
+    "meaning_zh": "那么；那就",
+    "meaning_en": "well then; in that case",
+    "level": "N5",
+    "pos": "conj"
+  },
+  {
+    "id": "n5-0416",
+    "word": "しかし",
+    "reading": "しかし",
+    "meaning_zh": "但是；然而",
+    "meaning_en": "however; but",
+    "level": "N5",
+    "pos": "conj"
+  },
+  {
+    "id": "n5-0417",
+    "word": "それでは",
+    "reading": "それでは",
+    "meaning_zh": "那么；那就",
+    "meaning_en": "well then; in that case",
+    "level": "N5",
+    "pos": "conj"
+  },
+  {
+    "id": "n5-0418",
+    "word": "どちら",
+    "reading": "どちら",
+    "meaning_zh": "哪边；哪位",
+    "meaning_en": "which (of two); where (polite)",
+    "level": "N5",
+    "pos": "pron"
+  },
+  {
+    "id": "n5-0419",
+    "word": "どっち",
+    "reading": "どっち",
+    "meaning_zh": "哪个；哪边（口语）",
+    "meaning_en": "which (of two, casual)",
+    "level": "N5",
+    "pos": "pron"
+  },
+  {
+    "id": "n5-0420",
+    "word": "どなた",
+    "reading": "どなた",
+    "meaning_zh": "哪位",
+    "meaning_en": "who (polite)",
+    "level": "N5",
+    "pos": "pron"
+  },
+  {
+    "id": "n5-0421",
+    "word": "なぜ",
+    "reading": "なぜ",
+    "meaning_zh": "为什么",
+    "meaning_en": "why",
+    "level": "N5",
+    "pos": "adv"
+  },
+  {
+    "id": "n5-0422",
+    "word": "どのくらい",
+    "reading": "どのくらい",
+    "meaning_zh": "多少；多久",
+    "meaning_en": "how much; how long",
+    "level": "N5",
+    "pos": "adv"
+  },
+  {
+    "id": "n5-0423",
+    "word": "いかが",
+    "reading": "いかが",
+    "meaning_zh": "如何；怎么样",
+    "meaning_en": "how; how about (polite)",
+    "level": "N5",
+    "pos": "adv"
+  },
+  {
+    "id": "n5-0424",
+    "word": "こちら",
+    "reading": "こちら",
+    "meaning_zh": "这边；这位",
+    "meaning_en": "this way; this person (polite)",
+    "level": "N5",
+    "pos": "pron"
+  },
+  {
+    "id": "n5-0425",
+    "word": "そちら",
+    "reading": "そちら",
+    "meaning_zh": "那边；您那边",
+    "meaning_en": "that way; your side",
+    "level": "N5",
+    "pos": "pron"
+  },
+  {
+    "id": "n5-0426",
+    "word": "あちら",
+    "reading": "あちら",
+    "meaning_zh": "那边（远处）",
+    "meaning_en": "over there (polite)",
+    "level": "N5",
+    "pos": "pron"
+  },
+  {
+    "id": "n5-0427",
+    "word": "こんな",
+    "reading": "こんな",
+    "meaning_zh": "这样的",
+    "meaning_en": "this kind of",
+    "level": "N5",
+    "pos": "prenoun"
+  },
+  {
+    "id": "n5-0428",
+    "word": "そんな",
+    "reading": "そんな",
+    "meaning_zh": "那样的",
+    "meaning_en": "that kind of",
+    "level": "N5",
+    "pos": "prenoun"
+  },
+  {
+    "id": "n5-0429",
+    "word": "あんな",
+    "reading": "あんな",
+    "meaning_zh": "那样的（远处）",
+    "meaning_en": "that kind of (over there)",
+    "level": "N5",
+    "pos": "prenoun"
+  },
+  {
+    "id": "n5-0430",
+    "word": "こう",
+    "reading": "こう",
+    "meaning_zh": "这样",
+    "meaning_en": "like this; in this way",
+    "level": "N5",
+    "pos": "adv"
+  },
+  {
+    "id": "n5-0431",
+    "word": "そう",
+    "reading": "そう",
+    "meaning_zh": "那样；是的",
+    "meaning_en": "like that; so",
+    "level": "N5",
+    "pos": "adv"
+  },
+  {
+    "id": "n5-0432",
+    "word": "ああ",
+    "reading": "ああ",
+    "meaning_zh": "那样（远处）",
+    "meaning_en": "like that; in that way",
+    "level": "N5",
+    "pos": "adv"
+  },
+  {
+    "id": "n5-0433",
+    "word": "私たち",
+    "reading": "わたしたち",
+    "meaning_zh": "我们",
+    "meaning_en": "we; us",
+    "level": "N5",
+    "pos": "pron"
+  },
+  {
+    "id": "n5-0434",
+    "word": "皆さん",
+    "reading": "みなさん",
+    "meaning_zh": "大家；各位",
+    "meaning_en": "everyone (polite)",
+    "level": "N5",
+    "pos": "pron"
+  },
+  {
+    "id": "n5-0435",
+    "word": "みんな",
+    "reading": "みんな",
+    "meaning_zh": "大家；全部",
+    "meaning_en": "everyone; all",
+    "level": "N5",
+    "pos": "pron"
+  },
+  {
+    "id": "n5-0436",
+    "word": "同じ",
+    "reading": "おなじ",
+    "meaning_zh": "相同；一样",
+    "meaning_en": "same; identical",
+    "level": "N5",
+    "pos": "prenoun"
+  },
+  {
+    "id": "n5-0437",
+    "word": "ゼロ",
+    "reading": "ゼロ",
+    "meaning_zh": "零",
+    "meaning_en": "zero",
+    "level": "N5",
+    "pos": "num"
+  },
+  {
+    "id": "n5-0438",
+    "word": "四つ",
+    "reading": "よっつ",
+    "meaning_zh": "四个",
+    "meaning_en": "four (things)",
+    "level": "N5",
+    "pos": "num"
+  },
+  {
+    "id": "n5-0439",
+    "word": "五つ",
+    "reading": "いつつ",
+    "meaning_zh": "五个",
+    "meaning_en": "five (things)",
+    "level": "N5",
+    "pos": "num"
+  },
+  {
+    "id": "n5-0440",
+    "word": "六つ",
+    "reading": "むっつ",
+    "meaning_zh": "六个",
+    "meaning_en": "six (things)",
+    "level": "N5",
+    "pos": "num"
+  },
+  {
+    "id": "n5-0441",
+    "word": "七つ",
+    "reading": "ななつ",
+    "meaning_zh": "七个",
+    "meaning_en": "seven (things)",
+    "level": "N5",
+    "pos": "num"
+  },
+  {
+    "id": "n5-0442",
+    "word": "八つ",
+    "reading": "やっつ",
+    "meaning_zh": "八个",
+    "meaning_en": "eight (things)",
+    "level": "N5",
+    "pos": "num"
+  },
+  {
+    "id": "n5-0443",
+    "word": "九つ",
+    "reading": "ここのつ",
+    "meaning_zh": "九个",
+    "meaning_en": "nine (things)",
+    "level": "N5",
+    "pos": "num"
+  },
+  {
+    "id": "n5-0444",
+    "word": "二十歳",
+    "reading": "はたち",
+    "meaning_zh": "二十岁",
+    "meaning_en": "twenty years old",
+    "level": "N5",
+    "pos": "noun"
+  },
+  {
+    "id": "n5-0445",
+    "word": "一人",
+    "reading": "ひとり",
+    "meaning_zh": "一个人；独自",
+    "meaning_en": "one person; alone",
+    "level": "N5",
+    "pos": "noun"
+  },
+  {
+    "id": "n5-0446",
+    "word": "二人",
+    "reading": "ふたり",
+    "meaning_zh": "两个人",
+    "meaning_en": "two people",
+    "level": "N5",
+    "pos": "noun"
+  },
+  {
+    "id": "n5-0447",
+    "word": "半分",
+    "reading": "はんぶん",
+    "meaning_zh": "一半",
+    "meaning_en": "half",
+    "level": "N5",
+    "pos": "noun"
+  },
+  {
+    "id": "n5-0448",
+    "word": "番号",
+    "reading": "ばんごう",
+    "meaning_zh": "号码",
+    "meaning_en": "number (e.g. phone number)",
+    "level": "N5",
+    "pos": "noun"
+  },
+  {
+    "id": "n5-0449",
+    "word": "〜枚",
+    "reading": "まい",
+    "meaning_zh": "…张；…枚（薄平物量词）",
+    "meaning_en": "counter for flat objects",
+    "level": "N5",
+    "pos": "counter"
+  },
+  {
+    "id": "n5-0450",
+    "word": "〜台",
+    "reading": "だい",
+    "meaning_zh": "…台（机器、车辆量词）",
+    "meaning_en": "counter for machines and vehicles",
+    "level": "N5",
+    "pos": "counter"
+  },
+  {
+    "id": "n5-0451",
+    "word": "〜冊",
+    "reading": "さつ",
+    "meaning_zh": "…本；…册（书籍量词）",
+    "meaning_en": "counter for books",
+    "level": "N5",
+    "pos": "counter"
+  },
+  {
+    "id": "n5-0452",
+    "word": "〜匹",
+    "reading": "ひき",
+    "meaning_zh": "…只；…匹（小动物量词）",
+    "meaning_en": "counter for small animals",
+    "level": "N5",
+    "pos": "counter"
+  },
+  {
+    "id": "n5-0453",
+    "word": "〜杯",
+    "reading": "はい",
+    "meaning_zh": "…杯；…碗",
+    "meaning_en": "counter for cups and bowls",
+    "level": "N5",
+    "pos": "counter"
+  },
+  {
+    "id": "n5-0454",
+    "word": "〜階",
+    "reading": "かい",
+    "meaning_zh": "…层；…楼",
+    "meaning_en": "counter for floors",
+    "level": "N5",
+    "pos": "counter"
+  },
+  {
+    "id": "n5-0455",
+    "word": "〜番",
+    "reading": "ばん",
+    "meaning_zh": "…号；第…",
+    "meaning_en": "number (in a series)",
+    "level": "N5",
+    "pos": "counter"
+  },
+  {
+    "id": "n5-0456",
+    "word": "〜度",
+    "reading": "ど",
+    "meaning_zh": "…次；…度",
+    "meaning_en": "counter for times; degrees",
+    "level": "N5",
+    "pos": "counter"
+  },
+  {
+    "id": "n5-0457",
+    "word": "〜週間",
+    "reading": "しゅうかん",
+    "meaning_zh": "…周；…个星期",
+    "meaning_en": "counter for weeks",
+    "level": "N5",
+    "pos": "counter"
+  },
+  {
+    "id": "n5-0458",
+    "word": "〜か月",
+    "reading": "かげつ",
+    "meaning_zh": "…个月",
+    "meaning_en": "counter for months",
+    "level": "N5",
+    "pos": "counter"
+  },
+  {
+    "id": "n5-0459",
+    "word": "〜年",
+    "reading": "ねん",
+    "meaning_zh": "…年",
+    "meaning_en": "counter for years",
+    "level": "N5",
+    "pos": "counter"
+  },
+  {
+    "id": "n5-0460",
+    "word": "〜日",
+    "reading": "にち",
+    "meaning_zh": "…日；…号；…天",
+    "meaning_en": "counter for days; day of the month",
+    "level": "N5",
+    "pos": "counter"
+  },
+  {
+    "id": "n5-0461",
+    "word": "一月",
+    "reading": "いちがつ",
+    "meaning_zh": "一月",
+    "meaning_en": "January",
+    "level": "N5",
+    "pos": "noun"
+  },
+  {
+    "id": "n5-0462",
+    "word": "二月",
+    "reading": "にがつ",
+    "meaning_zh": "二月",
+    "meaning_en": "February",
+    "level": "N5",
+    "pos": "noun"
+  },
+  {
+    "id": "n5-0463",
+    "word": "三月",
+    "reading": "さんがつ",
+    "meaning_zh": "三月",
+    "meaning_en": "March",
+    "level": "N5",
+    "pos": "noun"
+  },
+  {
+    "id": "n5-0464",
+    "word": "四月",
+    "reading": "しがつ",
+    "meaning_zh": "四月",
+    "meaning_en": "April",
+    "level": "N5",
+    "pos": "noun"
+  },
+  {
+    "id": "n5-0465",
+    "word": "五月",
+    "reading": "ごがつ",
+    "meaning_zh": "五月",
+    "meaning_en": "May",
+    "level": "N5",
+    "pos": "noun"
+  },
+  {
+    "id": "n5-0466",
+    "word": "六月",
+    "reading": "ろくがつ",
+    "meaning_zh": "六月",
+    "meaning_en": "June",
+    "level": "N5",
+    "pos": "noun"
+  },
+  {
+    "id": "n5-0467",
+    "word": "七月",
+    "reading": "しちがつ",
+    "meaning_zh": "七月",
+    "meaning_en": "July",
+    "level": "N5",
+    "pos": "noun"
+  },
+  {
+    "id": "n5-0468",
+    "word": "八月",
+    "reading": "はちがつ",
+    "meaning_zh": "八月",
+    "meaning_en": "August",
+    "level": "N5",
+    "pos": "noun"
+  },
+  {
+    "id": "n5-0469",
+    "word": "九月",
+    "reading": "くがつ",
+    "meaning_zh": "九月",
+    "meaning_en": "September",
+    "level": "N5",
+    "pos": "noun"
+  },
+  {
+    "id": "n5-0470",
+    "word": "十月",
+    "reading": "じゅうがつ",
+    "meaning_zh": "十月",
+    "meaning_en": "October",
+    "level": "N5",
+    "pos": "noun"
+  },
+  {
+    "id": "n5-0471",
+    "word": "十一月",
+    "reading": "じゅういちがつ",
+    "meaning_zh": "十一月",
+    "meaning_en": "November",
+    "level": "N5",
+    "pos": "noun"
+  },
+  {
+    "id": "n5-0472",
+    "word": "十二月",
+    "reading": "じゅうにがつ",
+    "meaning_zh": "十二月",
+    "meaning_en": "December",
+    "level": "N5",
+    "pos": "noun"
+  },
+  {
+    "id": "n5-0473",
+    "word": "一昨日",
+    "reading": "おととい",
+    "meaning_zh": "前天",
+    "meaning_en": "day before yesterday",
+    "level": "N5",
+    "pos": "noun"
+  },
+  {
+    "id": "n5-0474",
+    "word": "明後日",
+    "reading": "あさって",
+    "meaning_zh": "后天",
+    "meaning_en": "day after tomorrow",
+    "level": "N5",
+    "pos": "noun"
+  },
+  {
+    "id": "n5-0475",
+    "word": "今朝",
+    "reading": "けさ",
+    "meaning_zh": "今天早上",
+    "meaning_en": "this morning",
+    "level": "N5",
+    "pos": "noun"
+  },
+  {
+    "id": "n5-0476",
+    "word": "今晩",
+    "reading": "こんばん",
+    "meaning_zh": "今晚",
+    "meaning_en": "tonight; this evening",
+    "level": "N5",
+    "pos": "noun"
+  },
+  {
+    "id": "n5-0477",
+    "word": "夕べ",
+    "reading": "ゆうべ",
+    "meaning_zh": "昨晚",
+    "meaning_en": "last night",
+    "level": "N5",
+    "pos": "noun"
+  },
+  {
+    "id": "n5-0478",
+    "word": "夕方",
+    "reading": "ゆうがた",
+    "meaning_zh": "傍晚",
+    "meaning_en": "evening; dusk",
+    "level": "N5",
+    "pos": "noun"
+  },
+  {
+    "id": "n5-0479",
+    "word": "晩",
+    "reading": "ばん",
+    "meaning_zh": "晚上",
+    "meaning_en": "evening; night",
+    "level": "N5",
+    "pos": "noun"
+  },
+  {
+    "id": "n5-0480",
+    "word": "毎朝",
+    "reading": "まいあさ",
+    "meaning_zh": "每天早上",
+    "meaning_en": "every morning",
+    "level": "N5",
+    "pos": "noun"
+  },
+  {
+    "id": "n5-0481",
+    "word": "毎晩",
+    "reading": "まいばん",
+    "meaning_zh": "每天晚上",
+    "meaning_en": "every night",
+    "level": "N5",
+    "pos": "noun"
+  },
+  {
+    "id": "n5-0482",
+    "word": "毎週",
+    "reading": "まいしゅう",
+    "meaning_zh": "每周",
+    "meaning_en": "every week",
+    "level": "N5",
+    "pos": "noun"
+  },
+  {
+    "id": "n5-0483",
+    "word": "毎月",
+    "reading": "まいつき",
+    "meaning_zh": "每月",
+    "meaning_en": "every month",
+    "level": "N5",
+    "pos": "noun"
+  },
+  {
+    "id": "n5-0484",
+    "word": "毎年",
+    "reading": "まいとし",
+    "meaning_zh": "每年",
+    "meaning_en": "every year",
+    "level": "N5",
+    "pos": "noun"
+  },
+  {
+    "id": "n5-0485",
+    "word": "週末",
+    "reading": "しゅうまつ",
+    "meaning_zh": "周末",
+    "meaning_en": "weekend",
+    "level": "N5",
+    "pos": "noun"
+  },
+  {
+    "id": "n5-0486",
+    "word": "半",
+    "reading": "はん",
+    "meaning_zh": "半；一半",
+    "meaning_en": "half (e.g. half past)",
+    "level": "N5",
+    "pos": "noun"
+  },
+  {
+    "id": "n5-0487",
+    "word": "夏休み",
+    "reading": "なつやすみ",
+    "meaning_zh": "暑假",
+    "meaning_en": "summer vacation",
+    "level": "N5",
+    "pos": "noun"
+  },
+  {
+    "id": "n5-0488",
+    "word": "昼休み",
+    "reading": "ひるやすみ",
+    "meaning_zh": "午休",
+    "meaning_en": "lunch break",
+    "level": "N5",
+    "pos": "noun"
+  },
+  {
+    "id": "n5-0489",
+    "word": "次",
+    "reading": "つぎ",
+    "meaning_zh": "下一个；其次",
+    "meaning_en": "next",
+    "level": "N5",
+    "pos": "noun"
+  },
+  {
+    "id": "n5-0490",
+    "word": "今度",
+    "reading": "こんど",
+    "meaning_zh": "这次；下次",
+    "meaning_en": "this time; next time",
+    "level": "N5",
+    "pos": "noun"
+  },
+  {
+    "id": "n5-0491",
+    "word": "カレンダー",
+    "reading": "カレンダー",
+    "meaning_zh": "日历",
+    "meaning_en": "calendar",
+    "level": "N5",
+    "pos": "noun"
+  },
+  {
+    "id": "n5-0492",
+    "word": "おじさん",
+    "reading": "おじさん",
+    "meaning_zh": "叔叔；伯伯；大叔",
+    "meaning_en": "uncle; middle-aged man",
+    "level": "N5",
+    "pos": "noun"
+  },
+  {
+    "id": "n5-0493",
+    "word": "おばさん",
+    "reading": "おばさん",
+    "meaning_zh": "阿姨；伯母",
+    "meaning_en": "aunt; middle-aged woman",
+    "level": "N5",
+    "pos": "noun"
+  },
+  {
+    "id": "n5-0494",
+    "word": "奥さん",
+    "reading": "おくさん",
+    "meaning_zh": "（别人的）妻子；夫人",
+    "meaning_en": "(someone else's) wife",
+    "level": "N5",
+    "pos": "noun"
+  },
+  {
+    "id": "n5-0495",
+    "word": "ご主人",
+    "reading": "ごしゅじん",
+    "meaning_zh": "（别人的）丈夫",
+    "meaning_en": "(someone else's) husband",
+    "level": "N5",
+    "pos": "noun"
+  },
+  {
+    "id": "n5-0496",
+    "word": "息子",
+    "reading": "むすこ",
+    "meaning_zh": "儿子",
+    "meaning_en": "son",
+    "level": "N5",
+    "pos": "noun"
+  },
+  {
+    "id": "n5-0497",
+    "word": "娘",
+    "reading": "むすめ",
+    "meaning_zh": "女儿",
+    "meaning_en": "daughter",
+    "level": "N5",
+    "pos": "noun"
+  },
+  {
+    "id": "n5-0498",
+    "word": "外国人",
+    "reading": "がいこくじん",
+    "meaning_zh": "外国人",
+    "meaning_en": "foreigner",
+    "level": "N5",
+    "pos": "noun"
+  },
+  {
+    "id": "n5-0499",
+    "word": "大勢",
+    "reading": "おおぜい",
+    "meaning_zh": "许多人",
+    "meaning_en": "many people; a crowd",
+    "level": "N5",
+    "pos": "noun"
+  },
+  {
+    "id": "n5-0500",
+    "word": "会社員",
+    "reading": "かいしゃいん",
+    "meaning_zh": "公司职员",
+    "meaning_en": "company employee",
+    "level": "N5",
+    "pos": "noun"
+  },
+  {
+    "id": "n5-0501",
+    "word": "店員",
+    "reading": "てんいん",
+    "meaning_zh": "店员",
+    "meaning_en": "shop clerk",
+    "level": "N5",
+    "pos": "noun"
+  },
+  {
+    "id": "n5-0502",
+    "word": "生徒",
+    "reading": "せいと",
+    "meaning_zh": "（中小学）学生",
+    "meaning_en": "pupil; student",
+    "level": "N5",
+    "pos": "noun"
+  },
+  {
+    "id": "n5-0503",
+    "word": "留学生",
+    "reading": "りゅうがくせい",
+    "meaning_zh": "留学生",
+    "meaning_en": "international student",
+    "level": "N5",
+    "pos": "noun"
+  },
+  {
+    "id": "n5-0504",
+    "word": "歯医者",
+    "reading": "はいしゃ",
+    "meaning_zh": "牙医",
+    "meaning_en": "dentist",
+    "level": "N5",
+    "pos": "noun"
+  },
+  {
+    "id": "n5-0505",
+    "word": "鼻",
+    "reading": "はな",
+    "meaning_zh": "鼻子",
+    "meaning_en": "nose",
+    "level": "N5",
+    "pos": "noun"
+  },
+  {
+    "id": "n5-0506",
+    "word": "歯",
+    "reading": "は",
+    "meaning_zh": "牙齿",
+    "meaning_en": "tooth",
+    "level": "N5",
+    "pos": "noun"
+  },
+  {
+    "id": "n5-0507",
+    "word": "髪",
+    "reading": "かみ",
+    "meaning_zh": "头发",
+    "meaning_en": "hair",
+    "level": "N5",
+    "pos": "noun"
+  },
+  {
+    "id": "n5-0508",
+    "word": "背",
+    "reading": "せ",
+    "meaning_zh": "个子；背",
+    "meaning_en": "height; back (of body)",
+    "level": "N5",
+    "pos": "noun"
+  },
+  {
+    "id": "n5-0509",
+    "word": "声",
+    "reading": "こえ",
+    "meaning_zh": "（人的）声音",
+    "meaning_en": "voice",
+    "level": "N5",
+    "pos": "noun"
+  },
+  {
+    "id": "n5-0510",
+    "word": "熱",
+    "reading": "ねつ",
+    "meaning_zh": "发烧；热",
+    "meaning_en": "fever; heat",
+    "level": "N5",
+    "pos": "noun"
+  },
+  {
+    "id": "n5-0511",
+    "word": "ズボン",
+    "reading": "ズボン",
+    "meaning_zh": "裤子",
+    "meaning_en": "trousers; pants",
+    "level": "N5",
+    "pos": "noun"
+  },
+  {
+    "id": "n5-0512",
+    "word": "スカート",
+    "reading": "スカート",
+    "meaning_zh": "裙子",
+    "meaning_en": "skirt",
+    "level": "N5",
+    "pos": "noun"
+  },
+  {
+    "id": "n5-0513",
+    "word": "コート",
+    "reading": "コート",
+    "meaning_zh": "大衣；外套",
+    "meaning_en": "coat",
+    "level": "N5",
+    "pos": "noun"
+  },
+  {
+    "id": "n5-0514",
+    "word": "セーター",
+    "reading": "セーター",
+    "meaning_zh": "毛衣",
+    "meaning_en": "sweater",
+    "level": "N5",
+    "pos": "noun"
+  },
+  {
+    "id": "n5-0515",
+    "word": "帽子",
+    "reading": "ぼうし",
+    "meaning_zh": "帽子",
+    "meaning_en": "hat; cap",
+    "level": "N5",
+    "pos": "noun"
+  },
+  {
+    "id": "n5-0516",
+    "word": "眼鏡",
+    "reading": "めがね",
+    "meaning_zh": "眼镜",
+    "meaning_en": "glasses",
+    "level": "N5",
+    "pos": "noun"
+  },
+  {
+    "id": "n5-0517",
+    "word": "ポケット",
+    "reading": "ポケット",
+    "meaning_zh": "口袋",
+    "meaning_en": "pocket",
+    "level": "N5",
+    "pos": "noun"
+  },
+  {
+    "id": "n5-0518",
+    "word": "ハンカチ",
+    "reading": "ハンカチ",
+    "meaning_zh": "手帕",
+    "meaning_en": "handkerchief",
+    "level": "N5",
+    "pos": "noun"
+  },
+  {
+    "id": "n5-0519",
+    "word": "ネクタイ",
+    "reading": "ネクタイ",
+    "meaning_zh": "领带",
+    "meaning_en": "necktie",
+    "level": "N5",
+    "pos": "noun"
+  },
+  {
+    "id": "n5-0520",
+    "word": "ワイシャツ",
+    "reading": "ワイシャツ",
+    "meaning_zh": "（男式）衬衫",
+    "meaning_en": "dress shirt",
+    "level": "N5",
+    "pos": "noun"
+  },
+  {
+    "id": "n5-0521",
+    "word": "上着",
+    "reading": "うわぎ",
+    "meaning_zh": "上衣；外套",
+    "meaning_en": "jacket; outerwear",
+    "level": "N5",
+    "pos": "noun"
+  },
+  {
+    "id": "n5-0522",
+    "word": "靴下",
+    "reading": "くつした",
+    "meaning_zh": "袜子",
+    "meaning_en": "socks",
+    "level": "N5",
+    "pos": "noun"
+  },
+  {
+    "id": "n5-0523",
+    "word": "スリッパ",
+    "reading": "スリッパ",
+    "meaning_zh": "拖鞋",
+    "meaning_en": "slippers",
+    "level": "N5",
+    "pos": "noun"
+  },
+  {
+    "id": "n5-0524",
+    "word": "ボタン",
+    "reading": "ボタン",
+    "meaning_zh": "纽扣；按钮",
+    "meaning_en": "button",
+    "level": "N5",
+    "pos": "noun"
+  },
+  {
+    "id": "n5-0525",
+    "word": "財布",
+    "reading": "さいふ",
+    "meaning_zh": "钱包",
+    "meaning_en": "wallet; purse",
+    "level": "N5",
+    "pos": "noun"
+  },
+  {
+    "id": "n5-0526",
+    "word": "白",
+    "reading": "しろ",
+    "meaning_zh": "白色",
+    "meaning_en": "white",
+    "level": "N5",
+    "pos": "noun"
+  },
+  {
+    "id": "n5-0527",
+    "word": "黒",
+    "reading": "くろ",
+    "meaning_zh": "黑色",
+    "meaning_en": "black",
+    "level": "N5",
+    "pos": "noun"
+  },
+  {
+    "id": "n5-0528",
+    "word": "赤",
+    "reading": "あか",
+    "meaning_zh": "红色",
+    "meaning_en": "red",
+    "level": "N5",
+    "pos": "noun"
+  },
+  {
+    "id": "n5-0529",
+    "word": "青",
+    "reading": "あお",
+    "meaning_zh": "蓝色；青色",
+    "meaning_en": "blue",
+    "level": "N5",
+    "pos": "noun"
+  },
+  {
+    "id": "n5-0530",
+    "word": "白い",
+    "reading": "しろい",
+    "meaning_zh": "白的",
+    "meaning_en": "white",
+    "level": "N5",
+    "pos": "i-adj"
+  },
+  {
+    "id": "n5-0531",
+    "word": "黒い",
+    "reading": "くろい",
+    "meaning_zh": "黑的",
+    "meaning_en": "black",
+    "level": "N5",
+    "pos": "i-adj"
+  },
+  {
+    "id": "n5-0532",
+    "word": "赤い",
+    "reading": "あかい",
+    "meaning_zh": "红的",
+    "meaning_en": "red",
+    "level": "N5",
+    "pos": "i-adj"
+  },
+  {
+    "id": "n5-0533",
+    "word": "青い",
+    "reading": "あおい",
+    "meaning_zh": "蓝的；青的",
+    "meaning_en": "blue",
+    "level": "N5",
+    "pos": "i-adj"
+  },
+  {
+    "id": "n5-0534",
+    "word": "黄色",
+    "reading": "きいろ",
+    "meaning_zh": "黄色",
+    "meaning_en": "yellow",
+    "level": "N5",
+    "pos": "noun"
+  },
+  {
+    "id": "n5-0535",
+    "word": "黄色い",
+    "reading": "きいろい",
+    "meaning_zh": "黄的",
+    "meaning_en": "yellow",
+    "level": "N5",
+    "pos": "i-adj"
+  },
+  {
+    "id": "n5-0536",
+    "word": "茶色",
+    "reading": "ちゃいろ",
+    "meaning_zh": "棕色；茶色",
+    "meaning_en": "brown",
+    "level": "N5",
+    "pos": "noun"
+  },
+  {
+    "id": "n5-0537",
+    "word": "緑",
+    "reading": "みどり",
+    "meaning_zh": "绿色",
+    "meaning_en": "green",
+    "level": "N5",
+    "pos": "noun"
+  },
+  {
+    "id": "n5-0538",
+    "word": "曇り",
+    "reading": "くもり",
+    "meaning_zh": "阴天",
+    "meaning_en": "cloudy weather",
+    "level": "N5",
+    "pos": "noun"
+  },
+  {
+    "id": "n5-0539",
+    "word": "池",
+    "reading": "いけ",
+    "meaning_zh": "池塘",
+    "meaning_en": "pond",
+    "level": "N5",
+    "pos": "noun"
+  },
+  {
+    "id": "n5-0540",
+    "word": "庭",
+    "reading": "にわ",
+    "meaning_zh": "院子；庭院",
+    "meaning_en": "garden; yard",
+    "level": "N5",
+    "pos": "noun"
+  },
+  {
+    "id": "n5-0541",
+    "word": "月",
+    "reading": "つき",
+    "meaning_zh": "月亮；月份",
+    "meaning_en": "moon; month",
+    "level": "N5",
+    "pos": "noun"
+  },
+  {
+    "id": "n5-0542",
+    "word": "動物",
+    "reading": "どうぶつ",
+    "meaning_zh": "动物",
+    "meaning_en": "animal",
+    "level": "N5",
+    "pos": "noun"
+  },
+  {
+    "id": "n5-0543",
+    "word": "動物園",
+    "reading": "どうぶつえん",
+    "meaning_zh": "动物园",
+    "meaning_en": "zoo",
+    "level": "N5",
+    "pos": "noun"
+  },
+  {
+    "id": "n5-0544",
+    "word": "間",
+    "reading": "あいだ",
+    "meaning_zh": "之间；期间",
+    "meaning_en": "between; during",
+    "level": "N5",
+    "pos": "noun"
+  },
+  {
+    "id": "n5-0545",
+    "word": "横",
+    "reading": "よこ",
+    "meaning_zh": "旁边；横",
+    "meaning_en": "side; beside",
+    "level": "N5",
+    "pos": "noun"
+  },
+  {
+    "id": "n5-0546",
+    "word": "そば",
+    "reading": "そば",
+    "meaning_zh": "旁边；附近",
+    "meaning_en": "near; beside",
+    "level": "N5",
+    "pos": "noun"
+  },
+  {
+    "id": "n5-0547",
+    "word": "向こう",
+    "reading": "むこう",
+    "meaning_zh": "对面；那边",
+    "meaning_en": "over there; the other side",
+    "level": "N5",
+    "pos": "noun"
+  },
+  {
+    "id": "n5-0548",
+    "word": "角",
+    "reading": "かど",
+    "meaning_zh": "拐角；角落",
+    "meaning_en": "corner",
+    "level": "N5",
+    "pos": "noun"
+  },
+  {
+    "id": "n5-0549",
+    "word": "塩",
+    "reading": "しお",
+    "meaning_zh": "盐",
+    "meaning_en": "salt",
+    "level": "N5",
+    "pos": "noun"
+  },
+  {
+    "id": "n5-0550",
+    "word": "砂糖",
+    "reading": "さとう",
+    "meaning_zh": "糖；砂糖",
+    "meaning_en": "sugar",
+    "level": "N5",
+    "pos": "noun"
+  },
+  {
+    "id": "n5-0551",
+    "word": "醤油",
+    "reading": "しょうゆ",
+    "meaning_zh": "酱油",
+    "meaning_en": "soy sauce",
+    "level": "N5",
+    "pos": "noun"
+  },
+  {
+    "id": "n5-0552",
+    "word": "お弁当",
+    "reading": "おべんとう",
+    "meaning_zh": "便当；盒饭",
+    "meaning_en": "boxed lunch",
+    "level": "N5",
+    "pos": "noun"
+  },
+  {
+    "id": "n5-0553",
+    "word": "お菓子",
+    "reading": "おかし",
+    "meaning_zh": "点心；零食",
+    "meaning_en": "sweets; snacks",
+    "level": "N5",
+    "pos": "noun"
+  },
+  {
+    "id": "n5-0554",
+    "word": "バター",
+    "reading": "バター",
+    "meaning_zh": "黄油",
+    "meaning_en": "butter",
+    "level": "N5",
+    "pos": "noun"
+  },
+  {
+    "id": "n5-0555",
+    "word": "チョコレート",
+    "reading": "チョコレート",
+    "meaning_zh": "巧克力",
+    "meaning_en": "chocolate",
+    "level": "N5",
+    "pos": "noun"
+  },
+  {
+    "id": "n5-0556",
+    "word": "ケーキ",
+    "reading": "ケーキ",
+    "meaning_zh": "蛋糕",
+    "meaning_en": "cake",
+    "level": "N5",
+    "pos": "noun"
+  },
+  {
+    "id": "n5-0557",
+    "word": "アイスクリーム",
+    "reading": "アイスクリーム",
+    "meaning_zh": "冰淇淋",
+    "meaning_en": "ice cream",
+    "level": "N5",
+    "pos": "noun"
+  },
+  {
+    "id": "n5-0558",
+    "word": "サンドイッチ",
+    "reading": "サンドイッチ",
+    "meaning_zh": "三明治",
+    "meaning_en": "sandwich",
+    "level": "N5",
+    "pos": "noun"
+  },
+  {
+    "id": "n5-0559",
+    "word": "カレー",
+    "reading": "カレー",
+    "meaning_zh": "咖喱",
+    "meaning_en": "curry",
+    "level": "N5",
+    "pos": "noun"
+  },
+  {
+    "id": "n5-0560",
+    "word": "ラーメン",
+    "reading": "ラーメン",
+    "meaning_zh": "拉面",
+    "meaning_en": "ramen",
+    "level": "N5",
+    "pos": "noun"
+  },
+  {
+    "id": "n5-0561",
+    "word": "サラダ",
+    "reading": "サラダ",
+    "meaning_zh": "沙拉",
+    "meaning_en": "salad",
+    "level": "N5",
+    "pos": "noun"
+  },
+  {
+    "id": "n5-0562",
+    "word": "スープ",
+    "reading": "スープ",
+    "meaning_zh": "汤",
+    "meaning_en": "soup",
+    "level": "N5",
+    "pos": "noun"
+  },
+  {
+    "id": "n5-0563",
+    "word": "紅茶",
+    "reading": "こうちゃ",
+    "meaning_zh": "红茶",
+    "meaning_en": "black tea",
+    "level": "N5",
+    "pos": "noun"
+  },
+  {
+    "id": "n5-0564",
+    "word": "豚肉",
+    "reading": "ぶたにく",
+    "meaning_zh": "猪肉",
+    "meaning_en": "pork",
+    "level": "N5",
+    "pos": "noun"
+  },
+  {
+    "id": "n5-0565",
+    "word": "牛肉",
+    "reading": "ぎゅうにく",
+    "meaning_zh": "牛肉",
+    "meaning_en": "beef",
+    "level": "N5",
+    "pos": "noun"
+  },
+  {
+    "id": "n5-0566",
+    "word": "鶏肉",
+    "reading": "とりにく",
+    "meaning_zh": "鸡肉",
+    "meaning_en": "chicken (meat)",
+    "level": "N5",
+    "pos": "noun"
+  },
+  {
+    "id": "n5-0567",
+    "word": "バナナ",
+    "reading": "バナナ",
+    "meaning_zh": "香蕉",
+    "meaning_en": "banana",
+    "level": "N5",
+    "pos": "noun"
+  },
+  {
+    "id": "n5-0568",
+    "word": "みかん",
+    "reading": "みかん",
+    "meaning_zh": "橘子",
+    "meaning_en": "mandarin orange",
+    "level": "N5",
+    "pos": "noun"
+  },
+  {
+    "id": "n5-0569",
+    "word": "トマト",
+    "reading": "トマト",
+    "meaning_zh": "西红柿",
+    "meaning_en": "tomato",
+    "level": "N5",
+    "pos": "noun"
+  },
+  {
+    "id": "n5-0570",
+    "word": "コップ",
+    "reading": "コップ",
+    "meaning_zh": "杯子；玻璃杯",
+    "meaning_en": "glass; cup",
+    "level": "N5",
+    "pos": "noun"
+  },
+  {
+    "id": "n5-0571",
+    "word": "皿",
+    "reading": "さら",
+    "meaning_zh": "盘子；碟子",
+    "meaning_en": "plate; dish",
+    "level": "N5",
+    "pos": "noun"
+  },
+  {
+    "id": "n5-0572",
+    "word": "茶碗",
+    "reading": "ちゃわん",
+    "meaning_zh": "饭碗；茶碗",
+    "meaning_en": "rice bowl; teacup",
+    "level": "N5",
+    "pos": "noun"
+  },
+  {
+    "id": "n5-0573",
+    "word": "箸",
+    "reading": "はし",
+    "meaning_zh": "筷子",
+    "meaning_en": "chopsticks",
+    "level": "N5",
+    "pos": "noun"
+  },
+  {
+    "id": "n5-0574",
+    "word": "スプーン",
+    "reading": "スプーン",
+    "meaning_zh": "勺子",
+    "meaning_en": "spoon",
+    "level": "N5",
+    "pos": "noun"
+  },
+  {
+    "id": "n5-0575",
+    "word": "フォーク",
+    "reading": "フォーク",
+    "meaning_zh": "叉子",
+    "meaning_en": "fork",
+    "level": "N5",
+    "pos": "noun"
+  },
+  {
+    "id": "n5-0576",
+    "word": "ナイフ",
+    "reading": "ナイフ",
+    "meaning_zh": "刀；餐刀",
+    "meaning_en": "knife",
+    "level": "N5",
+    "pos": "noun"
+  },
+  {
+    "id": "n5-0577",
+    "word": "消しゴム",
+    "reading": "けしゴム",
+    "meaning_zh": "橡皮",
+    "meaning_en": "eraser",
+    "level": "N5",
+    "pos": "noun"
+  },
+  {
+    "id": "n5-0578",
+    "word": "ボールペン",
+    "reading": "ボールペン",
+    "meaning_zh": "圆珠笔",
+    "meaning_en": "ballpoint pen",
+    "level": "N5",
+    "pos": "noun"
+  },
+  {
+    "id": "n5-0579",
+    "word": "黒板",
+    "reading": "こくばん",
+    "meaning_zh": "黑板",
+    "meaning_en": "blackboard",
+    "level": "N5",
+    "pos": "noun"
+  },
+  {
+    "id": "n5-0580",
+    "word": "地図",
+    "reading": "ちず",
+    "meaning_zh": "地图",
+    "meaning_en": "map",
+    "level": "N5",
+    "pos": "noun"
+  },
+  {
+    "id": "n5-0581",
+    "word": "字",
+    "reading": "じ",
+    "meaning_zh": "字",
+    "meaning_en": "character; letter; handwriting",
+    "level": "N5",
+    "pos": "noun"
+  },
+  {
+    "id": "n5-0582",
+    "word": "言葉",
+    "reading": "ことば",
+    "meaning_zh": "语言；词语",
+    "meaning_en": "word; language",
+    "level": "N5",
+    "pos": "noun"
+  },
+  {
+    "id": "n5-0583",
+    "word": "意味",
+    "reading": "いみ",
+    "meaning_zh": "意思；意义",
+    "meaning_en": "meaning",
+    "level": "N5",
+    "pos": "noun"
+  },
+  {
+    "id": "n5-0584",
+    "word": "作文",
+    "reading": "さくぶん",
+    "meaning_zh": "作文",
+    "meaning_en": "composition; essay",
+    "level": "N5",
+    "pos": "noun"
+  },
+  {
+    "id": "n5-0585",
+    "word": "テスト",
+    "reading": "テスト",
+    "meaning_zh": "测验；考试",
+    "meaning_en": "test",
+    "level": "N5",
+    "pos": "noun"
+  },
+  {
+    "id": "n5-0586",
+    "word": "クラス",
+    "reading": "クラス",
+    "meaning_zh": "班级；班",
+    "meaning_en": "class",
+    "level": "N5",
+    "pos": "noun"
+  },
+  {
+    "id": "n5-0587",
+    "word": "漢字",
+    "reading": "かんじ",
+    "meaning_zh": "汉字",
+    "meaning_en": "kanji; Chinese character",
+    "level": "N5",
+    "pos": "noun"
+  },
+  {
+    "id": "n5-0588",
+    "word": "ひらがな",
+    "reading": "ひらがな",
+    "meaning_zh": "平假名",
+    "meaning_en": "hiragana",
+    "level": "N5",
+    "pos": "noun"
+  },
+  {
+    "id": "n5-0589",
+    "word": "カタカナ",
+    "reading": "カタカナ",
+    "meaning_zh": "片假名",
+    "meaning_en": "katakana",
+    "level": "N5",
+    "pos": "noun"
+  },
+  {
+    "id": "n5-0590",
+    "word": "練習",
+    "reading": "れんしゅう",
+    "meaning_zh": "练习",
+    "meaning_en": "practice",
+    "level": "N5",
+    "pos": "noun"
+  },
+  {
+    "id": "n5-0591",
+    "word": "ページ",
+    "reading": "ページ",
+    "meaning_zh": "页",
+    "meaning_en": "page",
+    "level": "N5",
+    "pos": "noun"
+  },
+  {
+    "id": "n5-0592",
+    "word": "絵",
+    "reading": "え",
+    "meaning_zh": "画；图画",
+    "meaning_en": "picture; painting",
+    "level": "N5",
+    "pos": "noun"
+  },
+  {
+    "id": "n5-0593",
+    "word": "雑誌",
+    "reading": "ざっし",
+    "meaning_zh": "杂志",
+    "meaning_en": "magazine",
+    "level": "N5",
+    "pos": "noun"
+  },
+  {
+    "id": "n5-0594",
+    "word": "ニュース",
+    "reading": "ニュース",
+    "meaning_zh": "新闻",
+    "meaning_en": "news",
+    "level": "N5",
+    "pos": "noun"
+  },
+  {
+    "id": "n5-0595",
+    "word": "話",
+    "reading": "はなし",
+    "meaning_zh": "话；谈话；故事",
+    "meaning_en": "talk; conversation; story",
+    "level": "N5",
+    "pos": "noun"
+  },
+  {
+    "id": "n5-0596",
+    "word": "音",
+    "reading": "おと",
+    "meaning_zh": "声音；声响",
+    "meaning_en": "sound",
+    "level": "N5",
+    "pos": "noun"
+  },
+  {
+    "id": "n5-0597",
+    "word": "玄関",
+    "reading": "げんかん",
+    "meaning_zh": "门口；玄关",
+    "meaning_en": "entrance; front door",
+    "level": "N5",
+    "pos": "noun"
+  },
+  {
+    "id": "n5-0598",
+    "word": "階段",
+    "reading": "かいだん",
+    "meaning_zh": "楼梯",
+    "meaning_en": "stairs",
+    "level": "N5",
+    "pos": "noun"
+  },
+  {
+    "id": "n5-0599",
+    "word": "本棚",
+    "reading": "ほんだな",
+    "meaning_zh": "书架",
+    "meaning_en": "bookshelf",
+    "level": "N5",
+    "pos": "noun"
+  },
+  {
+    "id": "n5-0600",
+    "word": "冷蔵庫",
+    "reading": "れいぞうこ",
+    "meaning_zh": "冰箱",
+    "meaning_en": "refrigerator",
+    "level": "N5",
+    "pos": "noun"
+  },
+  {
+    "id": "n5-0601",
+    "word": "電気",
+    "reading": "でんき",
+    "meaning_zh": "电；电灯",
+    "meaning_en": "electricity; electric light",
+    "level": "N5",
+    "pos": "noun"
+  },
+  {
+    "id": "n5-0602",
+    "word": "ラジオ",
+    "reading": "ラジオ",
+    "meaning_zh": "收音机",
+    "meaning_en": "radio",
+    "level": "N5",
+    "pos": "noun"
+  },
+  {
+    "id": "n5-0603",
+    "word": "押し入れ",
+    "reading": "おしいれ",
+    "meaning_zh": "壁橱",
+    "meaning_en": "closet (Japanese-style)",
+    "level": "N5",
+    "pos": "noun"
+  },
+  {
+    "id": "n5-0604",
+    "word": "アパート",
+    "reading": "アパート",
+    "meaning_zh": "公寓",
+    "meaning_en": "apartment",
+    "level": "N5",
+    "pos": "noun"
+  },
+  {
+    "id": "n5-0605",
+    "word": "ビル",
+    "reading": "ビル",
+    "meaning_zh": "大楼",
+    "meaning_en": "building",
+    "level": "N5",
+    "pos": "noun"
+  },
+  {
+    "id": "n5-0606",
+    "word": "エレベーター",
+    "reading": "エレベーター",
+    "meaning_zh": "电梯",
+    "meaning_en": "elevator",
+    "level": "N5",
+    "pos": "noun"
+  },
+  {
+    "id": "n5-0607",
+    "word": "箱",
+    "reading": "はこ",
+    "meaning_zh": "箱子；盒子",
+    "meaning_en": "box",
+    "level": "N5",
+    "pos": "noun"
+  },
+  {
+    "id": "n5-0608",
+    "word": "石鹸",
+    "reading": "せっけん",
+    "meaning_zh": "肥皂",
+    "meaning_en": "soap",
+    "level": "N5",
+    "pos": "noun"
+  },
+  {
+    "id": "n5-0609",
+    "word": "タオル",
+    "reading": "タオル",
+    "meaning_zh": "毛巾",
+    "meaning_en": "towel",
+    "level": "N5",
+    "pos": "noun"
+  },
+  {
+    "id": "n5-0610",
+    "word": "お手洗い",
+    "reading": "おてあらい",
+    "meaning_zh": "洗手间",
+    "meaning_en": "restroom; bathroom",
+    "level": "N5",
+    "pos": "noun"
+  },
+  {
+    "id": "n5-0611",
+    "word": "映画館",
+    "reading": "えいがかん",
+    "meaning_zh": "电影院",
+    "meaning_en": "movie theater",
+    "level": "N5",
+    "pos": "noun"
+  },
+  {
+    "id": "n5-0612",
+    "word": "喫茶店",
+    "reading": "きっさてん",
+    "meaning_zh": "咖啡馆",
+    "meaning_en": "coffee shop; cafe",
+    "level": "N5",
+    "pos": "noun"
+  },
+  {
+    "id": "n5-0613",
+    "word": "本屋",
+    "reading": "ほんや",
+    "meaning_zh": "书店",
+    "meaning_en": "bookstore",
+    "level": "N5",
+    "pos": "noun"
+  },
+  {
+    "id": "n5-0614",
+    "word": "八百屋",
+    "reading": "やおや",
+    "meaning_zh": "蔬菜店",
+    "meaning_en": "greengrocer",
+    "level": "N5",
+    "pos": "noun"
+  },
+  {
+    "id": "n5-0615",
+    "word": "花屋",
+    "reading": "はなや",
+    "meaning_zh": "花店",
+    "meaning_en": "flower shop",
+    "level": "N5",
+    "pos": "noun"
+  },
+  {
+    "id": "n5-0616",
+    "word": "交番",
+    "reading": "こうばん",
+    "meaning_zh": "派出所；岗亭",
+    "meaning_en": "police box",
+    "level": "N5",
+    "pos": "noun"
+  },
+  {
+    "id": "n5-0617",
+    "word": "大使館",
+    "reading": "たいしかん",
+    "meaning_zh": "大使馆",
+    "meaning_en": "embassy",
+    "level": "N5",
+    "pos": "noun"
+  },
+  {
+    "id": "n5-0618",
+    "word": "プール",
+    "reading": "プール",
+    "meaning_zh": "游泳池",
+    "meaning_en": "swimming pool",
+    "level": "N5",
+    "pos": "noun"
+  },
+  {
+    "id": "n5-0619",
+    "word": "空港",
+    "reading": "くうこう",
+    "meaning_zh": "机场",
+    "meaning_en": "airport",
+    "level": "N5",
+    "pos": "noun"
+  },
+  {
+    "id": "n5-0620",
+    "word": "橋",
+    "reading": "はし",
+    "meaning_zh": "桥",
+    "meaning_en": "bridge",
+    "level": "N5",
+    "pos": "noun"
+  },
+  {
+    "id": "n5-0621",
+    "word": "交差点",
+    "reading": "こうさてん",
+    "meaning_zh": "十字路口",
+    "meaning_en": "intersection",
+    "level": "N5",
+    "pos": "noun"
+  },
+  {
+    "id": "n5-0622",
+    "word": "信号",
+    "reading": "しんごう",
+    "meaning_zh": "红绿灯；信号",
+    "meaning_en": "traffic light; signal",
+    "level": "N5",
+    "pos": "noun"
+  },
+  {
+    "id": "n5-0623",
+    "word": "地下鉄",
+    "reading": "ちかてつ",
+    "meaning_zh": "地铁",
+    "meaning_en": "subway",
+    "level": "N5",
+    "pos": "noun"
+  },
+  {
+    "id": "n5-0624",
+    "word": "切符",
+    "reading": "きっぷ",
+    "meaning_zh": "车票；票",
+    "meaning_en": "ticket",
+    "level": "N5",
+    "pos": "noun"
+  },
+  {
+    "id": "n5-0625",
+    "word": "切手",
+    "reading": "きって",
+    "meaning_zh": "邮票",
+    "meaning_en": "postage stamp",
+    "level": "N5",
+    "pos": "noun"
+  },
+  {
+    "id": "n5-0626",
+    "word": "葉書",
+    "reading": "はがき",
+    "meaning_zh": "明信片",
+    "meaning_en": "postcard",
+    "level": "N5",
+    "pos": "noun"
+  },
+  {
+    "id": "n5-0627",
+    "word": "封筒",
+    "reading": "ふうとう",
+    "meaning_zh": "信封",
+    "meaning_en": "envelope",
+    "level": "N5",
+    "pos": "noun"
+  },
+  {
+    "id": "n5-0628",
+    "word": "荷物",
+    "reading": "にもつ",
+    "meaning_zh": "行李；包裹",
+    "meaning_en": "luggage; baggage",
+    "level": "N5",
+    "pos": "noun"
+  },
+  {
+    "id": "n5-0629",
+    "word": "コンビニ",
+    "reading": "コンビニ",
+    "meaning_zh": "便利店",
+    "meaning_en": "convenience store",
+    "level": "N5",
+    "pos": "noun"
+  },
+  {
+    "id": "n5-0630",
+    "word": "食堂",
+    "reading": "しょくどう",
+    "meaning_zh": "食堂；餐馆",
+    "meaning_en": "dining hall; cafeteria",
+    "level": "N5",
+    "pos": "noun"
+  },
+  {
+    "id": "n5-0631",
+    "word": "入り口",
+    "reading": "いりぐち",
+    "meaning_zh": "入口",
+    "meaning_en": "entrance",
+    "level": "N5",
+    "pos": "noun"
+  },
+  {
+    "id": "n5-0632",
+    "word": "出口",
+    "reading": "でぐち",
+    "meaning_zh": "出口",
+    "meaning_en": "exit",
+    "level": "N5",
+    "pos": "noun"
+  },
+  {
+    "id": "n5-0633",
+    "word": "住所",
+    "reading": "じゅうしょ",
+    "meaning_zh": "住址；地址",
+    "meaning_en": "address",
+    "level": "N5",
+    "pos": "noun"
+  },
+  {
+    "id": "n5-0634",
+    "word": "散歩",
+    "reading": "さんぽ",
+    "meaning_zh": "散步",
+    "meaning_en": "walk; stroll",
+    "level": "N5",
+    "pos": "noun"
+  },
+  {
+    "id": "n5-0635",
+    "word": "洗濯",
+    "reading": "せんたく",
+    "meaning_zh": "洗衣服",
+    "meaning_en": "laundry; washing",
+    "level": "N5",
+    "pos": "noun"
+  },
+  {
+    "id": "n5-0636",
+    "word": "掃除",
+    "reading": "そうじ",
+    "meaning_zh": "打扫",
+    "meaning_en": "cleaning",
+    "level": "N5",
+    "pos": "noun"
+  },
+  {
+    "id": "n5-0637",
+    "word": "結婚",
+    "reading": "けっこん",
+    "meaning_zh": "结婚",
+    "meaning_en": "marriage",
+    "level": "N5",
+    "pos": "noun"
+  },
+  {
+    "id": "n5-0638",
+    "word": "運動",
+    "reading": "うんどう",
+    "meaning_zh": "运动",
+    "meaning_en": "exercise; sports",
+    "level": "N5",
+    "pos": "noun"
+  },
+  {
+    "id": "n5-0639",
+    "word": "野球",
+    "reading": "やきゅう",
+    "meaning_zh": "棒球",
+    "meaning_en": "baseball",
+    "level": "N5",
+    "pos": "noun"
+  },
+  {
+    "id": "n5-0640",
+    "word": "サッカー",
+    "reading": "サッカー",
+    "meaning_zh": "足球",
+    "meaning_en": "soccer",
+    "level": "N5",
+    "pos": "noun"
+  },
+  {
+    "id": "n5-0641",
+    "word": "テニス",
+    "reading": "テニス",
+    "meaning_zh": "网球",
+    "meaning_en": "tennis",
+    "level": "N5",
+    "pos": "noun"
+  },
+  {
+    "id": "n5-0642",
+    "word": "ピアノ",
+    "reading": "ピアノ",
+    "meaning_zh": "钢琴",
+    "meaning_en": "piano",
+    "level": "N5",
+    "pos": "noun"
+  },
+  {
+    "id": "n5-0643",
+    "word": "パーティー",
+    "reading": "パーティー",
+    "meaning_zh": "聚会；派对",
+    "meaning_en": "party",
+    "level": "N5",
+    "pos": "noun"
+  },
+  {
+    "id": "n5-0644",
+    "word": "全部",
+    "reading": "ぜんぶ",
+    "meaning_zh": "全部",
+    "meaning_en": "all; everything",
+    "level": "N5",
+    "pos": "noun"
+  },
+  {
+    "id": "n5-0645",
+    "word": "押す",
+    "reading": "おす",
+    "meaning_zh": "推；按",
+    "meaning_en": "to push; to press",
+    "level": "N5",
+    "pos": "verb"
+  },
+  {
+    "id": "n5-0646",
+    "word": "引く",
+    "reading": "ひく",
+    "meaning_zh": "拉；查（词典）",
+    "meaning_en": "to pull; to look up",
+    "level": "N5",
+    "pos": "verb"
+  },
+  {
+    "id": "n5-0647",
+    "word": "切る",
+    "reading": "きる",
+    "meaning_zh": "切；剪",
+    "meaning_en": "to cut",
+    "level": "N5",
+    "pos": "verb"
+  },
+  {
+    "id": "n5-0648",
+    "word": "消す",
+    "reading": "けす",
+    "meaning_zh": "关（灯）；消除",
+    "meaning_en": "to turn off; to erase",
+    "level": "N5",
+    "pos": "verb"
+  },
+  {
+    "id": "n5-0649",
+    "word": "つける",
+    "reading": "つける",
+    "meaning_zh": "打开（灯）；安上",
+    "meaning_en": "to turn on; to attach",
+    "level": "N5",
+    "pos": "verb"
+  },
+  {
+    "id": "n5-0650",
+    "word": "置く",
+    "reading": "おく",
+    "meaning_zh": "放置",
+    "meaning_en": "to put; to place",
+    "level": "N5",
+    "pos": "verb"
+  },
+  {
+    "id": "n5-0651",
+    "word": "並ぶ",
+    "reading": "ならぶ",
+    "meaning_zh": "排队；排列",
+    "meaning_en": "to line up",
+    "level": "N5",
+    "pos": "verb"
+  },
+  {
+    "id": "n5-0652",
+    "word": "かぶる",
+    "reading": "かぶる",
+    "meaning_zh": "戴（帽子）",
+    "meaning_en": "to wear (on the head)",
+    "level": "N5",
+    "pos": "verb"
+  },
+  {
+    "id": "n5-0653",
+    "word": "はく",
+    "reading": "はく",
+    "meaning_zh": "穿（裤子、鞋）",
+    "meaning_en": "to wear (lower body); to put on shoes",
+    "level": "N5",
+    "pos": "verb"
+  },
+  {
+    "id": "n5-0654",
+    "word": "脱ぐ",
+    "reading": "ぬぐ",
+    "meaning_zh": "脱（衣、鞋）",
+    "meaning_en": "to take off (clothes, shoes)",
+    "level": "N5",
+    "pos": "verb"
+  },
+  {
+    "id": "n5-0655",
+    "word": "曲がる",
+    "reading": "まがる",
+    "meaning_zh": "拐弯；弯曲",
+    "meaning_en": "to turn (a corner); to bend",
+    "level": "N5",
+    "pos": "verb"
+  },
+  {
+    "id": "n5-0656",
+    "word": "渡る",
+    "reading": "わたる",
+    "meaning_zh": "过（桥、马路）",
+    "meaning_en": "to cross",
+    "level": "N5",
+    "pos": "verb"
+  },
+  {
+    "id": "n5-0657",
+    "word": "渡す",
+    "reading": "わたす",
+    "meaning_zh": "交给；递给",
+    "meaning_en": "to hand over",
+    "level": "N5",
+    "pos": "verb"
+  },
+  {
+    "id": "n5-0658",
+    "word": "止まる",
+    "reading": "とまる",
+    "meaning_zh": "停止；停下",
+    "meaning_en": "to stop",
+    "level": "N5",
+    "pos": "verb"
+  },
+  {
+    "id": "n5-0659",
+    "word": "撮る",
+    "reading": "とる",
+    "meaning_zh": "拍（照）",
+    "meaning_en": "to take (a photo)",
+    "level": "N5",
+    "pos": "verb"
+  },
+  {
+    "id": "n5-0660",
+    "word": "吸う",
+    "reading": "すう",
+    "meaning_zh": "吸（烟）；吸入",
+    "meaning_en": "to smoke; to inhale",
+    "level": "N5",
+    "pos": "verb"
+  },
+  {
+    "id": "n5-0661",
+    "word": "弾く",
+    "reading": "ひく",
+    "meaning_zh": "弹奏（乐器）",
+    "meaning_en": "to play (an instrument)",
+    "level": "N5",
+    "pos": "verb"
+  },
+  {
+    "id": "n5-0662",
+    "word": "吹く",
+    "reading": "ふく",
+    "meaning_zh": "刮（风）；吹",
+    "meaning_en": "to blow",
+    "level": "N5",
+    "pos": "verb"
+  },
+  {
+    "id": "n5-0663",
+    "word": "咲く",
+    "reading": "さく",
+    "meaning_zh": "（花）开",
+    "meaning_en": "to bloom",
+    "level": "N5",
+    "pos": "verb"
+  },
+  {
+    "id": "n5-0664",
+    "word": "飛ぶ",
+    "reading": "とぶ",
+    "meaning_zh": "飞",
+    "meaning_en": "to fly",
+    "level": "N5",
+    "pos": "verb"
+  },
+  {
+    "id": "n5-0665",
+    "word": "晴れる",
+    "reading": "はれる",
+    "meaning_zh": "放晴",
+    "meaning_en": "to clear up (weather)",
+    "level": "N5",
+    "pos": "verb"
+  },
+  {
+    "id": "n5-0666",
+    "word": "疲れる",
+    "reading": "つかれる",
+    "meaning_zh": "疲劳；累",
+    "meaning_en": "to get tired",
+    "level": "N5",
+    "pos": "verb"
+  },
+  {
+    "id": "n5-0667",
+    "word": "違う",
+    "reading": "ちがう",
+    "meaning_zh": "不同；不对",
+    "meaning_en": "to differ; to be wrong",
+    "level": "N5",
+    "pos": "verb"
+  },
+  {
+    "id": "n5-0668",
+    "word": "かかる",
+    "reading": "かかる",
+    "meaning_zh": "花费（时间、钱）",
+    "meaning_en": "to take (time); to cost",
+    "level": "N5",
+    "pos": "verb"
+  },
+  {
+    "id": "n5-0669",
+    "word": "出す",
+    "reading": "だす",
+    "meaning_zh": "拿出；寄出",
+    "meaning_en": "to take out; to send",
+    "level": "N5",
+    "pos": "verb"
+  },
+  {
+    "id": "n5-0670",
+    "word": "入れる",
+    "reading": "いれる",
+    "meaning_zh": "放入；加入",
+    "meaning_en": "to put in",
+    "level": "N5",
+    "pos": "verb"
+  },
+  {
+    "id": "n5-0671",
+    "word": "見せる",
+    "reading": "みせる",
+    "meaning_zh": "给…看；出示",
+    "meaning_en": "to show",
+    "level": "N5",
+    "pos": "verb"
+  },
+  {
+    "id": "n5-0672",
+    "word": "呼ぶ",
+    "reading": "よぶ",
+    "meaning_zh": "叫；呼唤；邀请",
+    "meaning_en": "to call; to invite",
+    "level": "N5",
+    "pos": "verb"
+  },
+  {
+    "id": "n5-0673",
+    "word": "困る",
+    "reading": "こまる",
+    "meaning_zh": "为难；困扰",
+    "meaning_en": "to be troubled",
+    "level": "N5",
+    "pos": "verb"
+  },
+  {
+    "id": "n5-0674",
+    "word": "浴びる",
+    "reading": "あびる",
+    "meaning_zh": "淋浴；沐浴",
+    "meaning_en": "to take (a shower); to bathe in",
+    "level": "N5",
+    "pos": "verb"
+  },
+  {
+    "id": "n5-0675",
+    "word": "明るい",
+    "reading": "あかるい",
+    "meaning_zh": "明亮的；开朗的",
+    "meaning_en": "bright; cheerful",
+    "level": "N5",
+    "pos": "i-adj"
+  },
+  {
+    "id": "n5-0676",
+    "word": "暗い",
+    "reading": "くらい",
+    "meaning_zh": "暗的；阴暗的",
+    "meaning_en": "dark; gloomy",
+    "level": "N5",
+    "pos": "i-adj"
+  },
+  {
+    "id": "n5-0677",
+    "word": "強い",
+    "reading": "つよい",
+    "meaning_zh": "强的；强壮的",
+    "meaning_en": "strong",
+    "level": "N5",
+    "pos": "i-adj"
+  },
+  {
+    "id": "n5-0678",
+    "word": "弱い",
+    "reading": "よわい",
+    "meaning_zh": "弱的",
+    "meaning_en": "weak",
+    "level": "N5",
+    "pos": "i-adj"
+  },
+  {
+    "id": "n5-0679",
+    "word": "若い",
+    "reading": "わかい",
+    "meaning_zh": "年轻的",
+    "meaning_en": "young",
+    "level": "N5",
+    "pos": "i-adj"
+  },
+  {
+    "id": "n5-0680",
+    "word": "甘い",
+    "reading": "あまい",
+    "meaning_zh": "甜的",
+    "meaning_en": "sweet",
+    "level": "N5",
+    "pos": "i-adj"
+  },
+  {
+    "id": "n5-0681",
+    "word": "辛い",
+    "reading": "からい",
+    "meaning_zh": "辣的；咸的",
+    "meaning_en": "spicy; salty",
+    "level": "N5",
+    "pos": "i-adj"
+  },
+  {
+    "id": "n5-0682",
+    "word": "危ない",
+    "reading": "あぶない",
+    "meaning_zh": "危险的",
+    "meaning_en": "dangerous",
+    "level": "N5",
+    "pos": "i-adj"
+  },
+  {
+    "id": "n5-0683",
+    "word": "汚い",
+    "reading": "きたない",
+    "meaning_zh": "脏的",
+    "meaning_en": "dirty",
+    "level": "N5",
+    "pos": "i-adj"
+  },
+  {
+    "id": "n5-0684",
+    "word": "狭い",
+    "reading": "せまい",
+    "meaning_zh": "狭窄的",
+    "meaning_en": "narrow; small (space)",
+    "level": "N5",
+    "pos": "i-adj"
+  },
+  {
+    "id": "n5-0685",
+    "word": "低い",
+    "reading": "ひくい",
+    "meaning_zh": "低的；矮的",
+    "meaning_en": "low; short",
+    "level": "N5",
+    "pos": "i-adj"
+  },
+  {
+    "id": "n5-0686",
+    "word": "涼しい",
+    "reading": "すずしい",
+    "meaning_zh": "凉爽的",
+    "meaning_en": "cool (weather)",
+    "level": "N5",
+    "pos": "i-adj"
+  },
+  {
+    "id": "n5-0687",
+    "word": "暖かい",
+    "reading": "あたたかい",
+    "meaning_zh": "温暖的",
+    "meaning_en": "warm",
+    "level": "N5",
+    "pos": "i-adj"
+  },
+  {
+    "id": "n5-0688",
+    "word": "眠い",
+    "reading": "ねむい",
+    "meaning_zh": "困的；想睡的",
+    "meaning_en": "sleepy",
+    "level": "N5",
+    "pos": "i-adj"
+  },
+  {
+    "id": "n5-0689",
+    "word": "暇",
+    "reading": "ひま",
+    "meaning_zh": "空闲；闲暇",
+    "meaning_en": "free (time); not busy",
+    "level": "N5",
+    "pos": "na-adj"
+  },
+  {
+    "id": "n5-0690",
+    "word": "大切",
+    "reading": "たいせつ",
+    "meaning_zh": "重要；珍贵",
+    "meaning_en": "important; precious",
+    "level": "N5",
+    "pos": "na-adj"
+  },
+  {
+    "id": "n5-0691",
+    "word": "親切",
+    "reading": "しんせつ",
+    "meaning_zh": "亲切；热情",
+    "meaning_en": "kind; helpful",
+    "level": "N5",
+    "pos": "na-adj"
+  },
+  {
+    "id": "n5-0692",
+    "word": "大変",
+    "reading": "たいへん",
+    "meaning_zh": "够呛；不得了；非常",
+    "meaning_en": "tough; serious; very",
+    "level": "N5",
+    "pos": "na-adj"
+  },
+  {
+    "id": "n5-0693",
+    "word": "簡単",
+    "reading": "かんたん",
+    "meaning_zh": "简单",
+    "meaning_en": "easy; simple",
+    "level": "N5",
+    "pos": "na-adj"
+  },
+  {
+    "id": "n5-0694",
+    "word": "初めて",
+    "reading": "はじめて",
+    "meaning_zh": "第一次；初次",
+    "meaning_en": "for the first time",
+    "level": "N5",
+    "pos": "adv"
+  },
+  {
+    "id": "n5-0695",
+    "word": "一番",
+    "reading": "いちばん",
+    "meaning_zh": "最；第一",
+    "meaning_en": "most; number one",
+    "level": "N5",
+    "pos": "adv"
+  },
+  {
+    "id": "n5-0696",
+    "word": "もっと",
+    "reading": "もっと",
+    "meaning_zh": "更；再",
+    "meaning_en": "more",
+    "level": "N5",
+    "pos": "adv"
+  },
+  {
+    "id": "n5-0697",
+    "word": "まっすぐ",
+    "reading": "まっすぐ",
+    "meaning_zh": "笔直地；一直",
+    "meaning_en": "straight; directly",
+    "level": "N5",
+    "pos": "adv"
+  },
+  {
+    "id": "n5-0698",
+    "word": "もちろん",
+    "reading": "もちろん",
+    "meaning_zh": "当然",
+    "meaning_en": "of course",
+    "level": "N5",
+    "pos": "adv"
+  },
+  {
+    "id": "n5-0699",
+    "word": "本当に",
+    "reading": "ほんとうに",
+    "meaning_zh": "真的；实在",
+    "meaning_en": "really; truly",
+    "level": "N5",
+    "pos": "adv"
+  },
+  {
+    "id": "n5-0700",
+    "word": "だんだん",
+    "reading": "だんだん",
+    "meaning_zh": "渐渐地",
+    "meaning_en": "gradually",
+    "level": "N5",
+    "pos": "adv"
+  }
+]

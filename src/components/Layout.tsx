@@ -28,6 +28,7 @@ export default function Layout() {
               <NavLink to="/" end className={navCls}>{t('nav.home')}</NavLink>
               <NavLink to="/articles" className={navCls}>{t('nav.articles')}</NavLink>
               <NavLink to="/vocab" className={navCls}>{t('nav.vocab')}</NavLink>
+              <NavLink to="/stats" className={navCls}>{t('nav.stats')}</NavLink>
             </nav>
           </div>
           <div className="flex items-center gap-1 rounded-lg border border-stone-200 bg-white p-0.5">

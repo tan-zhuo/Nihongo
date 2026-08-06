@@ -4,6 +4,7 @@ import Home from './pages/Home'
 import Articles from './pages/Articles'
 import Practice from './pages/Practice'
 import Vocab from './pages/Vocab'
+import Stats from './pages/Stats'
 
 export default function App() {
   return (
@@ -13,6 +14,7 @@ export default function App() {
         <Route path="/articles" element={<Articles />} />
         <Route path="/practice/:id" element={<Practice />} />
         <Route path="/vocab" element={<Vocab />} />
+        <Route path="/stats" element={<Stats />} />
       </Route>
     </Routes>
   )

@@ -60,7 +60,7 @@ export function useLineTyping(lines: string[]) {
     const total = totalGraded.current
     setStats({
       elapsedMs,
-      cpm: Math.round(totalChars / (elapsedMs / 60000)),
+      cpm: Math.min(Math.round(totalChars / (elapsedMs / 60000)), 999),
       accuracy: total > 0 ? Math.max(0, (total - errorCount.current) / total) : 1,
       errors: errorCount.current,
       totalChars,
