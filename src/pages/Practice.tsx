@@ -2,7 +2,7 @@ import { useEffect, useMemo, useRef } from 'react'
 import { useParams, useNavigate, Link } from 'react-router-dom'
 import { useTranslation } from 'react-i18next'
 import { getArticle, nextArticle } from '../data/articles'
-import { useTyping, type CharStatus } from '../hooks/useTyping'
+import { useLineTyping, splitLines, type CharStatus } from '../hooks/useTyping'
 import ResultModal from '../components/ResultModal'
 
 const CHAR_CLS: Record<CharStatus, string> = {
@@ -18,21 +18,24 @@ export default function Practice() {
   const navigate = useNavigate()
   const { t } = useTranslation()
   const article = useMemo(() => (id ? getArticle(id) : undefined), [id])
-  const target = article?.content ?? ''
+  const lines = useMemo(() => splitLines(article?.content ?? ''), [article])
 
-  const typing = useTyping(target)
-  const inputRef = useRef<HTMLTextAreaElement>(null)
-  const currentCharRef = useRef<HTMLSpanElement>(null)
+  const typing = useLineTyping(lines)
+  const inputRef = useRef<HTMLInputElement>(null)
+  const activeLineRef = useRef<HTMLDivElement>(null)
 
   useEffect(() => {
     typing.reset()
-    inputRef.current?.focus()
     // eslint-disable-next-line react-hooks/exhaustive-deps
   }, [id])
 
+  // Keep focus on the active line's input and keep it in view.
   useEffect(() => {
-    currentCharRef.current?.scrollIntoView({ block: 'nearest' })
-  }, [typing.typed])
+    if (!typing.finished) {
+      inputRef.current?.focus()
+      activeLineRef.current?.scrollIntoView({ block: 'center', behavior: 'smooth' })
+    }
+  }, [typing.lineIdx, typing.finished])
 
   if (!article) {
     return (
@@ -43,12 +46,9 @@ export default function Practice() {
     )
   }
 
-  const progress = Math.min(typing.typed.length / target.length, 1)
   const next = nextArticle(article.id)
-
   const restart = () => {
     typing.reset()
-    if (inputRef.current) inputRef.current.value = ''
     inputRef.current?.focus()
   }
 
@@ -73,54 +73,80 @@ export default function Practice() {
         <div className="mb-1 flex justify-between text-xs text-stone-500">
           <span>{t('practice.progress')}</span>
           <span>
-            {Math.min(typing.typed.length, target.length)} / {target.length}
+            {Math.min(typing.typedTotal, typing.totalChars)} / {typing.totalChars}
           </span>
         </div>
         <div className="h-1.5 overflow-hidden rounded-full bg-stone-200">
           <div
             className="h-full rounded-full bg-accent transition-[width] duration-200"
-            style={{ width: `${progress * 100}%` }}
+            style={{ width: `${Math.min(typing.typedTotal / typing.totalChars, 1) * 100}%` }}
           />
         </div>
       </div>
 
-      {/* Original text with per-character feedback */}
+      {/* Line pairs: original line + input line directly beneath it */}
       <div
-        className="card mb-4 max-h-72 overflow-y-auto p-5 text-xl leading-loose tracking-wide sm:p-6"
+        className="card max-h-[60vh] overflow-y-auto p-5 sm:p-6"
         onClick={() => inputRef.current?.focus()}
       >
-        {Array.from(target).map((ch, i) => {
-          const status = typing.statusOf(i)
+        {lines.map((line, li) => {
+          const isPast = li < typing.lineIdx
+          const isActive = li === typing.lineIdx && !typing.finished
           return (
-            <span
-              key={i}
-              ref={status === 'current' ? currentCharRef : undefined}
-              className={CHAR_CLS[status]}
+            <div
+              key={li}
+              ref={isActive ? activeLineRef : undefined}
+              className={`mb-4 last:mb-0 ${isActive ? '' : 'opacity-90'}`}
             >
-              {ch}
-            </span>
+              {/* Original line */}
+              <div className="text-xl leading-relaxed tracking-wide">
+                {Array.from(line).map((ch, ci) => (
+                  <span key={ci} className={CHAR_CLS[typing.statusOf(li, ci)]}>
+                    {ch}
+                  </span>
+                ))}
+              </div>
+              {/* Input line */}
+              {isActive ? (
+                <input
+                  ref={inputRef}
+                  value={typing.current}
+                  autoFocus
+                  spellCheck={false}
+                  autoComplete="off"
+                  autoCorrect="off"
+                  placeholder={typing.lineIdx === 0 && typing.current === '' ? t('practice.inputPlaceholder') : ''}
+                  className="w-full border-b-2 border-accent bg-accent-light/40 px-0.5 py-1 text-xl leading-relaxed tracking-wide outline-none placeholder:text-sm placeholder:text-stone-400"
+                  onChange={(e) =>
+                    typing.handleChange(
+                      e.target.value,
+                      (e.nativeEvent as InputEvent).isComposing ?? false,
+                    )
+                  }
+                  onCompositionStart={(e) => typing.onCompositionStart(e.currentTarget.value.length)}
+                  onCompositionEnd={(e) => typing.onCompositionEnd(e.currentTarget.value)}
+                  onPaste={(e) => e.preventDefault()}
+                />
+              ) : isPast ? (
+                <div className="border-b border-stone-200 px-0.5 py-1 text-xl leading-relaxed tracking-wide">
+                  {Array.from(typing.done[li] ?? '').map((ch, ci) => (
+                    <span
+                      key={ci}
+                      className={ch === line[ci] ? 'text-emerald-600' : 'text-red-500 bg-red-50 rounded-sm'}
+                    >
+                      {ch}
+                    </span>
+                  ))}
+                </div>
+              ) : (
+                <div className="border-b border-dashed border-stone-200 py-1 text-xl leading-relaxed">
+                  &nbsp;
+                </div>
+              )}
+            </div>
           )
         })}
       </div>
-
-      {/* Input area */}
-      <textarea
-        ref={inputRef}
-        rows={4}
-        autoFocus
-        spellCheck={false}
-        autoComplete="off"
-        autoCorrect="off"
-        placeholder={t('practice.inputPlaceholder')}
-        className="card w-full resize-none p-5 text-xl leading-loose tracking-wide outline-none focus:border-accent focus:ring-2 focus:ring-accent-light"
-        onChange={(e) =>
-          typing.onChange(e.target.value, (e.nativeEvent as InputEvent).isComposing ?? false)
-        }
-        onCompositionStart={(e) => typing.onCompositionStart(e.currentTarget.value.length)}
-        onCompositionEnd={(e) => typing.onCompositionEnd(e.currentTarget.value)}
-        onPaste={(e) => e.preventDefault()}
-        disabled={typing.finished}
-      />
       <p className="mt-2 text-xs text-stone-400">{t('practice.imeHint')}</p>
 
       {typing.finished && typing.stats && (

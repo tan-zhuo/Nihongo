@@ -10,18 +10,40 @@ export interface TypingStats {
   totalChars: number
 }
 
+/** Split article text into typing lines, breaking after punctuation when possible. */
+export function splitLines(text: string, max = 22): string[] {
+  const lines: string[] = []
+  let rest = text
+  while (rest.length > max) {
+    let cut = -1
+    for (let i = max; i >= Math.floor(max / 2); i--) {
+      if ('。、！？」）'.includes(rest[i - 1])) {
+        cut = i
+        break
+      }
+    }
+    if (cut === -1) cut = max
+    lines.push(rest.slice(0, cut))
+    rest = rest.slice(cut)
+  }
+  if (rest) lines.push(rest)
+  return lines
+}
+
 /**
- * IME-aware typing state. Characters that are part of an unconfirmed IME
- * composition are shown as "pending" and not graded until the conversion
- * is committed, so kana-to-kanji conversion never counts as a mistake.
+ * Line-by-line IME-aware typing state. One input line per text line; a line
+ * commits automatically once fully typed, and characters committed past the
+ * end of a line (e.g. a multi-char IME confirmation) carry over to the next
+ * line. Characters in an unconfirmed IME composition are "pending" and not
+ * graded, so kana-to-kanji conversion never counts as a mistake.
  */
-export function useTyping(target: string) {
-  const [typed, setTyped] = useState('')
+export function useLineTyping(lines: string[]) {
+  const [lineIdx, setLineIdx] = useState(0)
+  const [current, setCurrent] = useState('')
+  const [done, setDone] = useState<string[]>([])
   const [composing, setComposing] = useState(false)
   const [finished, setFinished] = useState(false)
   const [stats, setStats] = useState<TypingStats | null>(null)
-  // Bumped on grading so char statuses re-render even when refs change.
-  const [, setTick] = useState(0)
 
   const compositionBase = useRef(0)
   const gradedLen = useRef(0)
@@ -29,51 +51,66 @@ export function useTyping(target: string) {
   const errorCount = useRef(0)
   const startTime = useRef<number | null>(null)
 
-  const grade = useCallback(
-    (value: string) => {
-      if (value.length < gradedLen.current) {
-        gradedLen.current = value.length
-        return
-      }
-      for (let i = gradedLen.current; i < value.length && i < target.length; i++) {
-        totalGraded.current++
-        if (value[i] !== target[i]) errorCount.current++
-      }
-      gradedLen.current = value.length
-      setTick((n) => n + 1)
-    },
-    [target],
-  )
+  const totalChars = lines.reduce((n, l) => n + l.length, 0)
 
-  const finish = useCallback(
-    (value: string) => {
-      const end = Date.now()
-      const start = startTime.current ?? end
-      const elapsedMs = Math.max(end - start, 1)
-      const total = totalGraded.current
-      setStats({
-        elapsedMs,
-        cpm: Math.round(target.length / (elapsedMs / 60000)),
-        accuracy: total > 0 ? Math.max(0, (total - errorCount.current) / total) : 1,
-        errors: errorCount.current,
-        totalChars: value.length,
-      })
-      setFinished(true)
-    },
-    [target],
-  )
+  const finish = useCallback(() => {
+    const end = Date.now()
+    const start = startTime.current ?? end
+    const elapsedMs = Math.max(end - start, 1)
+    const total = totalGraded.current
+    setStats({
+      elapsedMs,
+      cpm: Math.round(totalChars / (elapsedMs / 60000)),
+      accuracy: total > 0 ? Math.max(0, (total - errorCount.current) / total) : 1,
+      errors: errorCount.current,
+      totalChars,
+    })
+    setFinished(true)
+  }, [totalChars])
 
-  const onChange = useCallback(
+  const handleChange = useCallback(
     (value: string, isComposing: boolean) => {
       if (finished) return
       if (startTime.current === null && value.length > 0) startTime.current = Date.now()
-      setTyped(value)
-      if (!isComposing) {
-        grade(value)
-        if (value.length >= target.length) finish(value)
+      if (isComposing) {
+        setCurrent(value)
+        return
       }
+      let idx = lineIdx
+      const doneArr = [...done]
+      let v = value
+      if (v.length < gradedLen.current) gradedLen.current = v.length
+      // Commit as many full lines as the value covers (IME can confirm
+      // several characters at once, crossing a line boundary).
+      while (idx < lines.length && v.length >= lines[idx].length) {
+        const target = lines[idx]
+        for (let i = gradedLen.current; i < target.length; i++) {
+          totalGraded.current++
+          if (v[i] !== target[i]) errorCount.current++
+        }
+        doneArr.push(v.slice(0, target.length))
+        v = v.slice(target.length)
+        idx++
+        gradedLen.current = 0
+      }
+      if (idx >= lines.length) {
+        setDone(doneArr)
+        setLineIdx(idx)
+        setCurrent('')
+        finish()
+        return
+      }
+      const target = lines[idx]
+      for (let i = gradedLen.current; i < v.length && i < target.length; i++) {
+        totalGraded.current++
+        if (v[i] !== target[i]) errorCount.current++
+      }
+      gradedLen.current = v.length
+      setDone(doneArr)
+      setLineIdx(idx)
+      setCurrent(v)
     },
-    [finished, grade, finish, target],
+    [finished, lineIdx, done, lines, finish],
   )
 
   const onCompositionStart = useCallback((valueLen: number) => {
@@ -84,14 +121,15 @@ export function useTyping(target: string) {
   const onCompositionEnd = useCallback(
     (value: string) => {
       setComposing(false)
-      grade(value)
-      if (value.length >= target.length && !finished) finish(value)
+      handleChange(value, false)
     },
-    [grade, finish, finished, target],
+    [handleChange],
   )
 
   const reset = useCallback(() => {
-    setTyped('')
+    setLineIdx(0)
+    setCurrent('')
+    setDone([])
     setComposing(false)
     setFinished(false)
     setStats(null)
@@ -103,16 +141,36 @@ export function useTyping(target: string) {
   }, [])
 
   const statusOf = useCallback(
-    (index: number): CharStatus => {
-      if (index < typed.length) {
-        if (composing && index >= compositionBase.current) return 'pending'
-        return typed[index] === target[index] ? 'correct' : 'wrong'
+    (line: number, ch: number): CharStatus => {
+      if (line < lineIdx) {
+        return done[line]?.[ch] === lines[line][ch] ? 'correct' : 'wrong'
       }
-      if (index === typed.length && !finished) return 'current'
+      if (line === lineIdx) {
+        if (ch < current.length) {
+          if (composing && ch >= compositionBase.current) return 'pending'
+          return current[ch] === lines[line][ch] ? 'correct' : 'wrong'
+        }
+        if (ch === current.length && !finished) return 'current'
+      }
       return 'untyped'
     },
-    [typed, composing, finished, target],
+    [lineIdx, done, current, composing, finished, lines],
   )
 
-  return { typed, finished, stats, onChange, onCompositionStart, onCompositionEnd, reset, statusOf }
+  const typedTotal = done.reduce((n, l) => n + l.length, 0) + current.length
+
+  return {
+    lineIdx,
+    current,
+    done,
+    finished,
+    stats,
+    typedTotal,
+    totalChars,
+    handleChange,
+    onCompositionStart,
+    onCompositionEnd,
+    reset,
+    statusOf,
+  }
 }
