@@ -118,21 +118,25 @@ export default function Vocab() {
       <h1 className="mb-5 font-serif text-2xl font-bold">{t('vocab.title')}</h1>
 
       {/* Mode toggle */}
-      <div className="mb-4 flex gap-2">
+      <div className="mb-5 flex gap-2">
         {(['toJa', 'toMeaning'] as Mode[]).map((m) => (
-          <button key={m} className={mode === m ? 'chip-on' : 'chip-off'} onClick={() => setMode(m)}>
+          <button
+            key={m}
+            className={`${mode === m ? 'chip-on' : 'chip-off'} flex-1 justify-center whitespace-nowrap sm:flex-none`}
+            onClick={() => setMode(m)}
+          >
             {t(m === 'toJa' ? 'vocab.modeToJa' : 'vocab.modeToMeaning')}
           </button>
         ))}
       </div>
 
       {/* Filters */}
-      <div className="mb-2 flex items-center gap-2 text-sm text-stone-500">
-        <span className="w-20 shrink-0">{t('vocab.level')}</span>
+      <div className="mb-3 flex flex-col gap-1.5 text-sm text-stone-500 sm:flex-row sm:items-center sm:gap-2">
+        <span className="text-xs sm:w-20 sm:shrink-0 sm:text-sm">{t('vocab.level')}</span>
         <LevelFilter value={level} onChange={setLevel} />
       </div>
-      <div className="mb-6 flex items-start gap-2 text-sm text-stone-500">
-        <span className="mt-1 w-20 shrink-0">{t('vocab.row')}</span>
+      <div className="mb-6 flex flex-col gap-1.5 text-sm text-stone-500 sm:flex-row sm:items-start sm:gap-2">
+        <span className="text-xs sm:mt-1 sm:w-20 sm:shrink-0 sm:text-sm">{t('vocab.row')}</span>
         <div className="flex flex-wrap gap-2">
           <button className={row === 'all' ? 'chip-on' : 'chip-off'} onClick={() => setRow('all')}>
             {t('vocab.all')}
