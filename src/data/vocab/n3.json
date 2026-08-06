@@ -1,402 +1,8102 @@
 [
-{"id":"n3-0001","word":"環境","reading":"かんきょう","meaning_zh":"环境","meaning_en":"environment","level":"N3","pos":"noun"},
-{"id":"n3-0002","word":"影響","reading":"えいきょう","meaning_zh":"影响","meaning_en":"influence; effect","level":"N3","pos":"noun"},
-{"id":"n3-0003","word":"確認する","reading":"かくにんする","meaning_zh":"确认","meaning_en":"to confirm; to check","level":"N3","pos":"verb"},
-{"id":"n3-0004","word":"発展","reading":"はってん","meaning_zh":"发展","meaning_en":"development; growth","level":"N3","pos":"noun"},
-{"id":"n3-0005","word":"印象","reading":"いんしょう","meaning_zh":"印象","meaning_en":"impression","level":"N3","pos":"noun"},
-{"id":"n3-0006","word":"面接","reading":"めんせつ","meaning_zh":"面试","meaning_en":"interview","level":"N3","pos":"noun"},
-{"id":"n3-0007","word":"経験","reading":"けいけん","meaning_zh":"经验；经历","meaning_en":"experience","level":"N3","pos":"noun"},
-{"id":"n3-0008","word":"情報","reading":"じょうほう","meaning_zh":"信息；情报","meaning_en":"information","level":"N3","pos":"noun"},
-{"id":"n3-0009","word":"状態","reading":"じょうたい","meaning_zh":"状态","meaning_en":"state; condition","level":"N3","pos":"noun"},
-{"id":"n3-0010","word":"状況","reading":"じょうきょう","meaning_zh":"状况；情况","meaning_en":"situation; circumstances","level":"N3","pos":"noun"},
-{"id":"n3-0011","word":"関係","reading":"かんけい","meaning_zh":"关系","meaning_en":"relation; relationship","level":"N3","pos":"noun"},
-{"id":"n3-0012","word":"政治","reading":"せいじ","meaning_zh":"政治","meaning_en":"politics","level":"N3","pos":"noun"},
-{"id":"n3-0013","word":"経済","reading":"けいざい","meaning_zh":"经济","meaning_en":"economy","level":"N3","pos":"noun"},
-{"id":"n3-0014","word":"社会","reading":"しゃかい","meaning_zh":"社会","meaning_en":"society","level":"N3","pos":"noun"},
-{"id":"n3-0015","word":"文化","reading":"ぶんか","meaning_zh":"文化","meaning_en":"culture","level":"N3","pos":"noun"},
-{"id":"n3-0016","word":"自然","reading":"しぜん","meaning_zh":"自然","meaning_en":"nature","level":"N3","pos":"noun"},
-{"id":"n3-0017","word":"地球","reading":"ちきゅう","meaning_zh":"地球","meaning_en":"the earth","level":"N3","pos":"noun"},
-{"id":"n3-0018","word":"平和","reading":"へいわ","meaning_zh":"和平","meaning_en":"peace","level":"N3","pos":"noun"},
-{"id":"n3-0019","word":"戦争","reading":"せんそう","meaning_zh":"战争","meaning_en":"war","level":"N3","pos":"noun"},
-{"id":"n3-0020","word":"事件","reading":"じけん","meaning_zh":"事件；案件","meaning_en":"incident; case","level":"N3","pos":"noun"},
-{"id":"n3-0021","word":"事故","reading":"じこ","meaning_zh":"事故","meaning_en":"accident","level":"N3","pos":"noun"},
-{"id":"n3-0022","word":"原因","reading":"げんいん","meaning_zh":"原因","meaning_en":"cause","level":"N3","pos":"noun"},
-{"id":"n3-0023","word":"結果","reading":"けっか","meaning_zh":"结果","meaning_en":"result","level":"N3","pos":"noun"},
-{"id":"n3-0024","word":"目的","reading":"もくてき","meaning_zh":"目的","meaning_en":"purpose; aim","level":"N3","pos":"noun"},
-{"id":"n3-0025","word":"目標","reading":"もくひょう","meaning_zh":"目标","meaning_en":"goal; target","level":"N3","pos":"noun"},
-{"id":"n3-0026","word":"理由","reading":"りゆう","meaning_zh":"理由","meaning_en":"reason","level":"N3","pos":"noun"},
-{"id":"n3-0027","word":"意見","reading":"いけん","meaning_zh":"意见","meaning_en":"opinion","level":"N3","pos":"noun"},
-{"id":"n3-0028","word":"意識","reading":"いしき","meaning_zh":"意识","meaning_en":"consciousness; awareness","level":"N3","pos":"noun"},
-{"id":"n3-0029","word":"知識","reading":"ちしき","meaning_zh":"知识","meaning_en":"knowledge","level":"N3","pos":"noun"},
-{"id":"n3-0030","word":"常識","reading":"じょうしき","meaning_zh":"常识","meaning_en":"common sense","level":"N3","pos":"noun"},
-{"id":"n3-0031","word":"記憶","reading":"きおく","meaning_zh":"记忆","meaning_en":"memory","level":"N3","pos":"noun"},
-{"id":"n3-0032","word":"記録","reading":"きろく","meaning_zh":"记录","meaning_en":"record","level":"N3","pos":"noun"},
-{"id":"n3-0033","word":"資料","reading":"しりょう","meaning_zh":"资料","meaning_en":"materials; data","level":"N3","pos":"noun"},
-{"id":"n3-0034","word":"書類","reading":"しょるい","meaning_zh":"文件","meaning_en":"documents; papers","level":"N3","pos":"noun"},
-{"id":"n3-0035","word":"命令","reading":"めいれい","meaning_zh":"命令","meaning_en":"order; command","level":"N3","pos":"noun"},
-{"id":"n3-0036","word":"予想","reading":"よそう","meaning_zh":"预想；预测","meaning_en":"expectation; prediction","level":"N3","pos":"noun"},
-{"id":"n3-0037","word":"想像","reading":"そうぞう","meaning_zh":"想象","meaning_en":"imagination","level":"N3","pos":"noun"},
-{"id":"n3-0038","word":"感情","reading":"かんじょう","meaning_zh":"感情；情绪","meaning_en":"emotion; feelings","level":"N3","pos":"noun"},
-{"id":"n3-0039","word":"感覚","reading":"かんかく","meaning_zh":"感觉","meaning_en":"sense; feeling","level":"N3","pos":"noun"},
-{"id":"n3-0040","word":"性格","reading":"せいかく","meaning_zh":"性格","meaning_en":"personality; character","level":"N3","pos":"noun"},
-{"id":"n3-0041","word":"性質","reading":"せいしつ","meaning_zh":"性质","meaning_en":"nature; property","level":"N3","pos":"noun"},
-{"id":"n3-0042","word":"特徴","reading":"とくちょう","meaning_zh":"特征","meaning_en":"characteristic; feature","level":"N3","pos":"noun"},
-{"id":"n3-0043","word":"条件","reading":"じょうけん","meaning_zh":"条件","meaning_en":"condition","level":"N3","pos":"noun"},
-{"id":"n3-0044","word":"制度","reading":"せいど","meaning_zh":"制度","meaning_en":"system; institution","level":"N3","pos":"noun"},
-{"id":"n3-0045","word":"政府","reading":"せいふ","meaning_zh":"政府","meaning_en":"government","level":"N3","pos":"noun"},
-{"id":"n3-0046","word":"国際","reading":"こくさい","meaning_zh":"国际","meaning_en":"international","level":"N3","pos":"noun"},
-{"id":"n3-0047","word":"国民","reading":"こくみん","meaning_zh":"国民","meaning_en":"the people; citizens","level":"N3","pos":"noun"},
-{"id":"n3-0048","word":"人口","reading":"じんこう","meaning_zh":"人口","meaning_en":"population","level":"N3","pos":"noun"},
-{"id":"n3-0049","word":"人類","reading":"じんるい","meaning_zh":"人类","meaning_en":"humanity; mankind","level":"N3","pos":"noun"},
-{"id":"n3-0050","word":"男性","reading":"だんせい","meaning_zh":"男性","meaning_en":"male; man","level":"N3","pos":"noun"},
-{"id":"n3-0051","word":"女性","reading":"じょせい","meaning_zh":"女性","meaning_en":"female; woman","level":"N3","pos":"noun"},
-{"id":"n3-0052","word":"若者","reading":"わかもの","meaning_zh":"年轻人","meaning_en":"young person","level":"N3","pos":"noun"},
-{"id":"n3-0053","word":"教育","reading":"きょういく","meaning_zh":"教育","meaning_en":"education","level":"N3","pos":"noun"},
-{"id":"n3-0054","word":"科学","reading":"かがく","meaning_zh":"科学","meaning_en":"science","level":"N3","pos":"noun"},
-{"id":"n3-0055","word":"技術","reading":"ぎじゅつ","meaning_zh":"技术","meaning_en":"technology; skill","level":"N3","pos":"noun"},
-{"id":"n3-0056","word":"機械","reading":"きかい","meaning_zh":"机械；机器","meaning_en":"machine","level":"N3","pos":"noun"},
-{"id":"n3-0057","word":"機会","reading":"きかい","meaning_zh":"机会","meaning_en":"opportunity; chance","level":"N3","pos":"noun"},
-{"id":"n3-0058","word":"道具","reading":"どうぐ","meaning_zh":"工具","meaning_en":"tool","level":"N3","pos":"noun"},
-{"id":"n3-0059","word":"材料","reading":"ざいりょう","meaning_zh":"材料；原料","meaning_en":"material; ingredient","level":"N3","pos":"noun"},
-{"id":"n3-0060","word":"商品","reading":"しょうひん","meaning_zh":"商品","meaning_en":"goods; product","level":"N3","pos":"noun"},
-{"id":"n3-0061","word":"製品","reading":"せいひん","meaning_zh":"产品","meaning_en":"product","level":"N3","pos":"noun"},
-{"id":"n3-0062","word":"価格","reading":"かかく","meaning_zh":"价格","meaning_en":"price","level":"N3","pos":"noun"},
-{"id":"n3-0063","word":"貿易","reading":"ぼうえき","meaning_zh":"贸易","meaning_en":"trade","level":"N3","pos":"noun"},
-{"id":"n3-0064","word":"輸出","reading":"ゆしゅつ","meaning_zh":"出口","meaning_en":"export","level":"N3","pos":"noun"},
-{"id":"n3-0065","word":"輸入","reading":"ゆにゅう","meaning_zh":"进口","meaning_en":"import","level":"N3","pos":"noun"},
-{"id":"n3-0066","word":"販売","reading":"はんばい","meaning_zh":"销售","meaning_en":"sale; selling","level":"N3","pos":"noun"},
-{"id":"n3-0067","word":"生産","reading":"せいさん","meaning_zh":"生产","meaning_en":"production","level":"N3","pos":"noun"},
-{"id":"n3-0068","word":"消費","reading":"しょうひ","meaning_zh":"消费","meaning_en":"consumption","level":"N3","pos":"noun"},
-{"id":"n3-0069","word":"給料","reading":"きゅうりょう","meaning_zh":"工资","meaning_en":"salary; wages","level":"N3","pos":"noun"},
-{"id":"n3-0070","word":"収入","reading":"しゅうにゅう","meaning_zh":"收入","meaning_en":"income","level":"N3","pos":"noun"},
-{"id":"n3-0071","word":"費用","reading":"ひよう","meaning_zh":"费用","meaning_en":"expense; cost","level":"N3","pos":"noun"},
-{"id":"n3-0072","word":"料金","reading":"りょうきん","meaning_zh":"费用；收费","meaning_en":"fee; charge","level":"N3","pos":"noun"},
-{"id":"n3-0073","word":"税金","reading":"ぜいきん","meaning_zh":"税金","meaning_en":"tax","level":"N3","pos":"noun"},
-{"id":"n3-0074","word":"貯金","reading":"ちょきん","meaning_zh":"存款；储蓄","meaning_en":"savings","level":"N3","pos":"noun"},
-{"id":"n3-0075","word":"借金","reading":"しゃっきん","meaning_zh":"借款；欠债","meaning_en":"debt","level":"N3","pos":"noun"},
-{"id":"n3-0076","word":"利益","reading":"りえき","meaning_zh":"利益；利润","meaning_en":"profit; benefit","level":"N3","pos":"noun"},
-{"id":"n3-0077","word":"経営","reading":"けいえい","meaning_zh":"经营","meaning_en":"management (of a business)","level":"N3","pos":"noun"},
-{"id":"n3-0078","word":"企業","reading":"きぎょう","meaning_zh":"企业","meaning_en":"enterprise; company","level":"N3","pos":"noun"},
-{"id":"n3-0079","word":"産業","reading":"さんぎょう","meaning_zh":"产业","meaning_en":"industry","level":"N3","pos":"noun"},
-{"id":"n3-0080","word":"農業","reading":"のうぎょう","meaning_zh":"农业","meaning_en":"agriculture","level":"N3","pos":"noun"},
-{"id":"n3-0081","word":"職業","reading":"しょくぎょう","meaning_zh":"职业","meaning_en":"occupation","level":"N3","pos":"noun"},
-{"id":"n3-0082","word":"職場","reading":"しょくば","meaning_zh":"工作单位；职场","meaning_en":"workplace","level":"N3","pos":"noun"},
-{"id":"n3-0083","word":"就職","reading":"しゅうしょく","meaning_zh":"就业；找工作","meaning_en":"finding employment","level":"N3","pos":"noun"},
-{"id":"n3-0084","word":"出張","reading":"しゅっちょう","meaning_zh":"出差","meaning_en":"business trip","level":"N3","pos":"noun"},
-{"id":"n3-0085","word":"残業","reading":"ざんぎょう","meaning_zh":"加班","meaning_en":"overtime work","level":"N3","pos":"noun"},
-{"id":"n3-0086","word":"会場","reading":"かいじょう","meaning_zh":"会场","meaning_en":"venue; meeting place","level":"N3","pos":"noun"},
-{"id":"n3-0087","word":"安全","reading":"あんぜん","meaning_zh":"安全","meaning_en":"safety","level":"N3","pos":"na-adj"},
-{"id":"n3-0088","word":"位置","reading":"いち","meaning_zh":"位置","meaning_en":"position; location","level":"N3","pos":"noun"},
-{"id":"n3-0089","word":"一般","reading":"いっぱん","meaning_zh":"一般；普通","meaning_en":"general; ordinary","level":"N3","pos":"noun"},
-{"id":"n3-0090","word":"印刷","reading":"いんさつ","meaning_zh":"印刷","meaning_en":"printing","level":"N3","pos":"noun"},
-{"id":"n3-0091","word":"営業","reading":"えいぎょう","meaning_zh":"营业；销售","meaning_en":"business; sales","level":"N3","pos":"noun"},
-{"id":"n3-0092","word":"演奏","reading":"えんそう","meaning_zh":"演奏","meaning_en":"musical performance","level":"N3","pos":"noun"},
-{"id":"n3-0093","word":"応援","reading":"おうえん","meaning_zh":"支援；声援","meaning_en":"support; cheering","level":"N3","pos":"noun"},
-{"id":"n3-0094","word":"温度","reading":"おんど","meaning_zh":"温度","meaning_en":"temperature","level":"N3","pos":"noun"},
-{"id":"n3-0095","word":"過去","reading":"かこ","meaning_zh":"过去","meaning_en":"the past","level":"N3","pos":"noun"},
-{"id":"n3-0096","word":"火災","reading":"かさい","meaning_zh":"火灾","meaning_en":"fire (disaster)","level":"N3","pos":"noun"},
-{"id":"n3-0097","word":"感謝","reading":"かんしゃ","meaning_zh":"感谢","meaning_en":"gratitude; thanks","level":"N3","pos":"noun"},
-{"id":"n3-0098","word":"完成","reading":"かんせい","meaning_zh":"完成","meaning_en":"completion","level":"N3","pos":"noun"},
-{"id":"n3-0099","word":"感動","reading":"かんどう","meaning_zh":"感动","meaning_en":"deep emotion; being moved","level":"N3","pos":"noun"},
-{"id":"n3-0100","word":"観光","reading":"かんこう","meaning_zh":"观光；旅游","meaning_en":"sightseeing","level":"N3","pos":"noun"},
-{"id":"n3-0101","word":"観察","reading":"かんさつ","meaning_zh":"观察","meaning_en":"observation","level":"N3","pos":"noun"},
-{"id":"n3-0102","word":"患者","reading":"かんじゃ","meaning_zh":"患者；病人","meaning_en":"patient","level":"N3","pos":"noun"},
-{"id":"n3-0103","word":"感想","reading":"かんそう","meaning_zh":"感想","meaning_en":"impressions; thoughts","level":"N3","pos":"noun"},
-{"id":"n3-0104","word":"期間","reading":"きかん","meaning_zh":"期间","meaning_en":"period; term","level":"N3","pos":"noun"},
-{"id":"n3-0105","word":"帰国","reading":"きこく","meaning_zh":"回国","meaning_en":"returning to one's country","level":"N3","pos":"noun"},
-{"id":"n3-0106","word":"期待","reading":"きたい","meaning_zh":"期待","meaning_en":"expectation; hope","level":"N3","pos":"noun"},
-{"id":"n3-0107","word":"基本","reading":"きほん","meaning_zh":"基本；基础","meaning_en":"basics; foundation","level":"N3","pos":"noun"},
-{"id":"n3-0108","word":"疑問","reading":"ぎもん","meaning_zh":"疑问","meaning_en":"question; doubt","level":"N3","pos":"noun"},
-{"id":"n3-0109","word":"休憩","reading":"きゅうけい","meaning_zh":"休息","meaning_en":"break; rest","level":"N3","pos":"noun"},
-{"id":"n3-0110","word":"競争","reading":"きょうそう","meaning_zh":"竞争","meaning_en":"competition","level":"N3","pos":"noun"},
-{"id":"n3-0111","word":"協力","reading":"きょうりょく","meaning_zh":"协力；合作","meaning_en":"cooperation","level":"N3","pos":"noun"},
-{"id":"n3-0112","word":"許可","reading":"きょか","meaning_zh":"许可","meaning_en":"permission","level":"N3","pos":"noun"},
-{"id":"n3-0113","word":"距離","reading":"きょり","meaning_zh":"距离","meaning_en":"distance","level":"N3","pos":"noun"},
-{"id":"n3-0114","word":"禁止","reading":"きんし","meaning_zh":"禁止","meaning_en":"prohibition","level":"N3","pos":"noun"},
-{"id":"n3-0115","word":"金属","reading":"きんぞく","meaning_zh":"金属","meaning_en":"metal","level":"N3","pos":"noun"},
-{"id":"n3-0116","word":"偶然","reading":"ぐうぜん","meaning_zh":"偶然","meaning_en":"coincidence; by chance","level":"N3","pos":"noun"},
-{"id":"n3-0117","word":"苦労","reading":"くろう","meaning_zh":"辛苦；辛劳","meaning_en":"hardship; trouble","level":"N3","pos":"noun"},
-{"id":"n3-0118","word":"訓練","reading":"くんれん","meaning_zh":"训练","meaning_en":"training","level":"N3","pos":"noun"},
-{"id":"n3-0119","word":"計算","reading":"けいさん","meaning_zh":"计算","meaning_en":"calculation","level":"N3","pos":"noun"},
-{"id":"n3-0120","word":"芸術","reading":"げいじゅつ","meaning_zh":"艺术","meaning_en":"art","level":"N3","pos":"noun"},
-{"id":"n3-0121","word":"血液","reading":"けつえき","meaning_zh":"血液","meaning_en":"blood","level":"N3","pos":"noun"},
-{"id":"n3-0122","word":"欠点","reading":"けってん","meaning_zh":"缺点","meaning_en":"fault; shortcoming","level":"N3","pos":"noun"},
-{"id":"n3-0123","word":"決定","reading":"けってい","meaning_zh":"决定","meaning_en":"decision","level":"N3","pos":"noun"},
-{"id":"n3-0124","word":"結論","reading":"けつろん","meaning_zh":"结论","meaning_en":"conclusion","level":"N3","pos":"noun"},
-{"id":"n3-0125","word":"原料","reading":"げんりょう","meaning_zh":"原料","meaning_en":"raw material","level":"N3","pos":"noun"},
-{"id":"n3-0126","word":"効果","reading":"こうか","meaning_zh":"效果","meaning_en":"effect","level":"N3","pos":"noun"},
-{"id":"n3-0127","word":"合格","reading":"ごうかく","meaning_zh":"合格；考上","meaning_en":"passing (an exam)","level":"N3","pos":"noun"},
-{"id":"n3-0128","word":"交換","reading":"こうかん","meaning_zh":"交换","meaning_en":"exchange","level":"N3","pos":"noun"},
-{"id":"n3-0129","word":"講義","reading":"こうぎ","meaning_zh":"讲课；讲座","meaning_en":"lecture","level":"N3","pos":"noun"},
-{"id":"n3-0130","word":"行動","reading":"こうどう","meaning_zh":"行动","meaning_en":"action; behavior","level":"N3","pos":"noun"},
-{"id":"n3-0131","word":"幸福","reading":"こうふく","meaning_zh":"幸福","meaning_en":"happiness","level":"N3","pos":"noun"},
-{"id":"n3-0132","word":"呼吸","reading":"こきゅう","meaning_zh":"呼吸","meaning_en":"breathing","level":"N3","pos":"noun"},
-{"id":"n3-0133","word":"国籍","reading":"こくせき","meaning_zh":"国籍","meaning_en":"nationality","level":"N3","pos":"noun"},
-{"id":"n3-0134","word":"個人","reading":"こじん","meaning_zh":"个人","meaning_en":"individual","level":"N3","pos":"noun"},
-{"id":"n3-0135","word":"混雑","reading":"こんざつ","meaning_zh":"拥挤；混杂","meaning_en":"congestion; crowding","level":"N3","pos":"noun"},
-{"id":"n3-0136","word":"今後","reading":"こんご","meaning_zh":"今后","meaning_en":"from now on; hereafter","level":"N3","pos":"noun"},
-{"id":"n3-0137","word":"差別","reading":"さべつ","meaning_zh":"歧视；差别","meaning_en":"discrimination","level":"N3","pos":"noun"},
-{"id":"n3-0138","word":"作業","reading":"さぎょう","meaning_zh":"作业；操作；工作","meaning_en":"work; operation","level":"N3","pos":"noun"},
-{"id":"n3-0139","word":"作者","reading":"さくしゃ","meaning_zh":"作者","meaning_en":"author","level":"N3","pos":"noun"},
-{"id":"n3-0140","word":"座席","reading":"ざせき","meaning_zh":"座位","meaning_en":"seat","level":"N3","pos":"noun"},
-{"id":"n3-0141","word":"撮影","reading":"さつえい","meaning_zh":"摄影；拍摄","meaning_en":"photography; filming","level":"N3","pos":"noun"},
-{"id":"n3-0142","word":"参加","reading":"さんか","meaning_zh":"参加","meaning_en":"participation","level":"N3","pos":"noun"},
-{"id":"n3-0143","word":"賛成","reading":"さんせい","meaning_zh":"赞成","meaning_en":"approval; agreement","level":"N3","pos":"noun"},
-{"id":"n3-0144","word":"資源","reading":"しげん","meaning_zh":"资源","meaning_en":"resources","level":"N3","pos":"noun"},
-{"id":"n3-0145","word":"姿勢","reading":"しせい","meaning_zh":"姿势；态度","meaning_en":"posture; attitude","level":"N3","pos":"noun"},
-{"id":"n3-0146","word":"施設","reading":"しせつ","meaning_zh":"设施","meaning_en":"facility; institution","level":"N3","pos":"noun"},
-{"id":"n3-0147","word":"自信","reading":"じしん","meaning_zh":"自信","meaning_en":"confidence","level":"N3","pos":"noun"},
-{"id":"n3-0148","word":"実験","reading":"じっけん","meaning_zh":"实验","meaning_en":"experiment","level":"N3","pos":"noun"},
-{"id":"n3-0149","word":"実力","reading":"じつりょく","meaning_zh":"实力","meaning_en":"real ability","level":"N3","pos":"noun"},
-{"id":"n3-0150","word":"指導","reading":"しどう","meaning_zh":"指导","meaning_en":"guidance; coaching","level":"N3","pos":"noun"},
-{"id":"n3-0151","word":"支払い","reading":"しはらい","meaning_zh":"支付；付款","meaning_en":"payment","level":"N3","pos":"noun"},
-{"id":"n3-0152","word":"集中","reading":"しゅうちゅう","meaning_zh":"集中","meaning_en":"concentration","level":"N3","pos":"noun"},
-{"id":"n3-0153","word":"習慣","reading":"しゅうかん","meaning_zh":"习惯","meaning_en":"habit; custom","level":"N3","pos":"noun"},
-{"id":"n3-0154","word":"渋滞","reading":"じゅうたい","meaning_zh":"堵车；拥堵","meaning_en":"traffic jam; congestion","level":"N3","pos":"noun"},
-{"id":"n3-0155","word":"住宅","reading":"じゅうたく","meaning_zh":"住宅","meaning_en":"housing; residence","level":"N3","pos":"noun"},
-{"id":"n3-0156","word":"周囲","reading":"しゅうい","meaning_zh":"周围","meaning_en":"surroundings","level":"N3","pos":"noun"},
-{"id":"n3-0157","word":"手術","reading":"しゅじゅつ","meaning_zh":"手术","meaning_en":"surgery; operation","level":"N3","pos":"noun"},
-{"id":"n3-0158","word":"首相","reading":"しゅしょう","meaning_zh":"首相","meaning_en":"prime minister","level":"N3","pos":"noun"},
-{"id":"n3-0159","word":"出身","reading":"しゅっしん","meaning_zh":"出身；籍贯","meaning_en":"hometown; origin","level":"N3","pos":"noun"},
-{"id":"n3-0160","word":"種類","reading":"しゅるい","meaning_zh":"种类","meaning_en":"kind; type","level":"N3","pos":"noun"},
-{"id":"n3-0161","word":"順番","reading":"じゅんばん","meaning_zh":"顺序；轮流","meaning_en":"order; turn","level":"N3","pos":"noun"},
-{"id":"n3-0162","word":"使用","reading":"しよう","meaning_zh":"使用","meaning_en":"use; utilization","level":"N3","pos":"noun"},
-{"id":"n3-0163","word":"賞金","reading":"しょうきん","meaning_zh":"奖金","meaning_en":"prize money","level":"N3","pos":"noun"},
-{"id":"n3-0164","word":"商売","reading":"しょうばい","meaning_zh":"生意；买卖","meaning_en":"business; trade","level":"N3","pos":"noun"},
-{"id":"n3-0165","word":"正面","reading":"しょうめん","meaning_zh":"正面","meaning_en":"front; facade","level":"N3","pos":"noun"},
-{"id":"n3-0166","word":"女優","reading":"じょゆう","meaning_zh":"女演员","meaning_en":"actress","level":"N3","pos":"noun"},
-{"id":"n3-0167","word":"深夜","reading":"しんや","meaning_zh":"深夜","meaning_en":"late at night; midnight","level":"N3","pos":"noun"},
-{"id":"n3-0168","word":"身長","reading":"しんちょう","meaning_zh":"身高","meaning_en":"height (of a person)","level":"N3","pos":"noun"},
-{"id":"n3-0169","word":"信号","reading":"しんごう","meaning_zh":"信号；红绿灯","meaning_en":"signal; traffic light","level":"N3","pos":"noun"},
-{"id":"n3-0170","word":"人生","reading":"じんせい","meaning_zh":"人生","meaning_en":"(human) life","level":"N3","pos":"noun"},
-{"id":"n3-0171","word":"親戚","reading":"しんせき","meaning_zh":"亲戚","meaning_en":"relatives","level":"N3","pos":"noun"},
-{"id":"n3-0172","word":"数字","reading":"すうじ","meaning_zh":"数字","meaning_en":"number; figure","level":"N3","pos":"noun"},
-{"id":"n3-0173","word":"頭痛","reading":"ずつう","meaning_zh":"头痛","meaning_en":"headache","level":"N3","pos":"noun"},
-{"id":"n3-0174","word":"制服","reading":"せいふく","meaning_zh":"制服","meaning_en":"uniform","level":"N3","pos":"noun"},
-{"id":"n3-0175","word":"成功","reading":"せいこう","meaning_zh":"成功","meaning_en":"success","level":"N3","pos":"noun"},
-{"id":"n3-0176","word":"成績","reading":"せいせき","meaning_zh":"成绩","meaning_en":"grades; results","level":"N3","pos":"noun"},
-{"id":"n3-0177","word":"成長","reading":"せいちょう","meaning_zh":"成长","meaning_en":"growth","level":"N3","pos":"noun"},
-{"id":"n3-0178","word":"整理","reading":"せいり","meaning_zh":"整理","meaning_en":"organizing; sorting","level":"N3","pos":"noun"},
-{"id":"n3-0179","word":"責任","reading":"せきにん","meaning_zh":"责任","meaning_en":"responsibility","level":"N3","pos":"noun"},
-{"id":"n3-0180","word":"世間","reading":"せけん","meaning_zh":"世间；社会","meaning_en":"the world; society","level":"N3","pos":"noun"},
-{"id":"n3-0181","word":"世紀","reading":"せいき","meaning_zh":"世纪","meaning_en":"century","level":"N3","pos":"noun"},
-{"id":"n3-0182","word":"選挙","reading":"せんきょ","meaning_zh":"选举","meaning_en":"election","level":"N3","pos":"noun"},
-{"id":"n3-0183","word":"宣伝","reading":"せんでん","meaning_zh":"宣传","meaning_en":"advertising; publicity","level":"N3","pos":"noun"},
-{"id":"n3-0184","word":"全体","reading":"ぜんたい","meaning_zh":"全体；整体","meaning_en":"the whole; entirety","level":"N3","pos":"noun"},
-{"id":"n3-0185","word":"送料","reading":"そうりょう","meaning_zh":"运费；邮费","meaning_en":"shipping fee; postage","level":"N3","pos":"noun"},
-{"id":"n3-0186","word":"祖先","reading":"そせん","meaning_zh":"祖先","meaning_en":"ancestor","level":"N3","pos":"noun"},
-{"id":"n3-0187","word":"損","reading":"そん","meaning_zh":"损失；吃亏","meaning_en":"loss; disadvantage","level":"N3","pos":"noun"},
-{"id":"n3-0188","word":"尊敬","reading":"そんけい","meaning_zh":"尊敬","meaning_en":"respect","level":"N3","pos":"noun"},
-{"id":"n3-0189","word":"存在","reading":"そんざい","meaning_zh":"存在","meaning_en":"existence","level":"N3","pos":"noun"},
-{"id":"n3-0190","word":"態度","reading":"たいど","meaning_zh":"态度","meaning_en":"attitude","level":"N3","pos":"noun"},
-{"id":"n3-0191","word":"対象","reading":"たいしょう","meaning_zh":"对象；目标","meaning_en":"target; object","level":"N3","pos":"noun"},
-{"id":"n3-0192","word":"大陸","reading":"たいりく","meaning_zh":"大陆","meaning_en":"continent","level":"N3","pos":"noun"},
-{"id":"n3-0193","word":"立場","reading":"たちば","meaning_zh":"立场","meaning_en":"standpoint; position","level":"N3","pos":"noun"},
-{"id":"n3-0194","word":"谷","reading":"たに","meaning_zh":"山谷","meaning_en":"valley","level":"N3","pos":"noun"},
-{"id":"n3-0195","word":"他人","reading":"たにん","meaning_zh":"他人；别人","meaning_en":"other people; stranger","level":"N3","pos":"noun"},
-{"id":"n3-0196","word":"頼み","reading":"たのみ","meaning_zh":"请求；恳求","meaning_en":"request; favor","level":"N3","pos":"noun"},
-{"id":"n3-0197","word":"地域","reading":"ちいき","meaning_zh":"地区","meaning_en":"region; area","level":"N3","pos":"noun"},
-{"id":"n3-0198","word":"地下","reading":"ちか","meaning_zh":"地下","meaning_en":"underground","level":"N3","pos":"noun"},
-{"id":"n3-0199","word":"知恵","reading":"ちえ","meaning_zh":"智慧","meaning_en":"wisdom","level":"N3","pos":"noun"},
-{"id":"n3-0200","word":"中古","reading":"ちゅうこ","meaning_zh":"二手；旧货","meaning_en":"secondhand","level":"N3","pos":"noun"},
-{"id":"n3-0201","word":"注目","reading":"ちゅうもく","meaning_zh":"注目；关注","meaning_en":"attention; notice","level":"N3","pos":"noun"},
-{"id":"n3-0202","word":"調査","reading":"ちょうさ","meaning_zh":"调查","meaning_en":"investigation; survey","level":"N3","pos":"noun"},
-{"id":"n3-0203","word":"調子","reading":"ちょうし","meaning_zh":"状态；情况","meaning_en":"condition; state","level":"N3","pos":"noun"},
-{"id":"n3-0204","word":"直接","reading":"ちょくせつ","meaning_zh":"直接","meaning_en":"directly","level":"N3","pos":"adv"},
-{"id":"n3-0205","word":"通勤","reading":"つうきん","meaning_zh":"通勤；上下班","meaning_en":"commuting to work","level":"N3","pos":"noun"},
-{"id":"n3-0206","word":"通訳","reading":"つうやく","meaning_zh":"口译；口译员","meaning_en":"interpretation; interpreter","level":"N3","pos":"noun"},
-{"id":"n3-0207","word":"罪","reading":"つみ","meaning_zh":"罪；罪过","meaning_en":"crime; sin","level":"N3","pos":"noun"},
-{"id":"n3-0208","word":"提案","reading":"ていあん","meaning_zh":"提案；建议","meaning_en":"proposal; suggestion","level":"N3","pos":"noun"},
-{"id":"n3-0209","word":"程度","reading":"ていど","meaning_zh":"程度","meaning_en":"degree; extent","level":"N3","pos":"noun"},
-{"id":"n3-0210","word":"停電","reading":"ていでん","meaning_zh":"停电","meaning_en":"power outage","level":"N3","pos":"noun"},
-{"id":"n3-0211","word":"手続き","reading":"てつづき","meaning_zh":"手续","meaning_en":"procedure; formalities","level":"N3","pos":"noun"},
-{"id":"n3-0212","word":"徹夜","reading":"てつや","meaning_zh":"通宵；熬夜","meaning_en":"staying up all night","level":"N3","pos":"noun"},
-{"id":"n3-0213","word":"伝統","reading":"でんとう","meaning_zh":"传统","meaning_en":"tradition","level":"N3","pos":"noun"},
-{"id":"n3-0214","word":"登場","reading":"とうじょう","meaning_zh":"登场；出场","meaning_en":"appearance (on stage); entry","level":"N3","pos":"noun"},
-{"id":"n3-0215","word":"到着","reading":"とうちゃく","meaning_zh":"到达","meaning_en":"arrival","level":"N3","pos":"noun"},
-{"id":"n3-0216","word":"道路","reading":"どうろ","meaning_zh":"道路","meaning_en":"road","level":"N3","pos":"noun"},
-{"id":"n3-0217","word":"都会","reading":"とかい","meaning_zh":"都市；城市","meaning_en":"city; urban area","level":"N3","pos":"noun"},
-{"id":"n3-0218","word":"得意","reading":"とくい","meaning_zh":"擅长；拿手","meaning_en":"good at; one's strong point","level":"N3","pos":"na-adj"},
-{"id":"n3-0219","word":"読書","reading":"どくしょ","meaning_zh":"读书；阅读","meaning_en":"reading (books)","level":"N3","pos":"noun"},
-{"id":"n3-0220","word":"独身","reading":"どくしん","meaning_zh":"单身","meaning_en":"single; unmarried","level":"N3","pos":"noun"},
-{"id":"n3-0221","word":"登山","reading":"とざん","meaning_zh":"登山","meaning_en":"mountain climbing","level":"N3","pos":"noun"},
-{"id":"n3-0222","word":"土地","reading":"とち","meaning_zh":"土地","meaning_en":"land; plot of land","level":"N3","pos":"noun"},
-{"id":"n3-0223","word":"泥棒","reading":"どろぼう","meaning_zh":"小偷","meaning_en":"thief","level":"N3","pos":"noun"},
-{"id":"n3-0224","word":"仲間","reading":"なかま","meaning_zh":"伙伴；同伴","meaning_en":"companion; colleague","level":"N3","pos":"noun"},
-{"id":"n3-0225","word":"中身","reading":"なかみ","meaning_zh":"内容；里面的东西","meaning_en":"contents","level":"N3","pos":"noun"},
-{"id":"n3-0226","word":"納得","reading":"なっとく","meaning_zh":"理解；信服","meaning_en":"understanding; being convinced","level":"N3","pos":"noun"},
-{"id":"n3-0227","word":"悩み","reading":"なやみ","meaning_zh":"烦恼","meaning_en":"worry; trouble","level":"N3","pos":"noun"},
-{"id":"n3-0228","word":"日常","reading":"にちじょう","meaning_zh":"日常","meaning_en":"everyday; daily life","level":"N3","pos":"noun"},
-{"id":"n3-0229","word":"人間","reading":"にんげん","meaning_zh":"人；人类","meaning_en":"human being","level":"N3","pos":"noun"},
-{"id":"n3-0230","word":"値上げ","reading":"ねあげ","meaning_zh":"涨价","meaning_en":"price increase","level":"N3","pos":"noun"},
-{"id":"n3-0231","word":"年齢","reading":"ねんれい","meaning_zh":"年龄","meaning_en":"age","level":"N3","pos":"noun"},
-{"id":"n3-0232","word":"農家","reading":"のうか","meaning_zh":"农家；农户","meaning_en":"farm household; farmer","level":"N3","pos":"noun"},
-{"id":"n3-0233","word":"能力","reading":"のうりょく","meaning_zh":"能力","meaning_en":"ability; capability","level":"N3","pos":"noun"},
-{"id":"n3-0234","word":"場面","reading":"ばめん","meaning_zh":"场面；场景","meaning_en":"scene; situation","level":"N3","pos":"noun"},
-{"id":"n3-0235","word":"犯罪","reading":"はんざい","meaning_zh":"犯罪","meaning_en":"crime","level":"N3","pos":"noun"},
-{"id":"n3-0236","word":"犯人","reading":"はんにん","meaning_zh":"犯人；罪犯","meaning_en":"criminal; culprit","level":"N3","pos":"noun"},
-{"id":"n3-0237","word":"判断","reading":"はんだん","meaning_zh":"判断","meaning_en":"judgment; decision","level":"N3","pos":"noun"},
-{"id":"n3-0238","word":"被害","reading":"ひがい","meaning_zh":"受害；损失","meaning_en":"damage; harm","level":"N3","pos":"noun"},
-{"id":"n3-0239","word":"比較","reading":"ひかく","meaning_zh":"比较","meaning_en":"comparison","level":"N3","pos":"noun"},
-{"id":"n3-0240","word":"秘密","reading":"ひみつ","meaning_zh":"秘密","meaning_en":"secret","level":"N3","pos":"noun"},
-{"id":"n3-0241","word":"表現","reading":"ひょうげん","meaning_zh":"表现；表达","meaning_en":"expression","level":"N3","pos":"noun"},
-{"id":"n3-0242","word":"評判","reading":"ひょうばん","meaning_zh":"评价；名声","meaning_en":"reputation","level":"N3","pos":"noun"},
-{"id":"n3-0243","word":"表面","reading":"ひょうめん","meaning_zh":"表面","meaning_en":"surface","level":"N3","pos":"noun"},
-{"id":"n3-0244","word":"双子","reading":"ふたご","meaning_zh":"双胞胎","meaning_en":"twins","level":"N3","pos":"noun"},
-{"id":"n3-0245","word":"物価","reading":"ぶっか","meaning_zh":"物价","meaning_en":"prices (of commodities)","level":"N3","pos":"noun"},
-{"id":"n3-0246","word":"部分","reading":"ぶぶん","meaning_zh":"部分","meaning_en":"part; portion","level":"N3","pos":"noun"},
-{"id":"n3-0247","word":"文章","reading":"ぶんしょう","meaning_zh":"文章","meaning_en":"writing; text","level":"N3","pos":"noun"},
-{"id":"n3-0248","word":"平均","reading":"へいきん","meaning_zh":"平均","meaning_en":"average","level":"N3","pos":"noun"},
-{"id":"n3-0249","word":"変化","reading":"へんか","meaning_zh":"变化","meaning_en":"change","level":"N3","pos":"noun"},
-{"id":"n3-0250","word":"方向","reading":"ほうこう","meaning_zh":"方向","meaning_en":"direction","level":"N3","pos":"noun"},
-{"id":"n3-0251","word":"方法","reading":"ほうほう","meaning_zh":"方法","meaning_en":"method; way","level":"N3","pos":"noun"},
-{"id":"n3-0252","word":"法律","reading":"ほうりつ","meaning_zh":"法律","meaning_en":"law","level":"N3","pos":"noun"},
-{"id":"n3-0253","word":"募集","reading":"ぼしゅう","meaning_zh":"招募；征集","meaning_en":"recruitment","level":"N3","pos":"noun"},
-{"id":"n3-0254","word":"骨","reading":"ほね","meaning_zh":"骨头","meaning_en":"bone","level":"N3","pos":"noun"},
-{"id":"n3-0255","word":"翻訳","reading":"ほんやく","meaning_zh":"翻译","meaning_en":"translation","level":"N3","pos":"noun"},
-{"id":"n3-0256","word":"迷惑","reading":"めいわく","meaning_zh":"麻烦；打扰","meaning_en":"trouble; nuisance","level":"N3","pos":"noun"},
-{"id":"n3-0257","word":"命","reading":"いのち","meaning_zh":"生命","meaning_en":"life","level":"N3","pos":"noun"},
-{"id":"n3-0258","word":"面倒","reading":"めんどう","meaning_zh":"麻烦；费事","meaning_en":"troublesome; bother","level":"N3","pos":"na-adj"},
-{"id":"n3-0259","word":"文句","reading":"もんく","meaning_zh":"抱怨；牢骚","meaning_en":"complaint","level":"N3","pos":"noun"},
-{"id":"n3-0260","word":"役割","reading":"やくわり","meaning_zh":"角色；任务","meaning_en":"role; part","level":"N3","pos":"noun"},
-{"id":"n3-0261","word":"家賃","reading":"やちん","meaning_zh":"房租","meaning_en":"rent","level":"N3","pos":"noun"},
-{"id":"n3-0262","word":"有料","reading":"ゆうりょう","meaning_zh":"收费","meaning_en":"fee-charging; paid","level":"N3","pos":"noun"},
-{"id":"n3-0263","word":"無料","reading":"むりょう","meaning_zh":"免费","meaning_en":"free of charge","level":"N3","pos":"noun"},
-{"id":"n3-0264","word":"床","reading":"ゆか","meaning_zh":"地板","meaning_en":"floor","level":"N3","pos":"noun"},
-{"id":"n3-0265","word":"行方","reading":"ゆくえ","meaning_zh":"去向；下落","meaning_en":"whereabouts","level":"N3","pos":"noun"},
-{"id":"n3-0266","word":"夜明け","reading":"よあけ","meaning_zh":"黎明","meaning_en":"dawn","level":"N3","pos":"noun"},
-{"id":"n3-0267","word":"予算","reading":"よさん","meaning_zh":"预算","meaning_en":"budget","level":"N3","pos":"noun"},
-{"id":"n3-0268","word":"世の中","reading":"よのなか","meaning_zh":"世间；社会","meaning_en":"the world; society","level":"N3","pos":"noun"},
-{"id":"n3-0269","word":"理解","reading":"りかい","meaning_zh":"理解","meaning_en":"understanding","level":"N3","pos":"noun"},
-{"id":"n3-0270","word":"流行","reading":"りゅうこう","meaning_zh":"流行","meaning_en":"fashion; trend","level":"N3","pos":"noun"},
-{"id":"n3-0271","word":"両替","reading":"りょうがえ","meaning_zh":"兑换（货币）","meaning_en":"currency exchange","level":"N3","pos":"noun"},
-{"id":"n3-0272","word":"割合","reading":"わりあい","meaning_zh":"比例","meaning_en":"ratio; percentage","level":"N3","pos":"noun"},
-{"id":"n3-0273","word":"割引","reading":"わりびき","meaning_zh":"折扣","meaning_en":"discount","level":"N3","pos":"noun"},
-{"id":"n3-0274","word":"悪口","reading":"わるぐち","meaning_zh":"坏话","meaning_en":"bad-mouthing; speaking ill","level":"N3","pos":"noun"},
-{"id":"n3-0275","word":"案","reading":"あん","meaning_zh":"方案；提案","meaning_en":"idea; proposal","level":"N3","pos":"noun"},
-{"id":"n3-0276","word":"与える","reading":"あたえる","meaning_zh":"给予","meaning_en":"to give; to provide","level":"N3","pos":"verb"},
-{"id":"n3-0277","word":"扱う","reading":"あつかう","meaning_zh":"处理；对待","meaning_en":"to handle; to deal with","level":"N3","pos":"verb"},
-{"id":"n3-0278","word":"表す","reading":"あらわす","meaning_zh":"表达；表示","meaning_en":"to express; to show","level":"N3","pos":"verb"},
-{"id":"n3-0279","word":"現れる","reading":"あらわれる","meaning_zh":"出现","meaning_en":"to appear","level":"N3","pos":"verb"},
-{"id":"n3-0280","word":"慌てる","reading":"あわてる","meaning_zh":"慌张","meaning_en":"to panic; to be flustered","level":"N3","pos":"verb"},
-{"id":"n3-0281","word":"祈る","reading":"いのる","meaning_zh":"祈祷；祝愿","meaning_en":"to pray; to wish","level":"N3","pos":"verb"},
-{"id":"n3-0282","word":"植える","reading":"うえる","meaning_zh":"种植","meaning_en":"to plant","level":"N3","pos":"verb"},
-{"id":"n3-0283","word":"浮かぶ","reading":"うかぶ","meaning_zh":"漂浮；浮现","meaning_en":"to float; to come to mind","level":"N3","pos":"verb"},
-{"id":"n3-0284","word":"受け取る","reading":"うけとる","meaning_zh":"接收；领取","meaning_en":"to receive; to accept","level":"N3","pos":"verb"},
-{"id":"n3-0285","word":"動かす","reading":"うごかす","meaning_zh":"移动；开动","meaning_en":"to move (something); to operate","level":"N3","pos":"verb"},
-{"id":"n3-0286","word":"疑う","reading":"うたがう","meaning_zh":"怀疑","meaning_en":"to doubt; to suspect","level":"N3","pos":"verb"},
-{"id":"n3-0287","word":"移す","reading":"うつす","meaning_zh":"移动；转移","meaning_en":"to move; to transfer","level":"N3","pos":"verb"},
-{"id":"n3-0288","word":"移る","reading":"うつる","meaning_zh":"迁移；转移","meaning_en":"to move; to shift","level":"N3","pos":"verb"},
-{"id":"n3-0289","word":"得る","reading":"える","meaning_zh":"得到；获得","meaning_en":"to obtain; to gain","level":"N3","pos":"verb"},
-{"id":"n3-0290","word":"追う","reading":"おう","meaning_zh":"追赶","meaning_en":"to chase; to pursue","level":"N3","pos":"verb"},
-{"id":"n3-0291","word":"抑える","reading":"おさえる","meaning_zh":"抑制；按住","meaning_en":"to suppress; to hold down","level":"N3","pos":"verb"},
-{"id":"n3-0292","word":"落ち着く","reading":"おちつく","meaning_zh":"冷静；安定","meaning_en":"to calm down; to settle down","level":"N3","pos":"verb"},
-{"id":"n3-0293","word":"抱える","reading":"かかえる","meaning_zh":"抱；承担","meaning_en":"to hold in one's arms; to have (problems)","level":"N3","pos":"verb"},
-{"id":"n3-0294","word":"輝く","reading":"かがやく","meaning_zh":"闪耀","meaning_en":"to shine; to sparkle","level":"N3","pos":"verb"},
-{"id":"n3-0295","word":"隠す","reading":"かくす","meaning_zh":"隐藏","meaning_en":"to hide (something)","level":"N3","pos":"verb"},
-{"id":"n3-0296","word":"隠れる","reading":"かくれる","meaning_zh":"躲藏","meaning_en":"to hide (oneself)","level":"N3","pos":"verb"},
-{"id":"n3-0297","word":"重ねる","reading":"かさねる","meaning_zh":"重叠；反复","meaning_en":"to pile up; to repeat","level":"N3","pos":"verb"},
-{"id":"n3-0298","word":"稼ぐ","reading":"かせぐ","meaning_zh":"赚钱","meaning_en":"to earn (money)","level":"N3","pos":"verb"},
-{"id":"n3-0299","word":"固まる","reading":"かたまる","meaning_zh":"凝固；聚集","meaning_en":"to harden; to gather","level":"N3","pos":"verb"},
-{"id":"n3-0300","word":"我慢する","reading":"がまんする","meaning_zh":"忍耐","meaning_en":"to endure; to put up with","level":"N3","pos":"verb"},
-{"id":"n3-0301","word":"感じる","reading":"かんじる","meaning_zh":"感觉；感到","meaning_en":"to feel","level":"N3","pos":"verb"},
-{"id":"n3-0302","word":"効く","reading":"きく","meaning_zh":"有效","meaning_en":"to be effective","level":"N3","pos":"verb"},
-{"id":"n3-0303","word":"気付く","reading":"きづく","meaning_zh":"察觉；注意到","meaning_en":"to notice; to realize","level":"N3","pos":"verb"},
-{"id":"n3-0304","word":"配る","reading":"くばる","meaning_zh":"分发","meaning_en":"to distribute; to hand out","level":"N3","pos":"verb"},
-{"id":"n3-0305","word":"加える","reading":"くわえる","meaning_zh":"加上；添加","meaning_en":"to add","level":"N3","pos":"verb"},
-{"id":"n3-0306","word":"加わる","reading":"くわわる","meaning_zh":"加入","meaning_en":"to join; to be added","level":"N3","pos":"verb"},
-{"id":"n3-0307","word":"暮らす","reading":"くらす","meaning_zh":"生活；过日子","meaning_en":"to live; to get along","level":"N3","pos":"verb"},
-{"id":"n3-0308","word":"苦しむ","reading":"くるしむ","meaning_zh":"痛苦；受苦","meaning_en":"to suffer","level":"N3","pos":"verb"},
-{"id":"n3-0309","word":"越える","reading":"こえる","meaning_zh":"越过；超过","meaning_en":"to cross; to exceed","level":"N3","pos":"verb"},
-{"id":"n3-0310","word":"転ぶ","reading":"ころぶ","meaning_zh":"摔倒","meaning_en":"to fall down","level":"N3","pos":"verb"},
-{"id":"n3-0311","word":"避ける","reading":"さける","meaning_zh":"避开；避免","meaning_en":"to avoid","level":"N3","pos":"verb"},
-{"id":"n3-0312","word":"支える","reading":"ささえる","meaning_zh":"支撑；支持","meaning_en":"to support","level":"N3","pos":"verb"},
-{"id":"n3-0313","word":"覚める","reading":"さめる","meaning_zh":"醒来；清醒","meaning_en":"to wake up; to become sober","level":"N3","pos":"verb"},
-{"id":"n3-0314","word":"去る","reading":"さる","meaning_zh":"离开","meaning_en":"to leave; to depart","level":"N3","pos":"verb"},
-{"id":"n3-0315","word":"沈む","reading":"しずむ","meaning_zh":"下沉","meaning_en":"to sink","level":"N3","pos":"verb"},
-{"id":"n3-0316","word":"従う","reading":"したがう","meaning_zh":"遵从；跟随","meaning_en":"to obey; to follow","level":"N3","pos":"verb"},
-{"id":"n3-0317","word":"支払う","reading":"しはらう","meaning_zh":"支付","meaning_en":"to pay","level":"N3","pos":"verb"},
-{"id":"n3-0318","word":"示す","reading":"しめす","meaning_zh":"表示；出示","meaning_en":"to show; to indicate","level":"N3","pos":"verb"},
-{"id":"n3-0319","word":"信じる","reading":"しんじる","meaning_zh":"相信","meaning_en":"to believe","level":"N3","pos":"verb"},
-{"id":"n3-0320","word":"過ごす","reading":"すごす","meaning_zh":"度过","meaning_en":"to spend (time)","level":"N3","pos":"verb"},
-{"id":"n3-0321","word":"進める","reading":"すすめる","meaning_zh":"推进","meaning_en":"to advance; to proceed with","level":"N3","pos":"verb"},
-{"id":"n3-0322","word":"勧める","reading":"すすめる","meaning_zh":"劝告；推荐","meaning_en":"to recommend; to advise","level":"N3","pos":"verb"},
-{"id":"n3-0323","word":"責める","reading":"せめる","meaning_zh":"责备","meaning_en":"to blame; to criticize","level":"N3","pos":"verb"},
-{"id":"n3-0324","word":"揃う","reading":"そろう","meaning_zh":"齐全；聚齐","meaning_en":"to be complete; to gather","level":"N3","pos":"verb"},
-{"id":"n3-0325","word":"揃える","reading":"そろえる","meaning_zh":"备齐；使一致","meaning_en":"to arrange; to make uniform","level":"N3","pos":"verb"},
-{"id":"n3-0326","word":"倒す","reading":"たおす","meaning_zh":"弄倒；打倒","meaning_en":"to knock down; to defeat","level":"N3","pos":"verb"},
-{"id":"n3-0327","word":"確かめる","reading":"たしかめる","meaning_zh":"确认；核实","meaning_en":"to make sure; to verify","level":"N3","pos":"verb"},
-{"id":"n3-0328","word":"戦う","reading":"たたかう","meaning_zh":"战斗；斗争","meaning_en":"to fight","level":"N3","pos":"verb"},
-{"id":"n3-0329","word":"畳む","reading":"たたむ","meaning_zh":"折叠","meaning_en":"to fold","level":"N3","pos":"verb"},
-{"id":"n3-0330","word":"経つ","reading":"たつ","meaning_zh":"（时间）流逝","meaning_en":"(time) to pass","level":"N3","pos":"verb"},
-{"id":"n3-0331","word":"頼る","reading":"たよる","meaning_zh":"依靠","meaning_en":"to rely on","level":"N3","pos":"verb"},
-{"id":"n3-0332","word":"黙る","reading":"だまる","meaning_zh":"沉默","meaning_en":"to be silent","level":"N3","pos":"verb"},
-{"id":"n3-0333","word":"貯める","reading":"ためる","meaning_zh":"储存；积攒","meaning_en":"to save up","level":"N3","pos":"verb"},
-{"id":"n3-0334","word":"保つ","reading":"たもつ","meaning_zh":"保持","meaning_en":"to maintain; to keep","level":"N3","pos":"verb"},
-{"id":"n3-0335","word":"散る","reading":"ちる","meaning_zh":"凋谢；散落","meaning_en":"to fall (petals); to scatter","level":"N3","pos":"verb"},
-{"id":"n3-0336","word":"捕まる","reading":"つかまる","meaning_zh":"被抓住","meaning_en":"to be caught","level":"N3","pos":"verb"},
-{"id":"n3-0337","word":"掴む","reading":"つかむ","meaning_zh":"抓住","meaning_en":"to grab; to grasp","level":"N3","pos":"verb"},
-{"id":"n3-0338","word":"付き合う","reading":"つきあう","meaning_zh":"交往；陪同","meaning_en":"to associate with; to date","level":"N3","pos":"verb"},
-{"id":"n3-0339","word":"繋ぐ","reading":"つなぐ","meaning_zh":"连接；系","meaning_en":"to connect; to tie","level":"N3","pos":"verb"},
-{"id":"n3-0340","word":"詰まる","reading":"つまる","meaning_zh":"堵塞；塞满","meaning_en":"to be blocked; to be packed","level":"N3","pos":"verb"},
-{"id":"n3-0341","word":"積む","reading":"つむ","meaning_zh":"堆积；积累","meaning_en":"to pile up; to accumulate","level":"N3","pos":"verb"},
-{"id":"n3-0342","word":"出会う","reading":"であう","meaning_zh":"邂逅；遇见","meaning_en":"to meet by chance; to encounter","level":"N3","pos":"verb"},
-{"id":"n3-0343","word":"溶ける","reading":"とける","meaning_zh":"融化；溶解","meaning_en":"to melt; to dissolve","level":"N3","pos":"verb"},
-{"id":"n3-0344","word":"飛ばす","reading":"とばす","meaning_zh":"使飞；跳过","meaning_en":"to let fly; to skip","level":"N3","pos":"verb"},
-{"id":"n3-0345","word":"泊める","reading":"とめる","meaning_zh":"留宿","meaning_en":"to put (someone) up for the night","level":"N3","pos":"verb"},
-{"id":"n3-0346","word":"眺める","reading":"ながめる","meaning_zh":"眺望；凝视","meaning_en":"to gaze at; to view","level":"N3","pos":"verb"},
-{"id":"n3-0347","word":"流す","reading":"ながす","meaning_zh":"冲走；使流动","meaning_en":"to let flow; to wash away","level":"N3","pos":"verb"},
-{"id":"n3-0348","word":"流れる","reading":"ながれる","meaning_zh":"流动","meaning_en":"to flow","level":"N3","pos":"verb"},
-{"id":"n3-0349","word":"悩む","reading":"なやむ","meaning_zh":"烦恼","meaning_en":"to worry; to be troubled","level":"N3","pos":"verb"},
-{"id":"n3-0350","word":"握る","reading":"にぎる","meaning_zh":"握；抓","meaning_en":"to grip; to grasp","level":"N3","pos":"verb"},
-{"id":"n3-0351","word":"抜く","reading":"ぬく","meaning_zh":"拔出；超过","meaning_en":"to pull out; to overtake","level":"N3","pos":"verb"},
-{"id":"n3-0352","word":"抜ける","reading":"ぬける","meaning_zh":"脱落；穿过","meaning_en":"to come out; to pass through","level":"N3","pos":"verb"},
-{"id":"n3-0353","word":"願う","reading":"ねがう","meaning_zh":"希望；请求","meaning_en":"to wish; to request","level":"N3","pos":"verb"},
-{"id":"n3-0354","word":"残す","reading":"のこす","meaning_zh":"留下；剩下","meaning_en":"to leave behind","level":"N3","pos":"verb"},
-{"id":"n3-0355","word":"除く","reading":"のぞく","meaning_zh":"除去；除外","meaning_en":"to remove; to exclude","level":"N3","pos":"verb"},
-{"id":"n3-0356","word":"望む","reading":"のぞむ","meaning_zh":"希望；盼望","meaning_en":"to hope for; to desire","level":"N3","pos":"verb"},
-{"id":"n3-0357","word":"伸ばす","reading":"のばす","meaning_zh":"伸长；延长","meaning_en":"to extend; to stretch","level":"N3","pos":"verb"},
-{"id":"n3-0358","word":"伸びる","reading":"のびる","meaning_zh":"增长；伸长","meaning_en":"to grow; to stretch","level":"N3","pos":"verb"},
-{"id":"n3-0359","word":"述べる","reading":"のべる","meaning_zh":"叙述；陈述","meaning_en":"to state; to mention","level":"N3","pos":"verb"},
-{"id":"n3-0360","word":"生える","reading":"はえる","meaning_zh":"生长","meaning_en":"to grow (plants, hair)","level":"N3","pos":"verb"},
-{"id":"n3-0361","word":"測る","reading":"はかる","meaning_zh":"测量","meaning_en":"to measure","level":"N3","pos":"verb"},
-{"id":"n3-0362","word":"外す","reading":"はずす","meaning_zh":"取下；摘下","meaning_en":"to remove; to take off","level":"N3","pos":"verb"},
-{"id":"n3-0363","word":"離す","reading":"はなす","meaning_zh":"放开；隔开","meaning_en":"to release; to separate","level":"N3","pos":"verb"},
-{"id":"n3-0364","word":"離れる","reading":"はなれる","meaning_zh":"离开；远离","meaning_en":"to leave; to be apart","level":"N3","pos":"verb"},
-{"id":"n3-0365","word":"冷える","reading":"ひえる","meaning_zh":"变冷","meaning_en":"to get cold","level":"N3","pos":"verb"},
-{"id":"n3-0366","word":"広げる","reading":"ひろげる","meaning_zh":"展开；扩大","meaning_en":"to spread; to expand","level":"N3","pos":"verb"},
-{"id":"n3-0367","word":"増やす","reading":"ふやす","meaning_zh":"增加","meaning_en":"to increase (something)","level":"N3","pos":"verb"},
-{"id":"n3-0368","word":"振る","reading":"ふる","meaning_zh":"挥；摇","meaning_en":"to wave; to shake","level":"N3","pos":"verb"},
-{"id":"n3-0369","word":"減らす","reading":"へらす","meaning_zh":"减少","meaning_en":"to reduce","level":"N3","pos":"verb"},
-{"id":"n3-0370","word":"減る","reading":"へる","meaning_zh":"减少","meaning_en":"to decrease","level":"N3","pos":"verb"},
-{"id":"n3-0371","word":"混ぜる","reading":"まぜる","meaning_zh":"搅拌；混合","meaning_en":"to mix","level":"N3","pos":"verb"},
-{"id":"n3-0372","word":"学ぶ","reading":"まなぶ","meaning_zh":"学习","meaning_en":"to learn","level":"N3","pos":"verb"},
-{"id":"n3-0373","word":"守る","reading":"まもる","meaning_zh":"保护；遵守","meaning_en":"to protect; to obey","level":"N3","pos":"verb"},
-{"id":"n3-0374","word":"迷う","reading":"まよう","meaning_zh":"迷路；犹豫","meaning_en":"to get lost; to hesitate","level":"N3","pos":"verb"},
-{"id":"n3-0375","word":"向かう","reading":"むかう","meaning_zh":"朝向；前往","meaning_en":"to head toward; to face","level":"N3","pos":"verb"},
-{"id":"n3-0376","word":"結ぶ","reading":"むすぶ","meaning_zh":"系；结合","meaning_en":"to tie; to link","level":"N3","pos":"verb"},
-{"id":"n3-0377","word":"求める","reading":"もとめる","meaning_zh":"寻求；要求","meaning_en":"to seek; to request","level":"N3","pos":"verb"},
-{"id":"n3-0378","word":"戻す","reading":"もどす","meaning_zh":"放回；退回","meaning_en":"to return (something); to put back","level":"N3","pos":"verb"},
-{"id":"n3-0379","word":"雇う","reading":"やとう","meaning_zh":"雇用","meaning_en":"to hire; to employ","level":"N3","pos":"verb"},
-{"id":"n3-0380","word":"譲る","reading":"ゆずる","meaning_zh":"让给；转让","meaning_en":"to hand over; to yield","level":"N3","pos":"verb"},
-{"id":"n3-0381","word":"浅い","reading":"あさい","meaning_zh":"浅","meaning_en":"shallow","level":"N3","pos":"i-adj"},
-{"id":"n3-0382","word":"厚い","reading":"あつい","meaning_zh":"厚","meaning_en":"thick","level":"N3","pos":"i-adj"},
-{"id":"n3-0383","word":"険しい","reading":"けわしい","meaning_zh":"险峻；严峻","meaning_en":"steep; severe","level":"N3","pos":"i-adj"},
-{"id":"n3-0384","word":"詳しい","reading":"くわしい","meaning_zh":"详细；精通","meaning_en":"detailed; knowledgeable","level":"N3","pos":"i-adj"},
-{"id":"n3-0385","word":"貧しい","reading":"まずしい","meaning_zh":"贫穷","meaning_en":"poor","level":"N3","pos":"i-adj"},
-{"id":"n3-0386","word":"眩しい","reading":"まぶしい","meaning_zh":"刺眼；耀眼","meaning_en":"dazzling; glaring","level":"N3","pos":"i-adj"},
-{"id":"n3-0387","word":"蒸し暑い","reading":"むしあつい","meaning_zh":"闷热","meaning_en":"hot and humid","level":"N3","pos":"i-adj"},
-{"id":"n3-0388","word":"羨ましい","reading":"うらやましい","meaning_zh":"羡慕","meaning_en":"envious","level":"N3","pos":"i-adj"},
-{"id":"n3-0389","word":"新鮮","reading":"しんせん","meaning_zh":"新鲜","meaning_en":"fresh","level":"N3","pos":"na-adj"},
-{"id":"n3-0390","word":"正直","reading":"しょうじき","meaning_zh":"诚实；老实","meaning_en":"honest","level":"N3","pos":"na-adj"},
-{"id":"n3-0391","word":"単純","reading":"たんじゅん","meaning_zh":"单纯；简单","meaning_en":"simple","level":"N3","pos":"na-adj"},
-{"id":"n3-0392","word":"複雑","reading":"ふくざつ","meaning_zh":"复杂","meaning_en":"complicated","level":"N3","pos":"na-adj"},
-{"id":"n3-0393","word":"豊か","reading":"ゆたか","meaning_zh":"丰富；富裕","meaning_en":"rich; abundant","level":"N3","pos":"na-adj"},
-{"id":"n3-0394","word":"かなり","reading":"かなり","meaning_zh":"相当；颇","meaning_en":"considerably; quite","level":"N3","pos":"adv"},
-{"id":"n3-0395","word":"突然","reading":"とつぜん","meaning_zh":"突然","meaning_en":"suddenly","level":"N3","pos":"adv"},
-{"id":"n3-0396","word":"やはり","reading":"やはり","meaning_zh":"果然；还是","meaning_en":"as expected; after all","level":"N3","pos":"adv"},
-{"id":"n3-0397","word":"むしろ","reading":"むしろ","meaning_zh":"宁可；反而","meaning_en":"rather; instead","level":"N3","pos":"adv"},
-{"id":"n3-0398","word":"つまり","reading":"つまり","meaning_zh":"也就是说；总之","meaning_en":"in other words; that is","level":"N3","pos":"conj"},
-{"id":"n3-0399","word":"しかも","reading":"しかも","meaning_zh":"而且","meaning_en":"moreover; furthermore","level":"N3","pos":"conj"},
-{"id":"n3-0400","word":"お互い","reading":"おたがい","meaning_zh":"互相；彼此","meaning_en":"each other; mutual","level":"N3","pos":"noun"}
+ {
+  "id": "n3-0001",
+  "word": "環境",
+  "reading": "かんきょう",
+  "meaning_zh": "环境",
+  "meaning_en": "environment",
+  "level": "N3",
+  "pos": "noun"
+ },
+ {
+  "id": "n3-0002",
+  "word": "影響",
+  "reading": "えいきょう",
+  "meaning_zh": "影响",
+  "meaning_en": "influence; effect",
+  "level": "N3",
+  "pos": "noun"
+ },
+ {
+  "id": "n3-0003",
+  "word": "確認する",
+  "reading": "かくにんする",
+  "meaning_zh": "确认",
+  "meaning_en": "to confirm; to check",
+  "level": "N3",
+  "pos": "verb"
+ },
+ {
+  "id": "n3-0004",
+  "word": "発展",
+  "reading": "はってん",
+  "meaning_zh": "发展",
+  "meaning_en": "development; growth",
+  "level": "N3",
+  "pos": "noun"
+ },
+ {
+  "id": "n3-0005",
+  "word": "印象",
+  "reading": "いんしょう",
+  "meaning_zh": "印象",
+  "meaning_en": "impression",
+  "level": "N3",
+  "pos": "noun"
+ },
+ {
+  "id": "n3-0006",
+  "word": "面接",
+  "reading": "めんせつ",
+  "meaning_zh": "面试",
+  "meaning_en": "interview",
+  "level": "N3",
+  "pos": "noun"
+ },
+ {
+  "id": "n3-0007",
+  "word": "経験",
+  "reading": "けいけん",
+  "meaning_zh": "经验；经历",
+  "meaning_en": "experience",
+  "level": "N3",
+  "pos": "noun"
+ },
+ {
+  "id": "n3-0008",
+  "word": "情報",
+  "reading": "じょうほう",
+  "meaning_zh": "信息；情报",
+  "meaning_en": "information",
+  "level": "N3",
+  "pos": "noun"
+ },
+ {
+  "id": "n3-0009",
+  "word": "状態",
+  "reading": "じょうたい",
+  "meaning_zh": "状态",
+  "meaning_en": "state; condition",
+  "level": "N3",
+  "pos": "noun"
+ },
+ {
+  "id": "n3-0010",
+  "word": "状況",
+  "reading": "じょうきょう",
+  "meaning_zh": "状况；情况",
+  "meaning_en": "situation; circumstances",
+  "level": "N3",
+  "pos": "noun"
+ },
+ {
+  "id": "n3-0011",
+  "word": "関係",
+  "reading": "かんけい",
+  "meaning_zh": "关系",
+  "meaning_en": "relation; relationship",
+  "level": "N3",
+  "pos": "noun"
+ },
+ {
+  "id": "n3-0012",
+  "word": "政治",
+  "reading": "せいじ",
+  "meaning_zh": "政治",
+  "meaning_en": "politics",
+  "level": "N3",
+  "pos": "noun"
+ },
+ {
+  "id": "n3-0013",
+  "word": "経済",
+  "reading": "けいざい",
+  "meaning_zh": "经济",
+  "meaning_en": "economy",
+  "level": "N3",
+  "pos": "noun"
+ },
+ {
+  "id": "n3-0014",
+  "word": "社会",
+  "reading": "しゃかい",
+  "meaning_zh": "社会",
+  "meaning_en": "society",
+  "level": "N3",
+  "pos": "noun"
+ },
+ {
+  "id": "n3-0015",
+  "word": "文化",
+  "reading": "ぶんか",
+  "meaning_zh": "文化",
+  "meaning_en": "culture",
+  "level": "N3",
+  "pos": "noun"
+ },
+ {
+  "id": "n3-0016",
+  "word": "自然",
+  "reading": "しぜん",
+  "meaning_zh": "自然",
+  "meaning_en": "nature",
+  "level": "N3",
+  "pos": "noun"
+ },
+ {
+  "id": "n3-0017",
+  "word": "地球",
+  "reading": "ちきゅう",
+  "meaning_zh": "地球",
+  "meaning_en": "the earth",
+  "level": "N3",
+  "pos": "noun"
+ },
+ {
+  "id": "n3-0018",
+  "word": "平和",
+  "reading": "へいわ",
+  "meaning_zh": "和平",
+  "meaning_en": "peace",
+  "level": "N3",
+  "pos": "noun"
+ },
+ {
+  "id": "n3-0019",
+  "word": "戦争",
+  "reading": "せんそう",
+  "meaning_zh": "战争",
+  "meaning_en": "war",
+  "level": "N3",
+  "pos": "noun"
+ },
+ {
+  "id": "n3-0020",
+  "word": "事件",
+  "reading": "じけん",
+  "meaning_zh": "事件；案件",
+  "meaning_en": "incident; case",
+  "level": "N3",
+  "pos": "noun"
+ },
+ {
+  "id": "n3-0021",
+  "word": "事故",
+  "reading": "じこ",
+  "meaning_zh": "事故",
+  "meaning_en": "accident",
+  "level": "N3",
+  "pos": "noun"
+ },
+ {
+  "id": "n3-0022",
+  "word": "原因",
+  "reading": "げんいん",
+  "meaning_zh": "原因",
+  "meaning_en": "cause",
+  "level": "N3",
+  "pos": "noun"
+ },
+ {
+  "id": "n3-0023",
+  "word": "結果",
+  "reading": "けっか",
+  "meaning_zh": "结果",
+  "meaning_en": "result",
+  "level": "N3",
+  "pos": "noun"
+ },
+ {
+  "id": "n3-0024",
+  "word": "目的",
+  "reading": "もくてき",
+  "meaning_zh": "目的",
+  "meaning_en": "purpose; aim",
+  "level": "N3",
+  "pos": "noun"
+ },
+ {
+  "id": "n3-0025",
+  "word": "目標",
+  "reading": "もくひょう",
+  "meaning_zh": "目标",
+  "meaning_en": "goal; target",
+  "level": "N3",
+  "pos": "noun"
+ },
+ {
+  "id": "n3-0026",
+  "word": "理由",
+  "reading": "りゆう",
+  "meaning_zh": "理由",
+  "meaning_en": "reason",
+  "level": "N3",
+  "pos": "noun"
+ },
+ {
+  "id": "n3-0027",
+  "word": "意見",
+  "reading": "いけん",
+  "meaning_zh": "意见",
+  "meaning_en": "opinion",
+  "level": "N3",
+  "pos": "noun"
+ },
+ {
+  "id": "n3-0028",
+  "word": "意識",
+  "reading": "いしき",
+  "meaning_zh": "意识",
+  "meaning_en": "consciousness; awareness",
+  "level": "N3",
+  "pos": "noun"
+ },
+ {
+  "id": "n3-0029",
+  "word": "知識",
+  "reading": "ちしき",
+  "meaning_zh": "知识",
+  "meaning_en": "knowledge",
+  "level": "N3",
+  "pos": "noun"
+ },
+ {
+  "id": "n3-0030",
+  "word": "常識",
+  "reading": "じょうしき",
+  "meaning_zh": "常识",
+  "meaning_en": "common sense",
+  "level": "N3",
+  "pos": "noun"
+ },
+ {
+  "id": "n3-0031",
+  "word": "記憶",
+  "reading": "きおく",
+  "meaning_zh": "记忆",
+  "meaning_en": "memory",
+  "level": "N3",
+  "pos": "noun"
+ },
+ {
+  "id": "n3-0032",
+  "word": "記録",
+  "reading": "きろく",
+  "meaning_zh": "记录",
+  "meaning_en": "record",
+  "level": "N3",
+  "pos": "noun"
+ },
+ {
+  "id": "n3-0033",
+  "word": "資料",
+  "reading": "しりょう",
+  "meaning_zh": "资料",
+  "meaning_en": "materials; data",
+  "level": "N3",
+  "pos": "noun"
+ },
+ {
+  "id": "n3-0034",
+  "word": "書類",
+  "reading": "しょるい",
+  "meaning_zh": "文件",
+  "meaning_en": "documents; papers",
+  "level": "N3",
+  "pos": "noun"
+ },
+ {
+  "id": "n3-0035",
+  "word": "命令",
+  "reading": "めいれい",
+  "meaning_zh": "命令",
+  "meaning_en": "order; command",
+  "level": "N3",
+  "pos": "noun"
+ },
+ {
+  "id": "n3-0036",
+  "word": "予想",
+  "reading": "よそう",
+  "meaning_zh": "预想；预测",
+  "meaning_en": "expectation; prediction",
+  "level": "N3",
+  "pos": "noun"
+ },
+ {
+  "id": "n3-0037",
+  "word": "想像",
+  "reading": "そうぞう",
+  "meaning_zh": "想象",
+  "meaning_en": "imagination",
+  "level": "N3",
+  "pos": "noun"
+ },
+ {
+  "id": "n3-0038",
+  "word": "感情",
+  "reading": "かんじょう",
+  "meaning_zh": "感情；情绪",
+  "meaning_en": "emotion; feelings",
+  "level": "N3",
+  "pos": "noun"
+ },
+ {
+  "id": "n3-0039",
+  "word": "感覚",
+  "reading": "かんかく",
+  "meaning_zh": "感觉",
+  "meaning_en": "sense; feeling",
+  "level": "N3",
+  "pos": "noun"
+ },
+ {
+  "id": "n3-0040",
+  "word": "性格",
+  "reading": "せいかく",
+  "meaning_zh": "性格",
+  "meaning_en": "personality; character",
+  "level": "N3",
+  "pos": "noun"
+ },
+ {
+  "id": "n3-0041",
+  "word": "性質",
+  "reading": "せいしつ",
+  "meaning_zh": "性质",
+  "meaning_en": "nature; property",
+  "level": "N3",
+  "pos": "noun"
+ },
+ {
+  "id": "n3-0042",
+  "word": "特徴",
+  "reading": "とくちょう",
+  "meaning_zh": "特征",
+  "meaning_en": "characteristic; feature",
+  "level": "N3",
+  "pos": "noun"
+ },
+ {
+  "id": "n3-0043",
+  "word": "条件",
+  "reading": "じょうけん",
+  "meaning_zh": "条件",
+  "meaning_en": "condition",
+  "level": "N3",
+  "pos": "noun"
+ },
+ {
+  "id": "n3-0044",
+  "word": "制度",
+  "reading": "せいど",
+  "meaning_zh": "制度",
+  "meaning_en": "system; institution",
+  "level": "N3",
+  "pos": "noun"
+ },
+ {
+  "id": "n3-0045",
+  "word": "政府",
+  "reading": "せいふ",
+  "meaning_zh": "政府",
+  "meaning_en": "government",
+  "level": "N3",
+  "pos": "noun"
+ },
+ {
+  "id": "n3-0046",
+  "word": "国際",
+  "reading": "こくさい",
+  "meaning_zh": "国际",
+  "meaning_en": "international",
+  "level": "N3",
+  "pos": "noun"
+ },
+ {
+  "id": "n3-0047",
+  "word": "国民",
+  "reading": "こくみん",
+  "meaning_zh": "国民",
+  "meaning_en": "the people; citizens",
+  "level": "N3",
+  "pos": "noun"
+ },
+ {
+  "id": "n3-0048",
+  "word": "人口",
+  "reading": "じんこう",
+  "meaning_zh": "人口",
+  "meaning_en": "population",
+  "level": "N3",
+  "pos": "noun"
+ },
+ {
+  "id": "n3-0049",
+  "word": "人類",
+  "reading": "じんるい",
+  "meaning_zh": "人类",
+  "meaning_en": "humanity; mankind",
+  "level": "N3",
+  "pos": "noun"
+ },
+ {
+  "id": "n3-0050",
+  "word": "男性",
+  "reading": "だんせい",
+  "meaning_zh": "男性",
+  "meaning_en": "male; man",
+  "level": "N3",
+  "pos": "noun"
+ },
+ {
+  "id": "n3-0051",
+  "word": "女性",
+  "reading": "じょせい",
+  "meaning_zh": "女性",
+  "meaning_en": "female; woman",
+  "level": "N3",
+  "pos": "noun"
+ },
+ {
+  "id": "n3-0052",
+  "word": "若者",
+  "reading": "わかもの",
+  "meaning_zh": "年轻人",
+  "meaning_en": "young person",
+  "level": "N3",
+  "pos": "noun"
+ },
+ {
+  "id": "n3-0053",
+  "word": "教育",
+  "reading": "きょういく",
+  "meaning_zh": "教育",
+  "meaning_en": "education",
+  "level": "N3",
+  "pos": "noun"
+ },
+ {
+  "id": "n3-0054",
+  "word": "科学",
+  "reading": "かがく",
+  "meaning_zh": "科学",
+  "meaning_en": "science",
+  "level": "N3",
+  "pos": "noun"
+ },
+ {
+  "id": "n3-0055",
+  "word": "技術",
+  "reading": "ぎじゅつ",
+  "meaning_zh": "技术",
+  "meaning_en": "technology; skill",
+  "level": "N3",
+  "pos": "noun"
+ },
+ {
+  "id": "n3-0056",
+  "word": "機械",
+  "reading": "きかい",
+  "meaning_zh": "机械；机器",
+  "meaning_en": "machine",
+  "level": "N3",
+  "pos": "noun"
+ },
+ {
+  "id": "n3-0057",
+  "word": "機会",
+  "reading": "きかい",
+  "meaning_zh": "机会",
+  "meaning_en": "opportunity; chance",
+  "level": "N3",
+  "pos": "noun"
+ },
+ {
+  "id": "n3-0058",
+  "word": "道具",
+  "reading": "どうぐ",
+  "meaning_zh": "工具",
+  "meaning_en": "tool",
+  "level": "N3",
+  "pos": "noun"
+ },
+ {
+  "id": "n3-0059",
+  "word": "材料",
+  "reading": "ざいりょう",
+  "meaning_zh": "材料；原料",
+  "meaning_en": "material; ingredient",
+  "level": "N3",
+  "pos": "noun"
+ },
+ {
+  "id": "n3-0060",
+  "word": "商品",
+  "reading": "しょうひん",
+  "meaning_zh": "商品",
+  "meaning_en": "goods; product",
+  "level": "N3",
+  "pos": "noun"
+ },
+ {
+  "id": "n3-0061",
+  "word": "製品",
+  "reading": "せいひん",
+  "meaning_zh": "产品",
+  "meaning_en": "product",
+  "level": "N3",
+  "pos": "noun"
+ },
+ {
+  "id": "n3-0062",
+  "word": "価格",
+  "reading": "かかく",
+  "meaning_zh": "价格",
+  "meaning_en": "price",
+  "level": "N3",
+  "pos": "noun"
+ },
+ {
+  "id": "n3-0063",
+  "word": "貿易",
+  "reading": "ぼうえき",
+  "meaning_zh": "贸易",
+  "meaning_en": "trade",
+  "level": "N3",
+  "pos": "noun"
+ },
+ {
+  "id": "n3-0064",
+  "word": "輸出",
+  "reading": "ゆしゅつ",
+  "meaning_zh": "出口",
+  "meaning_en": "export",
+  "level": "N3",
+  "pos": "noun"
+ },
+ {
+  "id": "n3-0065",
+  "word": "輸入",
+  "reading": "ゆにゅう",
+  "meaning_zh": "进口",
+  "meaning_en": "import",
+  "level": "N3",
+  "pos": "noun"
+ },
+ {
+  "id": "n3-0066",
+  "word": "販売",
+  "reading": "はんばい",
+  "meaning_zh": "销售",
+  "meaning_en": "sale; selling",
+  "level": "N3",
+  "pos": "noun"
+ },
+ {
+  "id": "n3-0067",
+  "word": "生産",
+  "reading": "せいさん",
+  "meaning_zh": "生产",
+  "meaning_en": "production",
+  "level": "N3",
+  "pos": "noun"
+ },
+ {
+  "id": "n3-0068",
+  "word": "消費",
+  "reading": "しょうひ",
+  "meaning_zh": "消费",
+  "meaning_en": "consumption",
+  "level": "N3",
+  "pos": "noun"
+ },
+ {
+  "id": "n3-0069",
+  "word": "給料",
+  "reading": "きゅうりょう",
+  "meaning_zh": "工资",
+  "meaning_en": "salary; wages",
+  "level": "N3",
+  "pos": "noun"
+ },
+ {
+  "id": "n3-0070",
+  "word": "収入",
+  "reading": "しゅうにゅう",
+  "meaning_zh": "收入",
+  "meaning_en": "income",
+  "level": "N3",
+  "pos": "noun"
+ },
+ {
+  "id": "n3-0071",
+  "word": "費用",
+  "reading": "ひよう",
+  "meaning_zh": "费用",
+  "meaning_en": "expense; cost",
+  "level": "N3",
+  "pos": "noun"
+ },
+ {
+  "id": "n3-0072",
+  "word": "料金",
+  "reading": "りょうきん",
+  "meaning_zh": "费用；收费",
+  "meaning_en": "fee; charge",
+  "level": "N3",
+  "pos": "noun"
+ },
+ {
+  "id": "n3-0073",
+  "word": "税金",
+  "reading": "ぜいきん",
+  "meaning_zh": "税金",
+  "meaning_en": "tax",
+  "level": "N3",
+  "pos": "noun"
+ },
+ {
+  "id": "n3-0074",
+  "word": "貯金",
+  "reading": "ちょきん",
+  "meaning_zh": "存款；储蓄",
+  "meaning_en": "savings",
+  "level": "N3",
+  "pos": "noun"
+ },
+ {
+  "id": "n3-0075",
+  "word": "借金",
+  "reading": "しゃっきん",
+  "meaning_zh": "借款；欠债",
+  "meaning_en": "debt",
+  "level": "N3",
+  "pos": "noun"
+ },
+ {
+  "id": "n3-0076",
+  "word": "利益",
+  "reading": "りえき",
+  "meaning_zh": "利益；利润",
+  "meaning_en": "profit; benefit",
+  "level": "N3",
+  "pos": "noun"
+ },
+ {
+  "id": "n3-0077",
+  "word": "経営",
+  "reading": "けいえい",
+  "meaning_zh": "经营",
+  "meaning_en": "management (of a business)",
+  "level": "N3",
+  "pos": "noun"
+ },
+ {
+  "id": "n3-0078",
+  "word": "企業",
+  "reading": "きぎょう",
+  "meaning_zh": "企业",
+  "meaning_en": "enterprise; company",
+  "level": "N3",
+  "pos": "noun"
+ },
+ {
+  "id": "n3-0079",
+  "word": "産業",
+  "reading": "さんぎょう",
+  "meaning_zh": "产业",
+  "meaning_en": "industry",
+  "level": "N3",
+  "pos": "noun"
+ },
+ {
+  "id": "n3-0080",
+  "word": "農業",
+  "reading": "のうぎょう",
+  "meaning_zh": "农业",
+  "meaning_en": "agriculture",
+  "level": "N3",
+  "pos": "noun"
+ },
+ {
+  "id": "n3-0081",
+  "word": "職業",
+  "reading": "しょくぎょう",
+  "meaning_zh": "职业",
+  "meaning_en": "occupation",
+  "level": "N3",
+  "pos": "noun"
+ },
+ {
+  "id": "n3-0082",
+  "word": "職場",
+  "reading": "しょくば",
+  "meaning_zh": "工作单位；职场",
+  "meaning_en": "workplace",
+  "level": "N3",
+  "pos": "noun"
+ },
+ {
+  "id": "n3-0083",
+  "word": "就職",
+  "reading": "しゅうしょく",
+  "meaning_zh": "就业；找工作",
+  "meaning_en": "finding employment",
+  "level": "N3",
+  "pos": "noun"
+ },
+ {
+  "id": "n3-0084",
+  "word": "出張",
+  "reading": "しゅっちょう",
+  "meaning_zh": "出差",
+  "meaning_en": "business trip",
+  "level": "N3",
+  "pos": "noun"
+ },
+ {
+  "id": "n3-0085",
+  "word": "残業",
+  "reading": "ざんぎょう",
+  "meaning_zh": "加班",
+  "meaning_en": "overtime work",
+  "level": "N3",
+  "pos": "noun"
+ },
+ {
+  "id": "n3-0086",
+  "word": "会場",
+  "reading": "かいじょう",
+  "meaning_zh": "会场",
+  "meaning_en": "venue; meeting place",
+  "level": "N3",
+  "pos": "noun"
+ },
+ {
+  "id": "n3-0087",
+  "word": "安全",
+  "reading": "あんぜん",
+  "meaning_zh": "安全",
+  "meaning_en": "safety",
+  "level": "N3",
+  "pos": "na-adj"
+ },
+ {
+  "id": "n3-0088",
+  "word": "位置",
+  "reading": "いち",
+  "meaning_zh": "位置",
+  "meaning_en": "position; location",
+  "level": "N3",
+  "pos": "noun"
+ },
+ {
+  "id": "n3-0089",
+  "word": "一般",
+  "reading": "いっぱん",
+  "meaning_zh": "一般；普通",
+  "meaning_en": "general; ordinary",
+  "level": "N3",
+  "pos": "noun"
+ },
+ {
+  "id": "n3-0090",
+  "word": "印刷",
+  "reading": "いんさつ",
+  "meaning_zh": "印刷",
+  "meaning_en": "printing",
+  "level": "N3",
+  "pos": "noun"
+ },
+ {
+  "id": "n3-0091",
+  "word": "営業",
+  "reading": "えいぎょう",
+  "meaning_zh": "营业；销售",
+  "meaning_en": "business; sales",
+  "level": "N3",
+  "pos": "noun"
+ },
+ {
+  "id": "n3-0092",
+  "word": "演奏",
+  "reading": "えんそう",
+  "meaning_zh": "演奏",
+  "meaning_en": "musical performance",
+  "level": "N3",
+  "pos": "noun"
+ },
+ {
+  "id": "n3-0093",
+  "word": "応援",
+  "reading": "おうえん",
+  "meaning_zh": "支援；声援",
+  "meaning_en": "support; cheering",
+  "level": "N3",
+  "pos": "noun"
+ },
+ {
+  "id": "n3-0094",
+  "word": "温度",
+  "reading": "おんど",
+  "meaning_zh": "温度",
+  "meaning_en": "temperature",
+  "level": "N3",
+  "pos": "noun"
+ },
+ {
+  "id": "n3-0095",
+  "word": "過去",
+  "reading": "かこ",
+  "meaning_zh": "过去",
+  "meaning_en": "the past",
+  "level": "N3",
+  "pos": "noun"
+ },
+ {
+  "id": "n3-0096",
+  "word": "火災",
+  "reading": "かさい",
+  "meaning_zh": "火灾",
+  "meaning_en": "fire (disaster)",
+  "level": "N3",
+  "pos": "noun"
+ },
+ {
+  "id": "n3-0097",
+  "word": "感謝",
+  "reading": "かんしゃ",
+  "meaning_zh": "感谢",
+  "meaning_en": "gratitude; thanks",
+  "level": "N3",
+  "pos": "noun"
+ },
+ {
+  "id": "n3-0098",
+  "word": "完成",
+  "reading": "かんせい",
+  "meaning_zh": "完成",
+  "meaning_en": "completion",
+  "level": "N3",
+  "pos": "noun"
+ },
+ {
+  "id": "n3-0099",
+  "word": "感動",
+  "reading": "かんどう",
+  "meaning_zh": "感动",
+  "meaning_en": "deep emotion; being moved",
+  "level": "N3",
+  "pos": "noun"
+ },
+ {
+  "id": "n3-0100",
+  "word": "観光",
+  "reading": "かんこう",
+  "meaning_zh": "观光；旅游",
+  "meaning_en": "sightseeing",
+  "level": "N3",
+  "pos": "noun"
+ },
+ {
+  "id": "n3-0101",
+  "word": "観察",
+  "reading": "かんさつ",
+  "meaning_zh": "观察",
+  "meaning_en": "observation",
+  "level": "N3",
+  "pos": "noun"
+ },
+ {
+  "id": "n3-0102",
+  "word": "患者",
+  "reading": "かんじゃ",
+  "meaning_zh": "患者；病人",
+  "meaning_en": "patient",
+  "level": "N3",
+  "pos": "noun"
+ },
+ {
+  "id": "n3-0103",
+  "word": "感想",
+  "reading": "かんそう",
+  "meaning_zh": "感想",
+  "meaning_en": "impressions; thoughts",
+  "level": "N3",
+  "pos": "noun"
+ },
+ {
+  "id": "n3-0104",
+  "word": "期間",
+  "reading": "きかん",
+  "meaning_zh": "期间",
+  "meaning_en": "period; term",
+  "level": "N3",
+  "pos": "noun"
+ },
+ {
+  "id": "n3-0105",
+  "word": "帰国",
+  "reading": "きこく",
+  "meaning_zh": "回国",
+  "meaning_en": "returning to one's country",
+  "level": "N3",
+  "pos": "noun"
+ },
+ {
+  "id": "n3-0106",
+  "word": "期待",
+  "reading": "きたい",
+  "meaning_zh": "期待",
+  "meaning_en": "expectation; hope",
+  "level": "N3",
+  "pos": "noun"
+ },
+ {
+  "id": "n3-0107",
+  "word": "基本",
+  "reading": "きほん",
+  "meaning_zh": "基本；基础",
+  "meaning_en": "basics; foundation",
+  "level": "N3",
+  "pos": "noun"
+ },
+ {
+  "id": "n3-0108",
+  "word": "疑問",
+  "reading": "ぎもん",
+  "meaning_zh": "疑问",
+  "meaning_en": "question; doubt",
+  "level": "N3",
+  "pos": "noun"
+ },
+ {
+  "id": "n3-0109",
+  "word": "休憩",
+  "reading": "きゅうけい",
+  "meaning_zh": "休息",
+  "meaning_en": "break; rest",
+  "level": "N3",
+  "pos": "noun"
+ },
+ {
+  "id": "n3-0110",
+  "word": "競争",
+  "reading": "きょうそう",
+  "meaning_zh": "竞争",
+  "meaning_en": "competition",
+  "level": "N3",
+  "pos": "noun"
+ },
+ {
+  "id": "n3-0111",
+  "word": "協力",
+  "reading": "きょうりょく",
+  "meaning_zh": "协力；合作",
+  "meaning_en": "cooperation",
+  "level": "N3",
+  "pos": "noun"
+ },
+ {
+  "id": "n3-0112",
+  "word": "許可",
+  "reading": "きょか",
+  "meaning_zh": "许可",
+  "meaning_en": "permission",
+  "level": "N3",
+  "pos": "noun"
+ },
+ {
+  "id": "n3-0113",
+  "word": "距離",
+  "reading": "きょり",
+  "meaning_zh": "距离",
+  "meaning_en": "distance",
+  "level": "N3",
+  "pos": "noun"
+ },
+ {
+  "id": "n3-0114",
+  "word": "禁止",
+  "reading": "きんし",
+  "meaning_zh": "禁止",
+  "meaning_en": "prohibition",
+  "level": "N3",
+  "pos": "noun"
+ },
+ {
+  "id": "n3-0115",
+  "word": "金属",
+  "reading": "きんぞく",
+  "meaning_zh": "金属",
+  "meaning_en": "metal",
+  "level": "N3",
+  "pos": "noun"
+ },
+ {
+  "id": "n3-0116",
+  "word": "偶然",
+  "reading": "ぐうぜん",
+  "meaning_zh": "偶然",
+  "meaning_en": "coincidence; by chance",
+  "level": "N3",
+  "pos": "noun"
+ },
+ {
+  "id": "n3-0117",
+  "word": "苦労",
+  "reading": "くろう",
+  "meaning_zh": "辛苦；辛劳",
+  "meaning_en": "hardship; trouble",
+  "level": "N3",
+  "pos": "noun"
+ },
+ {
+  "id": "n3-0118",
+  "word": "訓練",
+  "reading": "くんれん",
+  "meaning_zh": "训练",
+  "meaning_en": "training",
+  "level": "N3",
+  "pos": "noun"
+ },
+ {
+  "id": "n3-0119",
+  "word": "計算",
+  "reading": "けいさん",
+  "meaning_zh": "计算",
+  "meaning_en": "calculation",
+  "level": "N3",
+  "pos": "noun"
+ },
+ {
+  "id": "n3-0120",
+  "word": "芸術",
+  "reading": "げいじゅつ",
+  "meaning_zh": "艺术",
+  "meaning_en": "art",
+  "level": "N3",
+  "pos": "noun"
+ },
+ {
+  "id": "n3-0121",
+  "word": "血液",
+  "reading": "けつえき",
+  "meaning_zh": "血液",
+  "meaning_en": "blood",
+  "level": "N3",
+  "pos": "noun"
+ },
+ {
+  "id": "n3-0122",
+  "word": "欠点",
+  "reading": "けってん",
+  "meaning_zh": "缺点",
+  "meaning_en": "fault; shortcoming",
+  "level": "N3",
+  "pos": "noun"
+ },
+ {
+  "id": "n3-0123",
+  "word": "決定",
+  "reading": "けってい",
+  "meaning_zh": "决定",
+  "meaning_en": "decision",
+  "level": "N3",
+  "pos": "noun"
+ },
+ {
+  "id": "n3-0124",
+  "word": "結論",
+  "reading": "けつろん",
+  "meaning_zh": "结论",
+  "meaning_en": "conclusion",
+  "level": "N3",
+  "pos": "noun"
+ },
+ {
+  "id": "n3-0125",
+  "word": "原料",
+  "reading": "げんりょう",
+  "meaning_zh": "原料",
+  "meaning_en": "raw material",
+  "level": "N3",
+  "pos": "noun"
+ },
+ {
+  "id": "n3-0126",
+  "word": "効果",
+  "reading": "こうか",
+  "meaning_zh": "效果",
+  "meaning_en": "effect",
+  "level": "N3",
+  "pos": "noun"
+ },
+ {
+  "id": "n3-0127",
+  "word": "合格",
+  "reading": "ごうかく",
+  "meaning_zh": "合格；考上",
+  "meaning_en": "passing (an exam)",
+  "level": "N3",
+  "pos": "noun"
+ },
+ {
+  "id": "n3-0128",
+  "word": "交換",
+  "reading": "こうかん",
+  "meaning_zh": "交换",
+  "meaning_en": "exchange",
+  "level": "N3",
+  "pos": "noun"
+ },
+ {
+  "id": "n3-0129",
+  "word": "講義",
+  "reading": "こうぎ",
+  "meaning_zh": "讲课；讲座",
+  "meaning_en": "lecture",
+  "level": "N3",
+  "pos": "noun"
+ },
+ {
+  "id": "n3-0130",
+  "word": "行動",
+  "reading": "こうどう",
+  "meaning_zh": "行动",
+  "meaning_en": "action; behavior",
+  "level": "N3",
+  "pos": "noun"
+ },
+ {
+  "id": "n3-0131",
+  "word": "幸福",
+  "reading": "こうふく",
+  "meaning_zh": "幸福",
+  "meaning_en": "happiness",
+  "level": "N3",
+  "pos": "noun"
+ },
+ {
+  "id": "n3-0132",
+  "word": "呼吸",
+  "reading": "こきゅう",
+  "meaning_zh": "呼吸",
+  "meaning_en": "breathing",
+  "level": "N3",
+  "pos": "noun"
+ },
+ {
+  "id": "n3-0133",
+  "word": "国籍",
+  "reading": "こくせき",
+  "meaning_zh": "国籍",
+  "meaning_en": "nationality",
+  "level": "N3",
+  "pos": "noun"
+ },
+ {
+  "id": "n3-0134",
+  "word": "個人",
+  "reading": "こじん",
+  "meaning_zh": "个人",
+  "meaning_en": "individual",
+  "level": "N3",
+  "pos": "noun"
+ },
+ {
+  "id": "n3-0135",
+  "word": "混雑",
+  "reading": "こんざつ",
+  "meaning_zh": "拥挤；混杂",
+  "meaning_en": "congestion; crowding",
+  "level": "N3",
+  "pos": "noun"
+ },
+ {
+  "id": "n3-0136",
+  "word": "今後",
+  "reading": "こんご",
+  "meaning_zh": "今后",
+  "meaning_en": "from now on; hereafter",
+  "level": "N3",
+  "pos": "noun"
+ },
+ {
+  "id": "n3-0137",
+  "word": "差別",
+  "reading": "さべつ",
+  "meaning_zh": "歧视；差别",
+  "meaning_en": "discrimination",
+  "level": "N3",
+  "pos": "noun"
+ },
+ {
+  "id": "n3-0138",
+  "word": "作業",
+  "reading": "さぎょう",
+  "meaning_zh": "作业；操作；工作",
+  "meaning_en": "work; operation",
+  "level": "N3",
+  "pos": "noun"
+ },
+ {
+  "id": "n3-0139",
+  "word": "作者",
+  "reading": "さくしゃ",
+  "meaning_zh": "作者",
+  "meaning_en": "author",
+  "level": "N3",
+  "pos": "noun"
+ },
+ {
+  "id": "n3-0140",
+  "word": "座席",
+  "reading": "ざせき",
+  "meaning_zh": "座位",
+  "meaning_en": "seat",
+  "level": "N3",
+  "pos": "noun"
+ },
+ {
+  "id": "n3-0141",
+  "word": "撮影",
+  "reading": "さつえい",
+  "meaning_zh": "摄影；拍摄",
+  "meaning_en": "photography; filming",
+  "level": "N3",
+  "pos": "noun"
+ },
+ {
+  "id": "n3-0142",
+  "word": "参加",
+  "reading": "さんか",
+  "meaning_zh": "参加",
+  "meaning_en": "participation",
+  "level": "N3",
+  "pos": "noun"
+ },
+ {
+  "id": "n3-0143",
+  "word": "賛成",
+  "reading": "さんせい",
+  "meaning_zh": "赞成",
+  "meaning_en": "approval; agreement",
+  "level": "N3",
+  "pos": "noun"
+ },
+ {
+  "id": "n3-0144",
+  "word": "資源",
+  "reading": "しげん",
+  "meaning_zh": "资源",
+  "meaning_en": "resources",
+  "level": "N3",
+  "pos": "noun"
+ },
+ {
+  "id": "n3-0145",
+  "word": "姿勢",
+  "reading": "しせい",
+  "meaning_zh": "姿势；态度",
+  "meaning_en": "posture; attitude",
+  "level": "N3",
+  "pos": "noun"
+ },
+ {
+  "id": "n3-0146",
+  "word": "施設",
+  "reading": "しせつ",
+  "meaning_zh": "设施",
+  "meaning_en": "facility; institution",
+  "level": "N3",
+  "pos": "noun"
+ },
+ {
+  "id": "n3-0147",
+  "word": "自信",
+  "reading": "じしん",
+  "meaning_zh": "自信",
+  "meaning_en": "confidence",
+  "level": "N3",
+  "pos": "noun"
+ },
+ {
+  "id": "n3-0148",
+  "word": "実験",
+  "reading": "じっけん",
+  "meaning_zh": "实验",
+  "meaning_en": "experiment",
+  "level": "N3",
+  "pos": "noun"
+ },
+ {
+  "id": "n3-0149",
+  "word": "実力",
+  "reading": "じつりょく",
+  "meaning_zh": "实力",
+  "meaning_en": "real ability",
+  "level": "N3",
+  "pos": "noun"
+ },
+ {
+  "id": "n3-0150",
+  "word": "指導",
+  "reading": "しどう",
+  "meaning_zh": "指导",
+  "meaning_en": "guidance; coaching",
+  "level": "N3",
+  "pos": "noun"
+ },
+ {
+  "id": "n3-0151",
+  "word": "支払い",
+  "reading": "しはらい",
+  "meaning_zh": "支付；付款",
+  "meaning_en": "payment",
+  "level": "N3",
+  "pos": "noun"
+ },
+ {
+  "id": "n3-0152",
+  "word": "集中",
+  "reading": "しゅうちゅう",
+  "meaning_zh": "集中",
+  "meaning_en": "concentration",
+  "level": "N3",
+  "pos": "noun"
+ },
+ {
+  "id": "n3-0153",
+  "word": "習慣",
+  "reading": "しゅうかん",
+  "meaning_zh": "习惯",
+  "meaning_en": "habit; custom",
+  "level": "N3",
+  "pos": "noun"
+ },
+ {
+  "id": "n3-0154",
+  "word": "渋滞",
+  "reading": "じゅうたい",
+  "meaning_zh": "堵车；拥堵",
+  "meaning_en": "traffic jam; congestion",
+  "level": "N3",
+  "pos": "noun"
+ },
+ {
+  "id": "n3-0155",
+  "word": "住宅",
+  "reading": "じゅうたく",
+  "meaning_zh": "住宅",
+  "meaning_en": "housing; residence",
+  "level": "N3",
+  "pos": "noun"
+ },
+ {
+  "id": "n3-0156",
+  "word": "周囲",
+  "reading": "しゅうい",
+  "meaning_zh": "周围",
+  "meaning_en": "surroundings",
+  "level": "N3",
+  "pos": "noun"
+ },
+ {
+  "id": "n3-0157",
+  "word": "手術",
+  "reading": "しゅじゅつ",
+  "meaning_zh": "手术",
+  "meaning_en": "surgery; operation",
+  "level": "N3",
+  "pos": "noun"
+ },
+ {
+  "id": "n3-0158",
+  "word": "首相",
+  "reading": "しゅしょう",
+  "meaning_zh": "首相",
+  "meaning_en": "prime minister",
+  "level": "N3",
+  "pos": "noun"
+ },
+ {
+  "id": "n3-0159",
+  "word": "出身",
+  "reading": "しゅっしん",
+  "meaning_zh": "出身；籍贯",
+  "meaning_en": "hometown; origin",
+  "level": "N3",
+  "pos": "noun"
+ },
+ {
+  "id": "n3-0160",
+  "word": "種類",
+  "reading": "しゅるい",
+  "meaning_zh": "种类",
+  "meaning_en": "kind; type",
+  "level": "N3",
+  "pos": "noun"
+ },
+ {
+  "id": "n3-0161",
+  "word": "順番",
+  "reading": "じゅんばん",
+  "meaning_zh": "顺序；轮流",
+  "meaning_en": "order; turn",
+  "level": "N3",
+  "pos": "noun"
+ },
+ {
+  "id": "n3-0162",
+  "word": "使用",
+  "reading": "しよう",
+  "meaning_zh": "使用",
+  "meaning_en": "use; utilization",
+  "level": "N3",
+  "pos": "noun"
+ },
+ {
+  "id": "n3-0163",
+  "word": "賞金",
+  "reading": "しょうきん",
+  "meaning_zh": "奖金",
+  "meaning_en": "prize money",
+  "level": "N3",
+  "pos": "noun"
+ },
+ {
+  "id": "n3-0164",
+  "word": "商売",
+  "reading": "しょうばい",
+  "meaning_zh": "生意；买卖",
+  "meaning_en": "business; trade",
+  "level": "N3",
+  "pos": "noun"
+ },
+ {
+  "id": "n3-0165",
+  "word": "正面",
+  "reading": "しょうめん",
+  "meaning_zh": "正面",
+  "meaning_en": "front; facade",
+  "level": "N3",
+  "pos": "noun"
+ },
+ {
+  "id": "n3-0166",
+  "word": "女優",
+  "reading": "じょゆう",
+  "meaning_zh": "女演员",
+  "meaning_en": "actress",
+  "level": "N3",
+  "pos": "noun"
+ },
+ {
+  "id": "n3-0167",
+  "word": "深夜",
+  "reading": "しんや",
+  "meaning_zh": "深夜",
+  "meaning_en": "late at night; midnight",
+  "level": "N3",
+  "pos": "noun"
+ },
+ {
+  "id": "n3-0168",
+  "word": "身長",
+  "reading": "しんちょう",
+  "meaning_zh": "身高",
+  "meaning_en": "height (of a person)",
+  "level": "N3",
+  "pos": "noun"
+ },
+ {
+  "id": "n3-0169",
+  "word": "信号",
+  "reading": "しんごう",
+  "meaning_zh": "信号；红绿灯",
+  "meaning_en": "signal; traffic light",
+  "level": "N3",
+  "pos": "noun"
+ },
+ {
+  "id": "n3-0170",
+  "word": "人生",
+  "reading": "じんせい",
+  "meaning_zh": "人生",
+  "meaning_en": "(human) life",
+  "level": "N3",
+  "pos": "noun"
+ },
+ {
+  "id": "n3-0171",
+  "word": "親戚",
+  "reading": "しんせき",
+  "meaning_zh": "亲戚",
+  "meaning_en": "relatives",
+  "level": "N3",
+  "pos": "noun"
+ },
+ {
+  "id": "n3-0172",
+  "word": "数字",
+  "reading": "すうじ",
+  "meaning_zh": "数字",
+  "meaning_en": "number; figure",
+  "level": "N3",
+  "pos": "noun"
+ },
+ {
+  "id": "n3-0173",
+  "word": "頭痛",
+  "reading": "ずつう",
+  "meaning_zh": "头痛",
+  "meaning_en": "headache",
+  "level": "N3",
+  "pos": "noun"
+ },
+ {
+  "id": "n3-0174",
+  "word": "制服",
+  "reading": "せいふく",
+  "meaning_zh": "制服",
+  "meaning_en": "uniform",
+  "level": "N3",
+  "pos": "noun"
+ },
+ {
+  "id": "n3-0175",
+  "word": "成功",
+  "reading": "せいこう",
+  "meaning_zh": "成功",
+  "meaning_en": "success",
+  "level": "N3",
+  "pos": "noun"
+ },
+ {
+  "id": "n3-0176",
+  "word": "成績",
+  "reading": "せいせき",
+  "meaning_zh": "成绩",
+  "meaning_en": "grades; results",
+  "level": "N3",
+  "pos": "noun"
+ },
+ {
+  "id": "n3-0177",
+  "word": "成長",
+  "reading": "せいちょう",
+  "meaning_zh": "成长",
+  "meaning_en": "growth",
+  "level": "N3",
+  "pos": "noun"
+ },
+ {
+  "id": "n3-0178",
+  "word": "整理",
+  "reading": "せいり",
+  "meaning_zh": "整理",
+  "meaning_en": "organizing; sorting",
+  "level": "N3",
+  "pos": "noun"
+ },
+ {
+  "id": "n3-0179",
+  "word": "責任",
+  "reading": "せきにん",
+  "meaning_zh": "责任",
+  "meaning_en": "responsibility",
+  "level": "N3",
+  "pos": "noun"
+ },
+ {
+  "id": "n3-0180",
+  "word": "世間",
+  "reading": "せけん",
+  "meaning_zh": "世间；社会",
+  "meaning_en": "the world; society",
+  "level": "N3",
+  "pos": "noun"
+ },
+ {
+  "id": "n3-0181",
+  "word": "世紀",
+  "reading": "せいき",
+  "meaning_zh": "世纪",
+  "meaning_en": "century",
+  "level": "N3",
+  "pos": "noun"
+ },
+ {
+  "id": "n3-0182",
+  "word": "選挙",
+  "reading": "せんきょ",
+  "meaning_zh": "选举",
+  "meaning_en": "election",
+  "level": "N3",
+  "pos": "noun"
+ },
+ {
+  "id": "n3-0183",
+  "word": "宣伝",
+  "reading": "せんでん",
+  "meaning_zh": "宣传",
+  "meaning_en": "advertising; publicity",
+  "level": "N3",
+  "pos": "noun"
+ },
+ {
+  "id": "n3-0184",
+  "word": "全体",
+  "reading": "ぜんたい",
+  "meaning_zh": "全体；整体",
+  "meaning_en": "the whole; entirety",
+  "level": "N3",
+  "pos": "noun"
+ },
+ {
+  "id": "n3-0185",
+  "word": "送料",
+  "reading": "そうりょう",
+  "meaning_zh": "运费；邮费",
+  "meaning_en": "shipping fee; postage",
+  "level": "N3",
+  "pos": "noun"
+ },
+ {
+  "id": "n3-0186",
+  "word": "祖先",
+  "reading": "そせん",
+  "meaning_zh": "祖先",
+  "meaning_en": "ancestor",
+  "level": "N3",
+  "pos": "noun"
+ },
+ {
+  "id": "n3-0187",
+  "word": "損",
+  "reading": "そん",
+  "meaning_zh": "损失；吃亏",
+  "meaning_en": "loss; disadvantage",
+  "level": "N3",
+  "pos": "noun"
+ },
+ {
+  "id": "n3-0188",
+  "word": "尊敬",
+  "reading": "そんけい",
+  "meaning_zh": "尊敬",
+  "meaning_en": "respect",
+  "level": "N3",
+  "pos": "noun"
+ },
+ {
+  "id": "n3-0189",
+  "word": "存在",
+  "reading": "そんざい",
+  "meaning_zh": "存在",
+  "meaning_en": "existence",
+  "level": "N3",
+  "pos": "noun"
+ },
+ {
+  "id": "n3-0190",
+  "word": "態度",
+  "reading": "たいど",
+  "meaning_zh": "态度",
+  "meaning_en": "attitude",
+  "level": "N3",
+  "pos": "noun"
+ },
+ {
+  "id": "n3-0191",
+  "word": "対象",
+  "reading": "たいしょう",
+  "meaning_zh": "对象；目标",
+  "meaning_en": "target; object",
+  "level": "N3",
+  "pos": "noun"
+ },
+ {
+  "id": "n3-0192",
+  "word": "大陸",
+  "reading": "たいりく",
+  "meaning_zh": "大陆",
+  "meaning_en": "continent",
+  "level": "N3",
+  "pos": "noun"
+ },
+ {
+  "id": "n3-0193",
+  "word": "立場",
+  "reading": "たちば",
+  "meaning_zh": "立场",
+  "meaning_en": "standpoint; position",
+  "level": "N3",
+  "pos": "noun"
+ },
+ {
+  "id": "n3-0194",
+  "word": "谷",
+  "reading": "たに",
+  "meaning_zh": "山谷",
+  "meaning_en": "valley",
+  "level": "N3",
+  "pos": "noun"
+ },
+ {
+  "id": "n3-0195",
+  "word": "他人",
+  "reading": "たにん",
+  "meaning_zh": "他人；别人",
+  "meaning_en": "other people; stranger",
+  "level": "N3",
+  "pos": "noun"
+ },
+ {
+  "id": "n3-0196",
+  "word": "頼み",
+  "reading": "たのみ",
+  "meaning_zh": "请求；恳求",
+  "meaning_en": "request; favor",
+  "level": "N3",
+  "pos": "noun"
+ },
+ {
+  "id": "n3-0197",
+  "word": "地域",
+  "reading": "ちいき",
+  "meaning_zh": "地区",
+  "meaning_en": "region; area",
+  "level": "N3",
+  "pos": "noun"
+ },
+ {
+  "id": "n3-0198",
+  "word": "地下",
+  "reading": "ちか",
+  "meaning_zh": "地下",
+  "meaning_en": "underground",
+  "level": "N3",
+  "pos": "noun"
+ },
+ {
+  "id": "n3-0199",
+  "word": "知恵",
+  "reading": "ちえ",
+  "meaning_zh": "智慧",
+  "meaning_en": "wisdom",
+  "level": "N3",
+  "pos": "noun"
+ },
+ {
+  "id": "n3-0200",
+  "word": "中古",
+  "reading": "ちゅうこ",
+  "meaning_zh": "二手；旧货",
+  "meaning_en": "secondhand",
+  "level": "N3",
+  "pos": "noun"
+ },
+ {
+  "id": "n3-0201",
+  "word": "注目",
+  "reading": "ちゅうもく",
+  "meaning_zh": "注目；关注",
+  "meaning_en": "attention; notice",
+  "level": "N3",
+  "pos": "noun"
+ },
+ {
+  "id": "n3-0202",
+  "word": "調査",
+  "reading": "ちょうさ",
+  "meaning_zh": "调查",
+  "meaning_en": "investigation; survey",
+  "level": "N3",
+  "pos": "noun"
+ },
+ {
+  "id": "n3-0203",
+  "word": "調子",
+  "reading": "ちょうし",
+  "meaning_zh": "状态；情况",
+  "meaning_en": "condition; state",
+  "level": "N3",
+  "pos": "noun"
+ },
+ {
+  "id": "n3-0204",
+  "word": "直接",
+  "reading": "ちょくせつ",
+  "meaning_zh": "直接",
+  "meaning_en": "directly",
+  "level": "N3",
+  "pos": "adv"
+ },
+ {
+  "id": "n3-0205",
+  "word": "通勤",
+  "reading": "つうきん",
+  "meaning_zh": "通勤；上下班",
+  "meaning_en": "commuting to work",
+  "level": "N3",
+  "pos": "noun"
+ },
+ {
+  "id": "n3-0206",
+  "word": "通訳",
+  "reading": "つうやく",
+  "meaning_zh": "口译；口译员",
+  "meaning_en": "interpretation; interpreter",
+  "level": "N3",
+  "pos": "noun"
+ },
+ {
+  "id": "n3-0207",
+  "word": "罪",
+  "reading": "つみ",
+  "meaning_zh": "罪；罪过",
+  "meaning_en": "crime; sin",
+  "level": "N3",
+  "pos": "noun"
+ },
+ {
+  "id": "n3-0208",
+  "word": "提案",
+  "reading": "ていあん",
+  "meaning_zh": "提案；建议",
+  "meaning_en": "proposal; suggestion",
+  "level": "N3",
+  "pos": "noun"
+ },
+ {
+  "id": "n3-0209",
+  "word": "程度",
+  "reading": "ていど",
+  "meaning_zh": "程度",
+  "meaning_en": "degree; extent",
+  "level": "N3",
+  "pos": "noun"
+ },
+ {
+  "id": "n3-0210",
+  "word": "停電",
+  "reading": "ていでん",
+  "meaning_zh": "停电",
+  "meaning_en": "power outage",
+  "level": "N3",
+  "pos": "noun"
+ },
+ {
+  "id": "n3-0211",
+  "word": "手続き",
+  "reading": "てつづき",
+  "meaning_zh": "手续",
+  "meaning_en": "procedure; formalities",
+  "level": "N3",
+  "pos": "noun"
+ },
+ {
+  "id": "n3-0212",
+  "word": "徹夜",
+  "reading": "てつや",
+  "meaning_zh": "通宵；熬夜",
+  "meaning_en": "staying up all night",
+  "level": "N3",
+  "pos": "noun"
+ },
+ {
+  "id": "n3-0213",
+  "word": "伝統",
+  "reading": "でんとう",
+  "meaning_zh": "传统",
+  "meaning_en": "tradition",
+  "level": "N3",
+  "pos": "noun"
+ },
+ {
+  "id": "n3-0214",
+  "word": "登場",
+  "reading": "とうじょう",
+  "meaning_zh": "登场；出场",
+  "meaning_en": "appearance (on stage); entry",
+  "level": "N3",
+  "pos": "noun"
+ },
+ {
+  "id": "n3-0215",
+  "word": "到着",
+  "reading": "とうちゃく",
+  "meaning_zh": "到达",
+  "meaning_en": "arrival",
+  "level": "N3",
+  "pos": "noun"
+ },
+ {
+  "id": "n3-0216",
+  "word": "道路",
+  "reading": "どうろ",
+  "meaning_zh": "道路",
+  "meaning_en": "road",
+  "level": "N3",
+  "pos": "noun"
+ },
+ {
+  "id": "n3-0217",
+  "word": "都会",
+  "reading": "とかい",
+  "meaning_zh": "都市；城市",
+  "meaning_en": "city; urban area",
+  "level": "N3",
+  "pos": "noun"
+ },
+ {
+  "id": "n3-0218",
+  "word": "得意",
+  "reading": "とくい",
+  "meaning_zh": "擅长；拿手",
+  "meaning_en": "good at; one's strong point",
+  "level": "N3",
+  "pos": "na-adj"
+ },
+ {
+  "id": "n3-0219",
+  "word": "読書",
+  "reading": "どくしょ",
+  "meaning_zh": "读书；阅读",
+  "meaning_en": "reading (books)",
+  "level": "N3",
+  "pos": "noun"
+ },
+ {
+  "id": "n3-0220",
+  "word": "独身",
+  "reading": "どくしん",
+  "meaning_zh": "单身",
+  "meaning_en": "single; unmarried",
+  "level": "N3",
+  "pos": "noun"
+ },
+ {
+  "id": "n3-0221",
+  "word": "登山",
+  "reading": "とざん",
+  "meaning_zh": "登山",
+  "meaning_en": "mountain climbing",
+  "level": "N3",
+  "pos": "noun"
+ },
+ {
+  "id": "n3-0222",
+  "word": "土地",
+  "reading": "とち",
+  "meaning_zh": "土地",
+  "meaning_en": "land; plot of land",
+  "level": "N3",
+  "pos": "noun"
+ },
+ {
+  "id": "n3-0223",
+  "word": "泥棒",
+  "reading": "どろぼう",
+  "meaning_zh": "小偷",
+  "meaning_en": "thief",
+  "level": "N3",
+  "pos": "noun"
+ },
+ {
+  "id": "n3-0224",
+  "word": "仲間",
+  "reading": "なかま",
+  "meaning_zh": "伙伴；同伴",
+  "meaning_en": "companion; colleague",
+  "level": "N3",
+  "pos": "noun"
+ },
+ {
+  "id": "n3-0225",
+  "word": "中身",
+  "reading": "なかみ",
+  "meaning_zh": "内容；里面的东西",
+  "meaning_en": "contents",
+  "level": "N3",
+  "pos": "noun"
+ },
+ {
+  "id": "n3-0226",
+  "word": "納得",
+  "reading": "なっとく",
+  "meaning_zh": "理解；信服",
+  "meaning_en": "understanding; being convinced",
+  "level": "N3",
+  "pos": "noun"
+ },
+ {
+  "id": "n3-0227",
+  "word": "悩み",
+  "reading": "なやみ",
+  "meaning_zh": "烦恼",
+  "meaning_en": "worry; trouble",
+  "level": "N3",
+  "pos": "noun"
+ },
+ {
+  "id": "n3-0228",
+  "word": "日常",
+  "reading": "にちじょう",
+  "meaning_zh": "日常",
+  "meaning_en": "everyday; daily life",
+  "level": "N3",
+  "pos": "noun"
+ },
+ {
+  "id": "n3-0229",
+  "word": "人間",
+  "reading": "にんげん",
+  "meaning_zh": "人；人类",
+  "meaning_en": "human being",
+  "level": "N3",
+  "pos": "noun"
+ },
+ {
+  "id": "n3-0230",
+  "word": "値上げ",
+  "reading": "ねあげ",
+  "meaning_zh": "涨价",
+  "meaning_en": "price increase",
+  "level": "N3",
+  "pos": "noun"
+ },
+ {
+  "id": "n3-0231",
+  "word": "年齢",
+  "reading": "ねんれい",
+  "meaning_zh": "年龄",
+  "meaning_en": "age",
+  "level": "N3",
+  "pos": "noun"
+ },
+ {
+  "id": "n3-0232",
+  "word": "農家",
+  "reading": "のうか",
+  "meaning_zh": "农家；农户",
+  "meaning_en": "farm household; farmer",
+  "level": "N3",
+  "pos": "noun"
+ },
+ {
+  "id": "n3-0233",
+  "word": "能力",
+  "reading": "のうりょく",
+  "meaning_zh": "能力",
+  "meaning_en": "ability; capability",
+  "level": "N3",
+  "pos": "noun"
+ },
+ {
+  "id": "n3-0234",
+  "word": "場面",
+  "reading": "ばめん",
+  "meaning_zh": "场面；场景",
+  "meaning_en": "scene; situation",
+  "level": "N3",
+  "pos": "noun"
+ },
+ {
+  "id": "n3-0235",
+  "word": "犯罪",
+  "reading": "はんざい",
+  "meaning_zh": "犯罪",
+  "meaning_en": "crime",
+  "level": "N3",
+  "pos": "noun"
+ },
+ {
+  "id": "n3-0236",
+  "word": "犯人",
+  "reading": "はんにん",
+  "meaning_zh": "犯人；罪犯",
+  "meaning_en": "criminal; culprit",
+  "level": "N3",
+  "pos": "noun"
+ },
+ {
+  "id": "n3-0237",
+  "word": "判断",
+  "reading": "はんだん",
+  "meaning_zh": "判断",
+  "meaning_en": "judgment; decision",
+  "level": "N3",
+  "pos": "noun"
+ },
+ {
+  "id": "n3-0238",
+  "word": "被害",
+  "reading": "ひがい",
+  "meaning_zh": "受害；损失",
+  "meaning_en": "damage; harm",
+  "level": "N3",
+  "pos": "noun"
+ },
+ {
+  "id": "n3-0239",
+  "word": "比較",
+  "reading": "ひかく",
+  "meaning_zh": "比较",
+  "meaning_en": "comparison",
+  "level": "N3",
+  "pos": "noun"
+ },
+ {
+  "id": "n3-0240",
+  "word": "秘密",
+  "reading": "ひみつ",
+  "meaning_zh": "秘密",
+  "meaning_en": "secret",
+  "level": "N3",
+  "pos": "noun"
+ },
+ {
+  "id": "n3-0241",
+  "word": "表現",
+  "reading": "ひょうげん",
+  "meaning_zh": "表现；表达",
+  "meaning_en": "expression",
+  "level": "N3",
+  "pos": "noun"
+ },
+ {
+  "id": "n3-0242",
+  "word": "評判",
+  "reading": "ひょうばん",
+  "meaning_zh": "评价；名声",
+  "meaning_en": "reputation",
+  "level": "N3",
+  "pos": "noun"
+ },
+ {
+  "id": "n3-0243",
+  "word": "表面",
+  "reading": "ひょうめん",
+  "meaning_zh": "表面",
+  "meaning_en": "surface",
+  "level": "N3",
+  "pos": "noun"
+ },
+ {
+  "id": "n3-0244",
+  "word": "双子",
+  "reading": "ふたご",
+  "meaning_zh": "双胞胎",
+  "meaning_en": "twins",
+  "level": "N3",
+  "pos": "noun"
+ },
+ {
+  "id": "n3-0245",
+  "word": "物価",
+  "reading": "ぶっか",
+  "meaning_zh": "物价",
+  "meaning_en": "prices (of commodities)",
+  "level": "N3",
+  "pos": "noun"
+ },
+ {
+  "id": "n3-0246",
+  "word": "部分",
+  "reading": "ぶぶん",
+  "meaning_zh": "部分",
+  "meaning_en": "part; portion",
+  "level": "N3",
+  "pos": "noun"
+ },
+ {
+  "id": "n3-0247",
+  "word": "文章",
+  "reading": "ぶんしょう",
+  "meaning_zh": "文章",
+  "meaning_en": "writing; text",
+  "level": "N3",
+  "pos": "noun"
+ },
+ {
+  "id": "n3-0248",
+  "word": "平均",
+  "reading": "へいきん",
+  "meaning_zh": "平均",
+  "meaning_en": "average",
+  "level": "N3",
+  "pos": "noun"
+ },
+ {
+  "id": "n3-0249",
+  "word": "変化",
+  "reading": "へんか",
+  "meaning_zh": "变化",
+  "meaning_en": "change",
+  "level": "N3",
+  "pos": "noun"
+ },
+ {
+  "id": "n3-0250",
+  "word": "方向",
+  "reading": "ほうこう",
+  "meaning_zh": "方向",
+  "meaning_en": "direction",
+  "level": "N3",
+  "pos": "noun"
+ },
+ {
+  "id": "n3-0251",
+  "word": "方法",
+  "reading": "ほうほう",
+  "meaning_zh": "方法",
+  "meaning_en": "method; way",
+  "level": "N3",
+  "pos": "noun"
+ },
+ {
+  "id": "n3-0252",
+  "word": "法律",
+  "reading": "ほうりつ",
+  "meaning_zh": "法律",
+  "meaning_en": "law",
+  "level": "N3",
+  "pos": "noun"
+ },
+ {
+  "id": "n3-0253",
+  "word": "募集",
+  "reading": "ぼしゅう",
+  "meaning_zh": "招募；征集",
+  "meaning_en": "recruitment",
+  "level": "N3",
+  "pos": "noun"
+ },
+ {
+  "id": "n3-0254",
+  "word": "骨",
+  "reading": "ほね",
+  "meaning_zh": "骨头",
+  "meaning_en": "bone",
+  "level": "N3",
+  "pos": "noun"
+ },
+ {
+  "id": "n3-0255",
+  "word": "翻訳",
+  "reading": "ほんやく",
+  "meaning_zh": "翻译",
+  "meaning_en": "translation",
+  "level": "N3",
+  "pos": "noun"
+ },
+ {
+  "id": "n3-0256",
+  "word": "迷惑",
+  "reading": "めいわく",
+  "meaning_zh": "麻烦；打扰",
+  "meaning_en": "trouble; nuisance",
+  "level": "N3",
+  "pos": "noun"
+ },
+ {
+  "id": "n3-0257",
+  "word": "命",
+  "reading": "いのち",
+  "meaning_zh": "生命",
+  "meaning_en": "life",
+  "level": "N3",
+  "pos": "noun"
+ },
+ {
+  "id": "n3-0258",
+  "word": "面倒",
+  "reading": "めんどう",
+  "meaning_zh": "麻烦；费事",
+  "meaning_en": "troublesome; bother",
+  "level": "N3",
+  "pos": "na-adj"
+ },
+ {
+  "id": "n3-0259",
+  "word": "文句",
+  "reading": "もんく",
+  "meaning_zh": "抱怨；牢骚",
+  "meaning_en": "complaint",
+  "level": "N3",
+  "pos": "noun"
+ },
+ {
+  "id": "n3-0260",
+  "word": "役割",
+  "reading": "やくわり",
+  "meaning_zh": "角色；任务",
+  "meaning_en": "role; part",
+  "level": "N3",
+  "pos": "noun"
+ },
+ {
+  "id": "n3-0261",
+  "word": "家賃",
+  "reading": "やちん",
+  "meaning_zh": "房租",
+  "meaning_en": "rent",
+  "level": "N3",
+  "pos": "noun"
+ },
+ {
+  "id": "n3-0262",
+  "word": "有料",
+  "reading": "ゆうりょう",
+  "meaning_zh": "收费",
+  "meaning_en": "fee-charging; paid",
+  "level": "N3",
+  "pos": "noun"
+ },
+ {
+  "id": "n3-0263",
+  "word": "無料",
+  "reading": "むりょう",
+  "meaning_zh": "免费",
+  "meaning_en": "free of charge",
+  "level": "N3",
+  "pos": "noun"
+ },
+ {
+  "id": "n3-0264",
+  "word": "床",
+  "reading": "ゆか",
+  "meaning_zh": "地板",
+  "meaning_en": "floor",
+  "level": "N3",
+  "pos": "noun"
+ },
+ {
+  "id": "n3-0265",
+  "word": "行方",
+  "reading": "ゆくえ",
+  "meaning_zh": "去向；下落",
+  "meaning_en": "whereabouts",
+  "level": "N3",
+  "pos": "noun"
+ },
+ {
+  "id": "n3-0266",
+  "word": "夜明け",
+  "reading": "よあけ",
+  "meaning_zh": "黎明",
+  "meaning_en": "dawn",
+  "level": "N3",
+  "pos": "noun"
+ },
+ {
+  "id": "n3-0267",
+  "word": "予算",
+  "reading": "よさん",
+  "meaning_zh": "预算",
+  "meaning_en": "budget",
+  "level": "N3",
+  "pos": "noun"
+ },
+ {
+  "id": "n3-0268",
+  "word": "世の中",
+  "reading": "よのなか",
+  "meaning_zh": "世间；社会",
+  "meaning_en": "the world; society",
+  "level": "N3",
+  "pos": "noun"
+ },
+ {
+  "id": "n3-0269",
+  "word": "理解",
+  "reading": "りかい",
+  "meaning_zh": "理解",
+  "meaning_en": "understanding",
+  "level": "N3",
+  "pos": "noun"
+ },
+ {
+  "id": "n3-0270",
+  "word": "流行",
+  "reading": "りゅうこう",
+  "meaning_zh": "流行",
+  "meaning_en": "fashion; trend",
+  "level": "N3",
+  "pos": "noun"
+ },
+ {
+  "id": "n3-0271",
+  "word": "両替",
+  "reading": "りょうがえ",
+  "meaning_zh": "兑换（货币）",
+  "meaning_en": "currency exchange",
+  "level": "N3",
+  "pos": "noun"
+ },
+ {
+  "id": "n3-0272",
+  "word": "割合",
+  "reading": "わりあい",
+  "meaning_zh": "比例",
+  "meaning_en": "ratio; percentage",
+  "level": "N3",
+  "pos": "noun"
+ },
+ {
+  "id": "n3-0273",
+  "word": "割引",
+  "reading": "わりびき",
+  "meaning_zh": "折扣",
+  "meaning_en": "discount",
+  "level": "N3",
+  "pos": "noun"
+ },
+ {
+  "id": "n3-0274",
+  "word": "悪口",
+  "reading": "わるぐち",
+  "meaning_zh": "坏话",
+  "meaning_en": "bad-mouthing; speaking ill",
+  "level": "N3",
+  "pos": "noun"
+ },
+ {
+  "id": "n3-0275",
+  "word": "案",
+  "reading": "あん",
+  "meaning_zh": "方案；提案",
+  "meaning_en": "idea; proposal",
+  "level": "N3",
+  "pos": "noun"
+ },
+ {
+  "id": "n3-0276",
+  "word": "与える",
+  "reading": "あたえる",
+  "meaning_zh": "给予",
+  "meaning_en": "to give; to provide",
+  "level": "N3",
+  "pos": "verb"
+ },
+ {
+  "id": "n3-0277",
+  "word": "扱う",
+  "reading": "あつかう",
+  "meaning_zh": "处理；对待",
+  "meaning_en": "to handle; to deal with",
+  "level": "N3",
+  "pos": "verb"
+ },
+ {
+  "id": "n3-0278",
+  "word": "表す",
+  "reading": "あらわす",
+  "meaning_zh": "表达；表示",
+  "meaning_en": "to express; to show",
+  "level": "N3",
+  "pos": "verb"
+ },
+ {
+  "id": "n3-0279",
+  "word": "現れる",
+  "reading": "あらわれる",
+  "meaning_zh": "出现",
+  "meaning_en": "to appear",
+  "level": "N3",
+  "pos": "verb"
+ },
+ {
+  "id": "n3-0280",
+  "word": "慌てる",
+  "reading": "あわてる",
+  "meaning_zh": "慌张",
+  "meaning_en": "to panic; to be flustered",
+  "level": "N3",
+  "pos": "verb"
+ },
+ {
+  "id": "n3-0281",
+  "word": "祈る",
+  "reading": "いのる",
+  "meaning_zh": "祈祷；祝愿",
+  "meaning_en": "to pray; to wish",
+  "level": "N3",
+  "pos": "verb"
+ },
+ {
+  "id": "n3-0282",
+  "word": "植える",
+  "reading": "うえる",
+  "meaning_zh": "种植",
+  "meaning_en": "to plant",
+  "level": "N3",
+  "pos": "verb"
+ },
+ {
+  "id": "n3-0283",
+  "word": "浮かぶ",
+  "reading": "うかぶ",
+  "meaning_zh": "漂浮；浮现",
+  "meaning_en": "to float; to come to mind",
+  "level": "N3",
+  "pos": "verb"
+ },
+ {
+  "id": "n3-0284",
+  "word": "受け取る",
+  "reading": "うけとる",
+  "meaning_zh": "接收；领取",
+  "meaning_en": "to receive; to accept",
+  "level": "N3",
+  "pos": "verb"
+ },
+ {
+  "id": "n3-0285",
+  "word": "動かす",
+  "reading": "うごかす",
+  "meaning_zh": "移动；开动",
+  "meaning_en": "to move (something); to operate",
+  "level": "N3",
+  "pos": "verb"
+ },
+ {
+  "id": "n3-0286",
+  "word": "疑う",
+  "reading": "うたがう",
+  "meaning_zh": "怀疑",
+  "meaning_en": "to doubt; to suspect",
+  "level": "N3",
+  "pos": "verb"
+ },
+ {
+  "id": "n3-0287",
+  "word": "移す",
+  "reading": "うつす",
+  "meaning_zh": "移动；转移",
+  "meaning_en": "to move; to transfer",
+  "level": "N3",
+  "pos": "verb"
+ },
+ {
+  "id": "n3-0288",
+  "word": "移る",
+  "reading": "うつる",
+  "meaning_zh": "迁移；转移",
+  "meaning_en": "to move; to shift",
+  "level": "N3",
+  "pos": "verb"
+ },
+ {
+  "id": "n3-0289",
+  "word": "得る",
+  "reading": "える",
+  "meaning_zh": "得到；获得",
+  "meaning_en": "to obtain; to gain",
+  "level": "N3",
+  "pos": "verb"
+ },
+ {
+  "id": "n3-0290",
+  "word": "追う",
+  "reading": "おう",
+  "meaning_zh": "追赶",
+  "meaning_en": "to chase; to pursue",
+  "level": "N3",
+  "pos": "verb"
+ },
+ {
+  "id": "n3-0291",
+  "word": "抑える",
+  "reading": "おさえる",
+  "meaning_zh": "抑制；按住",
+  "meaning_en": "to suppress; to hold down",
+  "level": "N3",
+  "pos": "verb"
+ },
+ {
+  "id": "n3-0292",
+  "word": "落ち着く",
+  "reading": "おちつく",
+  "meaning_zh": "冷静；安定",
+  "meaning_en": "to calm down; to settle down",
+  "level": "N3",
+  "pos": "verb"
+ },
+ {
+  "id": "n3-0293",
+  "word": "抱える",
+  "reading": "かかえる",
+  "meaning_zh": "抱；承担",
+  "meaning_en": "to hold in one's arms; to have (problems)",
+  "level": "N3",
+  "pos": "verb"
+ },
+ {
+  "id": "n3-0294",
+  "word": "輝く",
+  "reading": "かがやく",
+  "meaning_zh": "闪耀",
+  "meaning_en": "to shine; to sparkle",
+  "level": "N3",
+  "pos": "verb"
+ },
+ {
+  "id": "n3-0295",
+  "word": "隠す",
+  "reading": "かくす",
+  "meaning_zh": "隐藏",
+  "meaning_en": "to hide (something)",
+  "level": "N3",
+  "pos": "verb"
+ },
+ {
+  "id": "n3-0296",
+  "word": "隠れる",
+  "reading": "かくれる",
+  "meaning_zh": "躲藏",
+  "meaning_en": "to hide (oneself)",
+  "level": "N3",
+  "pos": "verb"
+ },
+ {
+  "id": "n3-0297",
+  "word": "重ねる",
+  "reading": "かさねる",
+  "meaning_zh": "重叠；反复",
+  "meaning_en": "to pile up; to repeat",
+  "level": "N3",
+  "pos": "verb"
+ },
+ {
+  "id": "n3-0298",
+  "word": "稼ぐ",
+  "reading": "かせぐ",
+  "meaning_zh": "赚钱",
+  "meaning_en": "to earn (money)",
+  "level": "N3",
+  "pos": "verb"
+ },
+ {
+  "id": "n3-0299",
+  "word": "固まる",
+  "reading": "かたまる",
+  "meaning_zh": "凝固；聚集",
+  "meaning_en": "to harden; to gather",
+  "level": "N3",
+  "pos": "verb"
+ },
+ {
+  "id": "n3-0300",
+  "word": "我慢する",
+  "reading": "がまんする",
+  "meaning_zh": "忍耐",
+  "meaning_en": "to endure; to put up with",
+  "level": "N3",
+  "pos": "verb"
+ },
+ {
+  "id": "n3-0301",
+  "word": "感じる",
+  "reading": "かんじる",
+  "meaning_zh": "感觉；感到",
+  "meaning_en": "to feel",
+  "level": "N3",
+  "pos": "verb"
+ },
+ {
+  "id": "n3-0302",
+  "word": "効く",
+  "reading": "きく",
+  "meaning_zh": "有效",
+  "meaning_en": "to be effective",
+  "level": "N3",
+  "pos": "verb"
+ },
+ {
+  "id": "n3-0303",
+  "word": "気付く",
+  "reading": "きづく",
+  "meaning_zh": "察觉；注意到",
+  "meaning_en": "to notice; to realize",
+  "level": "N3",
+  "pos": "verb"
+ },
+ {
+  "id": "n3-0304",
+  "word": "配る",
+  "reading": "くばる",
+  "meaning_zh": "分发",
+  "meaning_en": "to distribute; to hand out",
+  "level": "N3",
+  "pos": "verb"
+ },
+ {
+  "id": "n3-0305",
+  "word": "加える",
+  "reading": "くわえる",
+  "meaning_zh": "加上；添加",
+  "meaning_en": "to add",
+  "level": "N3",
+  "pos": "verb"
+ },
+ {
+  "id": "n3-0306",
+  "word": "加わる",
+  "reading": "くわわる",
+  "meaning_zh": "加入",
+  "meaning_en": "to join; to be added",
+  "level": "N3",
+  "pos": "verb"
+ },
+ {
+  "id": "n3-0307",
+  "word": "暮らす",
+  "reading": "くらす",
+  "meaning_zh": "生活；过日子",
+  "meaning_en": "to live; to get along",
+  "level": "N3",
+  "pos": "verb"
+ },
+ {
+  "id": "n3-0308",
+  "word": "苦しむ",
+  "reading": "くるしむ",
+  "meaning_zh": "痛苦；受苦",
+  "meaning_en": "to suffer",
+  "level": "N3",
+  "pos": "verb"
+ },
+ {
+  "id": "n3-0309",
+  "word": "越える",
+  "reading": "こえる",
+  "meaning_zh": "越过；超过",
+  "meaning_en": "to cross; to exceed",
+  "level": "N3",
+  "pos": "verb"
+ },
+ {
+  "id": "n3-0310",
+  "word": "転ぶ",
+  "reading": "ころぶ",
+  "meaning_zh": "摔倒",
+  "meaning_en": "to fall down",
+  "level": "N3",
+  "pos": "verb"
+ },
+ {
+  "id": "n3-0311",
+  "word": "避ける",
+  "reading": "さける",
+  "meaning_zh": "避开；避免",
+  "meaning_en": "to avoid",
+  "level": "N3",
+  "pos": "verb"
+ },
+ {
+  "id": "n3-0312",
+  "word": "支える",
+  "reading": "ささえる",
+  "meaning_zh": "支撑；支持",
+  "meaning_en": "to support",
+  "level": "N3",
+  "pos": "verb"
+ },
+ {
+  "id": "n3-0313",
+  "word": "覚める",
+  "reading": "さめる",
+  "meaning_zh": "醒来；清醒",
+  "meaning_en": "to wake up; to become sober",
+  "level": "N3",
+  "pos": "verb"
+ },
+ {
+  "id": "n3-0314",
+  "word": "去る",
+  "reading": "さる",
+  "meaning_zh": "离开",
+  "meaning_en": "to leave; to depart",
+  "level": "N3",
+  "pos": "verb"
+ },
+ {
+  "id": "n3-0315",
+  "word": "沈む",
+  "reading": "しずむ",
+  "meaning_zh": "下沉",
+  "meaning_en": "to sink",
+  "level": "N3",
+  "pos": "verb"
+ },
+ {
+  "id": "n3-0316",
+  "word": "従う",
+  "reading": "したがう",
+  "meaning_zh": "遵从；跟随",
+  "meaning_en": "to obey; to follow",
+  "level": "N3",
+  "pos": "verb"
+ },
+ {
+  "id": "n3-0317",
+  "word": "支払う",
+  "reading": "しはらう",
+  "meaning_zh": "支付",
+  "meaning_en": "to pay",
+  "level": "N3",
+  "pos": "verb"
+ },
+ {
+  "id": "n3-0318",
+  "word": "示す",
+  "reading": "しめす",
+  "meaning_zh": "表示；出示",
+  "meaning_en": "to show; to indicate",
+  "level": "N3",
+  "pos": "verb"
+ },
+ {
+  "id": "n3-0319",
+  "word": "信じる",
+  "reading": "しんじる",
+  "meaning_zh": "相信",
+  "meaning_en": "to believe",
+  "level": "N3",
+  "pos": "verb"
+ },
+ {
+  "id": "n3-0320",
+  "word": "過ごす",
+  "reading": "すごす",
+  "meaning_zh": "度过",
+  "meaning_en": "to spend (time)",
+  "level": "N3",
+  "pos": "verb"
+ },
+ {
+  "id": "n3-0321",
+  "word": "進める",
+  "reading": "すすめる",
+  "meaning_zh": "推进",
+  "meaning_en": "to advance; to proceed with",
+  "level": "N3",
+  "pos": "verb"
+ },
+ {
+  "id": "n3-0322",
+  "word": "勧める",
+  "reading": "すすめる",
+  "meaning_zh": "劝告；推荐",
+  "meaning_en": "to recommend; to advise",
+  "level": "N3",
+  "pos": "verb"
+ },
+ {
+  "id": "n3-0323",
+  "word": "責める",
+  "reading": "せめる",
+  "meaning_zh": "责备",
+  "meaning_en": "to blame; to criticize",
+  "level": "N3",
+  "pos": "verb"
+ },
+ {
+  "id": "n3-0324",
+  "word": "揃う",
+  "reading": "そろう",
+  "meaning_zh": "齐全；聚齐",
+  "meaning_en": "to be complete; to gather",
+  "level": "N3",
+  "pos": "verb"
+ },
+ {
+  "id": "n3-0325",
+  "word": "揃える",
+  "reading": "そろえる",
+  "meaning_zh": "备齐；使一致",
+  "meaning_en": "to arrange; to make uniform",
+  "level": "N3",
+  "pos": "verb"
+ },
+ {
+  "id": "n3-0326",
+  "word": "倒す",
+  "reading": "たおす",
+  "meaning_zh": "弄倒；打倒",
+  "meaning_en": "to knock down; to defeat",
+  "level": "N3",
+  "pos": "verb"
+ },
+ {
+  "id": "n3-0327",
+  "word": "確かめる",
+  "reading": "たしかめる",
+  "meaning_zh": "确认；核实",
+  "meaning_en": "to make sure; to verify",
+  "level": "N3",
+  "pos": "verb"
+ },
+ {
+  "id": "n3-0328",
+  "word": "戦う",
+  "reading": "たたかう",
+  "meaning_zh": "战斗；斗争",
+  "meaning_en": "to fight",
+  "level": "N3",
+  "pos": "verb"
+ },
+ {
+  "id": "n3-0329",
+  "word": "畳む",
+  "reading": "たたむ",
+  "meaning_zh": "折叠",
+  "meaning_en": "to fold",
+  "level": "N3",
+  "pos": "verb"
+ },
+ {
+  "id": "n3-0330",
+  "word": "経つ",
+  "reading": "たつ",
+  "meaning_zh": "（时间）流逝",
+  "meaning_en": "(time) to pass",
+  "level": "N3",
+  "pos": "verb"
+ },
+ {
+  "id": "n3-0331",
+  "word": "頼る",
+  "reading": "たよる",
+  "meaning_zh": "依靠",
+  "meaning_en": "to rely on",
+  "level": "N3",
+  "pos": "verb"
+ },
+ {
+  "id": "n3-0332",
+  "word": "黙る",
+  "reading": "だまる",
+  "meaning_zh": "沉默",
+  "meaning_en": "to be silent",
+  "level": "N3",
+  "pos": "verb"
+ },
+ {
+  "id": "n3-0333",
+  "word": "貯める",
+  "reading": "ためる",
+  "meaning_zh": "储存；积攒",
+  "meaning_en": "to save up",
+  "level": "N3",
+  "pos": "verb"
+ },
+ {
+  "id": "n3-0334",
+  "word": "保つ",
+  "reading": "たもつ",
+  "meaning_zh": "保持",
+  "meaning_en": "to maintain; to keep",
+  "level": "N3",
+  "pos": "verb"
+ },
+ {
+  "id": "n3-0335",
+  "word": "散る",
+  "reading": "ちる",
+  "meaning_zh": "凋谢；散落",
+  "meaning_en": "to fall (petals); to scatter",
+  "level": "N3",
+  "pos": "verb"
+ },
+ {
+  "id": "n3-0336",
+  "word": "捕まる",
+  "reading": "つかまる",
+  "meaning_zh": "被抓住",
+  "meaning_en": "to be caught",
+  "level": "N3",
+  "pos": "verb"
+ },
+ {
+  "id": "n3-0337",
+  "word": "掴む",
+  "reading": "つかむ",
+  "meaning_zh": "抓住",
+  "meaning_en": "to grab; to grasp",
+  "level": "N3",
+  "pos": "verb"
+ },
+ {
+  "id": "n3-0338",
+  "word": "付き合う",
+  "reading": "つきあう",
+  "meaning_zh": "交往；陪同",
+  "meaning_en": "to associate with; to date",
+  "level": "N3",
+  "pos": "verb"
+ },
+ {
+  "id": "n3-0339",
+  "word": "繋ぐ",
+  "reading": "つなぐ",
+  "meaning_zh": "连接；系",
+  "meaning_en": "to connect; to tie",
+  "level": "N3",
+  "pos": "verb"
+ },
+ {
+  "id": "n3-0340",
+  "word": "詰まる",
+  "reading": "つまる",
+  "meaning_zh": "堵塞；塞满",
+  "meaning_en": "to be blocked; to be packed",
+  "level": "N3",
+  "pos": "verb"
+ },
+ {
+  "id": "n3-0341",
+  "word": "積む",
+  "reading": "つむ",
+  "meaning_zh": "堆积；积累",
+  "meaning_en": "to pile up; to accumulate",
+  "level": "N3",
+  "pos": "verb"
+ },
+ {
+  "id": "n3-0342",
+  "word": "出会う",
+  "reading": "であう",
+  "meaning_zh": "邂逅；遇见",
+  "meaning_en": "to meet by chance; to encounter",
+  "level": "N3",
+  "pos": "verb"
+ },
+ {
+  "id": "n3-0343",
+  "word": "溶ける",
+  "reading": "とける",
+  "meaning_zh": "融化；溶解",
+  "meaning_en": "to melt; to dissolve",
+  "level": "N3",
+  "pos": "verb"
+ },
+ {
+  "id": "n3-0344",
+  "word": "飛ばす",
+  "reading": "とばす",
+  "meaning_zh": "使飞；跳过",
+  "meaning_en": "to let fly; to skip",
+  "level": "N3",
+  "pos": "verb"
+ },
+ {
+  "id": "n3-0345",
+  "word": "泊める",
+  "reading": "とめる",
+  "meaning_zh": "留宿",
+  "meaning_en": "to put (someone) up for the night",
+  "level": "N3",
+  "pos": "verb"
+ },
+ {
+  "id": "n3-0346",
+  "word": "眺める",
+  "reading": "ながめる",
+  "meaning_zh": "眺望；凝视",
+  "meaning_en": "to gaze at; to view",
+  "level": "N3",
+  "pos": "verb"
+ },
+ {
+  "id": "n3-0347",
+  "word": "流す",
+  "reading": "ながす",
+  "meaning_zh": "冲走；使流动",
+  "meaning_en": "to let flow; to wash away",
+  "level": "N3",
+  "pos": "verb"
+ },
+ {
+  "id": "n3-0348",
+  "word": "流れる",
+  "reading": "ながれる",
+  "meaning_zh": "流动",
+  "meaning_en": "to flow",
+  "level": "N3",
+  "pos": "verb"
+ },
+ {
+  "id": "n3-0349",
+  "word": "悩む",
+  "reading": "なやむ",
+  "meaning_zh": "烦恼",
+  "meaning_en": "to worry; to be troubled",
+  "level": "N3",
+  "pos": "verb"
+ },
+ {
+  "id": "n3-0350",
+  "word": "握る",
+  "reading": "にぎる",
+  "meaning_zh": "握；抓",
+  "meaning_en": "to grip; to grasp",
+  "level": "N3",
+  "pos": "verb"
+ },
+ {
+  "id": "n3-0351",
+  "word": "抜く",
+  "reading": "ぬく",
+  "meaning_zh": "拔出；超过",
+  "meaning_en": "to pull out; to overtake",
+  "level": "N3",
+  "pos": "verb"
+ },
+ {
+  "id": "n3-0352",
+  "word": "抜ける",
+  "reading": "ぬける",
+  "meaning_zh": "脱落；穿过",
+  "meaning_en": "to come out; to pass through",
+  "level": "N3",
+  "pos": "verb"
+ },
+ {
+  "id": "n3-0353",
+  "word": "願う",
+  "reading": "ねがう",
+  "meaning_zh": "希望；请求",
+  "meaning_en": "to wish; to request",
+  "level": "N3",
+  "pos": "verb"
+ },
+ {
+  "id": "n3-0354",
+  "word": "残す",
+  "reading": "のこす",
+  "meaning_zh": "留下；剩下",
+  "meaning_en": "to leave behind",
+  "level": "N3",
+  "pos": "verb"
+ },
+ {
+  "id": "n3-0355",
+  "word": "除く",
+  "reading": "のぞく",
+  "meaning_zh": "除去；除外",
+  "meaning_en": "to remove; to exclude",
+  "level": "N3",
+  "pos": "verb"
+ },
+ {
+  "id": "n3-0356",
+  "word": "望む",
+  "reading": "のぞむ",
+  "meaning_zh": "希望；盼望",
+  "meaning_en": "to hope for; to desire",
+  "level": "N3",
+  "pos": "verb"
+ },
+ {
+  "id": "n3-0357",
+  "word": "伸ばす",
+  "reading": "のばす",
+  "meaning_zh": "伸长；延长",
+  "meaning_en": "to extend; to stretch",
+  "level": "N3",
+  "pos": "verb"
+ },
+ {
+  "id": "n3-0358",
+  "word": "伸びる",
+  "reading": "のびる",
+  "meaning_zh": "增长；伸长",
+  "meaning_en": "to grow; to stretch",
+  "level": "N3",
+  "pos": "verb"
+ },
+ {
+  "id": "n3-0359",
+  "word": "述べる",
+  "reading": "のべる",
+  "meaning_zh": "叙述；陈述",
+  "meaning_en": "to state; to mention",
+  "level": "N3",
+  "pos": "verb"
+ },
+ {
+  "id": "n3-0360",
+  "word": "生える",
+  "reading": "はえる",
+  "meaning_zh": "生长",
+  "meaning_en": "to grow (plants, hair)",
+  "level": "N3",
+  "pos": "verb"
+ },
+ {
+  "id": "n3-0361",
+  "word": "測る",
+  "reading": "はかる",
+  "meaning_zh": "测量",
+  "meaning_en": "to measure",
+  "level": "N3",
+  "pos": "verb"
+ },
+ {
+  "id": "n3-0362",
+  "word": "外す",
+  "reading": "はずす",
+  "meaning_zh": "取下；摘下",
+  "meaning_en": "to remove; to take off",
+  "level": "N3",
+  "pos": "verb"
+ },
+ {
+  "id": "n3-0363",
+  "word": "離す",
+  "reading": "はなす",
+  "meaning_zh": "放开；隔开",
+  "meaning_en": "to release; to separate",
+  "level": "N3",
+  "pos": "verb"
+ },
+ {
+  "id": "n3-0364",
+  "word": "離れる",
+  "reading": "はなれる",
+  "meaning_zh": "离开；远离",
+  "meaning_en": "to leave; to be apart",
+  "level": "N3",
+  "pos": "verb"
+ },
+ {
+  "id": "n3-0365",
+  "word": "冷える",
+  "reading": "ひえる",
+  "meaning_zh": "变冷",
+  "meaning_en": "to get cold",
+  "level": "N3",
+  "pos": "verb"
+ },
+ {
+  "id": "n3-0366",
+  "word": "広げる",
+  "reading": "ひろげる",
+  "meaning_zh": "展开；扩大",
+  "meaning_en": "to spread; to expand",
+  "level": "N3",
+  "pos": "verb"
+ },
+ {
+  "id": "n3-0367",
+  "word": "増やす",
+  "reading": "ふやす",
+  "meaning_zh": "增加",
+  "meaning_en": "to increase (something)",
+  "level": "N3",
+  "pos": "verb"
+ },
+ {
+  "id": "n3-0368",
+  "word": "振る",
+  "reading": "ふる",
+  "meaning_zh": "挥；摇",
+  "meaning_en": "to wave; to shake",
+  "level": "N3",
+  "pos": "verb"
+ },
+ {
+  "id": "n3-0369",
+  "word": "減らす",
+  "reading": "へらす",
+  "meaning_zh": "减少",
+  "meaning_en": "to reduce",
+  "level": "N3",
+  "pos": "verb"
+ },
+ {
+  "id": "n3-0370",
+  "word": "減る",
+  "reading": "へる",
+  "meaning_zh": "减少",
+  "meaning_en": "to decrease",
+  "level": "N3",
+  "pos": "verb"
+ },
+ {
+  "id": "n3-0371",
+  "word": "混ぜる",
+  "reading": "まぜる",
+  "meaning_zh": "搅拌；混合",
+  "meaning_en": "to mix",
+  "level": "N3",
+  "pos": "verb"
+ },
+ {
+  "id": "n3-0372",
+  "word": "学ぶ",
+  "reading": "まなぶ",
+  "meaning_zh": "学习",
+  "meaning_en": "to learn",
+  "level": "N3",
+  "pos": "verb"
+ },
+ {
+  "id": "n3-0373",
+  "word": "守る",
+  "reading": "まもる",
+  "meaning_zh": "保护；遵守",
+  "meaning_en": "to protect; to obey",
+  "level": "N3",
+  "pos": "verb"
+ },
+ {
+  "id": "n3-0374",
+  "word": "迷う",
+  "reading": "まよう",
+  "meaning_zh": "迷路；犹豫",
+  "meaning_en": "to get lost; to hesitate",
+  "level": "N3",
+  "pos": "verb"
+ },
+ {
+  "id": "n3-0375",
+  "word": "向かう",
+  "reading": "むかう",
+  "meaning_zh": "朝向；前往",
+  "meaning_en": "to head toward; to face",
+  "level": "N3",
+  "pos": "verb"
+ },
+ {
+  "id": "n3-0376",
+  "word": "結ぶ",
+  "reading": "むすぶ",
+  "meaning_zh": "系；结合",
+  "meaning_en": "to tie; to link",
+  "level": "N3",
+  "pos": "verb"
+ },
+ {
+  "id": "n3-0377",
+  "word": "求める",
+  "reading": "もとめる",
+  "meaning_zh": "寻求；要求",
+  "meaning_en": "to seek; to request",
+  "level": "N3",
+  "pos": "verb"
+ },
+ {
+  "id": "n3-0378",
+  "word": "戻す",
+  "reading": "もどす",
+  "meaning_zh": "放回；退回",
+  "meaning_en": "to return (something); to put back",
+  "level": "N3",
+  "pos": "verb"
+ },
+ {
+  "id": "n3-0379",
+  "word": "雇う",
+  "reading": "やとう",
+  "meaning_zh": "雇用",
+  "meaning_en": "to hire; to employ",
+  "level": "N3",
+  "pos": "verb"
+ },
+ {
+  "id": "n3-0380",
+  "word": "譲る",
+  "reading": "ゆずる",
+  "meaning_zh": "让给；转让",
+  "meaning_en": "to hand over; to yield",
+  "level": "N3",
+  "pos": "verb"
+ },
+ {
+  "id": "n3-0381",
+  "word": "浅い",
+  "reading": "あさい",
+  "meaning_zh": "浅",
+  "meaning_en": "shallow",
+  "level": "N3",
+  "pos": "i-adj"
+ },
+ {
+  "id": "n3-0382",
+  "word": "厚い",
+  "reading": "あつい",
+  "meaning_zh": "厚",
+  "meaning_en": "thick",
+  "level": "N3",
+  "pos": "i-adj"
+ },
+ {
+  "id": "n3-0383",
+  "word": "険しい",
+  "reading": "けわしい",
+  "meaning_zh": "险峻；严峻",
+  "meaning_en": "steep; severe",
+  "level": "N3",
+  "pos": "i-adj"
+ },
+ {
+  "id": "n3-0384",
+  "word": "詳しい",
+  "reading": "くわしい",
+  "meaning_zh": "详细；精通",
+  "meaning_en": "detailed; knowledgeable",
+  "level": "N3",
+  "pos": "i-adj"
+ },
+ {
+  "id": "n3-0385",
+  "word": "貧しい",
+  "reading": "まずしい",
+  "meaning_zh": "贫穷",
+  "meaning_en": "poor",
+  "level": "N3",
+  "pos": "i-adj"
+ },
+ {
+  "id": "n3-0386",
+  "word": "眩しい",
+  "reading": "まぶしい",
+  "meaning_zh": "刺眼；耀眼",
+  "meaning_en": "dazzling; glaring",
+  "level": "N3",
+  "pos": "i-adj"
+ },
+ {
+  "id": "n3-0387",
+  "word": "蒸し暑い",
+  "reading": "むしあつい",
+  "meaning_zh": "闷热",
+  "meaning_en": "hot and humid",
+  "level": "N3",
+  "pos": "i-adj"
+ },
+ {
+  "id": "n3-0388",
+  "word": "羨ましい",
+  "reading": "うらやましい",
+  "meaning_zh": "羡慕",
+  "meaning_en": "envious",
+  "level": "N3",
+  "pos": "i-adj"
+ },
+ {
+  "id": "n3-0389",
+  "word": "新鮮",
+  "reading": "しんせん",
+  "meaning_zh": "新鲜",
+  "meaning_en": "fresh",
+  "level": "N3",
+  "pos": "na-adj"
+ },
+ {
+  "id": "n3-0390",
+  "word": "正直",
+  "reading": "しょうじき",
+  "meaning_zh": "诚实；老实",
+  "meaning_en": "honest",
+  "level": "N3",
+  "pos": "na-adj"
+ },
+ {
+  "id": "n3-0391",
+  "word": "単純",
+  "reading": "たんじゅん",
+  "meaning_zh": "单纯；简单",
+  "meaning_en": "simple",
+  "level": "N3",
+  "pos": "na-adj"
+ },
+ {
+  "id": "n3-0392",
+  "word": "複雑",
+  "reading": "ふくざつ",
+  "meaning_zh": "复杂",
+  "meaning_en": "complicated",
+  "level": "N3",
+  "pos": "na-adj"
+ },
+ {
+  "id": "n3-0393",
+  "word": "豊か",
+  "reading": "ゆたか",
+  "meaning_zh": "丰富；富裕",
+  "meaning_en": "rich; abundant",
+  "level": "N3",
+  "pos": "na-adj"
+ },
+ {
+  "id": "n3-0394",
+  "word": "かなり",
+  "reading": "かなり",
+  "meaning_zh": "相当；颇",
+  "meaning_en": "considerably; quite",
+  "level": "N3",
+  "pos": "adv"
+ },
+ {
+  "id": "n3-0395",
+  "word": "突然",
+  "reading": "とつぜん",
+  "meaning_zh": "突然",
+  "meaning_en": "suddenly",
+  "level": "N3",
+  "pos": "adv"
+ },
+ {
+  "id": "n3-0396",
+  "word": "やはり",
+  "reading": "やはり",
+  "meaning_zh": "果然；还是",
+  "meaning_en": "as expected; after all",
+  "level": "N3",
+  "pos": "adv"
+ },
+ {
+  "id": "n3-0397",
+  "word": "むしろ",
+  "reading": "むしろ",
+  "meaning_zh": "宁可；反而",
+  "meaning_en": "rather; instead",
+  "level": "N3",
+  "pos": "adv"
+ },
+ {
+  "id": "n3-0398",
+  "word": "つまり",
+  "reading": "つまり",
+  "meaning_zh": "也就是说；总之",
+  "meaning_en": "in other words; that is",
+  "level": "N3",
+  "pos": "conj"
+ },
+ {
+  "id": "n3-0399",
+  "word": "しかも",
+  "reading": "しかも",
+  "meaning_zh": "而且",
+  "meaning_en": "moreover; furthermore",
+  "level": "N3",
+  "pos": "conj"
+ },
+ {
+  "id": "n3-0400",
+  "word": "お互い",
+  "reading": "おたがい",
+  "meaning_zh": "互相；彼此",
+  "meaning_en": "each other; mutual",
+  "level": "N3",
+  "pos": "noun"
+ },
+ {
+  "id": "n3-0401",
+  "word": "移動",
+  "reading": "いどう",
+  "meaning_zh": "移动；转移",
+  "meaning_en": "movement; transfer",
+  "level": "N3",
+  "pos": "noun"
+ },
+ {
+  "id": "n3-0402",
+  "word": "発見",
+  "reading": "はっけん",
+  "meaning_zh": "发现",
+  "meaning_en": "discovery",
+  "level": "N3",
+  "pos": "noun"
+ },
+ {
+  "id": "n3-0403",
+  "word": "発表",
+  "reading": "はっぴょう",
+  "meaning_zh": "发表；公布",
+  "meaning_en": "announcement; presentation",
+  "level": "N3",
+  "pos": "noun"
+ },
+ {
+  "id": "n3-0404",
+  "word": "発明",
+  "reading": "はつめい",
+  "meaning_zh": "发明",
+  "meaning_en": "invention",
+  "level": "N3",
+  "pos": "noun"
+ },
+ {
+  "id": "n3-0405",
+  "word": "発生",
+  "reading": "はっせい",
+  "meaning_zh": "发生",
+  "meaning_en": "occurrence; outbreak",
+  "level": "N3",
+  "pos": "noun"
+ },
+ {
+  "id": "n3-0406",
+  "word": "発達",
+  "reading": "はったつ",
+  "meaning_zh": "发达；发育",
+  "meaning_en": "development; growth",
+  "level": "N3",
+  "pos": "noun"
+ },
+ {
+  "id": "n3-0407",
+  "word": "発売",
+  "reading": "はつばい",
+  "meaning_zh": "发售；上市",
+  "meaning_en": "release for sale; launch",
+  "level": "N3",
+  "pos": "noun"
+ },
+ {
+  "id": "n3-0408",
+  "word": "開発",
+  "reading": "かいはつ",
+  "meaning_zh": "开发",
+  "meaning_en": "development",
+  "level": "N3",
+  "pos": "noun"
+ },
+ {
+  "id": "n3-0409",
+  "word": "解決",
+  "reading": "かいけつ",
+  "meaning_zh": "解决",
+  "meaning_en": "solution; settlement",
+  "level": "N3",
+  "pos": "noun"
+ },
+ {
+  "id": "n3-0410",
+  "word": "解散",
+  "reading": "かいさん",
+  "meaning_zh": "解散",
+  "meaning_en": "dissolution; breakup",
+  "level": "N3",
+  "pos": "noun"
+ },
+ {
+  "id": "n3-0411",
+  "word": "回復",
+  "reading": "かいふく",
+  "meaning_zh": "恢复；康复",
+  "meaning_en": "recovery; restoration",
+  "level": "N3",
+  "pos": "noun"
+ },
+ {
+  "id": "n3-0412",
+  "word": "開始",
+  "reading": "かいし",
+  "meaning_zh": "开始",
+  "meaning_en": "start; commencement",
+  "level": "N3",
+  "pos": "noun"
+ },
+ {
+  "id": "n3-0413",
+  "word": "回収",
+  "reading": "かいしゅう",
+  "meaning_zh": "回收",
+  "meaning_en": "collection; recall",
+  "level": "N3",
+  "pos": "noun"
+ },
+ {
+  "id": "n3-0414",
+  "word": "解説",
+  "reading": "かいせつ",
+  "meaning_zh": "解说；讲解",
+  "meaning_en": "explanation; commentary",
+  "level": "N3",
+  "pos": "noun"
+ },
+ {
+  "id": "n3-0415",
+  "word": "回転",
+  "reading": "かいてん",
+  "meaning_zh": "旋转；转动",
+  "meaning_en": "rotation; revolution",
+  "level": "N3",
+  "pos": "noun"
+ },
+ {
+  "id": "n3-0416",
+  "word": "拡大",
+  "reading": "かくだい",
+  "meaning_zh": "扩大",
+  "meaning_en": "expansion; enlargement",
+  "level": "N3",
+  "pos": "noun"
+ },
+ {
+  "id": "n3-0417",
+  "word": "学習",
+  "reading": "がくしゅう",
+  "meaning_zh": "学习",
+  "meaning_en": "learning; study",
+  "level": "N3",
+  "pos": "noun"
+ },
+ {
+  "id": "n3-0418",
+  "word": "活動",
+  "reading": "かつどう",
+  "meaning_zh": "活动",
+  "meaning_en": "activity",
+  "level": "N3",
+  "pos": "noun"
+ },
+ {
+  "id": "n3-0419",
+  "word": "活躍",
+  "reading": "かつやく",
+  "meaning_zh": "活跃；大显身手",
+  "meaning_en": "being active; playing an active role",
+  "level": "N3",
+  "pos": "noun"
+ },
+ {
+  "id": "n3-0420",
+  "word": "完了",
+  "reading": "かんりょう",
+  "meaning_zh": "完成；结束",
+  "meaning_en": "completion",
+  "level": "N3",
+  "pos": "noun"
+ },
+ {
+  "id": "n3-0421",
+  "word": "管理",
+  "reading": "かんり",
+  "meaning_zh": "管理",
+  "meaning_en": "management; administration",
+  "level": "N3",
+  "pos": "noun"
+ },
+ {
+  "id": "n3-0422",
+  "word": "乾燥",
+  "reading": "かんそう",
+  "meaning_zh": "干燥",
+  "meaning_en": "dryness; drying",
+  "level": "N3",
+  "pos": "noun"
+ },
+ {
+  "id": "n3-0423",
+  "word": "記入",
+  "reading": "きにゅう",
+  "meaning_zh": "填写",
+  "meaning_en": "filling in; entry",
+  "level": "N3",
+  "pos": "noun"
+ },
+ {
+  "id": "n3-0424",
+  "word": "記念",
+  "reading": "きねん",
+  "meaning_zh": "纪念",
+  "meaning_en": "commemoration",
+  "level": "N3",
+  "pos": "noun"
+ },
+ {
+  "id": "n3-0425",
+  "word": "帰宅",
+  "reading": "きたく",
+  "meaning_zh": "回家",
+  "meaning_en": "returning home",
+  "level": "N3",
+  "pos": "noun"
+ },
+ {
+  "id": "n3-0426",
+  "word": "吸収",
+  "reading": "きゅうしゅう",
+  "meaning_zh": "吸收",
+  "meaning_en": "absorption",
+  "level": "N3",
+  "pos": "noun"
+ },
+ {
+  "id": "n3-0427",
+  "word": "救助",
+  "reading": "きゅうじょ",
+  "meaning_zh": "救助；营救",
+  "meaning_en": "rescue",
+  "level": "N3",
+  "pos": "noun"
+ },
+ {
+  "id": "n3-0428",
+  "word": "供給",
+  "reading": "きょうきゅう",
+  "meaning_zh": "供给；供应",
+  "meaning_en": "supply",
+  "level": "N3",
+  "pos": "noun"
+ },
+ {
+  "id": "n3-0429",
+  "word": "強調",
+  "reading": "きょうちょう",
+  "meaning_zh": "强调",
+  "meaning_en": "emphasis",
+  "level": "N3",
+  "pos": "noun"
+ },
+ {
+  "id": "n3-0430",
+  "word": "禁煙",
+  "reading": "きんえん",
+  "meaning_zh": "禁烟；戒烟",
+  "meaning_en": "no smoking; quitting smoking",
+  "level": "N3",
+  "pos": "noun"
+ },
+ {
+  "id": "n3-0431",
+  "word": "緊張",
+  "reading": "きんちょう",
+  "meaning_zh": "紧张",
+  "meaning_en": "tension; nervousness",
+  "level": "N3",
+  "pos": "noun"
+ },
+ {
+  "id": "n3-0432",
+  "word": "勤務",
+  "reading": "きんむ",
+  "meaning_zh": "工作；上班",
+  "meaning_en": "work; duty; service",
+  "level": "N3",
+  "pos": "noun"
+ },
+ {
+  "id": "n3-0433",
+  "word": "区別",
+  "reading": "くべつ",
+  "meaning_zh": "区别；区分",
+  "meaning_en": "distinction",
+  "level": "N3",
+  "pos": "noun"
+ },
+ {
+  "id": "n3-0434",
+  "word": "工夫",
+  "reading": "くふう",
+  "meaning_zh": "设法；下功夫",
+  "meaning_en": "devising; ingenuity",
+  "level": "N3",
+  "pos": "noun"
+ },
+ {
+  "id": "n3-0435",
+  "word": "経由",
+  "reading": "けいゆ",
+  "meaning_zh": "经由；途经",
+  "meaning_en": "via; by way of",
+  "level": "N3",
+  "pos": "noun"
+ },
+ {
+  "id": "n3-0436",
+  "word": "契約",
+  "reading": "けいやく",
+  "meaning_zh": "合同；契约",
+  "meaning_en": "contract",
+  "level": "N3",
+  "pos": "noun"
+ },
+ {
+  "id": "n3-0437",
+  "word": "化粧",
+  "reading": "けしょう",
+  "meaning_zh": "化妆",
+  "meaning_en": "makeup",
+  "level": "N3",
+  "pos": "noun"
+ },
+ {
+  "id": "n3-0438",
+  "word": "欠席",
+  "reading": "けっせき",
+  "meaning_zh": "缺席",
+  "meaning_en": "absence",
+  "level": "N3",
+  "pos": "noun"
+ },
+ {
+  "id": "n3-0439",
+  "word": "決心",
+  "reading": "けっしん",
+  "meaning_zh": "决心",
+  "meaning_en": "determination; resolution",
+  "level": "N3",
+  "pos": "noun"
+ },
+ {
+  "id": "n3-0440",
+  "word": "検査",
+  "reading": "けんさ",
+  "meaning_zh": "检查；检验",
+  "meaning_en": "inspection; examination",
+  "level": "N3",
+  "pos": "noun"
+ },
+ {
+  "id": "n3-0441",
+  "word": "建設",
+  "reading": "けんせつ",
+  "meaning_zh": "建设",
+  "meaning_en": "construction",
+  "level": "N3",
+  "pos": "noun"
+ },
+ {
+  "id": "n3-0442",
+  "word": "講演",
+  "reading": "こうえん",
+  "meaning_zh": "演讲",
+  "meaning_en": "lecture; speech",
+  "level": "N3",
+  "pos": "noun"
+ },
+ {
+  "id": "n3-0443",
+  "word": "後悔",
+  "reading": "こうかい",
+  "meaning_zh": "后悔",
+  "meaning_en": "regret",
+  "level": "N3",
+  "pos": "noun"
+ },
+ {
+  "id": "n3-0444",
+  "word": "合計",
+  "reading": "ごうけい",
+  "meaning_zh": "合计；总计",
+  "meaning_en": "total; sum",
+  "level": "N3",
+  "pos": "noun"
+ },
+ {
+  "id": "n3-0445",
+  "word": "広告",
+  "reading": "こうこく",
+  "meaning_zh": "广告",
+  "meaning_en": "advertisement",
+  "level": "N3",
+  "pos": "noun"
+ },
+ {
+  "id": "n3-0446",
+  "word": "交流",
+  "reading": "こうりゅう",
+  "meaning_zh": "交流",
+  "meaning_en": "exchange; interaction",
+  "level": "N3",
+  "pos": "noun"
+ },
+ {
+  "id": "n3-0447",
+  "word": "誤解",
+  "reading": "ごかい",
+  "meaning_zh": "误解",
+  "meaning_en": "misunderstanding",
+  "level": "N3",
+  "pos": "noun"
+ },
+ {
+  "id": "n3-0448",
+  "word": "故障",
+  "reading": "こしょう",
+  "meaning_zh": "故障",
+  "meaning_en": "breakdown; malfunction",
+  "level": "N3",
+  "pos": "noun"
+ },
+ {
+  "id": "n3-0449",
+  "word": "混乱",
+  "reading": "こんらん",
+  "meaning_zh": "混乱",
+  "meaning_en": "confusion; chaos",
+  "level": "N3",
+  "pos": "noun"
+ },
+ {
+  "id": "n3-0450",
+  "word": "作成",
+  "reading": "さくせい",
+  "meaning_zh": "制作；制定",
+  "meaning_en": "creation; drawing up",
+  "level": "N3",
+  "pos": "noun"
+ },
+ {
+  "id": "n3-0451",
+  "word": "刺激",
+  "reading": "しげき",
+  "meaning_zh": "刺激",
+  "meaning_en": "stimulus; stimulation",
+  "level": "N3",
+  "pos": "noun"
+ },
+ {
+  "id": "n3-0452",
+  "word": "指示",
+  "reading": "しじ",
+  "meaning_zh": "指示",
+  "meaning_en": "instructions; directions",
+  "level": "N3",
+  "pos": "noun"
+ },
+ {
+  "id": "n3-0453",
+  "word": "実感",
+  "reading": "じっかん",
+  "meaning_zh": "真实感受；切身体会",
+  "meaning_en": "real feeling; actual sensation",
+  "level": "N3",
+  "pos": "noun"
+ },
+ {
+  "id": "n3-0454",
+  "word": "実現",
+  "reading": "じつげん",
+  "meaning_zh": "实现",
+  "meaning_en": "realization",
+  "level": "N3",
+  "pos": "noun"
+ },
+ {
+  "id": "n3-0455",
+  "word": "実行",
+  "reading": "じっこう",
+  "meaning_zh": "实行；执行",
+  "meaning_en": "execution; carrying out",
+  "level": "N3",
+  "pos": "noun"
+ },
+ {
+  "id": "n3-0456",
+  "word": "失敗",
+  "reading": "しっぱい",
+  "meaning_zh": "失败",
+  "meaning_en": "failure",
+  "level": "N3",
+  "pos": "noun"
+ },
+ {
+  "id": "n3-0457",
+  "word": "失業",
+  "reading": "しつぎょう",
+  "meaning_zh": "失业",
+  "meaning_en": "unemployment",
+  "level": "N3",
+  "pos": "noun"
+ },
+ {
+  "id": "n3-0458",
+  "word": "指定",
+  "reading": "してい",
+  "meaning_zh": "指定",
+  "meaning_en": "designation",
+  "level": "N3",
+  "pos": "noun"
+ },
+ {
+  "id": "n3-0459",
+  "word": "死亡",
+  "reading": "しぼう",
+  "meaning_zh": "死亡",
+  "meaning_en": "death",
+  "level": "N3",
+  "pos": "noun"
+ },
+ {
+  "id": "n3-0460",
+  "word": "収穫",
+  "reading": "しゅうかく",
+  "meaning_zh": "收获",
+  "meaning_en": "harvest",
+  "level": "N3",
+  "pos": "noun"
+ },
+ {
+  "id": "n3-0461",
+  "word": "修理",
+  "reading": "しゅうり",
+  "meaning_zh": "修理",
+  "meaning_en": "repair",
+  "level": "N3",
+  "pos": "noun"
+ },
+ {
+  "id": "n3-0462",
+  "word": "出勤",
+  "reading": "しゅっきん",
+  "meaning_zh": "上班；出勤",
+  "meaning_en": "going to work",
+  "level": "N3",
+  "pos": "noun"
+ },
+ {
+  "id": "n3-0463",
+  "word": "主張",
+  "reading": "しゅちょう",
+  "meaning_zh": "主张",
+  "meaning_en": "assertion; claim",
+  "level": "N3",
+  "pos": "noun"
+ },
+ {
+  "id": "n3-0464",
+  "word": "証明",
+  "reading": "しょうめい",
+  "meaning_zh": "证明",
+  "meaning_en": "proof; certification",
+  "level": "N3",
+  "pos": "noun"
+ },
+ {
+  "id": "n3-0465",
+  "word": "衝突",
+  "reading": "しょうとつ",
+  "meaning_zh": "冲突；相撞",
+  "meaning_en": "collision; conflict",
+  "level": "N3",
+  "pos": "noun"
+ },
+ {
+  "id": "n3-0466",
+  "word": "進学",
+  "reading": "しんがく",
+  "meaning_zh": "升学",
+  "meaning_en": "entering a higher school",
+  "level": "N3",
+  "pos": "noun"
+ },
+ {
+  "id": "n3-0467",
+  "word": "診察",
+  "reading": "しんさつ",
+  "meaning_zh": "诊察；看病",
+  "meaning_en": "medical examination",
+  "level": "N3",
+  "pos": "noun"
+ },
+ {
+  "id": "n3-0468",
+  "word": "進歩",
+  "reading": "しんぽ",
+  "meaning_zh": "进步",
+  "meaning_en": "progress",
+  "level": "N3",
+  "pos": "noun"
+ },
+ {
+  "id": "n3-0469",
+  "word": "信用",
+  "reading": "しんよう",
+  "meaning_zh": "信用；信任",
+  "meaning_en": "trust; credit",
+  "level": "N3",
+  "pos": "noun"
+ },
+ {
+  "id": "n3-0470",
+  "word": "信頼",
+  "reading": "しんらい",
+  "meaning_zh": "信赖",
+  "meaning_en": "trust; reliance",
+  "level": "N3",
+  "pos": "noun"
+ },
+ {
+  "id": "n3-0471",
+  "word": "制限",
+  "reading": "せいげん",
+  "meaning_zh": "限制",
+  "meaning_en": "restriction; limit",
+  "level": "N3",
+  "pos": "noun"
+ },
+ {
+  "id": "n3-0472",
+  "word": "製造",
+  "reading": "せいぞう",
+  "meaning_zh": "制造",
+  "meaning_en": "manufacture",
+  "level": "N3",
+  "pos": "noun"
+ },
+ {
+  "id": "n3-0473",
+  "word": "設計",
+  "reading": "せっけい",
+  "meaning_zh": "设计",
+  "meaning_en": "design; planning",
+  "level": "N3",
+  "pos": "noun"
+ },
+ {
+  "id": "n3-0474",
+  "word": "節約",
+  "reading": "せつやく",
+  "meaning_zh": "节约",
+  "meaning_en": "saving; economizing",
+  "level": "N3",
+  "pos": "noun"
+ },
+ {
+  "id": "n3-0475",
+  "word": "選択",
+  "reading": "せんたく",
+  "meaning_zh": "选择",
+  "meaning_en": "selection; choice",
+  "level": "N3",
+  "pos": "noun"
+ },
+ {
+  "id": "n3-0476",
+  "word": "尊重",
+  "reading": "そんちょう",
+  "meaning_zh": "尊重",
+  "meaning_en": "respect; esteem",
+  "level": "N3",
+  "pos": "noun"
+ },
+ {
+  "id": "n3-0477",
+  "word": "退院",
+  "reading": "たいいん",
+  "meaning_zh": "出院",
+  "meaning_en": "leaving hospital",
+  "level": "N3",
+  "pos": "noun"
+ },
+ {
+  "id": "n3-0478",
+  "word": "誕生",
+  "reading": "たんじょう",
+  "meaning_zh": "诞生；出生",
+  "meaning_en": "birth",
+  "level": "N3",
+  "pos": "noun"
+ },
+ {
+  "id": "n3-0479",
+  "word": "遅刻",
+  "reading": "ちこく",
+  "meaning_zh": "迟到",
+  "meaning_en": "lateness; being late",
+  "level": "N3",
+  "pos": "noun"
+ },
+ {
+  "id": "n3-0480",
+  "word": "注射",
+  "reading": "ちゅうしゃ",
+  "meaning_zh": "注射；打针",
+  "meaning_en": "injection",
+  "level": "N3",
+  "pos": "noun"
+ },
+ {
+  "id": "n3-0481",
+  "word": "調節",
+  "reading": "ちょうせつ",
+  "meaning_zh": "调节",
+  "meaning_en": "adjustment; regulation",
+  "level": "N3",
+  "pos": "noun"
+ },
+ {
+  "id": "n3-0482",
+  "word": "追加",
+  "reading": "ついか",
+  "meaning_zh": "追加；添加",
+  "meaning_en": "addition",
+  "level": "N3",
+  "pos": "noun"
+ },
+ {
+  "id": "n3-0483",
+  "word": "通過",
+  "reading": "つうか",
+  "meaning_zh": "通过；经过",
+  "meaning_en": "passing through",
+  "level": "N3",
+  "pos": "noun"
+ },
+ {
+  "id": "n3-0484",
+  "word": "通信",
+  "reading": "つうしん",
+  "meaning_zh": "通信",
+  "meaning_en": "communication; correspondence",
+  "level": "N3",
+  "pos": "noun"
+ },
+ {
+  "id": "n3-0485",
+  "word": "提出",
+  "reading": "ていしゅつ",
+  "meaning_zh": "提交；提出",
+  "meaning_en": "submission",
+  "level": "N3",
+  "pos": "noun"
+ },
+ {
+  "id": "n3-0486",
+  "word": "投票",
+  "reading": "とうひょう",
+  "meaning_zh": "投票",
+  "meaning_en": "voting",
+  "level": "N3",
+  "pos": "noun"
+ },
+ {
+  "id": "n3-0487",
+  "word": "登録",
+  "reading": "とうろく",
+  "meaning_zh": "登记；注册",
+  "meaning_en": "registration",
+  "level": "N3",
+  "pos": "noun"
+ },
+ {
+  "id": "n3-0488",
+  "word": "独立",
+  "reading": "どくりつ",
+  "meaning_zh": "独立",
+  "meaning_en": "independence",
+  "level": "N3",
+  "pos": "noun"
+ },
+ {
+  "id": "n3-0489",
+  "word": "努力",
+  "reading": "どりょく",
+  "meaning_zh": "努力",
+  "meaning_en": "effort",
+  "level": "N3",
+  "pos": "noun"
+ },
+ {
+  "id": "n3-0490",
+  "word": "配達",
+  "reading": "はいたつ",
+  "meaning_zh": "投递；送货",
+  "meaning_en": "delivery",
+  "level": "N3",
+  "pos": "noun"
+ },
+ {
+  "id": "n3-0491",
+  "word": "拍手",
+  "reading": "はくしゅ",
+  "meaning_zh": "拍手；鼓掌",
+  "meaning_en": "applause; clapping",
+  "level": "N3",
+  "pos": "noun"
+ },
+ {
+  "id": "n3-0492",
+  "word": "反省",
+  "reading": "はんせい",
+  "meaning_zh": "反省",
+  "meaning_en": "reflection; self-examination",
+  "level": "N3",
+  "pos": "noun"
+ },
+ {
+  "id": "n3-0493",
+  "word": "引っ越し",
+  "reading": "ひっこし",
+  "meaning_zh": "搬家",
+  "meaning_en": "moving house",
+  "level": "N3",
+  "pos": "noun"
+ },
+ {
+  "id": "n3-0494",
+  "word": "否定",
+  "reading": "ひてい",
+  "meaning_zh": "否定",
+  "meaning_en": "denial; negation",
+  "level": "N3",
+  "pos": "noun"
+ },
+ {
+  "id": "n3-0495",
+  "word": "批判",
+  "reading": "ひはん",
+  "meaning_zh": "批判；批评",
+  "meaning_en": "criticism",
+  "level": "N3",
+  "pos": "noun"
+ },
+ {
+  "id": "n3-0496",
+  "word": "評価",
+  "reading": "ひょうか",
+  "meaning_zh": "评价",
+  "meaning_en": "evaluation; assessment",
+  "level": "N3",
+  "pos": "noun"
+ },
+ {
+  "id": "n3-0497",
+  "word": "復習",
+  "reading": "ふくしゅう",
+  "meaning_zh": "复习",
+  "meaning_en": "review (of lessons)",
+  "level": "N3",
+  "pos": "noun"
+ },
+ {
+  "id": "n3-0498",
+  "word": "変更",
+  "reading": "へんこう",
+  "meaning_zh": "变更；更改",
+  "meaning_en": "change; modification",
+  "level": "N3",
+  "pos": "noun"
+ },
+ {
+  "id": "n3-0499",
+  "word": "報告",
+  "reading": "ほうこく",
+  "meaning_zh": "报告；汇报",
+  "meaning_en": "report",
+  "level": "N3",
+  "pos": "noun"
+ },
+ {
+  "id": "n3-0500",
+  "word": "訪問",
+  "reading": "ほうもん",
+  "meaning_zh": "访问；拜访",
+  "meaning_en": "visit",
+  "level": "N3",
+  "pos": "noun"
+ },
+ {
+  "id": "n3-0501",
+  "word": "保存",
+  "reading": "ほぞん",
+  "meaning_zh": "保存",
+  "meaning_en": "preservation; saving",
+  "level": "N3",
+  "pos": "noun"
+ },
+ {
+  "id": "n3-0502",
+  "word": "保証",
+  "reading": "ほしょう",
+  "meaning_zh": "保证；保修",
+  "meaning_en": "guarantee; warranty",
+  "level": "N3",
+  "pos": "noun"
+ },
+ {
+  "id": "n3-0503",
+  "word": "満足",
+  "reading": "まんぞく",
+  "meaning_zh": "满足；满意",
+  "meaning_en": "satisfaction",
+  "level": "N3",
+  "pos": "noun"
+ },
+ {
+  "id": "n3-0504",
+  "word": "無視",
+  "reading": "むし",
+  "meaning_zh": "无视；忽视",
+  "meaning_en": "ignoring; disregard",
+  "level": "N3",
+  "pos": "noun"
+ },
+ {
+  "id": "n3-0505",
+  "word": "油断",
+  "reading": "ゆだん",
+  "meaning_zh": "疏忽大意",
+  "meaning_en": "carelessness; inattention",
+  "level": "N3",
+  "pos": "noun"
+ },
+ {
+  "id": "n3-0506",
+  "word": "予測",
+  "reading": "よそく",
+  "meaning_zh": "预测",
+  "meaning_en": "prediction; forecast",
+  "level": "N3",
+  "pos": "noun"
+ },
+ {
+  "id": "n3-0507",
+  "word": "予防",
+  "reading": "よぼう",
+  "meaning_zh": "预防",
+  "meaning_en": "prevention",
+  "level": "N3",
+  "pos": "noun"
+ },
+ {
+  "id": "n3-0508",
+  "word": "連続",
+  "reading": "れんぞく",
+  "meaning_zh": "连续",
+  "meaning_en": "continuation; series",
+  "level": "N3",
+  "pos": "noun"
+ },
+ {
+  "id": "n3-0509",
+  "word": "議論",
+  "reading": "ぎろん",
+  "meaning_zh": "议论；讨论",
+  "meaning_en": "discussion; argument",
+  "level": "N3",
+  "pos": "noun"
+ },
+ {
+  "id": "n3-0510",
+  "word": "延期",
+  "reading": "えんき",
+  "meaning_zh": "延期",
+  "meaning_en": "postponement",
+  "level": "N3",
+  "pos": "noun"
+ },
+ {
+  "id": "n3-0511",
+  "word": "遠慮",
+  "reading": "えんりょ",
+  "meaning_zh": "客气；顾虑",
+  "meaning_en": "reserve; restraint; hesitation",
+  "level": "N3",
+  "pos": "noun"
+ },
+ {
+  "id": "n3-0512",
+  "word": "応募",
+  "reading": "おうぼ",
+  "meaning_zh": "应征；报名",
+  "meaning_en": "application; applying",
+  "level": "N3",
+  "pos": "noun"
+ },
+ {
+  "id": "n3-0513",
+  "word": "往復",
+  "reading": "おうふく",
+  "meaning_zh": "往返",
+  "meaning_en": "round trip",
+  "level": "N3",
+  "pos": "noun"
+ },
+ {
+  "id": "n3-0514",
+  "word": "握手",
+  "reading": "あくしゅ",
+  "meaning_zh": "握手",
+  "meaning_en": "handshake",
+  "level": "N3",
+  "pos": "noun"
+ },
+ {
+  "id": "n3-0515",
+  "word": "安定",
+  "reading": "あんてい",
+  "meaning_zh": "稳定；安定",
+  "meaning_en": "stability",
+  "level": "N3",
+  "pos": "noun"
+ },
+ {
+  "id": "n3-0516",
+  "word": "違反",
+  "reading": "いはん",
+  "meaning_zh": "违反",
+  "meaning_en": "violation",
+  "level": "N3",
+  "pos": "noun"
+ },
+ {
+  "id": "n3-0517",
+  "word": "引退",
+  "reading": "いんたい",
+  "meaning_zh": "引退；退役",
+  "meaning_en": "retirement",
+  "level": "N3",
+  "pos": "noun"
+ },
+ {
+  "id": "n3-0518",
+  "word": "維持",
+  "reading": "いじ",
+  "meaning_zh": "维持",
+  "meaning_en": "maintenance",
+  "level": "N3",
+  "pos": "noun"
+ },
+ {
+  "id": "n3-0519",
+  "word": "一致",
+  "reading": "いっち",
+  "meaning_zh": "一致",
+  "meaning_en": "agreement; accord",
+  "level": "N3",
+  "pos": "noun"
+ },
+ {
+  "id": "n3-0520",
+  "word": "真似",
+  "reading": "まね",
+  "meaning_zh": "模仿",
+  "meaning_en": "imitation",
+  "level": "N3",
+  "pos": "noun"
+ },
+ {
+  "id": "n3-0521",
+  "word": "愛情",
+  "reading": "あいじょう",
+  "meaning_zh": "爱情；爱",
+  "meaning_en": "love; affection",
+  "level": "N3",
+  "pos": "noun"
+ },
+ {
+  "id": "n3-0522",
+  "word": "合図",
+  "reading": "あいず",
+  "meaning_zh": "信号；暗号",
+  "meaning_en": "signal; sign",
+  "level": "N3",
+  "pos": "noun"
+ },
+ {
+  "id": "n3-0523",
+  "word": "味方",
+  "reading": "みかた",
+  "meaning_zh": "同伴；自己一方",
+  "meaning_en": "ally; supporter",
+  "level": "N3",
+  "pos": "noun"
+ },
+ {
+  "id": "n3-0524",
+  "word": "言い訳",
+  "reading": "いいわけ",
+  "meaning_zh": "借口；辩解",
+  "meaning_en": "excuse",
+  "level": "N3",
+  "pos": "noun"
+ },
+ {
+  "id": "n3-0525",
+  "word": "意志",
+  "reading": "いし",
+  "meaning_zh": "意志",
+  "meaning_en": "will; volition",
+  "level": "N3",
+  "pos": "noun"
+ },
+ {
+  "id": "n3-0526",
+  "word": "居眠り",
+  "reading": "いねむり",
+  "meaning_zh": "打瞌睡",
+  "meaning_en": "dozing off",
+  "level": "N3",
+  "pos": "noun"
+ },
+ {
+  "id": "n3-0527",
+  "word": "売り上げ",
+  "reading": "うりあげ",
+  "meaning_zh": "销售额",
+  "meaning_en": "sales; turnover",
+  "level": "N3",
+  "pos": "noun"
+ },
+ {
+  "id": "n3-0528",
+  "word": "噂",
+  "reading": "うわさ",
+  "meaning_zh": "传闻；谣言",
+  "meaning_en": "rumor; gossip",
+  "level": "N3",
+  "pos": "noun"
+ },
+ {
+  "id": "n3-0529",
+  "word": "運賃",
+  "reading": "うんちん",
+  "meaning_zh": "运费；车费",
+  "meaning_en": "fare; freight charges",
+  "level": "N3",
+  "pos": "noun"
+ },
+ {
+  "id": "n3-0530",
+  "word": "運命",
+  "reading": "うんめい",
+  "meaning_zh": "命运",
+  "meaning_en": "fate; destiny",
+  "level": "N3",
+  "pos": "noun"
+ },
+ {
+  "id": "n3-0531",
+  "word": "笑顔",
+  "reading": "えがお",
+  "meaning_zh": "笑脸；笑容",
+  "meaning_en": "smile; smiling face",
+  "level": "N3",
+  "pos": "noun"
+ },
+ {
+  "id": "n3-0532",
+  "word": "大家",
+  "reading": "おおや",
+  "meaning_zh": "房东",
+  "meaning_en": "landlord",
+  "level": "N3",
+  "pos": "noun"
+ },
+ {
+  "id": "n3-0533",
+  "word": "会員",
+  "reading": "かいいん",
+  "meaning_zh": "会员",
+  "meaning_en": "member (of a club)",
+  "level": "N3",
+  "pos": "noun"
+ },
+ {
+  "id": "n3-0534",
+  "word": "会計",
+  "reading": "かいけい",
+  "meaning_zh": "会计；结账",
+  "meaning_en": "accounting; bill; check",
+  "level": "N3",
+  "pos": "noun"
+ },
+ {
+  "id": "n3-0535",
+  "word": "香り",
+  "reading": "かおり",
+  "meaning_zh": "香气",
+  "meaning_en": "fragrance; aroma",
+  "level": "N3",
+  "pos": "noun"
+ },
+ {
+  "id": "n3-0536",
+  "word": "価値",
+  "reading": "かち",
+  "meaning_zh": "价值",
+  "meaning_en": "value; worth",
+  "level": "N3",
+  "pos": "noun"
+ },
+ {
+  "id": "n3-0537",
+  "word": "課題",
+  "reading": "かだい",
+  "meaning_zh": "课题；任务",
+  "meaning_en": "task; issue; assignment",
+  "level": "N3",
+  "pos": "noun"
+ },
+ {
+  "id": "n3-0538",
+  "word": "過程",
+  "reading": "かてい",
+  "meaning_zh": "过程",
+  "meaning_en": "process; course",
+  "level": "N3",
+  "pos": "noun"
+ },
+ {
+  "id": "n3-0539",
+  "word": "学問",
+  "reading": "がくもん",
+  "meaning_zh": "学问",
+  "meaning_en": "learning; scholarship",
+  "level": "N3",
+  "pos": "noun"
+ },
+ {
+  "id": "n3-0540",
+  "word": "学歴",
+  "reading": "がくれき",
+  "meaning_zh": "学历",
+  "meaning_en": "educational background",
+  "level": "N3",
+  "pos": "noun"
+ },
+ {
+  "id": "n3-0541",
+  "word": "楽器",
+  "reading": "がっき",
+  "meaning_zh": "乐器",
+  "meaning_en": "musical instrument",
+  "level": "N3",
+  "pos": "noun"
+ },
+ {
+  "id": "n3-0542",
+  "word": "家事",
+  "reading": "かじ",
+  "meaning_zh": "家务",
+  "meaning_en": "housework",
+  "level": "N3",
+  "pos": "noun"
+ },
+ {
+  "id": "n3-0543",
+  "word": "悲しみ",
+  "reading": "かなしみ",
+  "meaning_zh": "悲伤",
+  "meaning_en": "sorrow; sadness",
+  "level": "N3",
+  "pos": "noun"
+ },
+ {
+  "id": "n3-0544",
+  "word": "関心",
+  "reading": "かんしん",
+  "meaning_zh": "关心；兴趣",
+  "meaning_en": "interest; concern",
+  "level": "N3",
+  "pos": "noun"
+ },
+ {
+  "id": "n3-0545",
+  "word": "期限",
+  "reading": "きげん",
+  "meaning_zh": "期限",
+  "meaning_en": "deadline; time limit",
+  "level": "N3",
+  "pos": "noun"
+ },
+ {
+  "id": "n3-0546",
+  "word": "記事",
+  "reading": "きじ",
+  "meaning_zh": "报道；文章",
+  "meaning_en": "article; news report",
+  "level": "N3",
+  "pos": "noun"
+ },
+ {
+  "id": "n3-0547",
+  "word": "基準",
+  "reading": "きじゅん",
+  "meaning_zh": "基准；标准",
+  "meaning_en": "standard; criterion",
+  "level": "N3",
+  "pos": "noun"
+ },
+ {
+  "id": "n3-0548",
+  "word": "傷",
+  "reading": "きず",
+  "meaning_zh": "伤；伤口",
+  "meaning_en": "wound; injury; scratch",
+  "level": "N3",
+  "pos": "noun"
+ },
+ {
+  "id": "n3-0549",
+  "word": "義務",
+  "reading": "ぎむ",
+  "meaning_zh": "义务",
+  "meaning_en": "duty; obligation",
+  "level": "N3",
+  "pos": "noun"
+ },
+ {
+  "id": "n3-0550",
+  "word": "休暇",
+  "reading": "きゅうか",
+  "meaning_zh": "休假",
+  "meaning_en": "holiday; leave",
+  "level": "N3",
+  "pos": "noun"
+ },
+ {
+  "id": "n3-0551",
+  "word": "行事",
+  "reading": "ぎょうじ",
+  "meaning_zh": "活动；例行仪式",
+  "meaning_en": "event; function",
+  "level": "N3",
+  "pos": "noun"
+ },
+ {
+  "id": "n3-0552",
+  "word": "恐怖",
+  "reading": "きょうふ",
+  "meaning_zh": "恐怖；恐惧",
+  "meaning_en": "fear; terror",
+  "level": "N3",
+  "pos": "noun"
+ },
+ {
+  "id": "n3-0553",
+  "word": "金額",
+  "reading": "きんがく",
+  "meaning_zh": "金额",
+  "meaning_en": "amount of money",
+  "level": "N3",
+  "pos": "noun"
+ },
+ {
+  "id": "n3-0554",
+  "word": "空席",
+  "reading": "くうせき",
+  "meaning_zh": "空位；空座",
+  "meaning_en": "vacant seat",
+  "level": "N3",
+  "pos": "noun"
+ },
+ {
+  "id": "n3-0555",
+  "word": "苦情",
+  "reading": "くじょう",
+  "meaning_zh": "抱怨；投诉",
+  "meaning_en": "complaint",
+  "level": "N3",
+  "pos": "noun"
+ },
+ {
+  "id": "n3-0556",
+  "word": "癖",
+  "reading": "くせ",
+  "meaning_zh": "癖好；习惯",
+  "meaning_en": "habit; quirk",
+  "level": "N3",
+  "pos": "noun"
+ },
+ {
+  "id": "n3-0557",
+  "word": "暮らし",
+  "reading": "くらし",
+  "meaning_zh": "生活；生计",
+  "meaning_en": "life; living",
+  "level": "N3",
+  "pos": "noun"
+ },
+ {
+  "id": "n3-0558",
+  "word": "芸能",
+  "reading": "げいのう",
+  "meaning_zh": "演艺；文艺",
+  "meaning_en": "entertainment; performing arts",
+  "level": "N3",
+  "pos": "noun"
+ },
+ {
+  "id": "n3-0559",
+  "word": "現金",
+  "reading": "げんきん",
+  "meaning_zh": "现金",
+  "meaning_en": "cash",
+  "level": "N3",
+  "pos": "noun"
+ },
+ {
+  "id": "n3-0560",
+  "word": "現実",
+  "reading": "げんじつ",
+  "meaning_zh": "现实",
+  "meaning_en": "reality",
+  "level": "N3",
+  "pos": "noun"
+ },
+ {
+  "id": "n3-0561",
+  "word": "現代",
+  "reading": "げんだい",
+  "meaning_zh": "现代",
+  "meaning_en": "modern times; present age",
+  "level": "N3",
+  "pos": "noun"
+ },
+ {
+  "id": "n3-0562",
+  "word": "権利",
+  "reading": "けんり",
+  "meaning_zh": "权利",
+  "meaning_en": "right (entitlement)",
+  "level": "N3",
+  "pos": "noun"
+ },
+ {
+  "id": "n3-0563",
+  "word": "故郷",
+  "reading": "こきょう",
+  "meaning_zh": "故乡",
+  "meaning_en": "hometown; birthplace",
+  "level": "N3",
+  "pos": "noun"
+ },
+ {
+  "id": "n3-0564",
+  "word": "小遣い",
+  "reading": "こづかい",
+  "meaning_zh": "零花钱",
+  "meaning_en": "pocket money",
+  "level": "N3",
+  "pos": "noun"
+ },
+ {
+  "id": "n3-0565",
+  "word": "好み",
+  "reading": "このみ",
+  "meaning_zh": "爱好；喜好",
+  "meaning_en": "taste; preference",
+  "level": "N3",
+  "pos": "noun"
+ },
+ {
+  "id": "n3-0566",
+  "word": "最高",
+  "reading": "さいこう",
+  "meaning_zh": "最高；最棒",
+  "meaning_en": "highest; best",
+  "level": "N3",
+  "pos": "noun"
+ },
+ {
+  "id": "n3-0567",
+  "word": "最低",
+  "reading": "さいてい",
+  "meaning_zh": "最低；差劲",
+  "meaning_en": "lowest; worst",
+  "level": "N3",
+  "pos": "noun"
+ },
+ {
+  "id": "n3-0568",
+  "word": "才能",
+  "reading": "さいのう",
+  "meaning_zh": "才能",
+  "meaning_en": "talent; ability",
+  "level": "N3",
+  "pos": "noun"
+ },
+ {
+  "id": "n3-0569",
+  "word": "作品",
+  "reading": "さくひん",
+  "meaning_zh": "作品",
+  "meaning_en": "work (of art); piece",
+  "level": "N3",
+  "pos": "noun"
+ },
+ {
+  "id": "n3-0570",
+  "word": "湿気",
+  "reading": "しっけ",
+  "meaning_zh": "湿气；潮湿",
+  "meaning_en": "moisture; humidity",
+  "level": "N3",
+  "pos": "noun"
+ },
+ {
+  "id": "n3-0571",
+  "word": "実際",
+  "reading": "じっさい",
+  "meaning_zh": "实际",
+  "meaning_en": "reality; actual state",
+  "level": "N3",
+  "pos": "noun"
+ },
+ {
+  "id": "n3-0572",
+  "word": "事務",
+  "reading": "じむ",
+  "meaning_zh": "事务；办公",
+  "meaning_en": "office work; clerical work",
+  "level": "N3",
+  "pos": "noun"
+ },
+ {
+  "id": "n3-0573",
+  "word": "締め切り",
+  "reading": "しめきり",
+  "meaning_zh": "截止日期",
+  "meaning_en": "deadline; closing date",
+  "level": "N3",
+  "pos": "noun"
+ },
+ {
+  "id": "n3-0574",
+  "word": "手段",
+  "reading": "しゅだん",
+  "meaning_zh": "手段；方法",
+  "meaning_en": "means; measure",
+  "level": "N3",
+  "pos": "noun"
+ },
+ {
+  "id": "n3-0575",
+  "word": "首都",
+  "reading": "しゅと",
+  "meaning_zh": "首都",
+  "meaning_en": "capital city",
+  "level": "N3",
+  "pos": "noun"
+ },
+ {
+  "id": "n3-0576",
+  "word": "宗教",
+  "reading": "しゅうきょう",
+  "meaning_zh": "宗教",
+  "meaning_en": "religion",
+  "level": "N3",
+  "pos": "noun"
+ },
+ {
+  "id": "n3-0577",
+  "word": "冗談",
+  "reading": "じょうだん",
+  "meaning_zh": "玩笑",
+  "meaning_en": "joke",
+  "level": "N3",
+  "pos": "noun"
+ },
+ {
+  "id": "n3-0578",
+  "word": "将来",
+  "reading": "しょうらい",
+  "meaning_zh": "将来",
+  "meaning_en": "future",
+  "level": "N3",
+  "pos": "noun"
+ },
+ {
+  "id": "n3-0579",
+  "word": "知り合い",
+  "reading": "しりあい",
+  "meaning_zh": "熟人",
+  "meaning_en": "acquaintance",
+  "level": "N3",
+  "pos": "noun"
+ },
+ {
+  "id": "n3-0580",
+  "word": "睡眠",
+  "reading": "すいみん",
+  "meaning_zh": "睡眠",
+  "meaning_en": "sleep",
+  "level": "N3",
+  "pos": "noun"
+ },
+ {
+  "id": "n3-0581",
+  "word": "姿",
+  "reading": "すがた",
+  "meaning_zh": "身姿；姿态",
+  "meaning_en": "figure; appearance",
+  "level": "N3",
+  "pos": "noun"
+ },
+ {
+  "id": "n3-0582",
+  "word": "生命",
+  "reading": "せいめい",
+  "meaning_zh": "生命",
+  "meaning_en": "life",
+  "level": "N3",
+  "pos": "noun"
+ },
+ {
+  "id": "n3-0583",
+  "word": "世代",
+  "reading": "せだい",
+  "meaning_zh": "世代；一代",
+  "meaning_en": "generation",
+  "level": "N3",
+  "pos": "noun"
+ },
+ {
+  "id": "n3-0584",
+  "word": "専門家",
+  "reading": "せんもんか",
+  "meaning_zh": "专家",
+  "meaning_en": "expert; specialist",
+  "level": "N3",
+  "pos": "noun"
+ },
+ {
+  "id": "n3-0585",
+  "word": "騒音",
+  "reading": "そうおん",
+  "meaning_zh": "噪音",
+  "meaning_en": "noise",
+  "level": "N3",
+  "pos": "noun"
+ },
+ {
+  "id": "n3-0586",
+  "word": "対策",
+  "reading": "たいさく",
+  "meaning_zh": "对策",
+  "meaning_en": "countermeasure",
+  "level": "N3",
+  "pos": "noun"
+ },
+ {
+  "id": "n3-0587",
+  "word": "大量",
+  "reading": "たいりょう",
+  "meaning_zh": "大量",
+  "meaning_en": "large quantity",
+  "level": "N3",
+  "pos": "noun"
+ },
+ {
+  "id": "n3-0588",
+  "word": "頂上",
+  "reading": "ちょうじょう",
+  "meaning_zh": "山顶；顶峰",
+  "meaning_en": "summit; peak",
+  "level": "N3",
+  "pos": "noun"
+ },
+ {
+  "id": "n3-0589",
+  "word": "直前",
+  "reading": "ちょくぜん",
+  "meaning_zh": "即将……之前",
+  "meaning_en": "just before",
+  "level": "N3",
+  "pos": "noun"
+ },
+ {
+  "id": "n3-0590",
+  "word": "地方",
+  "reading": "ちほう",
+  "meaning_zh": "地方；地区",
+  "meaning_en": "region; district; the provinces",
+  "level": "N3",
+  "pos": "noun"
+ },
+ {
+  "id": "n3-0591",
+  "word": "続き",
+  "reading": "つづき",
+  "meaning_zh": "继续；后续",
+  "meaning_en": "continuation; sequel",
+  "level": "N3",
+  "pos": "noun"
+ },
+ {
+  "id": "n3-0592",
+  "word": "梅雨",
+  "reading": "つゆ",
+  "meaning_zh": "梅雨",
+  "meaning_en": "rainy season",
+  "level": "N3",
+  "pos": "noun"
+ },
+ {
+  "id": "n3-0593",
+  "word": "定員",
+  "reading": "ていいん",
+  "meaning_zh": "规定人数；名额",
+  "meaning_en": "fixed capacity; quota",
+  "level": "N3",
+  "pos": "noun"
+ },
+ {
+  "id": "n3-0594",
+  "word": "手作り",
+  "reading": "てづくり",
+  "meaning_zh": "手工制作",
+  "meaning_en": "handmade",
+  "level": "N3",
+  "pos": "noun"
+ },
+ {
+  "id": "n3-0595",
+  "word": "手間",
+  "reading": "てま",
+  "meaning_zh": "工夫；劳力",
+  "meaning_en": "time and effort; labor",
+  "level": "N3",
+  "pos": "noun"
+ },
+ {
+  "id": "n3-0596",
+  "word": "問い合わせ",
+  "reading": "といあわせ",
+  "meaning_zh": "询问；咨询",
+  "meaning_en": "inquiry",
+  "level": "N3",
+  "pos": "noun"
+ },
+ {
+  "id": "n3-0597",
+  "word": "当日",
+  "reading": "とうじつ",
+  "meaning_zh": "当天",
+  "meaning_en": "the day (in question)",
+  "level": "N3",
+  "pos": "noun"
+ },
+ {
+  "id": "n3-0598",
+  "word": "都市",
+  "reading": "とし",
+  "meaning_zh": "城市；都市",
+  "meaning_en": "city",
+  "level": "N3",
+  "pos": "noun"
+ },
+ {
+  "id": "n3-0599",
+  "word": "内容",
+  "reading": "ないよう",
+  "meaning_zh": "内容",
+  "meaning_en": "content; substance",
+  "level": "N3",
+  "pos": "noun"
+ },
+ {
+  "id": "n3-0600",
+  "word": "仲",
+  "reading": "なか",
+  "meaning_zh": "关系；交情",
+  "meaning_en": "relationship; terms",
+  "level": "N3",
+  "pos": "noun"
+ },
+ {
+  "id": "n3-0601",
+  "word": "仲直り",
+  "reading": "なかなおり",
+  "meaning_zh": "和好",
+  "meaning_en": "reconciliation; making up",
+  "level": "N3",
+  "pos": "noun"
+ },
+ {
+  "id": "n3-0602",
+  "word": "涙",
+  "reading": "なみだ",
+  "meaning_zh": "眼泪",
+  "meaning_en": "tears",
+  "level": "N3",
+  "pos": "noun"
+ },
+ {
+  "id": "n3-0603",
+  "word": "匂い",
+  "reading": "におい",
+  "meaning_zh": "气味",
+  "meaning_en": "smell; scent",
+  "level": "N3",
+  "pos": "noun"
+ },
+ {
+  "id": "n3-0604",
+  "word": "日程",
+  "reading": "にってい",
+  "meaning_zh": "日程",
+  "meaning_en": "schedule; itinerary",
+  "level": "N3",
+  "pos": "noun"
+ },
+ {
+  "id": "n3-0605",
+  "word": "残り",
+  "reading": "のこり",
+  "meaning_zh": "剩余；剩下的",
+  "meaning_en": "remainder; leftover",
+  "level": "N3",
+  "pos": "noun"
+ },
+ {
+  "id": "n3-0606",
+  "word": "俳優",
+  "reading": "はいゆう",
+  "meaning_zh": "演员",
+  "meaning_en": "actor",
+  "level": "N3",
+  "pos": "noun"
+ },
+ {
+  "id": "n3-0607",
+  "word": "肌",
+  "reading": "はだ",
+  "meaning_zh": "皮肤",
+  "meaning_en": "skin",
+  "level": "N3",
+  "pos": "noun"
+ },
+ {
+  "id": "n3-0608",
+  "word": "範囲",
+  "reading": "はんい",
+  "meaning_zh": "范围",
+  "meaning_en": "range; scope",
+  "level": "N3",
+  "pos": "noun"
+ },
+ {
+  "id": "n3-0609",
+  "word": "表情",
+  "reading": "ひょうじょう",
+  "meaning_zh": "表情",
+  "meaning_en": "facial expression",
+  "level": "N3",
+  "pos": "noun"
+ },
+ {
+  "id": "n3-0610",
+  "word": "平等",
+  "reading": "びょうどう",
+  "meaning_zh": "平等",
+  "meaning_en": "equality",
+  "level": "N3",
+  "pos": "noun"
+ },
+ {
+  "id": "n3-0611",
+  "word": "不安",
+  "reading": "ふあん",
+  "meaning_zh": "不安",
+  "meaning_en": "anxiety; unease",
+  "level": "N3",
+  "pos": "noun"
+ },
+ {
+  "id": "n3-0612",
+  "word": "風景",
+  "reading": "ふうけい",
+  "meaning_zh": "风景",
+  "meaning_en": "scenery; landscape",
+  "level": "N3",
+  "pos": "noun"
+ },
+ {
+  "id": "n3-0613",
+  "word": "夫婦",
+  "reading": "ふうふ",
+  "meaning_zh": "夫妇",
+  "meaning_en": "married couple",
+  "level": "N3",
+  "pos": "noun"
+ },
+ {
+  "id": "n3-0614",
+  "word": "服装",
+  "reading": "ふくそう",
+  "meaning_zh": "服装；装束",
+  "meaning_en": "clothing; attire",
+  "level": "N3",
+  "pos": "noun"
+ },
+ {
+  "id": "n3-0615",
+  "word": "舞台",
+  "reading": "ぶたい",
+  "meaning_zh": "舞台",
+  "meaning_en": "stage",
+  "level": "N3",
+  "pos": "noun"
+ },
+ {
+  "id": "n3-0616",
+  "word": "部品",
+  "reading": "ぶひん",
+  "meaning_zh": "零件",
+  "meaning_en": "parts; components",
+  "level": "N3",
+  "pos": "noun"
+ },
+ {
+  "id": "n3-0617",
+  "word": "分野",
+  "reading": "ぶんや",
+  "meaning_zh": "领域",
+  "meaning_en": "field; area",
+  "level": "N3",
+  "pos": "noun"
+ },
+ {
+  "id": "n3-0618",
+  "word": "保険",
+  "reading": "ほけん",
+  "meaning_zh": "保险",
+  "meaning_en": "insurance",
+  "level": "N3",
+  "pos": "noun"
+ },
+ {
+  "id": "n3-0619",
+  "word": "本人",
+  "reading": "ほんにん",
+  "meaning_zh": "本人",
+  "meaning_en": "the person himself/herself",
+  "level": "N3",
+  "pos": "noun"
+ },
+ {
+  "id": "n3-0620",
+  "word": "本物",
+  "reading": "ほんもの",
+  "meaning_zh": "真货；真品",
+  "meaning_en": "genuine article; real thing",
+  "level": "N3",
+  "pos": "noun"
+ },
+ {
+  "id": "n3-0621",
+  "word": "迷子",
+  "reading": "まいご",
+  "meaning_zh": "迷路的孩子；走失",
+  "meaning_en": "lost child; getting lost",
+  "level": "N3",
+  "pos": "noun"
+ },
+ {
+  "id": "n3-0622",
+  "word": "真夜中",
+  "reading": "まよなか",
+  "meaning_zh": "深更半夜",
+  "meaning_en": "midnight; dead of night",
+  "level": "N3",
+  "pos": "noun"
+ },
+ {
+  "id": "n3-0623",
+  "word": "未来",
+  "reading": "みらい",
+  "meaning_zh": "未来",
+  "meaning_en": "future",
+  "level": "N3",
+  "pos": "noun"
+ },
+ {
+  "id": "n3-0624",
+  "word": "魅力",
+  "reading": "みりょく",
+  "meaning_zh": "魅力",
+  "meaning_en": "charm; appeal",
+  "level": "N3",
+  "pos": "noun"
+ },
+ {
+  "id": "n3-0625",
+  "word": "文字",
+  "reading": "もじ",
+  "meaning_zh": "文字",
+  "meaning_en": "letter; character",
+  "level": "N3",
+  "pos": "noun"
+ },
+ {
+  "id": "n3-0626",
+  "word": "物語",
+  "reading": "ものがたり",
+  "meaning_zh": "故事",
+  "meaning_en": "tale; story",
+  "level": "N3",
+  "pos": "noun"
+ },
+ {
+  "id": "n3-0627",
+  "word": "友情",
+  "reading": "ゆうじょう",
+  "meaning_zh": "友情",
+  "meaning_en": "friendship",
+  "level": "N3",
+  "pos": "noun"
+ },
+ {
+  "id": "n3-0628",
+  "word": "理想",
+  "reading": "りそう",
+  "meaning_zh": "理想",
+  "meaning_en": "ideal",
+  "level": "N3",
+  "pos": "noun"
+ },
+ {
+  "id": "n3-0629",
+  "word": "留守番",
+  "reading": "るすばん",
+  "meaning_zh": "看家",
+  "meaning_en": "house-sitting; staying home to watch the house",
+  "level": "N3",
+  "pos": "noun"
+ },
+ {
+  "id": "n3-0630",
+  "word": "例外",
+  "reading": "れいがい",
+  "meaning_zh": "例外",
+  "meaning_en": "exception",
+  "level": "N3",
+  "pos": "noun"
+ },
+ {
+  "id": "n3-0631",
+  "word": "老人",
+  "reading": "ろうじん",
+  "meaning_zh": "老人",
+  "meaning_en": "elderly person",
+  "level": "N3",
+  "pos": "noun"
+ },
+ {
+  "id": "n3-0632",
+  "word": "労働",
+  "reading": "ろうどう",
+  "meaning_zh": "劳动",
+  "meaning_en": "labor; work",
+  "level": "N3",
+  "pos": "noun"
+ },
+ {
+  "id": "n3-0633",
+  "word": "話題",
+  "reading": "わだい",
+  "meaning_zh": "话题",
+  "meaning_en": "topic (of conversation)",
+  "level": "N3",
+  "pos": "noun"
+ },
+ {
+  "id": "n3-0634",
+  "word": "間違い",
+  "reading": "まちがい",
+  "meaning_zh": "错误",
+  "meaning_en": "mistake; error",
+  "level": "N3",
+  "pos": "noun"
+ },
+ {
+  "id": "n3-0635",
+  "word": "行列",
+  "reading": "ぎょうれつ",
+  "meaning_zh": "队伍；行列",
+  "meaning_en": "queue; procession",
+  "level": "N3",
+  "pos": "noun"
+ },
+ {
+  "id": "n3-0636",
+  "word": "飽きる",
+  "reading": "あきる",
+  "meaning_zh": "厌烦；腻",
+  "meaning_en": "to get tired of; to lose interest",
+  "level": "N3",
+  "pos": "verb"
+ },
+ {
+  "id": "n3-0637",
+  "word": "預ける",
+  "reading": "あずける",
+  "meaning_zh": "寄存；托付",
+  "meaning_en": "to deposit; to entrust",
+  "level": "N3",
+  "pos": "verb"
+ },
+ {
+  "id": "n3-0638",
+  "word": "預かる",
+  "reading": "あずかる",
+  "meaning_zh": "保管；代管",
+  "meaning_en": "to look after; to keep in custody",
+  "level": "N3",
+  "pos": "verb"
+ },
+ {
+  "id": "n3-0639",
+  "word": "争う",
+  "reading": "あらそう",
+  "meaning_zh": "争夺；争论",
+  "meaning_en": "to compete; to dispute",
+  "level": "N3",
+  "pos": "verb"
+ },
+ {
+  "id": "n3-0640",
+  "word": "改める",
+  "reading": "あらためる",
+  "meaning_zh": "改正；重新",
+  "meaning_en": "to revise; to reform; to renew",
+  "level": "N3",
+  "pos": "verb"
+ },
+ {
+  "id": "n3-0641",
+  "word": "荒れる",
+  "reading": "あれる",
+  "meaning_zh": "荒芜；变粗糙；狂暴",
+  "meaning_en": "to be rough; to be stormy; to be ruined",
+  "level": "N3",
+  "pos": "verb"
+ },
+ {
+  "id": "n3-0642",
+  "word": "生かす",
+  "reading": "いかす",
+  "meaning_zh": "活用；使发挥",
+  "meaning_en": "to make use of; to bring to life",
+  "level": "N3",
+  "pos": "verb"
+ },
+ {
+  "id": "n3-0643",
+  "word": "傷つく",
+  "reading": "きずつく",
+  "meaning_zh": "受伤；受损",
+  "meaning_en": "to be hurt; to be wounded",
+  "level": "N3",
+  "pos": "verb"
+ },
+ {
+  "id": "n3-0644",
+  "word": "傷つける",
+  "reading": "きずつける",
+  "meaning_zh": "伤害；损伤",
+  "meaning_en": "to hurt; to damage",
+  "level": "N3",
+  "pos": "verb"
+ },
+ {
+  "id": "n3-0645",
+  "word": "受け入れる",
+  "reading": "うけいれる",
+  "meaning_zh": "接受；接纳",
+  "meaning_en": "to accept; to take in",
+  "level": "N3",
+  "pos": "verb"
+ },
+ {
+  "id": "n3-0646",
+  "word": "受け止める",
+  "reading": "うけとめる",
+  "meaning_zh": "接住；理解；对待",
+  "meaning_en": "to catch; to take (news); to accept",
+  "level": "N3",
+  "pos": "verb"
+ },
+ {
+  "id": "n3-0647",
+  "word": "失う",
+  "reading": "うしなう",
+  "meaning_zh": "失去",
+  "meaning_en": "to lose",
+  "level": "N3",
+  "pos": "verb"
+ },
+ {
+  "id": "n3-0648",
+  "word": "埋める",
+  "reading": "うめる",
+  "meaning_zh": "埋；填",
+  "meaning_en": "to bury; to fill",
+  "level": "N3",
+  "pos": "verb"
+ },
+ {
+  "id": "n3-0649",
+  "word": "売り切れる",
+  "reading": "うりきれる",
+  "meaning_zh": "售完；卖光",
+  "meaning_en": "to be sold out",
+  "level": "N3",
+  "pos": "verb"
+ },
+ {
+  "id": "n3-0650",
+  "word": "追い掛ける",
+  "reading": "おいかける",
+  "meaning_zh": "追赶",
+  "meaning_en": "to chase; to run after",
+  "level": "N3",
+  "pos": "verb"
+ },
+ {
+  "id": "n3-0651",
+  "word": "追い付く",
+  "reading": "おいつく",
+  "meaning_zh": "追上；赶上",
+  "meaning_en": "to catch up with",
+  "level": "N3",
+  "pos": "verb"
+ },
+ {
+  "id": "n3-0652",
+  "word": "追い越す",
+  "reading": "おいこす",
+  "meaning_zh": "超过；赶过",
+  "meaning_en": "to overtake; to pass",
+  "level": "N3",
+  "pos": "verb"
+ },
+ {
+  "id": "n3-0653",
+  "word": "応じる",
+  "reading": "おうじる",
+  "meaning_zh": "响应；根据",
+  "meaning_en": "to respond; to comply with",
+  "level": "N3",
+  "pos": "verb"
+ },
+ {
+  "id": "n3-0654",
+  "word": "終える",
+  "reading": "おえる",
+  "meaning_zh": "结束；做完",
+  "meaning_en": "to finish; to complete",
+  "level": "N3",
+  "pos": "verb"
+ },
+ {
+  "id": "n3-0655",
+  "word": "覆う",
+  "reading": "おおう",
+  "meaning_zh": "覆盖",
+  "meaning_en": "to cover",
+  "level": "N3",
+  "pos": "verb"
+ },
+ {
+  "id": "n3-0656",
+  "word": "落ち込む",
+  "reading": "おちこむ",
+  "meaning_zh": "消沉；陷入",
+  "meaning_en": "to feel down; to fall into",
+  "level": "N3",
+  "pos": "verb"
+ },
+ {
+  "id": "n3-0657",
+  "word": "収める",
+  "reading": "おさめる",
+  "meaning_zh": "收纳；取得",
+  "meaning_en": "to put away; to obtain; to achieve",
+  "level": "N3",
+  "pos": "verb"
+ },
+ {
+  "id": "n3-0658",
+  "word": "思い付く",
+  "reading": "おもいつく",
+  "meaning_zh": "想到；想出",
+  "meaning_en": "to think of; to hit upon",
+  "level": "N3",
+  "pos": "verb"
+ },
+ {
+  "id": "n3-0659",
+  "word": "下ろす",
+  "reading": "おろす",
+  "meaning_zh": "放下；取出（存款）",
+  "meaning_en": "to take down; to withdraw (money)",
+  "level": "N3",
+  "pos": "verb"
+ },
+ {
+  "id": "n3-0660",
+  "word": "限る",
+  "reading": "かぎる",
+  "meaning_zh": "限于；限定",
+  "meaning_en": "to limit; to restrict",
+  "level": "N3",
+  "pos": "verb"
+ },
+ {
+  "id": "n3-0661",
+  "word": "欠ける",
+  "reading": "かける",
+  "meaning_zh": "缺少；缺损",
+  "meaning_en": "to lack; to be chipped",
+  "level": "N3",
+  "pos": "verb"
+ },
+ {
+  "id": "n3-0662",
+  "word": "囲む",
+  "reading": "かこむ",
+  "meaning_zh": "包围；围绕",
+  "meaning_en": "to surround; to enclose",
+  "level": "N3",
+  "pos": "verb"
+ },
+ {
+  "id": "n3-0663",
+  "word": "重なる",
+  "reading": "かさなる",
+  "meaning_zh": "重叠；重合",
+  "meaning_en": "to overlap; to pile up",
+  "level": "N3",
+  "pos": "verb"
+ },
+ {
+  "id": "n3-0664",
+  "word": "片付く",
+  "reading": "かたづく",
+  "meaning_zh": "收拾好；解决",
+  "meaning_en": "to be tidied up; to be settled",
+  "level": "N3",
+  "pos": "verb"
+ },
+ {
+  "id": "n3-0665",
+  "word": "語る",
+  "reading": "かたる",
+  "meaning_zh": "讲述",
+  "meaning_en": "to tell; to narrate",
+  "level": "N3",
+  "pos": "verb"
+ },
+ {
+  "id": "n3-0666",
+  "word": "構う",
+  "reading": "かまう",
+  "meaning_zh": "介意；照顾",
+  "meaning_en": "to mind; to care about",
+  "level": "N3",
+  "pos": "verb"
+ },
+ {
+  "id": "n3-0667",
+  "word": "乾かす",
+  "reading": "かわかす",
+  "meaning_zh": "弄干；晾干",
+  "meaning_en": "to dry (something)",
+  "level": "N3",
+  "pos": "verb"
+ },
+ {
+  "id": "n3-0668",
+  "word": "刻む",
+  "reading": "きざむ",
+  "meaning_zh": "切碎；刻",
+  "meaning_en": "to chop finely; to carve",
+  "level": "N3",
+  "pos": "verb"
+ },
+ {
+  "id": "n3-0669",
+  "word": "崩す",
+  "reading": "くずす",
+  "meaning_zh": "拆散；打乱；换零钱",
+  "meaning_en": "to break down; to change (money)",
+  "level": "N3",
+  "pos": "verb"
+ },
+ {
+  "id": "n3-0670",
+  "word": "崩れる",
+  "reading": "くずれる",
+  "meaning_zh": "崩塌；变坏",
+  "meaning_en": "to collapse; to crumble",
+  "level": "N3",
+  "pos": "verb"
+ },
+ {
+  "id": "n3-0671",
+  "word": "組む",
+  "reading": "くむ",
+  "meaning_zh": "组合；搭档；交叉",
+  "meaning_en": "to put together; to pair up; to cross (arms)",
+  "level": "N3",
+  "pos": "verb"
+ },
+ {
+  "id": "n3-0672",
+  "word": "組み立てる",
+  "reading": "くみたてる",
+  "meaning_zh": "组装",
+  "meaning_en": "to assemble",
+  "level": "N3",
+  "pos": "verb"
+ },
+ {
+  "id": "n3-0673",
+  "word": "焦げる",
+  "reading": "こげる",
+  "meaning_zh": "烧焦",
+  "meaning_en": "to get burnt; to be scorched",
+  "level": "N3",
+  "pos": "verb"
+ },
+ {
+  "id": "n3-0674",
+  "word": "断る",
+  "reading": "ことわる",
+  "meaning_zh": "拒绝；事先打招呼",
+  "meaning_en": "to refuse; to decline",
+  "level": "N3",
+  "pos": "verb"
+ },
+ {
+  "id": "n3-0675",
+  "word": "好む",
+  "reading": "このむ",
+  "meaning_zh": "喜好；爱好",
+  "meaning_en": "to like; to prefer",
+  "level": "N3",
+  "pos": "verb"
+ },
+ {
+  "id": "n3-0676",
+  "word": "転がる",
+  "reading": "ころがる",
+  "meaning_zh": "滚动；躺",
+  "meaning_en": "to roll; to lie down",
+  "level": "N3",
+  "pos": "verb"
+ },
+ {
+  "id": "n3-0677",
+  "word": "逆らう",
+  "reading": "さからう",
+  "meaning_zh": "违抗；逆",
+  "meaning_en": "to go against; to disobey",
+  "level": "N3",
+  "pos": "verb"
+ },
+ {
+  "id": "n3-0678",
+  "word": "叫ぶ",
+  "reading": "さけぶ",
+  "meaning_zh": "喊叫",
+  "meaning_en": "to shout; to scream",
+  "level": "N3",
+  "pos": "verb"
+ },
+ {
+  "id": "n3-0679",
+  "word": "刺す",
+  "reading": "さす",
+  "meaning_zh": "刺；扎；蜇",
+  "meaning_en": "to stab; to sting",
+  "level": "N3",
+  "pos": "verb"
+ },
+ {
+  "id": "n3-0680",
+  "word": "誘う",
+  "reading": "さそう",
+  "meaning_zh": "邀请；引诱",
+  "meaning_en": "to invite; to tempt",
+  "level": "N3",
+  "pos": "verb"
+ },
+ {
+  "id": "n3-0681",
+  "word": "覚ます",
+  "reading": "さます",
+  "meaning_zh": "弄醒；清醒",
+  "meaning_en": "to wake (someone) up; to awaken",
+  "level": "N3",
+  "pos": "verb"
+ },
+ {
+  "id": "n3-0682",
+  "word": "冷める",
+  "reading": "さめる",
+  "meaning_zh": "变凉；冷却",
+  "meaning_en": "to cool down; to get cold",
+  "level": "N3",
+  "pos": "verb"
+ },
+ {
+  "id": "n3-0683",
+  "word": "しゃべる",
+  "reading": "しゃべる",
+  "meaning_zh": "说话；聊天",
+  "meaning_en": "to chat; to talk",
+  "level": "N3",
+  "pos": "verb"
+ },
+ {
+  "id": "n3-0684",
+  "word": "救う",
+  "reading": "すくう",
+  "meaning_zh": "拯救",
+  "meaning_en": "to save; to rescue",
+  "level": "N3",
+  "pos": "verb"
+ },
+ {
+  "id": "n3-0685",
+  "word": "注ぐ",
+  "reading": "そそぐ",
+  "meaning_zh": "注入；倒",
+  "meaning_en": "to pour",
+  "level": "N3",
+  "pos": "verb"
+ },
+ {
+  "id": "n3-0686",
+  "word": "倒れる",
+  "reading": "たおれる",
+  "meaning_zh": "倒下；病倒",
+  "meaning_en": "to fall over; to collapse",
+  "level": "N3",
+  "pos": "verb"
+ },
+ {
+  "id": "n3-0687",
+  "word": "助かる",
+  "reading": "たすかる",
+  "meaning_zh": "得救；省事",
+  "meaning_en": "to be saved; to be helpful",
+  "level": "N3",
+  "pos": "verb"
+ },
+ {
+  "id": "n3-0688",
+  "word": "立ち上がる",
+  "reading": "たちあがる",
+  "meaning_zh": "站起来；奋起",
+  "meaning_en": "to stand up; to rise",
+  "level": "N3",
+  "pos": "verb"
+ },
+ {
+  "id": "n3-0689",
+  "word": "試す",
+  "reading": "ためす",
+  "meaning_zh": "试；尝试",
+  "meaning_en": "to try; to test",
+  "level": "N3",
+  "pos": "verb"
+ },
+ {
+  "id": "n3-0690",
+  "word": "近づく",
+  "reading": "ちかづく",
+  "meaning_zh": "接近；靠近",
+  "meaning_en": "to approach; to get close",
+  "level": "N3",
+  "pos": "verb"
+ },
+ {
+  "id": "n3-0691",
+  "word": "捕まえる",
+  "reading": "つかまえる",
+  "meaning_zh": "抓住；逮捕",
+  "meaning_en": "to catch; to arrest",
+  "level": "N3",
+  "pos": "verb"
+ },
+ {
+  "id": "n3-0692",
+  "word": "伝わる",
+  "reading": "つたわる",
+  "meaning_zh": "传达；流传",
+  "meaning_en": "to be conveyed; to spread",
+  "level": "N3",
+  "pos": "verb"
+ },
+ {
+  "id": "n3-0693",
+  "word": "繋がる",
+  "reading": "つながる",
+  "meaning_zh": "连接；相关",
+  "meaning_en": "to be connected; to lead to",
+  "level": "N3",
+  "pos": "verb"
+ },
+ {
+  "id": "n3-0694",
+  "word": "詰める",
+  "reading": "つめる",
+  "meaning_zh": "装入；挤紧",
+  "meaning_en": "to pack; to stuff",
+  "level": "N3",
+  "pos": "verb"
+ },
+ {
+  "id": "n3-0695",
+  "word": "積もる",
+  "reading": "つもる",
+  "meaning_zh": "积；堆积",
+  "meaning_en": "to pile up; to accumulate",
+  "level": "N3",
+  "pos": "verb"
+ },
+ {
+  "id": "n3-0696",
+  "word": "出来上がる",
+  "reading": "できあがる",
+  "meaning_zh": "完成；做好",
+  "meaning_en": "to be completed; to be ready",
+  "level": "N3",
+  "pos": "verb"
+ },
+ {
+  "id": "n3-0697",
+  "word": "飛び出す",
+  "reading": "とびだす",
+  "meaning_zh": "跑出；飞出",
+  "meaning_en": "to rush out; to jump out",
+  "level": "N3",
+  "pos": "verb"
+ },
+ {
+  "id": "n3-0698",
+  "word": "通す",
+  "reading": "とおす",
+  "meaning_zh": "穿过；通过",
+  "meaning_en": "to let pass; to put through",
+  "level": "N3",
+  "pos": "verb"
+ },
+ {
+  "id": "n3-0699",
+  "word": "溶かす",
+  "reading": "とかす",
+  "meaning_zh": "溶解；融化",
+  "meaning_en": "to melt; to dissolve",
+  "level": "N3",
+  "pos": "verb"
+ },
+ {
+  "id": "n3-0700",
+  "word": "解く",
+  "reading": "とく",
+  "meaning_zh": "解开；解答",
+  "meaning_en": "to untie; to solve",
+  "level": "N3",
+  "pos": "verb"
+ },
+ {
+  "id": "n3-0701",
+  "word": "取り替える",
+  "reading": "とりかえる",
+  "meaning_zh": "更换；交换",
+  "meaning_en": "to exchange; to replace",
+  "level": "N3",
+  "pos": "verb"
+ },
+ {
+  "id": "n3-0702",
+  "word": "取り消す",
+  "reading": "とりけす",
+  "meaning_zh": "取消",
+  "meaning_en": "to cancel; to retract",
+  "level": "N3",
+  "pos": "verb"
+ },
+ {
+  "id": "n3-0703",
+  "word": "殴る",
+  "reading": "なぐる",
+  "meaning_zh": "殴打",
+  "meaning_en": "to hit; to punch",
+  "level": "N3",
+  "pos": "verb"
+ },
+ {
+  "id": "n3-0704",
+  "word": "逃がす",
+  "reading": "にがす",
+  "meaning_zh": "放走；错过",
+  "meaning_en": "to let go; to set free; to miss",
+  "level": "N3",
+  "pos": "verb"
+ },
+ {
+  "id": "n3-0705",
+  "word": "憎む",
+  "reading": "にくむ",
+  "meaning_zh": "憎恨",
+  "meaning_en": "to hate; to detest",
+  "level": "N3",
+  "pos": "verb"
+ },
+ {
+  "id": "n3-0706",
+  "word": "狙う",
+  "reading": "ねらう",
+  "meaning_zh": "瞄准；以……为目标",
+  "meaning_en": "to aim at",
+  "level": "N3",
+  "pos": "verb"
+ },
+ {
+  "id": "n3-0707",
+  "word": "載せる",
+  "reading": "のせる",
+  "meaning_zh": "刊登；放上",
+  "meaning_en": "to place on; to publish",
+  "level": "N3",
+  "pos": "verb"
+ },
+ {
+  "id": "n3-0708",
+  "word": "吐く",
+  "reading": "はく",
+  "meaning_zh": "吐；呕吐",
+  "meaning_en": "to vomit; to breathe out",
+  "level": "N3",
+  "pos": "verb"
+ },
+ {
+  "id": "n3-0709",
+  "word": "挟む",
+  "reading": "はさむ",
+  "meaning_zh": "夹",
+  "meaning_en": "to put between; to pinch",
+  "level": "N3",
+  "pos": "verb"
+ },
+ {
+  "id": "n3-0710",
+  "word": "外れる",
+  "reading": "はずれる",
+  "meaning_zh": "脱落；落空；偏离",
+  "meaning_en": "to come off; to miss; to be off",
+  "level": "N3",
+  "pos": "verb"
+ },
+ {
+  "id": "n3-0711",
+  "word": "話し掛ける",
+  "reading": "はなしかける",
+  "meaning_zh": "搭话",
+  "meaning_en": "to speak to; to address",
+  "level": "N3",
+  "pos": "verb"
+ },
+ {
+  "id": "n3-0712",
+  "word": "冷やす",
+  "reading": "ひやす",
+  "meaning_zh": "冰镇；冷却",
+  "meaning_en": "to cool; to chill",
+  "level": "N3",
+  "pos": "verb"
+ },
+ {
+  "id": "n3-0713",
+  "word": "深まる",
+  "reading": "ふかまる",
+  "meaning_zh": "加深",
+  "meaning_en": "to deepen",
+  "level": "N3",
+  "pos": "verb"
+ },
+ {
+  "id": "n3-0714",
+  "word": "含む",
+  "reading": "ふくむ",
+  "meaning_zh": "包含；含有",
+  "meaning_en": "to contain; to include",
+  "level": "N3",
+  "pos": "verb"
+ },
+ {
+  "id": "n3-0715",
+  "word": "防ぐ",
+  "reading": "ふせぐ",
+  "meaning_zh": "防止；防御",
+  "meaning_en": "to prevent; to protect against",
+  "level": "N3",
+  "pos": "verb"
+ },
+ {
+  "id": "n3-0716",
+  "word": "振り向く",
+  "reading": "ふりむく",
+  "meaning_zh": "回头",
+  "meaning_en": "to turn around; to look back",
+  "level": "N3",
+  "pos": "verb"
+ },
+ {
+  "id": "n3-0717",
+  "word": "振り返る",
+  "reading": "ふりかえる",
+  "meaning_zh": "回顾；回头看",
+  "meaning_en": "to look back on; to reflect on",
+  "level": "N3",
+  "pos": "verb"
+ },
+ {
+  "id": "n3-0718",
+  "word": "震える",
+  "reading": "ふるえる",
+  "meaning_zh": "发抖；颤抖",
+  "meaning_en": "to tremble; to shiver",
+  "level": "N3",
+  "pos": "verb"
+ },
+ {
+  "id": "n3-0719",
+  "word": "干す",
+  "reading": "ほす",
+  "meaning_zh": "晒干；晾",
+  "meaning_en": "to dry; to air",
+  "level": "N3",
+  "pos": "verb"
+ },
+ {
+  "id": "n3-0720",
+  "word": "掘る",
+  "reading": "ほる",
+  "meaning_zh": "挖",
+  "meaning_en": "to dig",
+  "level": "N3",
+  "pos": "verb"
+ },
+ {
+  "id": "n3-0721",
+  "word": "任せる",
+  "reading": "まかせる",
+  "meaning_zh": "委托；交给",
+  "meaning_en": "to entrust; to leave to",
+  "level": "N3",
+  "pos": "verb"
+ },
+ {
+  "id": "n3-0722",
+  "word": "巻く",
+  "reading": "まく",
+  "meaning_zh": "卷；缠",
+  "meaning_en": "to wind; to roll",
+  "level": "N3",
+  "pos": "verb"
+ },
+ {
+  "id": "n3-0723",
+  "word": "混ざる",
+  "reading": "まざる",
+  "meaning_zh": "混杂；掺杂",
+  "meaning_en": "to be mixed",
+  "level": "N3",
+  "pos": "verb"
+ },
+ {
+  "id": "n3-0724",
+  "word": "まとめる",
+  "reading": "まとめる",
+  "meaning_zh": "汇总；整理",
+  "meaning_en": "to put together; to summarize",
+  "level": "N3",
+  "pos": "verb"
+ },
+ {
+  "id": "n3-0725",
+  "word": "まとまる",
+  "reading": "まとまる",
+  "meaning_zh": "谈妥；归纳好",
+  "meaning_en": "to be settled; to come together",
+  "level": "N3",
+  "pos": "verb"
+ },
+ {
+  "id": "n3-0726",
+  "word": "招く",
+  "reading": "まねく",
+  "meaning_zh": "招待；招致",
+  "meaning_en": "to invite; to bring about",
+  "level": "N3",
+  "pos": "verb"
+ },
+ {
+  "id": "n3-0727",
+  "word": "回す",
+  "reading": "まわす",
+  "meaning_zh": "转动；传递",
+  "meaning_en": "to turn; to pass around",
+  "level": "N3",
+  "pos": "verb"
+ },
+ {
+  "id": "n3-0728",
+  "word": "見送る",
+  "reading": "みおくる",
+  "meaning_zh": "送行；放过",
+  "meaning_en": "to see off; to let pass",
+  "level": "N3",
+  "pos": "verb"
+ },
+ {
+  "id": "n3-0729",
+  "word": "見掛ける",
+  "reading": "みかける",
+  "meaning_zh": "看到；见到",
+  "meaning_en": "to catch sight of; to happen to see",
+  "level": "N3",
+  "pos": "verb"
+ },
+ {
+  "id": "n3-0730",
+  "word": "見つめる",
+  "reading": "みつめる",
+  "meaning_zh": "凝视",
+  "meaning_en": "to stare at; to gaze at",
+  "level": "N3",
+  "pos": "verb"
+ },
+ {
+  "id": "n3-0731",
+  "word": "認める",
+  "reading": "みとめる",
+  "meaning_zh": "承认；认可",
+  "meaning_en": "to admit; to recognize",
+  "level": "N3",
+  "pos": "verb"
+ },
+ {
+  "id": "n3-0732",
+  "word": "見直す",
+  "reading": "みなおす",
+  "meaning_zh": "重新审视；改观",
+  "meaning_en": "to reexamine; to reevaluate",
+  "level": "N3",
+  "pos": "verb"
+ },
+ {
+  "id": "n3-0733",
+  "word": "実る",
+  "reading": "みのる",
+  "meaning_zh": "结果实；有成果",
+  "meaning_en": "to bear fruit; to ripen",
+  "level": "N3",
+  "pos": "verb"
+ },
+ {
+  "id": "n3-0734",
+  "word": "向く",
+  "reading": "むく",
+  "meaning_zh": "朝向；适合",
+  "meaning_en": "to face; to be suited for",
+  "level": "N3",
+  "pos": "verb"
+ },
+ {
+  "id": "n3-0735",
+  "word": "向ける",
+  "reading": "むける",
+  "meaning_zh": "朝向；指向",
+  "meaning_en": "to turn toward; to point",
+  "level": "N3",
+  "pos": "verb"
+ },
+ {
+  "id": "n3-0736",
+  "word": "蒸す",
+  "reading": "むす",
+  "meaning_zh": "蒸；闷热",
+  "meaning_en": "to steam; to be sultry",
+  "level": "N3",
+  "pos": "verb"
+ },
+ {
+  "id": "n3-0737",
+  "word": "目指す",
+  "reading": "めざす",
+  "meaning_zh": "以……为目标",
+  "meaning_en": "to aim at; to aspire to",
+  "level": "N3",
+  "pos": "verb"
+ },
+ {
+  "id": "n3-0738",
+  "word": "燃える",
+  "reading": "もえる",
+  "meaning_zh": "燃烧",
+  "meaning_en": "to burn",
+  "level": "N3",
+  "pos": "verb"
+ },
+ {
+  "id": "n3-0739",
+  "word": "申し込む",
+  "reading": "もうしこむ",
+  "meaning_zh": "申请；报名",
+  "meaning_en": "to apply; to sign up",
+  "level": "N3",
+  "pos": "verb"
+ },
+ {
+  "id": "n3-0740",
+  "word": "役立つ",
+  "reading": "やくだつ",
+  "meaning_zh": "有用；有帮助",
+  "meaning_en": "to be useful; to be helpful",
+  "level": "N3",
+  "pos": "verb"
+ },
+ {
+  "id": "n3-0741",
+  "word": "破る",
+  "reading": "やぶる",
+  "meaning_zh": "撕破；打破",
+  "meaning_en": "to tear; to break (a rule/record)",
+  "level": "N3",
+  "pos": "verb"
+ },
+ {
+  "id": "n3-0742",
+  "word": "呼び掛ける",
+  "reading": "よびかける",
+  "meaning_zh": "呼吁；招呼",
+  "meaning_en": "to call out to; to appeal",
+  "level": "N3",
+  "pos": "verb"
+ },
+ {
+  "id": "n3-0743",
+  "word": "引き受ける",
+  "reading": "ひきうける",
+  "meaning_zh": "承担；接受",
+  "meaning_en": "to take on; to undertake",
+  "level": "N3",
+  "pos": "verb"
+ },
+ {
+  "id": "n3-0744",
+  "word": "引き出す",
+  "reading": "ひきだす",
+  "meaning_zh": "抽出；取出（存款）；引出",
+  "meaning_en": "to pull out; to withdraw; to draw out",
+  "level": "N3",
+  "pos": "verb"
+ },
+ {
+  "id": "n3-0745",
+  "word": "引っ張る",
+  "reading": "ひっぱる",
+  "meaning_zh": "拉；拽",
+  "meaning_en": "to pull; to drag",
+  "level": "N3",
+  "pos": "verb"
+ },
+ {
+  "id": "n3-0746",
+  "word": "乗り越える",
+  "reading": "のりこえる",
+  "meaning_zh": "克服；越过",
+  "meaning_en": "to overcome; to get over",
+  "level": "N3",
+  "pos": "verb"
+ },
+ {
+  "id": "n3-0747",
+  "word": "通り過ぎる",
+  "reading": "とおりすぎる",
+  "meaning_zh": "走过；经过",
+  "meaning_en": "to pass by; to go past",
+  "level": "N3",
+  "pos": "verb"
+ },
+ {
+  "id": "n3-0748",
+  "word": "やり直す",
+  "reading": "やりなおす",
+  "meaning_zh": "重做",
+  "meaning_en": "to redo; to start over",
+  "level": "N3",
+  "pos": "verb"
+ },
+ {
+  "id": "n3-0749",
+  "word": "書き直す",
+  "reading": "かきなおす",
+  "meaning_zh": "重写",
+  "meaning_en": "to rewrite",
+  "level": "N3",
+  "pos": "verb"
+ },
+ {
+  "id": "n3-0750",
+  "word": "持ち上げる",
+  "reading": "もちあげる",
+  "meaning_zh": "举起；抬起",
+  "meaning_en": "to lift up; to raise",
+  "level": "N3",
+  "pos": "verb"
+ },
+ {
+  "id": "n3-0751",
+  "word": "怪しい",
+  "reading": "あやしい",
+  "meaning_zh": "可疑的；奇怪的",
+  "meaning_en": "suspicious; dubious",
+  "level": "N3",
+  "pos": "i-adj"
+ },
+ {
+  "id": "n3-0752",
+  "word": "偉い",
+  "reading": "えらい",
+  "meaning_zh": "伟大的；了不起的",
+  "meaning_en": "great; admirable",
+  "level": "N3",
+  "pos": "i-adj"
+ },
+ {
+  "id": "n3-0753",
+  "word": "幼い",
+  "reading": "おさない",
+  "meaning_zh": "幼小的；幼稚的",
+  "meaning_en": "very young; childish",
+  "level": "N3",
+  "pos": "i-adj"
+ },
+ {
+  "id": "n3-0754",
+  "word": "惜しい",
+  "reading": "おしい",
+  "meaning_zh": "可惜的",
+  "meaning_en": "regrettable; precious",
+  "level": "N3",
+  "pos": "i-adj"
+ },
+ {
+  "id": "n3-0755",
+  "word": "恐ろしい",
+  "reading": "おそろしい",
+  "meaning_zh": "可怕的",
+  "meaning_en": "terrible; frightening",
+  "level": "N3",
+  "pos": "i-adj"
+ },
+ {
+  "id": "n3-0756",
+  "word": "大人しい",
+  "reading": "おとなしい",
+  "meaning_zh": "老实的；温顺的",
+  "meaning_en": "quiet; gentle; obedient",
+  "level": "N3",
+  "pos": "i-adj"
+ },
+ {
+  "id": "n3-0757",
+  "word": "賢い",
+  "reading": "かしこい",
+  "meaning_zh": "聪明的",
+  "meaning_en": "wise; clever",
+  "level": "N3",
+  "pos": "i-adj"
+ },
+ {
+  "id": "n3-0758",
+  "word": "硬い",
+  "reading": "かたい",
+  "meaning_zh": "硬的；坚硬的",
+  "meaning_en": "hard; stiff",
+  "level": "N3",
+  "pos": "i-adj"
+ },
+ {
+  "id": "n3-0759",
+  "word": "痒い",
+  "reading": "かゆい",
+  "meaning_zh": "痒的",
+  "meaning_en": "itchy",
+  "level": "N3",
+  "pos": "i-adj"
+ },
+ {
+  "id": "n3-0760",
+  "word": "悔しい",
+  "reading": "くやしい",
+  "meaning_zh": "不甘心的；懊悔的",
+  "meaning_en": "frustrating; vexing",
+  "level": "N3",
+  "pos": "i-adj"
+ },
+ {
+  "id": "n3-0761",
+  "word": "苦しい",
+  "reading": "くるしい",
+  "meaning_zh": "痛苦的；艰难的",
+  "meaning_en": "painful; difficult",
+  "level": "N3",
+  "pos": "i-adj"
+ },
+ {
+  "id": "n3-0762",
+  "word": "恋しい",
+  "reading": "こいしい",
+  "meaning_zh": "眷恋的；怀念的",
+  "meaning_en": "dear; longed-for",
+  "level": "N3",
+  "pos": "i-adj"
+ },
+ {
+  "id": "n3-0763",
+  "word": "濃い",
+  "reading": "こい",
+  "meaning_zh": "浓的；深的",
+  "meaning_en": "thick; dark; strong (taste/color)",
+  "level": "N3",
+  "pos": "i-adj"
+ },
+ {
+  "id": "n3-0764",
+  "word": "騒がしい",
+  "reading": "さわがしい",
+  "meaning_zh": "吵闹的",
+  "meaning_en": "noisy",
+  "level": "N3",
+  "pos": "i-adj"
+ },
+ {
+  "id": "n3-0765",
+  "word": "親しい",
+  "reading": "したしい",
+  "meaning_zh": "亲密的",
+  "meaning_en": "close; intimate",
+  "level": "N3",
+  "pos": "i-adj"
+ },
+ {
+  "id": "n3-0766",
+  "word": "鋭い",
+  "reading": "するどい",
+  "meaning_zh": "锐利的；敏锐的",
+  "meaning_en": "sharp; keen",
+  "level": "N3",
+  "pos": "i-adj"
+ },
+ {
+  "id": "n3-0767",
+  "word": "頼もしい",
+  "reading": "たのもしい",
+  "meaning_zh": "可靠的；有出息的",
+  "meaning_en": "reliable; promising",
+  "level": "N3",
+  "pos": "i-adj"
+ },
+ {
+  "id": "n3-0768",
+  "word": "だらしない",
+  "reading": "だらしない",
+  "meaning_zh": "邋遢的；散漫的",
+  "meaning_en": "slovenly; sloppy",
+  "level": "N3",
+  "pos": "i-adj"
+ },
+ {
+  "id": "n3-0769",
+  "word": "辛い",
+  "reading": "つらい",
+  "meaning_zh": "痛苦的；难受的",
+  "meaning_en": "hard; painful; tough",
+  "level": "N3",
+  "pos": "i-adj"
+ },
+ {
+  "id": "n3-0770",
+  "word": "憎い",
+  "reading": "にくい",
+  "meaning_zh": "可恨的",
+  "meaning_en": "hateful; detestable",
+  "level": "N3",
+  "pos": "i-adj"
+ },
+ {
+  "id": "n3-0771",
+  "word": "鈍い",
+  "reading": "にぶい",
+  "meaning_zh": "迟钝的；钝的",
+  "meaning_en": "dull; slow",
+  "level": "N3",
+  "pos": "i-adj"
+ },
+ {
+  "id": "n3-0772",
+  "word": "激しい",
+  "reading": "はげしい",
+  "meaning_zh": "激烈的；猛烈的",
+  "meaning_en": "intense; violent",
+  "level": "N3",
+  "pos": "i-adj"
+ },
+ {
+  "id": "n3-0773",
+  "word": "等しい",
+  "reading": "ひとしい",
+  "meaning_zh": "相等的",
+  "meaning_en": "equal; equivalent",
+  "level": "N3",
+  "pos": "i-adj"
+ },
+ {
+  "id": "n3-0774",
+  "word": "緩い",
+  "reading": "ゆるい",
+  "meaning_zh": "松的；缓的",
+  "meaning_en": "loose; lenient; gentle",
+  "level": "N3",
+  "pos": "i-adj"
+ },
+ {
+  "id": "n3-0775",
+  "word": "もったいない",
+  "reading": "もったいない",
+  "meaning_zh": "可惜的；浪费的",
+  "meaning_en": "wasteful; too good for",
+  "level": "N3",
+  "pos": "i-adj"
+ },
+ {
+  "id": "n3-0776",
+  "word": "ありがたい",
+  "reading": "ありがたい",
+  "meaning_zh": "值得感激的；难得的",
+  "meaning_en": "grateful; welcome",
+  "level": "N3",
+  "pos": "i-adj"
+ },
+ {
+  "id": "n3-0777",
+  "word": "荒い",
+  "reading": "あらい",
+  "meaning_zh": "粗暴的；粗糙的",
+  "meaning_en": "rough; violent",
+  "level": "N3",
+  "pos": "i-adj"
+ },
+ {
+  "id": "n3-0778",
+  "word": "ぬるい",
+  "reading": "ぬるい",
+  "meaning_zh": "温吞的；不冷不热的",
+  "meaning_en": "lukewarm; tepid",
+  "level": "N3",
+  "pos": "i-adj"
+ },
+ {
+  "id": "n3-0779",
+  "word": "明らか",
+  "reading": "あきらか",
+  "meaning_zh": "明显；清楚",
+  "meaning_en": "obvious; clear",
+  "level": "N3",
+  "pos": "na-adj"
+ },
+ {
+  "id": "n3-0780",
+  "word": "盛ん",
+  "reading": "さかん",
+  "meaning_zh": "兴盛；盛行",
+  "meaning_en": "thriving; popular",
+  "level": "N3",
+  "pos": "na-adj"
+ },
+ {
+  "id": "n3-0781",
+  "word": "様々",
+  "reading": "さまざま",
+  "meaning_zh": "各种各样",
+  "meaning_en": "various",
+  "level": "N3",
+  "pos": "na-adj"
+ },
+ {
+  "id": "n3-0782",
+  "word": "確か",
+  "reading": "たしか",
+  "meaning_zh": "确实；可靠",
+  "meaning_en": "certain; reliable",
+  "level": "N3",
+  "pos": "na-adj"
+ },
+ {
+  "id": "n3-0783",
+  "word": "適当",
+  "reading": "てきとう",
+  "meaning_zh": "适当；随便",
+  "meaning_en": "suitable; haphazard",
+  "level": "N3",
+  "pos": "na-adj"
+ },
+ {
+  "id": "n3-0784",
+  "word": "熱心",
+  "reading": "ねっしん",
+  "meaning_zh": "热心；热情",
+  "meaning_en": "enthusiastic; eager",
+  "level": "N3",
+  "pos": "na-adj"
+ },
+ {
+  "id": "n3-0785",
+  "word": "派手",
+  "reading": "はで",
+  "meaning_zh": "华丽；花哨",
+  "meaning_en": "flashy; showy",
+  "level": "N3",
+  "pos": "na-adj"
+ },
+ {
+  "id": "n3-0786",
+  "word": "地味",
+  "reading": "じみ",
+  "meaning_zh": "朴素；不起眼",
+  "meaning_en": "plain; sober",
+  "level": "N3",
+  "pos": "na-adj"
+ },
+ {
+  "id": "n3-0787",
+  "word": "意外",
+  "reading": "いがい",
+  "meaning_zh": "意外",
+  "meaning_en": "unexpected; surprising",
+  "level": "N3",
+  "pos": "na-adj"
+ },
+ {
+  "id": "n3-0788",
+  "word": "快適",
+  "reading": "かいてき",
+  "meaning_zh": "舒适",
+  "meaning_en": "comfortable; pleasant",
+  "level": "N3",
+  "pos": "na-adj"
+ },
+ {
+  "id": "n3-0789",
+  "word": "活発",
+  "reading": "かっぱつ",
+  "meaning_zh": "活泼；活跃",
+  "meaning_en": "lively; active",
+  "level": "N3",
+  "pos": "na-adj"
+ },
+ {
+  "id": "n3-0790",
+  "word": "可能",
+  "reading": "かのう",
+  "meaning_zh": "可能",
+  "meaning_en": "possible",
+  "level": "N3",
+  "pos": "na-adj"
+ },
+ {
+  "id": "n3-0791",
+  "word": "不可能",
+  "reading": "ふかのう",
+  "meaning_zh": "不可能",
+  "meaning_en": "impossible",
+  "level": "N3",
+  "pos": "na-adj"
+ },
+ {
+  "id": "n3-0792",
+  "word": "完全",
+  "reading": "かんぜん",
+  "meaning_zh": "完全；完善",
+  "meaning_en": "complete; perfect",
+  "level": "N3",
+  "pos": "na-adj"
+ },
+ {
+  "id": "n3-0793",
+  "word": "貴重",
+  "reading": "きちょう",
+  "meaning_zh": "贵重；宝贵",
+  "meaning_en": "valuable; precious",
+  "level": "N3",
+  "pos": "na-adj"
+ },
+ {
+  "id": "n3-0794",
+  "word": "器用",
+  "reading": "きよう",
+  "meaning_zh": "灵巧；手巧",
+  "meaning_en": "dexterous; skillful",
+  "level": "N3",
+  "pos": "na-adj"
+ },
+ {
+  "id": "n3-0795",
+  "word": "巨大",
+  "reading": "きょだい",
+  "meaning_zh": "巨大",
+  "meaning_en": "huge; enormous",
+  "level": "N3",
+  "pos": "na-adj"
+ },
+ {
+  "id": "n3-0796",
+  "word": "具体的",
+  "reading": "ぐたいてき",
+  "meaning_zh": "具体",
+  "meaning_en": "concrete; specific",
+  "level": "N3",
+  "pos": "na-adj"
+ },
+ {
+  "id": "n3-0797",
+  "word": "高価",
+  "reading": "こうか",
+  "meaning_zh": "昂贵",
+  "meaning_en": "expensive; costly",
+  "level": "N3",
+  "pos": "na-adj"
+ },
+ {
+  "id": "n3-0798",
+  "word": "幸運",
+  "reading": "こううん",
+  "meaning_zh": "幸运",
+  "meaning_en": "lucky; fortunate",
+  "level": "N3",
+  "pos": "na-adj"
+ },
+ {
+  "id": "n3-0799",
+  "word": "順調",
+  "reading": "じゅんちょう",
+  "meaning_zh": "顺利",
+  "meaning_en": "smooth; favorable",
+  "level": "N3",
+  "pos": "na-adj"
+ },
+ {
+  "id": "n3-0800",
+  "word": "正常",
+  "reading": "せいじょう",
+  "meaning_zh": "正常",
+  "meaning_en": "normal",
+  "level": "N3",
+  "pos": "na-adj"
+ },
+ {
+  "id": "n3-0801",
+  "word": "慎重",
+  "reading": "しんちょう",
+  "meaning_zh": "慎重；谨慎",
+  "meaning_en": "careful; cautious",
+  "level": "N3",
+  "pos": "na-adj"
+ },
+ {
+  "id": "n3-0802",
+  "word": "新た",
+  "reading": "あらた",
+  "meaning_zh": "新的；重新",
+  "meaning_en": "new; fresh",
+  "level": "N3",
+  "pos": "na-adj"
+ },
+ {
+  "id": "n3-0803",
+  "word": "深刻",
+  "reading": "しんこく",
+  "meaning_zh": "严重；深刻",
+  "meaning_en": "serious; grave",
+  "level": "N3",
+  "pos": "na-adj"
+ },
+ {
+  "id": "n3-0804",
+  "word": "積極的",
+  "reading": "せっきょくてき",
+  "meaning_zh": "积极",
+  "meaning_en": "positive; proactive",
+  "level": "N3",
+  "pos": "na-adj"
+ },
+ {
+  "id": "n3-0805",
+  "word": "独特",
+  "reading": "どくとく",
+  "meaning_zh": "独特",
+  "meaning_en": "unique; distinctive",
+  "level": "N3",
+  "pos": "na-adj"
+ },
+ {
+  "id": "n3-0806",
+  "word": "無駄",
+  "reading": "むだ",
+  "meaning_zh": "徒劳；浪费",
+  "meaning_en": "futile; wasteful",
+  "level": "N3",
+  "pos": "na-adj"
+ },
+ {
+  "id": "n3-0807",
+  "word": "明確",
+  "reading": "めいかく",
+  "meaning_zh": "明确",
+  "meaning_en": "clear; precise",
+  "level": "N3",
+  "pos": "na-adj"
+ },
+ {
+  "id": "n3-0808",
+  "word": "有効",
+  "reading": "ゆうこう",
+  "meaning_zh": "有效",
+  "meaning_en": "valid; effective",
+  "level": "N3",
+  "pos": "na-adj"
+ },
+ {
+  "id": "n3-0809",
+  "word": "有利",
+  "reading": "ゆうり",
+  "meaning_zh": "有利",
+  "meaning_en": "advantageous",
+  "level": "N3",
+  "pos": "na-adj"
+ },
+ {
+  "id": "n3-0810",
+  "word": "不利",
+  "reading": "ふり",
+  "meaning_zh": "不利",
+  "meaning_en": "disadvantageous",
+  "level": "N3",
+  "pos": "na-adj"
+ },
+ {
+  "id": "n3-0811",
+  "word": "豊富",
+  "reading": "ほうふ",
+  "meaning_zh": "丰富",
+  "meaning_en": "abundant; plentiful",
+  "level": "N3",
+  "pos": "na-adj"
+ },
+ {
+  "id": "n3-0812",
+  "word": "平気",
+  "reading": "へいき",
+  "meaning_zh": "不在乎；无所谓",
+  "meaning_en": "unfazed; cool; all right",
+  "level": "N3",
+  "pos": "na-adj"
+ },
+ {
+  "id": "n3-0813",
+  "word": "夢中",
+  "reading": "むちゅう",
+  "meaning_zh": "入迷；热衷",
+  "meaning_en": "absorbed in; crazy about",
+  "level": "N3",
+  "pos": "na-adj"
+ },
+ {
+  "id": "n3-0814",
+  "word": "冷静",
+  "reading": "れいせい",
+  "meaning_zh": "冷静",
+  "meaning_en": "calm; composed",
+  "level": "N3",
+  "pos": "na-adj"
+ },
+ {
+  "id": "n3-0815",
+  "word": "清潔",
+  "reading": "せいけつ",
+  "meaning_zh": "清洁；干净",
+  "meaning_en": "clean; hygienic",
+  "level": "N3",
+  "pos": "na-adj"
+ },
+ {
+  "id": "n3-0816",
+  "word": "相変わらず",
+  "reading": "あいかわらず",
+  "meaning_zh": "依旧；照旧",
+  "meaning_en": "as usual; as ever",
+  "level": "N3",
+  "pos": "adv"
+ },
+ {
+  "id": "n3-0817",
+  "word": "案外",
+  "reading": "あんがい",
+  "meaning_zh": "意外地；出乎意料",
+  "meaning_en": "unexpectedly; contrary to expectations",
+  "level": "N3",
+  "pos": "adv"
+ },
+ {
+  "id": "n3-0818",
+  "word": "一応",
+  "reading": "いちおう",
+  "meaning_zh": "姑且；大致",
+  "meaning_en": "tentatively; for the time being",
+  "level": "N3",
+  "pos": "adv"
+ },
+ {
+  "id": "n3-0819",
+  "word": "一斉に",
+  "reading": "いっせいに",
+  "meaning_zh": "一齐；同时",
+  "meaning_en": "all at once; simultaneously",
+  "level": "N3",
+  "pos": "adv"
+ },
+ {
+  "id": "n3-0820",
+  "word": "一体",
+  "reading": "いったい",
+  "meaning_zh": "到底；究竟",
+  "meaning_en": "(what) on earth; (who) the heck",
+  "level": "N3",
+  "pos": "adv"
+ },
+ {
+  "id": "n3-0821",
+  "word": "いつの間にか",
+  "reading": "いつのまにか",
+  "meaning_zh": "不知不觉间",
+  "meaning_en": "before one knows it",
+  "level": "N3",
+  "pos": "adv"
+ },
+ {
+  "id": "n3-0822",
+  "word": "今にも",
+  "reading": "いまにも",
+  "meaning_zh": "眼看就要；马上",
+  "meaning_en": "at any moment; on the verge of",
+  "level": "N3",
+  "pos": "adv"
+ },
+ {
+  "id": "n3-0823",
+  "word": "うっかり",
+  "reading": "うっかり",
+  "meaning_zh": "不留神；无意中",
+  "meaning_en": "carelessly; inadvertently",
+  "level": "N3",
+  "pos": "adv"
+ },
+ {
+  "id": "n3-0824",
+  "word": "思わず",
+  "reading": "おもわず",
+  "meaning_zh": "不由得；情不自禁",
+  "meaning_en": "involuntarily; in spite of oneself",
+  "level": "N3",
+  "pos": "adv"
+ },
+ {
+  "id": "n3-0825",
+  "word": "主に",
+  "reading": "おもに",
+  "meaning_zh": "主要",
+  "meaning_en": "mainly; chiefly",
+  "level": "N3",
+  "pos": "adv"
+ },
+ {
+  "id": "n3-0826",
+  "word": "恐らく",
+  "reading": "おそらく",
+  "meaning_zh": "恐怕；大概",
+  "meaning_en": "probably; perhaps",
+  "level": "N3",
+  "pos": "adv"
+ },
+ {
+  "id": "n3-0827",
+  "word": "かえって",
+  "reading": "かえって",
+  "meaning_zh": "反而",
+  "meaning_en": "on the contrary; rather",
+  "level": "N3",
+  "pos": "adv"
+ },
+ {
+  "id": "n3-0828",
+  "word": "必ずしも",
+  "reading": "かならずしも",
+  "meaning_zh": "未必；不一定",
+  "meaning_en": "not necessarily",
+  "level": "N3",
+  "pos": "adv"
+ },
+ {
+  "id": "n3-0829",
+  "word": "きちんと",
+  "reading": "きちんと",
+  "meaning_zh": "整齐地；好好地",
+  "meaning_en": "properly; neatly",
+  "level": "N3",
+  "pos": "adv"
+ },
+ {
+  "id": "n3-0830",
+  "word": "ぎりぎり",
+  "reading": "ぎりぎり",
+  "meaning_zh": "极限；勉强",
+  "meaning_en": "just barely; at the last moment",
+  "level": "N3",
+  "pos": "adv"
+ },
+ {
+  "id": "n3-0831",
+  "word": "決して",
+  "reading": "けっして",
+  "meaning_zh": "绝（不）",
+  "meaning_en": "never; by no means",
+  "level": "N3",
+  "pos": "adv"
+ },
+ {
+  "id": "n3-0832",
+  "word": "さっさと",
+  "reading": "さっさと",
+  "meaning_zh": "赶快；麻利地",
+  "meaning_en": "quickly; promptly",
+  "level": "N3",
+  "pos": "adv"
+ },
+ {
+  "id": "n3-0833",
+  "word": "早速",
+  "reading": "さっそく",
+  "meaning_zh": "立刻；马上",
+  "meaning_en": "immediately; right away",
+  "level": "N3",
+  "pos": "adv"
+ },
+ {
+  "id": "n3-0834",
+  "word": "更に",
+  "reading": "さらに",
+  "meaning_zh": "更加；进一步",
+  "meaning_en": "furthermore; even more",
+  "level": "N3",
+  "pos": "adv"
+ },
+ {
+  "id": "n3-0835",
+  "word": "少なくとも",
+  "reading": "すくなくとも",
+  "meaning_zh": "至少",
+  "meaning_en": "at least",
+  "level": "N3",
+  "pos": "adv"
+ },
+ {
+  "id": "n3-0836",
+  "word": "既に",
+  "reading": "すでに",
+  "meaning_zh": "已经",
+  "meaning_en": "already",
+  "level": "N3",
+  "pos": "adv"
+ },
+ {
+  "id": "n3-0837",
+  "word": "続々",
+  "reading": "ぞくぞく",
+  "meaning_zh": "陆续",
+  "meaning_en": "one after another; in succession",
+  "level": "N3",
+  "pos": "adv"
+ },
+ {
+  "id": "n3-0838",
+  "word": "そのうち",
+  "reading": "そのうち",
+  "meaning_zh": "不久；过些时候",
+  "meaning_en": "before long; soon",
+  "level": "N3",
+  "pos": "adv"
+ },
+ {
+  "id": "n3-0839",
+  "word": "多少",
+  "reading": "たしょう",
+  "meaning_zh": "多少；稍微",
+  "meaning_en": "somewhat; a little",
+  "level": "N3",
+  "pos": "adv"
+ },
+ {
+  "id": "n3-0840",
+  "word": "たちまち",
+  "reading": "たちまち",
+  "meaning_zh": "转眼间；立刻",
+  "meaning_en": "in an instant; suddenly",
+  "level": "N3",
+  "pos": "adv"
+ },
+ {
+  "id": "n3-0841",
+  "word": "たっぷり",
+  "reading": "たっぷり",
+  "meaning_zh": "充分；足够",
+  "meaning_en": "plenty; amply",
+  "level": "N3",
+  "pos": "adv"
+ },
+ {
+  "id": "n3-0842",
+  "word": "たまたま",
+  "reading": "たまたま",
+  "meaning_zh": "偶然；碰巧",
+  "meaning_en": "by chance; happen to",
+  "level": "N3",
+  "pos": "adv"
+ },
+ {
+  "id": "n3-0843",
+  "word": "単に",
+  "reading": "たんに",
+  "meaning_zh": "仅仅；只是",
+  "meaning_en": "simply; merely",
+  "level": "N3",
+  "pos": "adv"
+ },
+ {
+  "id": "n3-0844",
+  "word": "ついに",
+  "reading": "ついに",
+  "meaning_zh": "终于",
+  "meaning_en": "finally; at last",
+  "level": "N3",
+  "pos": "adv"
+ },
+ {
+  "id": "n3-0845",
+  "word": "常に",
+  "reading": "つねに",
+  "meaning_zh": "经常；总是",
+  "meaning_en": "always; constantly",
+  "level": "N3",
+  "pos": "adv"
+ },
+ {
+  "id": "n3-0846",
+  "word": "次々に",
+  "reading": "つぎつぎに",
+  "meaning_zh": "接连不断",
+  "meaning_en": "one after another; in succession",
+  "level": "N3",
+  "pos": "adv"
+ },
+ {
+  "id": "n3-0847",
+  "word": "とにかく",
+  "reading": "とにかく",
+  "meaning_zh": "总之；不管怎样",
+  "meaning_en": "anyway; in any case",
+  "level": "N3",
+  "pos": "adv"
+ },
+ {
+  "id": "n3-0848",
+  "word": "なんとなく",
+  "reading": "なんとなく",
+  "meaning_zh": "总觉得；不由得",
+  "meaning_en": "somehow; without knowing why",
+  "level": "N3",
+  "pos": "adv"
+ },
+ {
+  "id": "n3-0849",
+  "word": "のんびり",
+  "reading": "のんびり",
+  "meaning_zh": "悠闲地",
+  "meaning_en": "leisurely; at ease",
+  "level": "N3",
+  "pos": "adv"
+ },
+ {
+  "id": "n3-0850",
+  "word": "再び",
+  "reading": "ふたたび",
+  "meaning_zh": "再次",
+  "meaning_en": "again; once more",
+  "level": "N3",
+  "pos": "adv"
+ },
+ {
+  "id": "n3-0851",
+  "word": "普段",
+  "reading": "ふだん",
+  "meaning_zh": "平时",
+  "meaning_en": "usually; ordinarily",
+  "level": "N3",
+  "pos": "adv"
+ },
+ {
+  "id": "n3-0852",
+  "word": "ほぼ",
+  "reading": "ほぼ",
+  "meaning_zh": "大致；几乎",
+  "meaning_en": "almost; roughly",
+  "level": "N3",
+  "pos": "adv"
+ },
+ {
+  "id": "n3-0853",
+  "word": "前もって",
+  "reading": "まえもって",
+  "meaning_zh": "事先",
+  "meaning_en": "in advance; beforehand",
+  "level": "N3",
+  "pos": "adv"
+ },
+ {
+  "id": "n3-0854",
+  "word": "まさか",
+  "reading": "まさか",
+  "meaning_zh": "难道；万万（没想到）",
+  "meaning_en": "surely not; no way",
+  "level": "N3",
+  "pos": "adv"
+ },
+ {
+  "id": "n3-0855",
+  "word": "ますます",
+  "reading": "ますます",
+  "meaning_zh": "越来越",
+  "meaning_en": "increasingly; more and more",
+  "level": "N3",
+  "pos": "adv"
+ },
+ {
+  "id": "n3-0856",
+  "word": "まもなく",
+  "reading": "まもなく",
+  "meaning_zh": "不久；即将",
+  "meaning_en": "soon; shortly",
+  "level": "N3",
+  "pos": "adv"
+ },
+ {
+  "id": "n3-0857",
+  "word": "万一",
+  "reading": "まんいち",
+  "meaning_zh": "万一",
+  "meaning_en": "by any chance; in case",
+  "level": "N3",
+  "pos": "adv"
+ },
+ {
+  "id": "n3-0858",
+  "word": "めったに",
+  "reading": "めったに",
+  "meaning_zh": "很少；不常",
+  "meaning_en": "rarely; seldom",
+  "level": "N3",
+  "pos": "adv"
+ },
+ {
+  "id": "n3-0859",
+  "word": "ようやく",
+  "reading": "ようやく",
+  "meaning_zh": "好不容易；终于",
+  "meaning_en": "finally; at last",
+  "level": "N3",
+  "pos": "adv"
+ },
+ {
+  "id": "n3-0860",
+  "word": "わざと",
+  "reading": "わざと",
+  "meaning_zh": "故意",
+  "meaning_en": "on purpose; deliberately",
+  "level": "N3",
+  "pos": "adv"
+ },
+ {
+  "id": "n3-0861",
+  "word": "わざわざ",
+  "reading": "わざわざ",
+  "meaning_zh": "特意",
+  "meaning_en": "expressly; going out of one's way",
+  "level": "N3",
+  "pos": "adv"
+ },
+ {
+  "id": "n3-0862",
+  "word": "割と",
+  "reading": "わりと",
+  "meaning_zh": "比较；意外地",
+  "meaning_en": "comparatively; relatively",
+  "level": "N3",
+  "pos": "adv"
+ },
+ {
+  "id": "n3-0863",
+  "word": "ぐっすり",
+  "reading": "ぐっすり",
+  "meaning_zh": "酣睡地",
+  "meaning_en": "(sleep) soundly",
+  "level": "N3",
+  "pos": "adv"
+ },
+ {
+  "id": "n3-0864",
+  "word": "じっと",
+  "reading": "じっと",
+  "meaning_zh": "一动不动；目不转睛",
+  "meaning_en": "fixedly; still; patiently",
+  "level": "N3",
+  "pos": "adv"
+ },
+ {
+  "id": "n3-0865",
+  "word": "せっかく",
+  "reading": "せっかく",
+  "meaning_zh": "特意；好不容易",
+  "meaning_en": "with much trouble; specially",
+  "level": "N3",
+  "pos": "adv"
+ },
+ {
+  "id": "n3-0866",
+  "word": "アイディア",
+  "reading": "アイディア",
+  "meaning_zh": "主意；点子",
+  "meaning_en": "idea",
+  "level": "N3",
+  "pos": "noun"
+ },
+ {
+  "id": "n3-0867",
+  "word": "アドバイス",
+  "reading": "アドバイス",
+  "meaning_zh": "建议；忠告",
+  "meaning_en": "advice",
+  "level": "N3",
+  "pos": "noun"
+ },
+ {
+  "id": "n3-0868",
+  "word": "イメージ",
+  "reading": "イメージ",
+  "meaning_zh": "印象；形象",
+  "meaning_en": "image; impression",
+  "level": "N3",
+  "pos": "noun"
+ },
+ {
+  "id": "n3-0869",
+  "word": "インタビュー",
+  "reading": "インタビュー",
+  "meaning_zh": "采访",
+  "meaning_en": "interview",
+  "level": "N3",
+  "pos": "noun"
+ },
+ {
+  "id": "n3-0870",
+  "word": "エネルギー",
+  "reading": "エネルギー",
+  "meaning_zh": "能量；精力",
+  "meaning_en": "energy",
+  "level": "N3",
+  "pos": "noun"
+ },
+ {
+  "id": "n3-0871",
+  "word": "キャンセル",
+  "reading": "キャンセル",
+  "meaning_zh": "取消",
+  "meaning_en": "cancellation",
+  "level": "N3",
+  "pos": "noun"
+ },
+ {
+  "id": "n3-0872",
+  "word": "コミュニケーション",
+  "reading": "コミュニケーション",
+  "meaning_zh": "交流；沟通",
+  "meaning_en": "communication",
+  "level": "N3",
+  "pos": "noun"
+ },
+ {
+  "id": "n3-0873",
+  "word": "サービス",
+  "reading": "サービス",
+  "meaning_zh": "服务；赠送",
+  "meaning_en": "service",
+  "level": "N3",
+  "pos": "noun"
+ },
+ {
+  "id": "n3-0874",
+  "word": "サイン",
+  "reading": "サイン",
+  "meaning_zh": "签名；信号",
+  "meaning_en": "signature; sign; signal",
+  "level": "N3",
+  "pos": "noun"
+ },
+ {
+  "id": "n3-0875",
+  "word": "サンプル",
+  "reading": "サンプル",
+  "meaning_zh": "样品",
+  "meaning_en": "sample",
+  "level": "N3",
+  "pos": "noun"
+ },
+ {
+  "id": "n3-0876",
+  "word": "シーズン",
+  "reading": "シーズン",
+  "meaning_zh": "季节；旺季",
+  "meaning_en": "season",
+  "level": "N3",
+  "pos": "noun"
+ },
+ {
+  "id": "n3-0877",
+  "word": "システム",
+  "reading": "システム",
+  "meaning_zh": "系统",
+  "meaning_en": "system",
+  "level": "N3",
+  "pos": "noun"
+ },
+ {
+  "id": "n3-0878",
+  "word": "シリーズ",
+  "reading": "シリーズ",
+  "meaning_zh": "系列",
+  "meaning_en": "series",
+  "level": "N3",
+  "pos": "noun"
+ },
+ {
+  "id": "n3-0879",
+  "word": "スケジュール",
+  "reading": "スケジュール",
+  "meaning_zh": "日程；安排",
+  "meaning_en": "schedule",
+  "level": "N3",
+  "pos": "noun"
+ },
+ {
+  "id": "n3-0880",
+  "word": "ストレス",
+  "reading": "ストレス",
+  "meaning_zh": "精神压力",
+  "meaning_en": "stress",
+  "level": "N3",
+  "pos": "noun"
+ },
+ {
+  "id": "n3-0881",
+  "word": "スピード",
+  "reading": "スピード",
+  "meaning_zh": "速度",
+  "meaning_en": "speed",
+  "level": "N3",
+  "pos": "noun"
+ },
+ {
+  "id": "n3-0882",
+  "word": "スタイル",
+  "reading": "スタイル",
+  "meaning_zh": "风格；身材",
+  "meaning_en": "style; figure",
+  "level": "N3",
+  "pos": "noun"
+ },
+ {
+  "id": "n3-0883",
+  "word": "セール",
+  "reading": "セール",
+  "meaning_zh": "大减价；促销",
+  "meaning_en": "sale",
+  "level": "N3",
+  "pos": "noun"
+ },
+ {
+  "id": "n3-0884",
+  "word": "タイプ",
+  "reading": "タイプ",
+  "meaning_zh": "类型",
+  "meaning_en": "type",
+  "level": "N3",
+  "pos": "noun"
+ },
+ {
+  "id": "n3-0885",
+  "word": "チャンス",
+  "reading": "チャンス",
+  "meaning_zh": "机会",
+  "meaning_en": "chance; opportunity",
+  "level": "N3",
+  "pos": "noun"
+ },
+ {
+  "id": "n3-0886",
+  "word": "チェック",
+  "reading": "チェック",
+  "meaning_zh": "检查；核对",
+  "meaning_en": "check",
+  "level": "N3",
+  "pos": "noun"
+ },
+ {
+  "id": "n3-0887",
+  "word": "データ",
+  "reading": "データ",
+  "meaning_zh": "数据；资料",
+  "meaning_en": "data",
+  "level": "N3",
+  "pos": "noun"
+ },
+ {
+  "id": "n3-0888",
+  "word": "デザイン",
+  "reading": "デザイン",
+  "meaning_zh": "设计",
+  "meaning_en": "design",
+  "level": "N3",
+  "pos": "noun"
+ },
+ {
+  "id": "n3-0889",
+  "word": "トレーニング",
+  "reading": "トレーニング",
+  "meaning_zh": "训练；锻炼",
+  "meaning_en": "training",
+  "level": "N3",
+  "pos": "noun"
+ },
+ {
+  "id": "n3-0890",
+  "word": "バランス",
+  "reading": "バランス",
+  "meaning_zh": "平衡",
+  "meaning_en": "balance",
+  "level": "N3",
+  "pos": "noun"
+ },
+ {
+  "id": "n3-0891",
+  "word": "ヒント",
+  "reading": "ヒント",
+  "meaning_zh": "提示；启发",
+  "meaning_en": "hint",
+  "level": "N3",
+  "pos": "noun"
+ },
+ {
+  "id": "n3-0892",
+  "word": "プラン",
+  "reading": "プラン",
+  "meaning_zh": "计划",
+  "meaning_en": "plan",
+  "level": "N3",
+  "pos": "noun"
+ },
+ {
+  "id": "n3-0893",
+  "word": "プロ",
+  "reading": "プロ",
+  "meaning_zh": "专业；职业选手",
+  "meaning_en": "professional; pro",
+  "level": "N3",
+  "pos": "noun"
+ },
+ {
+  "id": "n3-0894",
+  "word": "マスコミ",
+  "reading": "マスコミ",
+  "meaning_zh": "大众传媒",
+  "meaning_en": "mass media",
+  "level": "N3",
+  "pos": "noun"
+ },
+ {
+  "id": "n3-0895",
+  "word": "マナー",
+  "reading": "マナー",
+  "meaning_zh": "礼仪；礼貌",
+  "meaning_en": "manners; etiquette",
+  "level": "N3",
+  "pos": "noun"
+ },
+ {
+  "id": "n3-0896",
+  "word": "ところが",
+  "reading": "ところが",
+  "meaning_zh": "然而；可是",
+  "meaning_en": "however; but; and yet",
+  "level": "N3",
+  "pos": "conj"
+ },
+ {
+  "id": "n3-0897",
+  "word": "したがって",
+  "reading": "したがって",
+  "meaning_zh": "因此；从而",
+  "meaning_en": "therefore; consequently",
+  "level": "N3",
+  "pos": "conj"
+ },
+ {
+  "id": "n3-0898",
+  "word": "そこで",
+  "reading": "そこで",
+  "meaning_zh": "于是；因此",
+  "meaning_en": "so; accordingly; thereupon",
+  "level": "N3",
+  "pos": "conj"
+ },
+ {
+  "id": "n3-0899",
+  "word": "一方",
+  "reading": "いっぽう",
+  "meaning_zh": "另一方面；一方",
+  "meaning_en": "on the other hand; meanwhile",
+  "level": "N3",
+  "pos": "conj"
+ },
+ {
+  "id": "n3-0900",
+  "word": "お疲れ様",
+  "reading": "おつかれさま",
+  "meaning_zh": "辛苦了",
+  "meaning_en": "thank you for your hard work",
+  "level": "N3",
+  "pos": "expr"
+ }
 ]

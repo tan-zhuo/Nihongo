@@ -8,39 +8,43 @@
   }
   body {
     @apply font-sans antialiased;
+    font-feature-settings: 'palt';
+  }
+  ::selection {
+    @apply bg-accent-light text-accent-deep;
   }
 }
 
 @layer components {
   .card {
-    @apply rounded-xl border border-stone-200 bg-white shadow-sm;
+    @apply rounded-2xl border border-stone-200/70 bg-white shadow-card;
   }
   .btn {
-    @apply inline-flex items-center justify-center rounded-lg px-4 py-2 text-sm font-medium transition-colors;
+    @apply inline-flex items-center justify-center rounded-xl px-5 py-2.5 text-sm font-medium transition-all duration-200;
   }
   .btn-primary {
-    @apply btn bg-accent text-white hover:bg-accent-dark;
+    @apply btn bg-accent-dark text-white hover:bg-accent-deep active:scale-[0.98];
   }
   .btn-ghost {
-    @apply btn border border-stone-300 bg-white text-ink hover:bg-stone-50;
+    @apply btn border border-stone-200 bg-white text-ink hover:border-stone-300 hover:bg-stone-50 active:scale-[0.98];
   }
   .chip {
-    @apply inline-flex items-center rounded-full border px-3 py-1 text-sm transition-colors cursor-pointer select-none;
+    @apply inline-flex items-center rounded-full border px-3.5 py-1 text-sm transition-colors duration-150 cursor-pointer select-none;
   }
   .chip-on {
-    @apply chip border-accent bg-accent text-white;
+    @apply chip border-accent-dark bg-accent-dark text-white;
   }
   .chip-off {
-    @apply chip border-stone-300 bg-white text-stone-600 hover:border-accent hover:text-accent;
+    @apply chip border-stone-200 bg-white text-stone-500 hover:border-accent hover:text-accent-dark;
   }
 }
 
 @keyframes caret-blink {
-  0%, 100% { border-color: #5b8a72; }
+  0%, 100% { border-color: #4d7a63; }
   50% { border-color: transparent; }
 }
 .typing-current {
-  border-bottom: 2px solid #5b8a72;
+  border-bottom: 2px solid #4d7a63;
   animation: caret-blink 1s step-end infinite;
-  background-color: #e8f0eb;
+  background-color: #eaf1ec;
 }
