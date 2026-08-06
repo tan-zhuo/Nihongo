@@ -6,15 +6,29 @@ import LevelFilter from '../components/LevelFilter'
 import { loadRecords, bestForArticle } from '../lib/storage'
 import type { Level } from '../types'
 
+type Kind = 'all' | 'essay' | 'story'
+
 export default function Articles() {
   const { t } = useTranslation()
   const [level, setLevel] = useState<Level | 'all'>('all')
+  const [kind, setKind] = useState<Kind>('all')
   const records = useMemo(() => loadRecords().articles, [])
-  const list = level === 'all' ? articles : articles.filter((a) => a.level === level)
+  const list = articles.filter(
+    (a) =>
+      (level === 'all' || a.level === level) &&
+      (kind === 'all' || (kind === 'story' ? a.kind === 'story' : a.kind !== 'story')),
+  )
 
   return (
     <div>
       <h1 className="mb-5 font-serif text-2xl font-bold">{t('articles.title')}</h1>
+      <div className="mb-3 flex flex-wrap gap-2">
+        {(['all', 'essay', 'story'] as Kind[]).map((k) => (
+          <button key={k} className={kind === k ? 'chip-on' : 'chip-off'} onClick={() => setKind(k)}>
+            {k === 'all' ? t('levels.all') : t(`articles.kind_${k}`)}
+          </button>
+        ))}
+      </div>
       <div className="mb-6">
         <LevelFilter value={level} onChange={setLevel} />
       </div>
@@ -31,8 +45,15 @@ export default function Articles() {
                 className="card group flex flex-col p-6 transition-all duration-200 hover:-translate-y-0.5 hover:shadow-lift"
               >
                 <div className="mb-3 flex items-center justify-between">
-                  <span className="rounded-md bg-accent-light px-2 py-0.5 text-xs font-semibold text-accent-deep">
-                    {a.level}
+                  <span className="flex items-center gap-1.5">
+                    <span className="rounded-md bg-accent-light px-2 py-0.5 text-xs font-semibold text-accent-deep">
+                      {a.level}
+                    </span>
+                    {a.kind === 'story' && (
+                      <span className="rounded-md bg-amber-50 px-2 py-0.5 text-xs font-semibold text-amber-600">
+                        {t('articles.kind_story')}
+                      </span>
+                    )}
                   </span>
                   <span className="text-xs text-stone-400">
                     {t('articles.charCount', { count: a.content.length })}

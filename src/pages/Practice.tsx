@@ -4,6 +4,7 @@ import { useTranslation } from 'react-i18next'
 import { getArticle, nextArticle } from '../data/articles'
 import { useLineTyping, type CharStatus } from '../hooks/useTyping'
 import { parseFurigana, splitSegLines, sliceSegs } from '../lib/furigana'
+import { lookupWordAt, type WordHit } from '../lib/lookup'
 import { addArticleRecord, bestForArticle } from '../lib/storage'
 import ResultModal from '../components/ResultModal'
 
@@ -39,6 +40,27 @@ export default function Practice() {
   const activeLineRef = useRef<HTMLDivElement>(null)
   const savedRef = useRef(false)
   const [newBest, setNewBest] = useState(false)
+  const [popup, setPopup] = useState<{ x: number; y: number; hit: WordHit | null } | null>(null)
+
+  // Any click outside a word (spans stop propagation) closes the popup.
+  useEffect(() => {
+    if (!popup) return
+    const close = () => setPopup(null)
+    const onKey = (e: KeyboardEvent) => e.key === 'Escape' && close()
+    document.addEventListener('click', close)
+    document.addEventListener('keydown', onKey)
+    return () => {
+      document.removeEventListener('click', close)
+      document.removeEventListener('keydown', onKey)
+    }
+  }, [popup])
+
+  const onCharClick = (e: React.MouseEvent, globalIdx: number) => {
+    e.stopPropagation()
+    const x = e.clientX
+    const y = e.clientY
+    lookupWordAt(content, globalIdx, article?.words).then((hit) => setPopup({ x, y, hit }))
+  }
 
   useEffect(() => {
     typing.reset()
@@ -154,13 +176,17 @@ export default function Practice() {
                 isActive || isPast ? 'opacity-100' : 'opacity-45'
               }`}
             >
-              {/* Original line with furigana */}
-              <div className="text-xl leading-normal tracking-wide sm:text-2xl">
+              {/* Original line with furigana; tap any word to look it up */}
+              <div className="cursor-pointer text-xl leading-normal tracking-wide sm:text-2xl">
                 {lineSegs[li].map((seg, si) => {
                   const chars = Array.from(seg.text).map((ch, ci) => {
                     const inLine = seg.start + ci - ranges[li].start
                     return (
-                      <span key={ci} className={CHAR_CLS[typing.statusOf(li, inLine)]}>
+                      <span
+                        key={ci}
+                        className={CHAR_CLS[typing.statusOf(li, inLine)]}
+                        onClick={(e) => onCharClick(e, seg.start + ci)}
+                      >
                         {ch}
                       </span>
                     )
@@ -222,7 +248,33 @@ export default function Practice() {
           )
         })}
       </div>
-      <p className="pb-4 text-xs text-stone-400">{t('practice.imeHint')}</p>
+      <p className="pb-4 text-xs text-stone-400">
+        {t('practice.tapWordHint')} {t('practice.imeHint')}
+      </p>
+
+      {popup && (
+        <div
+          className="card fixed z-30 w-64 p-4"
+          style={{
+            left: Math.max(8, Math.min(popup.x - 40, window.innerWidth - 272)),
+            top: Math.min(popup.y + 16, window.innerHeight - 140),
+          }}
+          onClick={(e) => e.stopPropagation()}
+        >
+          {popup.hit ? (
+            <>
+              <p className="mb-1 font-serif text-lg font-bold">
+                {popup.hit.w}
+                <span className="ml-2 text-sm font-normal text-stone-400">{popup.hit.r}</span>
+              </p>
+              <p className="text-sm leading-relaxed">{popup.hit.zh}</p>
+              <p className="text-sm leading-relaxed text-stone-500">{popup.hit.en}</p>
+            </>
+          ) : (
+            <p className="text-sm text-stone-400">{t('practice.noEntry')}</p>
+          )}
+        </div>
+      )}
 
       {typing.finished && typing.stats && (
         <ResultModal
