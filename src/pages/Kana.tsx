@@ -1,6 +1,7 @@
 import { useEffect, useMemo, useRef, useState } from 'react'
 import { useTranslation } from 'react-i18next'
 import { SECTIONS, allCells, type KanaCell, type KanaSection } from '../data/kana'
+import { addKanaRecord } from '../lib/storage'
 
 type Script = 'hiragana' | 'katakana'
 
@@ -54,17 +55,26 @@ export default function Kana() {
   const [feedback, setFeedback] = useState<'ok' | 'ng' | null>(null)
   const [correctCount, setCorrectCount] = useState(0)
   const inputRef = useRef<HTMLInputElement>(null)
+  const savedRef = useRef(false)
 
   useEffect(() => {
     setIndex(0)
     setInput('')
     setFeedback(null)
     setCorrectCount(0)
+    savedRef.current = false
     inputRef.current?.focus()
   }, [session])
 
   const cell: KanaCell | undefined = session[index]
   const done = session.length > 0 && index >= session.length
+
+  // Persist the session result once when it completes.
+  useEffect(() => {
+    if (!done || savedRef.current) return
+    savedRef.current = true
+    addKanaRecord({ ts: Date.now(), script, set: practiceSet, correct: correctCount, total: session.length })
+  }, [done, script, practiceSet, correctCount, session.length])
   const glyph = (kc: KanaCell) => (script === 'hiragana' ? kc.h : kc.k)
 
   const check = () => {
