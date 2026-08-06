@@ -4,6 +4,7 @@ import Layout from './components/Layout'
 import Home from './pages/Home'
 
 const Articles = lazy(() => import('./pages/Articles'))
+const Kana = lazy(() => import('./pages/Kana'))
 const Practice = lazy(() => import('./pages/Practice'))
 const Vocab = lazy(() => import('./pages/Vocab'))
 const Stats = lazy(() => import('./pages/Stats'))
@@ -24,6 +25,10 @@ export default function App() {
         <Route
           path="/vocab"
           element={<Suspense fallback={null}><Vocab /></Suspense>}
+        />
+        <Route
+          path="/kana"
+          element={<Suspense fallback={null}><Kana /></Suspense>}
         />
         <Route
           path="/stats"

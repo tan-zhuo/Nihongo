@@ -5,6 +5,7 @@ export default function Home() {
   const { t } = useTranslation()
 
   const cards = [
+    { to: '/kana', mark: '音', title: t('home.kanaTitle'), desc: t('home.kanaDesc') },
     { to: '/articles', mark: '文', title: t('home.articleTitle'), desc: t('home.articleDesc') },
     { to: '/vocab', mark: '語', title: t('home.vocabTitle'), desc: t('home.vocabDesc') },
   ]
@@ -22,7 +23,7 @@ export default function Home() {
           {t('home.heroSubtitle')}
         </p>
       </div>
-      <div className="mx-auto grid max-w-3xl gap-5 sm:grid-cols-2">
+      <div className="mx-auto grid max-w-4xl gap-5 sm:grid-cols-3">
         {cards.map((c) => (
           <Link
             key={c.to}
