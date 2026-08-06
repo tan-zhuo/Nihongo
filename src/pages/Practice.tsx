@@ -2,7 +2,8 @@ import { useEffect, useMemo, useRef, useState } from 'react'
 import { useParams, useNavigate, Link } from 'react-router-dom'
 import { useTranslation } from 'react-i18next'
 import { getArticle, nextArticle } from '../data/articles'
-import { useLineTyping, splitLines, type CharStatus } from '../hooks/useTyping'
+import { useLineTyping, type CharStatus } from '../hooks/useTyping'
+import { parseFurigana, splitSegLines, sliceSegs } from '../lib/furigana'
 import { addArticleRecord, bestForArticle } from '../lib/storage'
 import ResultModal from '../components/ResultModal'
 
@@ -14,12 +15,24 @@ const CHAR_CLS: Record<CharStatus, string> = {
   untyped: 'text-stone-400',
 }
 
+const FURIGANA_KEY = 'nihongotype.furigana'
+
 export default function Practice() {
   const { id } = useParams<{ id: string }>()
   const navigate = useNavigate()
   const { t } = useTranslation()
   const article = useMemo(() => (id ? getArticle(id) : undefined), [id])
-  const lines = useMemo(() => splitLines(article?.content ?? ''), [article])
+  const content = article?.content ?? ''
+
+  const [maxLen] = useState(() => (window.innerWidth < 640 ? 13 : 22))
+  const [showFurigana, setShowFurigana] = useState(
+    () => localStorage.getItem(FURIGANA_KEY) !== 'off',
+  )
+
+  const segs = useMemo(() => parseFurigana(article?.furigana, content), [article, content])
+  const ranges = useMemo(() => splitSegLines(content, segs, maxLen), [content, segs, maxLen])
+  const lines = useMemo(() => ranges.map((r) => content.slice(r.start, r.end)), [ranges, content])
+  const lineSegs = useMemo(() => ranges.map((r) => sliceSegs(segs, r.start, r.end)), [ranges, segs])
 
   const typing = useLineTyping(lines)
   const inputRef = useRef<HTMLInputElement>(null)
@@ -33,6 +46,13 @@ export default function Practice() {
     setNewBest(false)
     // eslint-disable-next-line react-hooks/exhaustive-deps
   }, [id])
+
+  useEffect(() => {
+    if (!typing.finished) {
+      inputRef.current?.focus()
+      activeLineRef.current?.scrollIntoView({ block: 'center', behavior: 'smooth' })
+    }
+  }, [typing.lineIdx, typing.finished])
 
   // Persist the result once per finished run.
   useEffect(() => {
@@ -54,14 +74,6 @@ export default function Practice() {
     })
   }, [typing.finished, typing.stats, article])
 
-  // Keep focus on the active line's input and keep it in view.
-  useEffect(() => {
-    if (!typing.finished) {
-      inputRef.current?.focus()
-      activeLineRef.current?.scrollIntoView({ block: 'center', behavior: 'smooth' })
-    }
-  }, [typing.lineIdx, typing.finished])
-
   if (!article) {
     return (
       <div className="py-16 text-center text-stone-500">
@@ -78,12 +90,18 @@ export default function Practice() {
     setNewBest(false)
     inputRef.current?.focus()
   }
+  const toggleFurigana = () => {
+    setShowFurigana((v) => {
+      localStorage.setItem(FURIGANA_KEY, v ? 'off' : 'on')
+      return !v
+    })
+  }
 
   return (
-    <div className="mx-auto max-w-3xl">
-      <div className="mb-4 flex flex-wrap items-center justify-between gap-2">
+    <div className="mx-auto max-w-2xl">
+      <div className="mb-5 flex flex-wrap items-center justify-between gap-3">
         <div className="flex items-center gap-3">
-          <Link to="/articles" className="text-sm text-stone-500 hover:text-accent">
+          <Link to="/articles" className="text-sm text-stone-400 transition-colors hover:text-accent-dark">
             ← {t('practice.back')}
           </Link>
           <h1 className="font-serif text-lg font-semibold">{article.title}</h1>
@@ -91,31 +109,40 @@ export default function Practice() {
             {article.level}
           </span>
         </div>
-        <button className="btn-ghost text-xs" onClick={restart}>
-          {t('practice.restart')}
-        </button>
+        <div className="flex items-center gap-2">
+          <button
+            className={`btn text-xs ${
+              showFurigana
+                ? 'border border-accent-dark bg-accent-light text-accent-deep'
+                : 'border border-stone-200 bg-white text-stone-400 hover:text-ink'
+            }`}
+            onClick={toggleFurigana}
+          >
+            {t('practice.furigana')}
+          </button>
+          <button className="btn-ghost text-xs" onClick={restart}>
+            {t('practice.restart')}
+          </button>
+        </div>
       </div>
 
-      <div className="mb-4">
-        <div className="mb-1 flex justify-between text-xs text-stone-500">
+      <div className="mb-8">
+        <div className="mb-1.5 flex justify-between text-xs text-stone-400">
           <span>{t('practice.progress')}</span>
           <span>
             {Math.min(typing.typedTotal, typing.totalChars)} / {typing.totalChars}
           </span>
         </div>
-        <div className="h-1.5 overflow-hidden rounded-full bg-stone-200">
+        <div className="h-1 overflow-hidden rounded-full bg-stone-200">
           <div
-            className="h-full rounded-full bg-accent transition-[width] duration-200"
+            className="h-full rounded-full bg-accent-dark transition-[width] duration-200"
             style={{ width: `${Math.min(typing.typedTotal / typing.totalChars, 1) * 100}%` }}
           />
         </div>
       </div>
 
-      {/* Line pairs: original line + input line directly beneath it */}
-      <div
-        className="card max-h-[60vh] overflow-y-auto p-5 sm:p-6"
-        onClick={() => inputRef.current?.focus()}
-      >
+      {/* Line pairs: original (with ruby) + input line directly beneath, full height */}
+      <div onClick={() => inputRef.current?.focus()}>
         {lines.map((line, li) => {
           const isPast = li < typing.lineIdx
           const isActive = li === typing.lineIdx && !typing.finished
@@ -123,15 +150,30 @@ export default function Practice() {
             <div
               key={li}
               ref={isActive ? activeLineRef : undefined}
-              className={`mb-4 last:mb-0 ${isActive ? '' : 'opacity-90'}`}
+              className={`mb-9 transition-opacity duration-200 ${
+                isActive || isPast ? 'opacity-100' : 'opacity-45'
+              }`}
             >
-              {/* Original line */}
-              <div className="text-xl leading-relaxed tracking-wide">
-                {Array.from(line).map((ch, ci) => (
-                  <span key={ci} className={CHAR_CLS[typing.statusOf(li, ci)]}>
-                    {ch}
-                  </span>
-                ))}
+              {/* Original line with furigana */}
+              <div className="text-xl leading-normal tracking-wide sm:text-2xl">
+                {lineSegs[li].map((seg, si) => {
+                  const chars = Array.from(seg.text).map((ch, ci) => {
+                    const inLine = seg.start + ci - ranges[li].start
+                    return (
+                      <span key={ci} className={CHAR_CLS[typing.statusOf(li, inLine)]}>
+                        {ch}
+                      </span>
+                    )
+                  })
+                  return seg.ruby && showFurigana ? (
+                    <ruby key={si} className="[&>rt]:select-none [&>rt]:text-[0.55rem] [&>rt]:font-sans [&>rt]:text-stone-400">
+                      {chars}
+                      <rt>{seg.ruby}</rt>
+                    </ruby>
+                  ) : (
+                    <span key={si}>{chars}</span>
+                  )
+                })}
               </div>
               {/* Input line */}
               {isActive ? (
@@ -142,8 +184,12 @@ export default function Practice() {
                   spellCheck={false}
                   autoComplete="off"
                   autoCorrect="off"
-                  placeholder={typing.lineIdx === 0 && typing.current === '' ? t('practice.inputPlaceholder') : ''}
-                  className="w-full border-b-2 border-accent bg-accent-light/40 px-0.5 py-1 text-xl leading-relaxed tracking-wide outline-none placeholder:text-sm placeholder:text-stone-400"
+                  placeholder={
+                    typing.lineIdx === 0 && typing.current === ''
+                      ? t('practice.inputPlaceholder')
+                      : ''
+                  }
+                  className="mt-1.5 w-full border-b-2 border-accent-dark/70 bg-transparent py-1.5 text-xl leading-normal tracking-wide outline-none transition-colors placeholder:text-sm placeholder:text-stone-300 focus:border-accent-dark sm:text-2xl"
                   onChange={(e) =>
                     typing.handleChange(
                       e.target.value,
@@ -155,18 +201,20 @@ export default function Practice() {
                   onPaste={(e) => e.preventDefault()}
                 />
               ) : isPast ? (
-                <div className="border-b border-stone-200 px-0.5 py-1 text-xl leading-relaxed tracking-wide">
+                <div className="mt-1.5 border-b border-stone-200 py-1.5 text-xl leading-normal tracking-wide sm:text-2xl">
                   {Array.from(typing.done[li] ?? '').map((ch, ci) => (
                     <span
                       key={ci}
-                      className={ch === line[ci] ? 'text-emerald-600' : 'text-red-500 bg-red-50 rounded-sm'}
+                      className={
+                        ch === line[ci] ? 'text-emerald-600' : 'text-red-500 bg-red-50 rounded-sm'
+                      }
                     >
                       {ch}
                     </span>
                   ))}
                 </div>
               ) : (
-                <div className="border-b border-dashed border-stone-200 py-1 text-xl leading-relaxed">
+                <div className="mt-1.5 border-b border-dashed border-stone-200 py-1.5 text-xl leading-normal sm:text-2xl">
                   &nbsp;
                 </div>
               )}
@@ -174,7 +222,7 @@ export default function Practice() {
           )
         })}
       </div>
-      <p className="mt-2 text-xs text-stone-400">{t('practice.imeHint')}</p>
+      <p className="pb-4 text-xs text-stone-400">{t('practice.imeHint')}</p>
 
       {typing.finished && typing.stats && (
         <ResultModal

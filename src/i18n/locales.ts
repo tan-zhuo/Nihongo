@@ -33,6 +33,7 @@ export const zh = {
     notFound: '未找到该文章。',
     imeHint: '提示：输入过程中假名转换未确认时不会计入错误。',
     newBest: '新纪录！',
+    furigana: '假名注音',
   },
   stats: {
     title: '成绩记录',
@@ -114,6 +115,7 @@ export const ja: typeof zh = {
     notFound: '文章が見つかりません。',
     imeHint: 'ヒント：変換確定前の文字はミスに数えません。',
     newBest: '自己ベスト！',
+    furigana: 'ふりがな',
   },
   stats: {
     title: '記録',
@@ -195,6 +197,7 @@ export const en: typeof zh = {
     notFound: 'Article not found.',
     imeHint: 'Tip: characters are not marked wrong while the IME conversion is still pending.',
     newBest: 'New personal best!',
+    furigana: 'Furigana',
   },
   stats: {
     title: 'Your stats',
