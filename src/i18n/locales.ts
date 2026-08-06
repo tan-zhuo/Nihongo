@@ -19,7 +19,7 @@ export const zh = {
     kanaTitle: '五十音',
     kanaDesc: '完整五十音图（清音・浊音・拗音），带罗马字注音和发音，配假名打字练习。',
     articleTitle: '文章练习',
-    articleDesc: '40 篇 N5–N1 分级文章，实时对照原文逐字练习。',
+    articleDesc: '52 篇 N5–N1 分级文章，含 12 篇日本经典昔话（桃太郎、かぐや姫等）。',
     vocabTitle: '单词练习',
     vocabDesc: '4200 个常用词汇，支持「看意思打日语」和「看日语打意思」。',
     start: '开始练习',
@@ -30,6 +30,8 @@ export const zh = {
     charCount: '{{count}} 字',
     empty: '该等级暂无文章。',
     best: '最佳',
+    kind_essay: '短文',
+    kind_story: '昔话',
   },
   practice: {
     back: '返回列表',
@@ -48,6 +50,8 @@ export const zh = {
     imeHint: '提示：输入过程中假名转换未确认时不会计入错误。',
     newBest: '新纪录！',
     furigana: '假名注音',
+    tapWordHint: '点击原文中的词可查看释义。',
+    noEntry: '未收录该词',
   },
   stats: {
     title: '成绩记录',
@@ -93,6 +97,7 @@ export const zh = {
     },
   },
   result: { close: '关闭' },
+  footer: { blog: '作者博客', source: '开源代码' },
 }
 
 export const ja: typeof zh = {
@@ -116,7 +121,7 @@ export const ja: typeof zh = {
     kanaTitle: '五十音',
     kanaDesc: '清音・濁音・拗音の完全な五十音図。ローマ字と発音つき、かなタイピング練習も。',
     articleTitle: '文章練習',
-    articleDesc: 'N5〜N1の40本の文章を、原文と照らし合わせながら一文字ずつ練習。',
+    articleDesc: 'N5〜N1の52本。桃太郎・かぐや姫など日本の昔話12話も収録。',
     vocabTitle: '単語練習',
     vocabDesc: '常用単語4200語。「意味→日本語」「日本語→意味」の2モード。',
     start: '練習を始める',
@@ -127,6 +132,8 @@ export const ja: typeof zh = {
     charCount: '{{count}}字',
     empty: 'このレベルの文章はまだありません。',
     best: 'ベスト',
+    kind_essay: '短文',
+    kind_story: '昔話',
   },
   practice: {
     back: '一覧に戻る',
@@ -145,6 +152,8 @@ export const ja: typeof zh = {
     imeHint: 'ヒント：変換確定前の文字はミスに数えません。',
     newBest: '自己ベスト！',
     furigana: 'ふりがな',
+    tapWordHint: '本文の単語をタップすると意味が見られます。',
+    noEntry: '辞書に未収録',
   },
   stats: {
     title: '記録',
@@ -190,6 +199,7 @@ export const ja: typeof zh = {
     },
   },
   result: { close: '閉じる' },
+  footer: { blog: '作者ブログ', source: 'ソースコード' },
 }
 
 export const en: typeof zh = {
@@ -213,7 +223,7 @@ export const en: typeof zh = {
     kanaTitle: 'Kana chart',
     kanaDesc: 'The complete gojūon chart (basic, voiced, contracted) with romaji and audio, plus kana typing drills.',
     articleTitle: 'Article practice',
-    articleDesc: '40 leveled articles from N5 to N1, typed character by character against the original.',
+    articleDesc: '52 leveled articles from N5 to N1, including 12 classic Japanese folk tales.',
     vocabTitle: 'Vocabulary practice',
     vocabDesc: '4200 common words. Type Japanese from the meaning, or the meaning from Japanese.',
     start: 'Start practicing',
@@ -224,6 +234,8 @@ export const en: typeof zh = {
     charCount: '{{count}} chars',
     empty: 'No articles for this level yet.',
     best: 'Best',
+    kind_essay: 'Essays',
+    kind_story: 'Folk tales',
   },
   practice: {
     back: 'Back to list',
@@ -242,6 +254,8 @@ export const en: typeof zh = {
     imeHint: 'Tip: characters are not marked wrong while the IME conversion is still pending.',
     newBest: 'New personal best!',
     furigana: 'Furigana',
+    tapWordHint: 'Tap a word in the text to see its meaning.',
+    noEntry: 'No entry found',
   },
   stats: {
     title: 'Your stats',
@@ -287,4 +301,5 @@ export const en: typeof zh = {
     },
   },
   result: { close: 'Close' },
+  footer: { blog: 'Author blog', source: 'Source code' },
 }

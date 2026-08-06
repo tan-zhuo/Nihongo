@@ -9,6 +9,17 @@ export interface Article {
   content: string
   /** content with kanji runs annotated as {漢字|かんじ} for ruby display */
   furigana?: string
+  /** 'story' = classic folktale (昔話); absent = regular essay */
+  kind?: 'story'
+  /** per-article glossary: surface form, reading, zh/en meanings */
+  words?: ArticleWord[]
+}
+
+export interface ArticleWord {
+  w: string
+  r: string
+  zh: string
+  en: string
 }
 
 export interface VocabWord {

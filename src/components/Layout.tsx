@@ -108,8 +108,27 @@ export default function Layout() {
         <Outlet />
       </main>
 
-      <footer className="hidden border-t border-stone-200/70 py-6 text-center text-xs tracking-wide text-stone-400 sm:block">
-        NihongoType · {t('app.tagline')}
+      <footer className="border-t border-stone-200/70 px-4 pb-20 pt-6 text-center text-xs tracking-wide text-stone-400 sm:pb-6">
+        <p className="mb-2">NihongoType · {t('app.tagline')}</p>
+        <p className="flex items-center justify-center gap-4">
+          <a
+            href="https://tanzhuo.xyz"
+            target="_blank"
+            rel="noopener noreferrer"
+            className="transition-colors hover:text-accent-dark"
+          >
+            {t('footer.blog')}
+          </a>
+          <span className="text-stone-300">·</span>
+          <a
+            href="https://github.com/tan-zhuo/Nihongo"
+            target="_blank"
+            rel="noopener noreferrer"
+            className="transition-colors hover:text-accent-dark"
+          >
+            {t('footer.source')} (GitHub)
+          </a>
+        </p>
       </footer>
 
       {/* Mobile bottom tab bar */}
