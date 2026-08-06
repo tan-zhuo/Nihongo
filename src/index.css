@@ -39,6 +39,15 @@
   }
 }
 
+@keyframes chart-draw {
+  from { stroke-dashoffset: 1; }
+  to { stroke-dashoffset: 0; }
+}
+.chart-line {
+  stroke-dasharray: 1;
+  animation: chart-draw 0.9s ease-out forwards;
+}
+
 @keyframes caret-blink {
   0%, 100% { border-color: #4d7a63; }
   50% { border-color: transparent; }

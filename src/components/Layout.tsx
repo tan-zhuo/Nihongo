@@ -1,3 +1,4 @@
+import { useState } from 'react'
 import { Outlet, NavLink, Link } from 'react-router-dom'
 import { useTranslation } from 'react-i18next'
 
@@ -52,6 +53,17 @@ const NAV_ITEMS = [
 export default function Layout() {
   const { t, i18n } = useTranslation()
   const current = i18n.resolvedLanguage ?? 'en'
+  const [feedbackOpen, setFeedbackOpen] = useState(false)
+  const [feedbackText, setFeedbackText] = useState('')
+
+  const submitFeedback = () => {
+    const url = `https://github.com/tan-zhuo/Nihongo/issues/new?title=${encodeURIComponent(
+      '[Feedback] ',
+    )}&body=${encodeURIComponent(feedbackText + '\n\n---\nvia NihongoType feedback')}`
+    window.open(url, '_blank', 'noopener')
+    setFeedbackOpen(false)
+    setFeedbackText('')
+  }
 
   const topNavCls = ({ isActive }: { isActive: boolean }) =>
     `whitespace-nowrap rounded-lg px-3 py-1.5 text-sm transition-colors duration-150 ${
@@ -128,8 +140,47 @@ export default function Layout() {
           >
             {t('footer.source')} (GitHub)
           </a>
+          <span className="text-stone-300">·</span>
+          <button
+            onClick={() => setFeedbackOpen(true)}
+            className="transition-colors hover:text-accent-dark"
+          >
+            {t('feedback.title')}
+          </button>
         </p>
       </footer>
+
+      {feedbackOpen && (
+        <div
+          className="fixed inset-0 z-30 flex items-center justify-center bg-ink/30 p-4 backdrop-blur-sm"
+          onClick={() => setFeedbackOpen(false)}
+        >
+          <div className="card w-full max-w-md p-6" onClick={(e) => e.stopPropagation()}>
+            <h2 className="mb-1 font-serif text-lg font-bold">{t('feedback.title')}</h2>
+            <p className="mb-4 text-xs text-stone-400">{t('feedback.note')}</p>
+            <textarea
+              value={feedbackText}
+              autoFocus
+              rows={5}
+              placeholder={t('feedback.placeholder')}
+              className="mb-4 w-full resize-none rounded-lg border border-stone-300 p-3 text-sm outline-none focus:border-accent focus:ring-2 focus:ring-accent-light"
+              onChange={(e) => setFeedbackText(e.target.value)}
+            />
+            <div className="flex justify-end gap-2">
+              <button className="btn-ghost text-sm" onClick={() => setFeedbackOpen(false)}>
+                {t('feedback.cancel')}
+              </button>
+              <button
+                className="btn-primary text-sm"
+                disabled={!feedbackText.trim()}
+                onClick={submitFeedback}
+              >
+                {t('feedback.submit')}
+              </button>
+            </div>
+          </div>
+        </div>
+      )}
 
       {/* Mobile bottom tab bar */}
       <nav className="fixed inset-x-0 bottom-0 z-10 border-t border-stone-200/70 bg-paper/95 pb-[env(safe-area-inset-bottom)] backdrop-blur sm:hidden">
