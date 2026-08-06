@@ -47,6 +47,7 @@ export default function Vocab() {
   const [input, setInput] = useState('')
   const [feedback, setFeedback] = useState<'ok' | 'ng' | null>(null)
   const [correctCount, setCorrectCount] = useState(0)
+  const [revealed, setRevealed] = useState(0)
   const inputRef = useRef<HTMLInputElement>(null)
   const savedRef = useRef(false)
 
@@ -55,6 +56,7 @@ export default function Vocab() {
     setInput('')
     setFeedback(null)
     setCorrectCount(0)
+    setRevealed(0)
     savedRef.current = false
     inputRef.current?.focus()
   }, [session])
@@ -87,8 +89,22 @@ export default function Vocab() {
     setIndex((i) => i + 1)
     setInput('')
     setFeedback(null)
+    setRevealed(0)
     inputRef.current?.focus()
   }
+
+  // Progressive hint: the answer's kana (or the primary meaning sense),
+  // shown as placeholders and revealed one character per press.
+  const hintTarget = word
+    ? mode === 'toJa'
+      ? word.reading
+      : (zhFirst ? word.meaning_zh : word.meaning_en).split(/[;；]/)[0].trim()
+    : ''
+  const hintChars = Array.from(hintTarget)
+  const hintText = hintChars
+    .map((c, i) => (i < revealed ? c : c === ' ' ? ' ' : '○'))
+    .join('')
+  const hintExhausted = revealed >= hintChars.length
 
   const onKeyDown = (e: React.KeyboardEvent) => {
     if (e.key !== 'Enter' || e.nativeEvent.isComposing) return
@@ -172,6 +188,9 @@ export default function Vocab() {
                 <p className="mt-4 text-xs text-stone-400">{t('vocab.promptToMeaning')}</p>
               </>
             )}
+            {!feedback && (
+              <p className="mt-4 text-lg tracking-[0.2em] text-accent-deep">{hintText}</p>
+            )}
           </div>
 
           {/* Feedback */}
@@ -209,6 +228,21 @@ export default function Vocab() {
             ) : (
               <>
                 <button className="btn-primary" onClick={check}>{t('vocab.check')}</button>
+                <button
+                  className="btn-ghost"
+                  disabled={hintExhausted}
+                  onClick={() => {
+                    setRevealed((r) => r + 1)
+                    inputRef.current?.focus()
+                  }}
+                >
+                  {t('vocab.hint')}
+                  {revealed > 0 && !hintExhausted && (
+                    <span className="ml-1 text-xs text-stone-400">
+                      {revealed}/{hintChars.length}
+                    </span>
+                  )}
+                </button>
                 <button
                   className="btn-ghost"
                   onClick={() => setFeedback('ng')}
