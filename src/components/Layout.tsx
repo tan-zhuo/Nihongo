@@ -23,6 +23,9 @@ const ICONS: Record<string, JSX.Element> = {
 }
 
 function NavIcon({ name }: { name: string }) {
+  if (name === 'kana') {
+    return <span className="flex h-5 w-5 items-center justify-center text-[15px] leading-none">あ</span>
+  }
   return (
     <svg
       viewBox="0 0 24 24"
@@ -40,6 +43,7 @@ function NavIcon({ name }: { name: string }) {
 
 const NAV_ITEMS = [
   { to: '/', key: 'home', icon: 'home', end: true },
+  { to: '/kana', key: 'kana', icon: 'kana' },
   { to: '/articles', key: 'articles', icon: 'articles' },
   { to: '/vocab', key: 'vocab', icon: 'vocab' },
   { to: '/stats', key: 'stats', icon: 'stats' },
