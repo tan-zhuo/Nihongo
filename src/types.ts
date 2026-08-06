@@ -7,6 +7,8 @@ export interface Article {
   level: Level
   title: string
   content: string
+  /** content with kanji runs annotated as {漢字|かんじ} for ruby display */
+  furigana?: string
 }
 
 export interface VocabWord {
