@@ -18,9 +18,18 @@ export interface VocabRecord {
   total: number
 }
 
+export interface KanaRecord {
+  ts: number
+  script: 'hiragana' | 'katakana'
+  set: string
+  correct: number
+  total: number
+}
+
 interface Records {
   articles: ArticleRecord[]
   vocab: VocabRecord[]
+  kana: KanaRecord[]
 }
 
 const KEY = 'nihongotype.records.v1'
@@ -34,12 +43,13 @@ export function loadRecords(): Records {
       return {
         articles: Array.isArray(parsed.articles) ? parsed.articles : [],
         vocab: Array.isArray(parsed.vocab) ? parsed.vocab : [],
+        kana: Array.isArray(parsed.kana) ? parsed.kana : [],
       }
     }
   } catch {
     // corrupted or unavailable storage → start fresh
   }
-  return { articles: [], vocab: [] }
+  return { articles: [], vocab: [], kana: [] }
 }
 
 function save(records: Records) {
@@ -64,6 +74,15 @@ export function addVocabRecord(record: VocabRecord) {
   records.vocab.push(record)
   if (records.vocab.length > MAX_ENTRIES) {
     records.vocab = records.vocab.slice(-MAX_ENTRIES)
+  }
+  save(records)
+}
+
+export function addKanaRecord(record: KanaRecord) {
+  const records = loadRecords()
+  records.kana.push(record)
+  if (records.kana.length > MAX_ENTRIES) {
+    records.kana = records.kana.slice(-MAX_ENTRIES)
   }
   save(records)
 }
