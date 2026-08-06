@@ -99,7 +99,7 @@ export default function Vocab() {
 
   return (
     <div className="mx-auto max-w-2xl">
-      <h1 className="mb-4 text-2xl font-bold">{t('vocab.title')}</h1>
+      <h1 className="mb-5 font-serif text-2xl font-bold">{t('vocab.title')}</h1>
 
       {/* Mode toggle */}
       <div className="mb-4 flex gap-2">
@@ -167,7 +167,7 @@ export default function Vocab() {
               </>
             ) : (
               <>
-                <div className="mb-2 text-3xl font-bold sm:text-4xl">{word.word}</div>
+                <div className="mb-2 font-serif text-3xl font-bold sm:text-4xl">{word.word}</div>
                 <div className="text-stone-500">{word.reading}</div>
                 <p className="mt-4 text-xs text-stone-400">{t('vocab.promptToMeaning')}</p>
               </>
