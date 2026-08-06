@@ -20,7 +20,7 @@ export const zh = {
   practice: {
     back: '返回列表',
     restart: '重新开始',
-    inputPlaceholder: '点击这里开始输入…（支持日文输入法）',
+    inputPlaceholder: '点击这里开始输入…',
     progress: '进度',
     resultTitle: '练习完成！',
     accuracy: '正确率',
@@ -186,7 +186,7 @@ export const en: typeof zh = {
   practice: {
     back: 'Back to list',
     restart: 'Restart',
-    inputPlaceholder: 'Click here and start typing… (Japanese IME supported)',
+    inputPlaceholder: 'Click here and start typing…',
     progress: 'Progress',
     resultTitle: 'Finished!',
     accuracy: 'Accuracy',

@@ -52,7 +52,9 @@ export function splitSegLines(
   while (content.length - start > max) {
     const limit = start + max
     let cut = -1
-    for (let i = limit; i > start + Math.floor(max / 2); i--) {
+    // Hanging punctuation: let a sentence-ending mark just past the limit
+    // ride along instead of starting the next line mid-word.
+    for (let i = Math.min(limit + 1, content.length); i > start + Math.floor(max / 2); i--) {
       if (PUNCT.includes(content[i - 1]) && cutAllowed(i)) {
         cut = i
         break
