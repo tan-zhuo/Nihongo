@@ -3,6 +3,7 @@ import type { TypingStats } from '../hooks/useTyping'
 
 interface Props {
   stats: TypingStats
+  newBest?: boolean
   onRetry: () => void
   onNext?: () => void
   onBack: () => void
@@ -15,14 +16,20 @@ function formatTime(ms: number): string {
   return `${m}:${String(s).padStart(2, '0')}`
 }
 
-export default function ResultModal({ stats, onRetry, onNext, onBack }: Props) {
+export default function ResultModal({ stats, newBest, onRetry, onNext, onBack }: Props) {
   const { t } = useTranslation()
   return (
     <div className="fixed inset-0 z-20 flex items-center justify-center bg-black/30 p-4">
       <div className="card w-full max-w-md p-6 sm:p-8">
-        <h2 className="mb-6 text-center text-2xl font-bold text-accent-dark">
+        <h2 className="mb-2 text-center text-2xl font-bold text-accent-dark">
           {t('practice.resultTitle')}
         </h2>
+        {newBest && (
+          <p className="mb-4 text-center text-sm font-semibold text-amber-500">
+            🏆 {t('practice.newBest')}
+          </p>
+        )}
+        {!newBest && <div className="mb-4" />}
         <div className="mb-6 grid grid-cols-2 gap-4 text-center">
           <div className="rounded-lg bg-accent-light p-4">
             <div className="text-3xl font-bold text-accent-dark">

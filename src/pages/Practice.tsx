@@ -1,8 +1,9 @@
-import { useEffect, useMemo, useRef } from 'react'
+import { useEffect, useMemo, useRef, useState } from 'react'
 import { useParams, useNavigate, Link } from 'react-router-dom'
 import { useTranslation } from 'react-i18next'
 import { getArticle, nextArticle } from '../data/articles'
 import { useLineTyping, splitLines, type CharStatus } from '../hooks/useTyping'
+import { addArticleRecord, bestForArticle } from '../lib/storage'
 import ResultModal from '../components/ResultModal'
 
 const CHAR_CLS: Record<CharStatus, string> = {
@@ -23,11 +24,35 @@ export default function Practice() {
   const typing = useLineTyping(lines)
   const inputRef = useRef<HTMLInputElement>(null)
   const activeLineRef = useRef<HTMLDivElement>(null)
+  const savedRef = useRef(false)
+  const [newBest, setNewBest] = useState(false)
 
   useEffect(() => {
     typing.reset()
+    savedRef.current = false
+    setNewBest(false)
     // eslint-disable-next-line react-hooks/exhaustive-deps
   }, [id])
+
+  // Persist the result once per finished run.
+  useEffect(() => {
+    if (!typing.finished || !typing.stats || !article || savedRef.current) return
+    savedRef.current = true
+    const prev = bestForArticle(article.id)
+    const { accuracy, cpm, elapsedMs, errors } = typing.stats
+    setNewBest(
+      !prev || accuracy > prev.accuracy || (accuracy === prev.accuracy && cpm > prev.cpm),
+    )
+    addArticleRecord({
+      articleId: article.id,
+      level: article.level,
+      ts: Date.now(),
+      accuracy,
+      cpm,
+      timeMs: elapsedMs,
+      errors,
+    })
+  }, [typing.finished, typing.stats, article])
 
   // Keep focus on the active line's input and keep it in view.
   useEffect(() => {
@@ -49,6 +74,8 @@ export default function Practice() {
   const next = nextArticle(article.id)
   const restart = () => {
     typing.reset()
+    savedRef.current = false
+    setNewBest(false)
     inputRef.current?.focus()
   }
 
@@ -152,6 +179,7 @@ export default function Practice() {
       {typing.finished && typing.stats && (
         <ResultModal
           stats={typing.stats}
+          newBest={newBest}
           onRetry={restart}
           onNext={next && next.id !== article.id ? () => navigate(`/practice/${next.id}`) : undefined}
           onBack={() => navigate('/articles')}

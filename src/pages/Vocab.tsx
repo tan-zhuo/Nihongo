@@ -3,6 +3,7 @@ import { useTranslation } from 'react-i18next'
 import { vocab } from '../data/vocab'
 import LevelFilter from '../components/LevelFilter'
 import { KANA_ROWS, rowOfReading, meaningMatches, type RowKey } from '../lib/kana'
+import { addVocabRecord } from '../lib/storage'
 import type { Level, VocabWord } from '../types'
 
 const SESSION_SIZE = 20
@@ -47,17 +48,26 @@ export default function Vocab() {
   const [feedback, setFeedback] = useState<'ok' | 'ng' | null>(null)
   const [correctCount, setCorrectCount] = useState(0)
   const inputRef = useRef<HTMLInputElement>(null)
+  const savedRef = useRef(false)
 
   useEffect(() => {
     setIndex(0)
     setInput('')
     setFeedback(null)
     setCorrectCount(0)
+    savedRef.current = false
     inputRef.current?.focus()
   }, [session])
 
   const word: VocabWord | undefined = session[index]
   const done = session.length > 0 && index >= session.length
+
+  // Persist the session result once when it completes.
+  useEffect(() => {
+    if (!done || savedRef.current) return
+    savedRef.current = true
+    addVocabRecord({ ts: Date.now(), mode, level, correct: correctCount, total: session.length })
+  }, [done, mode, level, correctCount, session.length])
   const zhFirst = (i18n.resolvedLanguage ?? 'en').startsWith('zh')
 
   const check = () => {

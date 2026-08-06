@@ -1,6 +1,6 @@
 export const zh = {
   app: { name: 'NihongoType', tagline: '专注的日语打字练习' },
-  nav: { home: '首页', articles: '文章练习', vocab: '单词练习' },
+  nav: { home: '首页', articles: '文章练习', vocab: '单词练习', stats: '成绩' },
   home: {
     heroTitle: '日语打字，从今天开始',
     heroSubtitle: '通过真实的文章和常用词汇练习日语输入，按 JLPT 等级循序渐进。',
@@ -15,6 +15,7 @@ export const zh = {
     title: '选择一篇文章',
     charCount: '{{count}} 字',
     empty: '该等级暂无文章。',
+    best: '最佳',
   },
   practice: {
     back: '返回列表',
@@ -31,6 +32,22 @@ export const zh = {
     next: '下一篇',
     notFound: '未找到该文章。',
     imeHint: '提示：输入过程中假名转换未确认时不会计入错误。',
+    newBest: '新纪录！',
+  },
+  stats: {
+    title: '成绩记录',
+    articleSection: '文章练习',
+    vocabSection: '单词练习',
+    totalPractices: '练习次数',
+    avgAccuracy: '平均正确率',
+    bestSpeed: '最高速度',
+    sessions: '练习轮数',
+    wordsAnswered: '答题数',
+    recent: '最近练习',
+    date: '时间',
+    empty: '还没有记录，去练一篇吧！',
+    clear: '清除全部记录',
+    clearConfirm: '确定要清除所有本地成绩记录吗？此操作不可恢复。',
   },
   vocab: {
     title: '单词练习',
@@ -64,7 +81,7 @@ export const zh = {
 
 export const ja: typeof zh = {
   app: { name: 'NihongoType', tagline: '集中できる日本語タイピング練習' },
-  nav: { home: 'ホーム', articles: '文章練習', vocab: '単語練習' },
+  nav: { home: 'ホーム', articles: '文章練習', vocab: '単語練習', stats: '記録' },
   home: {
     heroTitle: '日本語タイピングを、今日から。',
     heroSubtitle: '本物らしい文章と頻出単語で日本語入力を練習。JLPTレベル別にステップアップ。',
@@ -79,6 +96,7 @@ export const ja: typeof zh = {
     title: '文章を選ぶ',
     charCount: '{{count}}字',
     empty: 'このレベルの文章はまだありません。',
+    best: 'ベスト',
   },
   practice: {
     back: '一覧に戻る',
@@ -95,6 +113,22 @@ export const ja: typeof zh = {
     next: '次の文章',
     notFound: '文章が見つかりません。',
     imeHint: 'ヒント：変換確定前の文字はミスに数えません。',
+    newBest: '自己ベスト！',
+  },
+  stats: {
+    title: '記録',
+    articleSection: '文章練習',
+    vocabSection: '単語練習',
+    totalPractices: '練習回数',
+    avgAccuracy: '平均正確率',
+    bestSpeed: '最高速度',
+    sessions: 'セッション数',
+    wordsAnswered: '解答数',
+    recent: '最近の練習',
+    date: '日時',
+    empty: 'まだ記録がありません。練習してみましょう！',
+    clear: '記録をすべて削除',
+    clearConfirm: 'ローカルの記録をすべて削除しますか？元に戻せません。',
   },
   vocab: {
     title: '単語練習',
@@ -128,7 +162,7 @@ export const ja: typeof zh = {
 
 export const en: typeof zh = {
   app: { name: 'NihongoType', tagline: 'Focused Japanese typing practice' },
-  nav: { home: 'Home', articles: 'Articles', vocab: 'Vocabulary' },
+  nav: { home: 'Home', articles: 'Articles', vocab: 'Vocabulary', stats: 'Stats' },
   home: {
     heroTitle: 'Japanese typing, starting today',
     heroSubtitle: 'Practice Japanese input with real-feeling articles and core vocabulary, organized by JLPT level.',
@@ -143,6 +177,7 @@ export const en: typeof zh = {
     title: 'Pick an article',
     charCount: '{{count}} chars',
     empty: 'No articles for this level yet.',
+    best: 'Best',
   },
   practice: {
     back: 'Back to list',
@@ -159,6 +194,22 @@ export const en: typeof zh = {
     next: 'Next article',
     notFound: 'Article not found.',
     imeHint: 'Tip: characters are not marked wrong while the IME conversion is still pending.',
+    newBest: 'New personal best!',
+  },
+  stats: {
+    title: 'Your stats',
+    articleSection: 'Article practice',
+    vocabSection: 'Vocabulary practice',
+    totalPractices: 'Practices',
+    avgAccuracy: 'Avg. accuracy',
+    bestSpeed: 'Best speed',
+    sessions: 'Sessions',
+    wordsAnswered: 'Words answered',
+    recent: 'Recent practices',
+    date: 'Date',
+    empty: 'No records yet — go practice an article!',
+    clear: 'Clear all records',
+    clearConfirm: 'Delete all locally stored records? This cannot be undone.',
   },
   vocab: {
     title: 'Vocabulary practice',
