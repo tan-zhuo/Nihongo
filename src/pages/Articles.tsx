@@ -9,7 +9,8 @@ import type { Level } from '../types'
 type Kind = 'all' | 'essay' | 'story'
 
 export default function Articles() {
-  const { t } = useTranslation()
+  const { t, i18n } = useTranslation()
+  const zhFirst = (i18n.resolvedLanguage ?? 'en').startsWith('zh')
   const [level, setLevel] = useState<Level | 'all'>('all')
   const [kind, setKind] = useState<Kind>('all')
   const records = useMemo(() => loadRecords().articles, [])
@@ -59,10 +60,15 @@ export default function Articles() {
                     {t('articles.charCount', { count: a.content.length })}
                   </span>
                 </div>
-                <h2 className="mb-2 font-serif text-lg font-semibold group-hover:text-accent-deep">
+                <h2 className="font-serif text-lg font-semibold group-hover:text-accent-deep">
                   {a.title}
                 </h2>
-                <p className="line-clamp-2 text-sm leading-relaxed text-stone-400">
+                {(zhFirst ? a.title_zh : a.title_en) && (
+                  <p className="mb-2 mt-0.5 text-xs text-stone-400">
+                    {zhFirst ? a.title_zh : a.title_en}
+                  </p>
+                )}
+                <p className="mt-2 line-clamp-2 text-sm leading-relaxed text-stone-400">
                   {a.content.slice(0, 60)}…
                 </p>
                 {best && (

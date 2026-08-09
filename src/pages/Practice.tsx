@@ -4,6 +4,7 @@ import { useTranslation } from 'react-i18next'
 import { getArticle, nextArticle } from '../data/articles'
 import { useLineTyping, type CharStatus } from '../hooks/useTyping'
 import { parseFurigana, splitSegLines, sliceSegs } from '../lib/furigana'
+import { sentenceSpans, sentenceAt } from '../lib/sentences'
 import { lookupWordAt, type WordHit } from '../lib/lookup'
 import { addArticleRecord, bestForArticle } from '../lib/storage'
 import ResultModal from '../components/ResultModal'
@@ -17,11 +18,12 @@ const CHAR_CLS: Record<CharStatus, string> = {
 }
 
 const FURIGANA_KEY = 'nihongotype.furigana'
+const TRANSLATION_KEY = 'nihongotype.translation'
 
 export default function Practice() {
   const { id } = useParams<{ id: string }>()
   const navigate = useNavigate()
-  const { t } = useTranslation()
+  const { t, i18n } = useTranslation()
   const article = useMemo(() => (id ? getArticle(id) : undefined), [id])
   const content = article?.content ?? ''
 
@@ -29,7 +31,11 @@ export default function Practice() {
   const [showFurigana, setShowFurigana] = useState(
     () => localStorage.getItem(FURIGANA_KEY) !== 'off',
   )
+  const [showTrans, setShowTrans] = useState(
+    () => localStorage.getItem(TRANSLATION_KEY) !== 'off',
+  )
 
+  const spans = useMemo(() => sentenceSpans(article?.trans), [article])
   const segs = useMemo(() => parseFurigana(article?.furigana, content), [article, content])
   const ranges = useMemo(() => splitSegLines(content, segs, maxLen), [content, segs, maxLen])
   const lines = useMemo(() => ranges.map((r) => content.slice(r.start, r.end)), [ranges, content])
@@ -124,6 +130,19 @@ export default function Practice() {
       return !v
     })
   }
+  const toggleTrans = () => {
+    setShowTrans((v) => {
+      localStorage.setItem(TRANSLATION_KEY, v ? 'off' : 'on')
+      return !v
+    })
+  }
+
+  // Translation follows the UI language; a Japanese UI falls back to English.
+  const transLang: 'zh' | 'en' = (i18n.resolvedLanguage ?? 'en').startsWith('zh') ? 'zh' : 'en'
+  const cursor = ranges[typing.lineIdx]
+    ? ranges[typing.lineIdx].start + typing.current.length
+    : content.length - 1
+  const activeSentence = sentenceAt(spans, cursor)
 
   return (
     <div className="mx-auto max-w-2xl">
@@ -148,6 +167,18 @@ export default function Practice() {
           >
             {t('practice.furigana')}
           </button>
+          {spans.length > 0 && (
+            <button
+              className={`btn text-xs ${
+                showTrans
+                  ? 'border border-accent-dark bg-accent-light text-accent-deep'
+                  : 'border border-stone-200 bg-white text-stone-400 hover:text-ink'
+              }`}
+              onClick={toggleTrans}
+            >
+              {t('practice.translation')}
+            </button>
+          )}
           <button className="btn-ghost text-xs" onClick={restart}>
             {t('practice.restart')}
           </button>
@@ -249,6 +280,11 @@ export default function Practice() {
                 <div className="mt-1.5 border-b border-dashed border-stone-200 py-1.5 text-xl leading-normal sm:text-2xl">
                   &nbsp;
                 </div>
+              )}
+              {isActive && showTrans && activeSentence && (
+                <p className="mt-2.5 border-l-2 border-accent-light pl-3 text-sm leading-relaxed text-stone-500">
+                  {activeSentence[transLang]}
+                </p>
               )}
             </div>
           )

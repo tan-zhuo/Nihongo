@@ -3,6 +3,8 @@
     "id": "n1-a1",
     "level": "N1",
     "title": "AI規制の行方",
+    "title_zh": "AI监管的走向",
+    "title_en": "Where AI Regulation Is Headed",
     "content": "人工知能の急速な発展を踏まえ、各国は規制の枠組み作りを急いでいる。技術革新の恩恵を享受しつつも、その負の側面から社会を守るべく、制度設計には慎重を期さねばならない。とりわけ生成AIによる偽情報の拡散は、民主主義の根幹を揺るがしかねない深刻な問題である。表現の自由との均衡に鑑みて、一律の禁止ではなく、透明性の確保と説明責任の明確化を軸とした規律が求められよう。技術の進歩に法整備が追いつかない現状において、企業の自主的な取り組みもまた不可欠である。加えて、国境を越えて流通する技術の性質に鑑みれば、一国のみの対応には自ずと限界があり、国際的な協調が欠かせない。規制と革新は対立するものではなく、信頼という共通の基盤の上に両立し得るのである。",
     "furigana": "{人工知能|じんこうちのう}の{急速|きゅうそく}な{発展|はってん}を{踏|ふ}まえ、{各国|かっこく}は{規制|きせい}の{枠組|わくぐ}み{作|づく}りを{急|いそ}いでいる。{技術革新|ぎじゅつかくしん}の{恩恵|おんけい}を{享受|きょうじゅ}しつつも、その{負|ふ}の{側面|そくめん}から{社会|しゃかい}を{守|まも}るべく、{制度設計|せいどせっけい}には{慎重|しんちょう}を{期|き}さねばならない。とりわけ{生成|せいせい}AIによる{偽情報|にせじょうほう}の{拡散|かくさん}は、{民主主義|みんしゅしゅぎ}の{根幹|こんかん}を{揺|ゆ}るがしかねない{深刻|しんこく}な{問題|もんだい}である。{表現|ひょうげん}の{自由|じゆう}との{均衡|きんこう}に{鑑|かんが}みて、{一律|いちりつ}の{禁止|きんし}ではなく、{透明性|とうめいせい}の{確保|かくほ}と{説明責任|せつめいせきにん}の{明確化|めいかくか}を{軸|じく}とした{規律|きりつ}が{求|もと}められよう。{技術|ぎじゅつ}の{進歩|しんぽ}に{法整備|ほうせいび}が{追|お}いつかない{現状|げんじょう}において、{企業|きぎょう}の{自主的|じしゅてき}な{取|と}り{組|く}みもまた{不可欠|ふかけつ}である。{加|くわ}えて、{国境|こっきょう}を{越|こ}えて{流通|りゅうつう}する{技術|ぎじゅつ}の{性質|せいしつ}に{鑑|かんが}みれば、{一国|いっこく}のみの{対応|たいおう}には{自|おの}ずと{限界|げんかい}があり、{国際的|こくさいてき}な{協調|きょうちょう}が{欠|か}かせない。{規制|きせい}と{革新|かくしん}は{対立|たいりつ}するものではなく、{信頼|しんらい}という{共通|きょうつう}の{基盤|きばん}の{上|うえ}に{両立|りょうりつ}し{得|う}るのである。",
     "words": [
@@ -402,12 +404,51 @@
         "zh": "能够并存",
         "en": "can be compatible"
       }
+    ],
+    "trans": [
+      {
+        "ja": "人工知能の急速な発展を踏まえ、各国は規制の枠組み作りを急いでいる。",
+        "zh": "鉴于人工智能的迅猛发展，各国正加紧构建监管框架。",
+        "en": "In light of the rapid development of artificial intelligence, countries are hurrying to build regulatory frameworks."
+      },
+      {
+        "ja": "技術革新の恩恵を享受しつつも、その負の側面から社会を守るべく、制度設計には慎重を期さねばならない。",
+        "zh": "在享受技术革新红利的同时，为使社会免受其负面影响，制度设计必须慎之又慎。",
+        "en": "While enjoying the benefits of technological innovation, we must design our institutions with the utmost care so as to shield society from its darker side."
+      },
+      {
+        "ja": "とりわけ生成AIによる偽情報の拡散は、民主主義の根幹を揺るがしかねない深刻な問題である。",
+        "zh": "尤其是生成式AI导致的虚假信息扩散，是足以动摇民主根基的严重问题。",
+        "en": "The spread of disinformation by generative AI is a particularly grave problem, one capable of shaking the very foundations of democracy."
+      },
+      {
+        "ja": "表現の自由との均衡に鑑みて、一律の禁止ではなく、透明性の確保と説明責任の明確化を軸とした規律が求められよう。",
+        "zh": "考虑到与言论自由之间的平衡，所需要的恐怕不是一刀切的禁止，而是以确保透明度、厘清问责为核心的规范。",
+        "en": "Given the need to balance this against freedom of expression, what is called for is presumably not a blanket ban but rules centred on securing transparency and clarifying accountability."
+      },
+      {
+        "ja": "技術の進歩に法整備が追いつかない現状において、企業の自主的な取り組みもまた不可欠である。",
+        "zh": "在立法进程赶不上技术进步的当下，企业的自律举措同样不可或缺。",
+        "en": "At a time when lawmaking cannot keep pace with technological progress, voluntary efforts on the part of companies are likewise indispensable."
+      },
+      {
+        "ja": "加えて、国境を越えて流通する技術の性質に鑑みれば、一国のみの対応には自ずと限界があり、国際的な協調が欠かせない。",
+        "zh": "加之技术本身跨越国界流通，单凭一国之力应对自有其限度，国际协调因而不可或缺。",
+        "en": "Moreover, given that the technology circulates across borders, any single nation’s response has inherent limits, and international coordination is essential."
+      },
+      {
+        "ja": "規制と革新は対立するものではなく、信頼という共通の基盤の上に両立し得るのである。",
+        "zh": "监管与创新并非彼此对立；在信任这一共同基础之上，二者本可并行不悖。",
+        "en": "Regulation and innovation are not opposed; on the shared foundation of trust, the two can well coexist."
+      }
     ]
   },
   {
     "id": "n1-a2",
     "level": "N1",
     "title": "沈黙と対話",
+    "title_zh": "沉默与对话",
+    "title_en": "Silence and Dialogue",
     "content": "言葉を尽くしても伝わらないものがある一方で、沈黙が雄弁に語る場面もある。日本文化においては、言外の意を汲み取ることが美徳とされてきた。しかしながら、多様な背景を持つ人々が共に暮らす現代社会にあって、察しの文化のみに依存することはもはや現実的ではない。職場においても学校においても、前提を共有しない相手との意思疎通は日常の課題となっている。誤解を恐れて口をつぐむのではなく、相手の理解に鑑みて言葉を選び、丁寧に説明する努力が求められる。とはいえ、すべてを言語化すれば足りるというものでもあるまい。語り得ぬものの存在を認めつつ、それでもなお語ろうとする姿勢にこそ、対話の本質があるのではなかろうか。",
     "furigana": "{言葉|ことば}を{尽|つ}くしても{伝|つた}わらないものがある{一方|いっぽう}で、{沈黙|ちんもく}が{雄弁|ゆうべん}に{語|かた}る{場面|ばめん}もある。{日本文化|にほんぶんか}においては、{言外|げんがい}の{意|い}を{汲|く}み{取|と}ることが{美徳|びとく}とされてきた。しかしながら、{多様|たよう}な{背景|はいけい}を{持|も}つ{人々|ひとびと}が{共|とも}に{暮|く}らす{現代社会|げんだいしゃかい}にあって、{察|さっ}しの{文化|ぶんか}のみに{依存|いぞん}することはもはや{現実的|げんじつてき}ではない。{職場|しょくば}においても{学校|がっこう}においても、{前提|ぜんてい}を{共有|きょうゆう}しない{相手|あいて}との{意思疎通|いしそつう}は{日常|にちじょう}の{課題|かだい}となっている。{誤解|ごかい}を{恐|おそ}れて{口|くち}をつぐむのではなく、{相手|あいて}の{理解|りかい}に{鑑|かんが}みて{言葉|ことば}を{選|えら}び、{丁寧|ていねい}に{説明|せつめい}する{努力|どりょく}が{求|もと}められる。とはいえ、すべてを{言語化|げんごか}すれば{足|た}りるというものでもあるまい。{語|かた}り{得|え}ぬものの{存在|そんざい}を{認|みと}めつつ、それでもなお{語|かた}ろうとする{姿勢|しせい}にこそ、{対話|たいわ}の{本質|ほんしつ}があるのではなかろうか。",
     "words": [
@@ -723,12 +764,51 @@
         "zh": "岂不是…吗",
         "en": "is it not... (literary rhetorical)"
       }
+    ],
+    "trans": [
+      {
+        "ja": "言葉を尽くしても伝わらないものがある一方で、沈黙が雄弁に語る場面もある。",
+        "zh": "有些东西纵使说尽千言万语也难以传达，而另一些场合，沉默反而胜过雄辩。",
+        "en": "There are things that no amount of words can convey; there are also moments when silence speaks most eloquently."
+      },
+      {
+        "ja": "日本文化においては、言外の意を汲み取ることが美徳とされてきた。",
+        "zh": "在日本文化中，体察言外之意历来被视为一种美德。",
+        "en": "In Japanese culture, reading the meaning that lies beyond words has long been held to be a virtue."
+      },
+      {
+        "ja": "しかしながら、多様な背景を持つ人々が共に暮らす現代社会にあって、察しの文化のみに依存することはもはや現実的ではない。",
+        "zh": "然而，在背景各异的人们共同生活的现代社会里，仅仅依赖这种\"意会\"的文化已不再现实。",
+        "en": "In a modern society where people of diverse backgrounds live side by side, however, relying on a culture of tacit understanding alone is no longer realistic."
+      },
+      {
+        "ja": "職場においても学校においても、前提を共有しない相手との意思疎通は日常の課題となっている。",
+        "zh": "无论职场还是校园，如何与不共享前提的对方沟通，都已成为日常的课题。",
+        "en": "In workplaces and schools alike, communicating with people who share none of one’s assumptions has become an everyday challenge."
+      },
+      {
+        "ja": "誤解を恐れて口をつぐむのではなく、相手の理解に鑑みて言葉を選び、丁寧に説明する努力が求められる。",
+        "zh": "我们需要的不是因害怕误解而缄口不言，而是顾及对方的理解择言而语、耐心解释。",
+        "en": "What is required is not to fall silent for fear of being misunderstood, but to choose one’s words with the listener’s understanding in mind and take the trouble to explain."
+      },
+      {
+        "ja": "とはいえ、すべてを言語化すれば足りるというものでもあるまい。",
+        "zh": "话虽如此，也并非把一切都诉诸言语就足够了。",
+        "en": "That said, it can hardly be enough simply to put everything into words."
+      },
+      {
+        "ja": "語り得ぬものの存在を認めつつ、それでもなお語ろうとする姿勢にこそ、対話の本質があるのではなかろうか。",
+        "zh": "承认有不可言说之物，却依然努力去言说——对话的本质，或许正在于这样的姿态。",
+        "en": "Perhaps the essence of dialogue lies precisely in the stance of acknowledging what cannot be said and yet still attempting to say it."
+      }
     ]
   },
   {
     "id": "n1-a3",
     "level": "N1",
     "title": "都市と地方の共生",
+    "title_zh": "城市与地方的共生",
+    "title_en": "Cities and Regions, Living Together",
     "content": "地方の過疎化と都市への人口集中は、我が国が長年にわたり抱えてきた構造的課題である。利便性と経済的機会を求めて若年層が都市部へ流出した結果、地方では担い手不足が深刻化し、伝統産業や祭礼といった地域文化の存続すら危ぶまれている。一方、都市においても過密による住宅費の高騰や通勤混雑が生活の質を蝕んでおり、一極集中の弊害は看過し難い水準に達している。こうした現状を踏まえ、政府は地方創生を掲げて様々な施策を講じてきたが、目立った成果を上げているとは言い難い。もっとも、悲観すべき材料ばかりではない。情報通信技術の発達により、勤務地に縛られない働き方が現実のものとなりつつあり、豊かな自然環境を求めて地方へ移住する動きも徐々に広がりを見せている。重要なのは、都市と地方を対立的に捉えるのではなく、双方が固有の価値を発揮しながら補完し合う関係を構築することであろう。地域の実情に鑑みて、画一的な政策ではなく、それぞれの土地の資源と歴史に根ざした持続可能な発展の道筋を描くことが、今まさに求められているのである。",
     "furigana": "{地方|ちほう}の{過疎化|かそか}と{都市|とし}への{人口集中|じんこうしゅうちゅう}は、{我|わ}が{国|くに}が{長年|ながねん}にわたり{抱|かか}えてきた{構造的課題|こうぞうてきかだい}である。{利便性|りべんせい}と{経済的機会|けいざいてききかい}を{求|もと}めて{若年層|じゃくねんそう}が{都市部|としぶ}へ{流出|りゅうしゅつ}した{結果|けっか}、{地方|ちほう}では{担|にな}い{手不足|てぶそく}が{深刻化|しんこくか}し、{伝統産業|でんとうさんぎょう}や{祭礼|さいれい}といった{地域文化|ちいきぶんか}の{存続|そんぞく}すら{危|あや}ぶまれている。{一方|いっぽう}、{都市|とし}においても{過密|かみつ}による{住宅費|じゅうたくひ}の{高騰|こうとう}や{通勤混雑|つうきんこんざつ}が{生活|せいかつ}の{質|しつ}を{蝕|むしば}んでおり、{一極集中|いっきょくしゅうちゅう}の{弊害|へいがい}は{看過|かんか}し{難|がた}い{水準|すいじゅん}に{達|たっ}している。こうした{現状|げんじょう}を{踏|ふ}まえ、{政府|せいふ}は{地方創生|ちほうそうせい}を{掲|かか}げて{様々|さまざま}な{施策|しさく}を{講|こう}じてきたが、{目立|めだ}った{成果|せいか}を{上|あ}げているとは{言|い}い{難|がた}い。もっとも、{悲観|ひかん}すべき{材料|ざいりょう}ばかりではない。{情報通信技術|じょうほうつうしんぎじゅつ}の{発達|はったつ}により、{勤務地|きんむち}に{縛|しば}られない{働|はたら}き{方|かた}が{現実|げんじつ}のものとなりつつあり、{豊|ゆた}かな{自然環境|しぜんかんきょう}を{求|もと}めて{地方|ちほう}へ{移住|いじゅう}する{動|うご}きも{徐々|じょじょ}に{広|ひろ}がりを{見|み}せている。{重要|じゅうよう}なのは、{都市|とし}と{地方|ちほう}を{対立的|たいりつてき}に{捉|とら}えるのではなく、{双方|そうほう}が{固有|こゆう}の{価値|かち}を{発揮|はっき}しながら{補完|ほかん}し{合|あ}う{関係|かんけい}を{構築|こうちく}することであろう。{地域|ちいき}の{実情|じつじょう}に{鑑|かんが}みて、{画一的|かくいつてき}な{政策|せいさく}ではなく、それぞれの{土地|とち}の{資源|しげん}と{歴史|れきし}に{根|ね}ざした{持続可能|じぞくかのう}な{発展|はってん}の{道筋|みちすじ}を{描|えが}くことが、{今|いま}まさに{求|もと}められているのである。",
     "words": [
@@ -1266,12 +1346,56 @@
         "zh": "正被迫切要求",
         "en": "is being demanded"
       }
+    ],
+    "trans": [
+      {
+        "ja": "地方の過疎化と都市への人口集中は、我が国が長年にわたり抱えてきた構造的課題である。",
+        "zh": "地方的过疏化与人口向城市集中，是我国长年背负的结构性课题。",
+        "en": "Rural depopulation and the concentration of people in cities are structural problems this country has carried for many years."
+      },
+      {
+        "ja": "利便性と経済的機会を求めて若年層が都市部へ流出した結果、地方では担い手不足が深刻化し、伝統産業や祭礼といった地域文化の存続すら危ぶまれている。",
+        "zh": "年轻人为追求便利与经济机会而流向城市，致使地方后继乏人的问题日趋严重，传统产业、祭典等地域文化的存续都已岌岌可危。",
+        "en": "As young people have drained away to the cities in search of convenience and economic opportunity, the shortage of hands in the regions has grown acute, and even the survival of local culture — traditional industries, seasonal festivals — is now in doubt."
+      },
+      {
+        "ja": "一方、都市においても過密による住宅費の高騰や通勤混雑が生活の質を蝕んでおり、一極集中の弊害は看過し難い水準に達している。",
+        "zh": "另一方面，城市也因过度密集而房价飞涨、通勤拥挤，生活质量备受侵蚀，一极集中的弊端已达到难以坐视的地步。",
+        "en": "In the cities, meanwhile, overcrowding has driven up housing costs and packed the commute, eating away at the quality of life; the harms of such concentration have reached a level that can no longer be overlooked."
+      },
+      {
+        "ja": "こうした現状を踏まえ、政府は地方創生を掲げて様々な施策を講じてきたが、目立った成果を上げているとは言い難い。",
+        "zh": "有鉴于此，政府打出\"地方创生\"的旗号推行了种种举措，却难说取得了显著成效。",
+        "en": "Faced with this situation, the government has raised the banner of regional revitalisation and rolled out a variety of measures, yet it is hard to say that they have produced any notable results."
+      },
+      {
+        "ja": "もっとも、悲観すべき材料ばかりではない。",
+        "zh": "不过，也并非全是令人悲观的因素。",
+        "en": "Not everything, however, gives cause for pessimism."
+      },
+      {
+        "ja": "情報通信技術の発達により、勤務地に縛られない働き方が現実のものとなりつつあり、豊かな自然環境を求めて地方へ移住する動きも徐々に広がりを見せている。",
+        "zh": "随着信息通信技术的发展，不受工作地点束缚的工作方式正逐渐成为现实，为寻求优美自然环境而迁往地方的动向也在慢慢扩大。",
+        "en": "Advances in information technology have made working free of any fixed location a real possibility, and the movement of people relocating to the regions in search of a richer natural setting is gradually spreading."
+      },
+      {
+        "ja": "重要なのは、都市と地方を対立的に捉えるのではなく、双方が固有の価値を発揮しながら補完し合う関係を構築することであろう。",
+        "zh": "重要的恐怕在于，不把城市与地方看作对立的两极，而是建立起双方各展其独有价值、彼此补足的关系。",
+        "en": "What matters, surely, is not to cast city and countryside as opponents but to build a relationship in which each brings out its own distinctive value and complements the other."
+      },
+      {
+        "ja": "地域の実情に鑑みて、画一的な政策ではなく、それぞれの土地の資源と歴史に根ざした持続可能な発展の道筋を描くことが、今まさに求められているのである。",
+        "zh": "立足各地实情，摒弃千篇一律的政策，勾勒出扎根于各自土地的资源与历史的可持续发展路径——这正是当下亟需之事。",
+        "en": "What is needed right now is to take each locality’s circumstances into account and, in place of uniform policy, to chart a path of sustainable development rooted in the resources and history of that particular place."
+      }
     ]
   },
   {
     "id": "n1-a4",
     "level": "N1",
     "title": "科学と社会の距離",
+    "title_zh": "科学与社会的距离",
+    "title_en": "The Distance Between Science and Society",
     "content": "科学は客観的な真理を追究する営みであるとされるが、その成果が社会に還元される過程は決して中立的ではない。研究資金の配分、成果の公表、技術の実用化といった各段階において、政治的、経済的な思惑が介在することは避けられない。遺伝子編集技術を例に取れば、難病の治療に道を開く画期的な成果でありながらも、生命の設計図を人為的に改変することの是非をめぐって、激しい論争が続いている。科学者は自らの研究がもたらし得る帰結を予見すべく努めねばならないが、その判断を専門家のみに委ねることもまた危うい。専門知と民主的な意思決定をいかに接続するかという問いは、現代社会が直面する根源的な課題の一つである。市民が科学的な議論に参画するためには、基礎的な素養の涵養が不可欠であり、教育やジャーナリズムの果たすべき役割は大きい。他方、研究者の側にも、専門用語の壁を越えて平易な言葉で語る努力が求められよう。不確実性を含んだ知見を、断定を避けつつ誠実に伝えること、そして受け手もまた白黒の明快な答えを性急に求めないこと。かかる成熟した関係の構築なくして、科学と社会の健全な共存はあり得ないのである。",
     "furigana": "{科学|かがく}は{客観的|きゃっかんてき}な{真理|しんり}を{追究|ついきゅう}する{営|いとな}みであるとされるが、その{成果|せいか}が{社会|しゃかい}に{還元|かんげん}される{過程|かてい}は{決|けっ}して{中立的|ちゅうりつてき}ではない。{研究資金|けんきゅうしきん}の{配分|はいぶん}、{成果|せいか}の{公表|こうひょう}、{技術|ぎじゅつ}の{実用化|じつようか}といった{各段階|かくだんかい}において、{政治的|せいじてき}、{経済的|けいざいてき}な{思惑|おもわく}が{介在|かいざい}することは{避|さ}けられない。{遺伝子編集技術|いでんしへんしゅうぎじゅつ}を{例|れい}に{取|と}れば、{難病|なんびょう}の{治療|ちりょう}に{道|みち}を{開|ひら}く{画期的|かっきてき}な{成果|せいか}でありながらも、{生命|せいめい}の{設計図|せっけいず}を{人為的|じんいてき}に{改変|かいへん}することの{是非|ぜひ}をめぐって、{激|はげ}しい{論争|ろんそう}が{続|つづ}いている。{科学者|かがくしゃ}は{自|みずか}らの{研究|けんきゅう}がもたらし{得|う}る{帰結|きけつ}を{予見|よけん}すべく{努|つと}めねばならないが、その{判断|はんだん}を{専門家|せんもんか}のみに{委|ゆだ}ねることもまた{危|あや}うい。{専門知|せんもんち}と{民主的|みんしゅてき}な{意思決定|いしけってい}をいかに{接続|せつぞく}するかという{問|と}いは、{現代社会|げんだいしゃかい}が{直面|ちょくめん}する{根源的|こんげんてき}な{課題|かだい}の{一|ひと}つである。{市民|しみん}が{科学的|かがくてき}な{議論|ぎろん}に{参画|さんかく}するためには、{基礎的|きそてき}な{素養|そよう}の{涵養|かんよう}が{不可欠|ふかけつ}であり、{教育|きょういく}やジャーナリズムの{果|は}たすべき{役割|やくわり}は{大|おお}きい。{他方|たほう}、{研究者|けんきゅうしゃ}の{側|がわ}にも、{専門用語|せんもんようご}の{壁|かべ}を{越|こ}えて{平易|へいい}な{言葉|ことば}で{語|かた}る{努力|どりょく}が{求|もと}められよう。{不確実性|ふかくじつせい}を{含|ふく}んだ{知見|ちけん}を、{断定|だんてい}を{避|さ}けつつ{誠実|せいじつ}に{伝|つた}えること、そして{受|う}け{手|て}もまた{白黒|しろくろ}の{明快|めいかい}な{答|こた}えを{性急|せいきゅう}に{求|もと}めないこと。かかる{成熟|せいじゅく}した{関係|かんけい}の{構築|こうちく}なくして、{科学|かがく}と{社会|しゃかい}の{健全|けんぜん}な{共存|きょうぞん}はあり{得|え}ないのである。",
     "words": [
@@ -1863,12 +1987,61 @@
         "zh": "不可能",
         "en": "impossible; cannot exist"
       }
+    ],
+    "trans": [
+      {
+        "ja": "科学は客観的な真理を追究する営みであるとされるが、その成果が社会に還元される過程は決して中立的ではない。",
+        "zh": "科学被认为是追求客观真理的事业，但其成果回馈社会的过程却绝非中立。",
+        "en": "Science is said to be the pursuit of objective truth, yet the process by which its findings are returned to society is anything but neutral."
+      },
+      {
+        "ja": "研究資金の配分、成果の公表、技術の実用化といった各段階において、政治的、経済的な思惑が介在することは避けられない。",
+        "zh": "从科研经费的分配、成果的公布到技术的实用化，各个环节都难免掺杂政治与经济的盘算。",
+        "en": "At every stage — the allocation of research funding, the publication of results, the commercialisation of a technology — political and economic calculations inevitably intrude."
+      },
+      {
+        "ja": "遺伝子編集技術を例に取れば、難病の治療に道を開く画期的な成果でありながらも、生命の設計図を人為的に改変することの是非をめぐって、激しい論争が続いている。",
+        "zh": "以基因编辑技术为例，它虽是为攻克疑难病症开辟道路的划时代成果，围绕人为改写生命蓝图是否正当，争论却始终激烈。",
+        "en": "Take gene editing: for all that it is a landmark achievement opening the way to treating intractable diseases, fierce debate continues over whether it is right to alter the blueprint of life by human design."
+      },
+      {
+        "ja": "科学者は自らの研究がもたらし得る帰結を予見すべく努めねばならないが、その判断を専門家のみに委ねることもまた危うい。",
+        "zh": "科学家固然必须努力预见自身研究可能带来的后果，但把这类判断全然交给专家同样危险。",
+        "en": "Scientists must strive to foresee the consequences their work may bring, yet leaving such judgements to experts alone is dangerous in its own way."
+      },
+      {
+        "ja": "専門知と民主的な意思決定をいかに接続するかという問いは、現代社会が直面する根源的な課題の一つである。",
+        "zh": "如何将专业知识与民主决策衔接起来，是现代社会面临的根本课题之一。",
+        "en": "How to connect specialist knowledge with democratic decision-making is one of the fundamental problems confronting modern society."
+      },
+      {
+        "ja": "市民が科学的な議論に参画するためには、基礎的な素養の涵養が不可欠であり、教育やジャーナリズムの果たすべき役割は大きい。",
+        "zh": "公民要参与科学讨论，培养基本素养必不可少，教育与新闻业在此当负重任。",
+        "en": "If citizens are to take part in scientific debate, the cultivation of a basic grounding is essential, and education and journalism have a large part to play."
+      },
+      {
+        "ja": "他方、研究者の側にも、専門用語の壁を越えて平易な言葉で語る努力が求められよう。",
+        "zh": "另一方面，研究者也理应努力跨越术语的高墙，用平易的语言表达。",
+        "en": "Researchers, for their part, must make the effort to speak in plain language, reaching over the wall of technical jargon."
+      },
+      {
+        "ja": "不確実性を含んだ知見を、断定を避けつつ誠実に伝えること、そして受け手もまた白黒の明快な答えを性急に求めないこと。",
+        "zh": "将包含不确定性的知识不加武断而诚实地传达出去；而接受的一方，也不急于索要非黑即白的明确答案。",
+        "en": "To convey findings that carry uncertainty honestly, without overstating them — and, on the receiving end, not to demand a clear black-and-white answer too hastily."
+      },
+      {
+        "ja": "かかる成熟した関係の構築なくして、科学と社会の健全な共存はあり得ないのである。",
+        "zh": "若不建立起这般成熟的关系，科学与社会的健全共存便无从谈起。",
+        "en": "Without building such a mature relationship, no healthy coexistence of science and society is possible."
+      }
     ]
   },
   {
     "id": "n1-a5",
     "level": "N1",
     "title": "祖母の家",
+    "title_zh": "祖母的老屋",
+    "title_en": "My Grandmother's House",
     "content": "祖母の家を取り壊すと聞かされたのは、梅雨の明けきらぬ七月の初めのことであった。幼い頃、夏休みのたびに預けられたその古い家は、私にとって時間の流れから取り残された聖域のような場所だった。最後にひと目見ておくべく、私は数年ぶりに故郷へ向かう列車に乗った。車窓を流れる田園風景は記憶のままでありながらも、駅前の商店街はすっかり様変わりし、かつて通った駄菓子屋の跡には見知らぬ駐車場が広がっていた。鍵を開けて足を踏み入れると、埃と畳の匂いの入り混じった懐かしい空気が、一瞬にして三十年の歳月を押し流した。薄暗い茶の間には祖母が愛用した茶箪笥がそのまま残されており、引き出しを開けると、色褪せた写真の束が出てきた。裏返すと、祖母の細く几帳面な字で日付が記されている。まだ若い祖母が縁側で笑っている。その隣で麦藁帽子を被った幼い私が、眩しそうに目を細めている。人は去り、家は壊され、町は姿を変える。それでもなお、この胸の奥に降り積もったものだけは、誰にも取り壊すことができない。夕暮れの庭に立ち、伸び放題の百日紅を見上げながら、私は長いあいだ動けずにいた。",
     "furigana": "{祖母|そぼ}の{家|いえ}を{取|と}り{壊|こわ}すと{聞|き}かされたのは、{梅雨|つゆ}の{明|あ}けきらぬ{七月|しちがつ}の{初|はじ}めのことであった。{幼|おさな}い{頃|ころ}、{夏休|なつやす}みのたびに{預|あず}けられたその{古|ふる}い{家|いえ}は、{私|わたし}にとって{時間|じかん}の{流|なが}れから{取|と}り{残|のこ}された{聖域|せいいき}のような{場所|ばしょ}だった。{最後|さいご}にひと{目見|めみ}ておくべく、{私|わたし}は{数年|すうねん}ぶりに{故郷|こきょう}へ{向|む}かう{列車|れっしゃ}に{乗|の}った。{車窓|しゃそう}を{流|なが}れる{田園風景|でんえんふうけい}は{記憶|きおく}のままでありながらも、{駅前|えきまえ}の{商店街|しょうてんがい}はすっかり{様変|さまが}わりし、かつて{通|かよ}った{駄菓子屋|だがしや}の{跡|あと}には{見知|みし}らぬ{駐車場|ちゅうしゃじょう}が{広|ひろ}がっていた。{鍵|かぎ}を{開|あ}けて{足|あし}を{踏|ふ}み{入|い}れると、{埃|ほこり}と{畳|たたみ}の{匂|にお}いの{入|い}り{混|ま}じった{懐|なつ}かしい{空気|くうき}が、{一瞬|いっしゅん}にして{三十年|さんじゅうねん}の{歳月|さいげつ}を{押|お}し{流|なが}した。{薄暗|うすぐら}い{茶|ちゃ}の{間|ま}には{祖母|そぼ}が{愛用|あいよう}した{茶箪笥|ちゃだんす}がそのまま{残|のこ}されており、{引|ひ}き{出|だ}しを{開|あ}けると、{色褪|いろあ}せた{写真|しゃしん}の{束|たば}が{出|で}てきた。{裏返|うらがえ}すと、{祖母|そぼ}の{細|ほそ}く{几帳面|きちょうめん}な{字|じ}で{日付|ひづけ}が{記|しる}されている。まだ{若|わか}い{祖母|そぼ}が{縁側|えんがわ}で{笑|わら}っている。その{隣|となり}で{麦藁帽子|むぎわらぼうし}を{被|かぶ}った{幼|おさな}い{私|わたし}が、{眩|まぶ}しそうに{目|め}を{細|ほそ}めている。{人|ひと}は{去|さ}り、{家|いえ}は{壊|こわ}され、{町|まち}は{姿|すがた}を{変|か}える。それでもなお、この{胸|むね}の{奥|おく}に{降|ふ}り{積|つ}もったものだけは、{誰|だれ}にも{取|と}り{壊|こわ}すことができない。{夕暮|ゆうぐ}れの{庭|にわ}に{立|た}ち、{伸|の}び{放題|ほうだい}の{百日紅|さるすべり}を{見上|みあ}げながら、{私|わたし}は{長|なが}いあいだ{動|うご}けずにいた。",
     "words": [
@@ -2376,12 +2549,76 @@
         "zh": "动弹不得",
         "en": "stood unable to move"
       }
+    ],
+    "trans": [
+      {
+        "ja": "祖母の家を取り壊すと聞かされたのは、梅雨の明けきらぬ七月の初めのことであった。",
+        "zh": "听说祖母的房子要拆，是在梅雨未尽的七月初。",
+        "en": "It was in early July, before the rainy season had quite lifted, that I was told my grandmother’s house was to be torn down."
+      },
+      {
+        "ja": "幼い頃、夏休みのたびに預けられたその古い家は、私にとって時間の流れから取り残された聖域のような場所だった。",
+        "zh": "幼时每逢暑假便被寄放在那所老屋，对我而言，那里是一方被时间遗落的圣地。",
+        "en": "That old house, where I was left every summer holiday as a child, was for me a kind of sanctuary that the passage of time had forgotten."
+      },
+      {
+        "ja": "最後にひと目見ておくべく、私は数年ぶりに故郷へ向かう列車に乗った。",
+        "zh": "为了再看它最后一眼，我时隔数年登上了返乡的列车。",
+        "en": "To see it one last time, I boarded a train home for the first time in years."
+      },
+      {
+        "ja": "車窓を流れる田園風景は記憶のままでありながらも、駅前の商店街はすっかり様変わりし、かつて通った駄菓子屋の跡には見知らぬ駐車場が広がっていた。",
+        "zh": "窗外流过的田园风光一如记忆中的模样，站前的商店街却已面目全非，我从前常去的杂货糖果店旧址上，铺开着一片陌生的停车场。",
+        "en": "The fields sliding past the window were exactly as I remembered, but the shopping street by the station had changed beyond recognition, and where the sweet shop I used to visit had stood there now spread an unfamiliar car park."
+      },
+      {
+        "ja": "鍵を開けて足を踏み入れると、埃と畳の匂いの入り混じった懐かしい空気が、一瞬にして三十年の歳月を押し流した。",
+        "zh": "开锁踏进门去，尘土与榻榻米交织的熟悉气味，一瞬间便冲走了三十年的岁月。",
+        "en": "When I turned the key and stepped inside, the familiar air — dust mingled with the smell of tatami — swept thirty years away in an instant."
+      },
+      {
+        "ja": "薄暗い茶の間には祖母が愛用した茶箪笥がそのまま残されており、引き出しを開けると、色褪せた写真の束が出てきた。",
+        "zh": "昏暗的起居间里，祖母生前爱用的茶柜原封不动地留着；拉开抽屉，翻出一叠褪了色的照片。",
+        "en": "In the dim living room my grandmother’s beloved tea cabinet still stood untouched, and when I pulled open a drawer, out came a bundle of faded photographs."
+      },
+      {
+        "ja": "裏返すと、祖母の細く几帳面な字で日付が記されている。",
+        "zh": "翻到背面，是祖母那细瘦而工整的字迹写下的日期。",
+        "en": "Turning them over, I found dates written in my grandmother’s thin, meticulous hand."
+      },
+      {
+        "ja": "まだ若い祖母が縁側で笑っている。",
+        "zh": "还年轻的祖母坐在檐廊上笑着。",
+        "en": "A grandmother still young is laughing on the veranda."
+      },
+      {
+        "ja": "その隣で麦藁帽子を被った幼い私が、眩しそうに目を細めている。",
+        "zh": "她身旁，戴着草帽的年幼的我眯着眼，仿佛被阳光晃着。",
+        "en": "Beside her, the small child I was, in a straw hat, is squinting against the glare."
+      },
+      {
+        "ja": "人は去り、家は壊され、町は姿を変える。",
+        "zh": "人会离去，房子会被拆毁，小镇会改换模样。",
+        "en": "People go, houses are pulled down, towns change their face."
+      },
+      {
+        "ja": "それでもなお、この胸の奥に降り積もったものだけは、誰にも取り壊すことができない。",
+        "zh": "纵然如此，唯有沉积在这胸口深处的东西，谁也拆不掉。",
+        "en": "And yet what has settled deep in this chest of mine is the one thing no one can tear down."
+      },
+      {
+        "ja": "夕暮れの庭に立ち、伸び放題の百日紅を見上げながら、私は長いあいだ動けずにいた。",
+        "zh": "站在暮色中的庭院里，仰望那株疯长的紫薇，我久久无法挪步。",
+        "en": "Standing in the garden at dusk, looking up at the crape myrtle left to grow wild, I could not move for a long while."
+      }
     ]
   },
   {
     "id": "n1-a6",
     "level": "N1",
     "title": "機械に委ねる判断",
+    "title_zh": "交由机器的判断",
+    "title_en": "Judgements Entrusted to Machines",
     "content": "自動運転車が事故を避けられない状況に陥ったとき、誰の安全を優先すべきか。いわゆるトロッコ問題の変奏として語られるこの問いは、技術と倫理の関係を考える上で示唆に富んでいる。従来、倫理的判断は個々の人間が状況に応じて下すものであったが、自律的に作動する機械の登場により、判断の基準をあらかじめプログラムとして書き込むことが要請されるようになった。すなわち、暗黙のうちに委ねられてきた道徳的選択を、設計の段階で明示化せざるを得なくなったのである。この転換は、責任の所在という難問を突きつける。事故の責任は製造者にあるのか、利用者にあるのか、それとも算法そのものにあるのか。既存の法体系はかかる事態を想定しておらず、制度の再構築が急務となっている。さらに深刻なのは、技術の判断が不透明化する傾向である。深層学習に基づく系統は、開発者自身にもその判断根拠を説明し難い場合があり、説明できないものに生命を委ねてよいのかという疑念は拭い難い。技術の進歩それ自体を押し止めることが不可能である以上、我々に求められるのは、開発の速度に見合った倫理的考察の深化であり、それを支える社会的な対話の場の整備であろう。",
     "furigana": "{自動運転車|じどううんてんしゃ}が{事故|じこ}を{避|さ}けられない{状況|じょうきょう}に{陥|おちい}ったとき、{誰|だれ}の{安全|あんぜん}を{優先|ゆうせん}すべきか。いわゆるトロッコ{問題|もんだい}の{変奏|へんそう}として{語|かた}られるこの{問|と}いは、{技術|ぎじゅつ}と{倫理|りんり}の{関係|かんけい}を{考|かんが}える{上|うえ}で{示唆|しさ}に{富|と}んでいる。{従来|じゅうらい}、{倫理的判断|りんりてきはんだん}は{個々|ここ}の{人間|にんげん}が{状況|じょうきょう}に{応|おう}じて{下|くだ}すものであったが、{自律的|じりつてき}に{作動|さどう}する{機械|きかい}の{登場|とうじょう}により、{判断|はんだん}の{基準|きじゅん}をあらかじめプログラムとして{書|か}き{込|こ}むことが{要請|ようせい}されるようになった。すなわち、{暗黙|あんもく}のうちに{委|ゆだ}ねられてきた{道徳的選択|どうとくてきせんたく}を、{設計|せっけい}の{段階|だんかい}で{明示化|めいじか}せざるを{得|え}なくなったのである。この{転換|てんかん}は、{責任|せきにん}の{所在|しょざい}という{難問|なんもん}を{突|つ}きつける。{事故|じこ}の{責任|せきにん}は{製造者|せいぞうしゃ}にあるのか、{利用者|りようしゃ}にあるのか、それとも{算法|さんぽう}そのものにあるのか。{既存|きそん}の{法体系|ほうたいけい}はかかる{事態|じたい}を{想定|そうてい}しておらず、{制度|せいど}の{再構築|さいこうちく}が{急務|きゅうむ}となっている。さらに{深刻|しんこく}なのは、{技術|ぎじゅつ}の{判断|はんだん}が{不透明化|ふとうめいか}する{傾向|けいこう}である。{深層学習|しんそうがくしゅう}に{基|もと}づく{系統|けいとう}は、{開発者自身|かいはつしゃじしん}にもその{判断根拠|はんだんこんきょ}を{説明|せつめい}し{難|がた}い{場合|ばあい}があり、{説明|せつめい}できないものに{生命|せいめい}を{委|ゆだ}ねてよいのかという{疑念|ぎねん}は{拭|ぬぐ}い{難|がた}い。{技術|ぎじゅつ}の{進歩|しんぽ}それ{自体|じたい}を{押|お}し{止|とど}めることが{不可能|ふかのう}である{以上|いじょう}、{我々|われわれ}に{求|もと}められるのは、{開発|かいはつ}の{速度|そくど}に{見合|みあ}った{倫理的考察|りんりてきこうさつ}の{深化|しんか}であり、それを{支|ささ}える{社会的|しゃかいてき}な{対話|たいわ}の{場|ば}の{整備|せいび}であろう。",
     "words": [
@@ -2883,12 +3120,66 @@
         "zh": "大概是",
         "en": "probably is (formal conjecture)"
       }
+    ],
+    "trans": [
+      {
+        "ja": "自動運転車が事故を避けられない状況に陥ったとき、誰の安全を優先すべきか。",
+        "zh": "当自动驾驶汽车陷入无法避免事故的境地时，应当优先保障谁的安全？",
+        "en": "When a self-driving car finds itself in a situation where a collision cannot be avoided, whose safety should take priority?"
+      },
+      {
+        "ja": "いわゆるトロッコ問題の変奏として語られるこの問いは、技術と倫理の関係を考える上で示唆に富んでいる。",
+        "zh": "这个常被当作\"电车难题\"变奏来讨论的问题，对于思考技术与伦理的关系颇具启发。",
+        "en": "Framed as a variation on the so-called trolley problem, this question is richly suggestive for anyone thinking about the relationship between technology and ethics."
+      },
+      {
+        "ja": "従来、倫理的判断は個々の人間が状況に応じて下すものであったが、自律的に作動する機械の登場により、判断の基準をあらかじめプログラムとして書き込むことが要請されるようになった。",
+        "zh": "以往，伦理判断由每个人视具体情境作出；而随着自律运作的机器登场，人们不得不事先将判断基准写入程序。",
+        "en": "Ethical judgements were traditionally made by individual people as circumstances demanded, but with the arrival of autonomously operating machines, the criteria for judgement must now be written into a program in advance."
+      },
+      {
+        "ja": "すなわち、暗黙のうちに委ねられてきた道徳的選択を、設計の段階で明示化せざるを得なくなったのである。",
+        "zh": "换言之，长久以来默默交由人来承担的道德抉择，如今不得不在设计阶段被明确表述出来。",
+        "en": "In other words, moral choices that had always been left tacitly to human beings must now be made explicit at the design stage."
+      },
+      {
+        "ja": "この転換は、責任の所在という難問を突きつける。",
+        "zh": "这一转变抛出了责任归属这一难题。",
+        "en": "This shift confronts us with the thorny question of where responsibility lies."
+      },
+      {
+        "ja": "事故の責任は製造者にあるのか、利用者にあるのか、それとも算法そのものにあるのか。",
+        "zh": "事故的责任在制造者，在使用者，还是在算法本身？",
+        "en": "Does the blame for an accident rest with the manufacturer, with the user, or with the algorithm itself?"
+      },
+      {
+        "ja": "既存の法体系はかかる事態を想定しておらず、制度の再構築が急務となっている。",
+        "zh": "现行法律体系并未预设此类情形，制度的重构已成当务之急。",
+        "en": "Existing legal systems never anticipated such a case, and rebuilding them has become urgent."
+      },
+      {
+        "ja": "さらに深刻なのは、技術の判断が不透明化する傾向である。",
+        "zh": "更为严重的是，技术的判断正趋于不透明。",
+        "en": "More serious still is the tendency for the technology’s judgements to become opaque."
+      },
+      {
+        "ja": "深層学習に基づく系統は、開発者自身にもその判断根拠を説明し難い場合があり、説明できないものに生命を委ねてよいのかという疑念は拭い難い。",
+        "zh": "基于深度学习的系统，有时连开发者本人也难以说明其判断依据；把生命托付给无法解释之物是否妥当，这份疑虑难以拂去。",
+        "en": "With systems built on deep learning, even their developers may be unable to explain the grounds for a decision, and the doubt lingers as to whether we should entrust lives to something that cannot be explained."
+      },
+      {
+        "ja": "技術の進歩それ自体を押し止めることが不可能である以上、我々に求められるのは、開発の速度に見合った倫理的考察の深化であり、それを支える社会的な対話の場の整備であろう。",
+        "zh": "既然技术进步本身无法遏止，那么我们所需要的，便是与开发速度相称的伦理思考的深化，以及支撑这种思考的社会对话平台的建设。",
+        "en": "Since the advance of technology cannot itself be halted, what is asked of us is to deepen ethical reflection at a pace commensurate with development, and to create the forums for public dialogue that sustain it."
+      }
     ]
   },
   {
     "id": "n1-a7",
     "level": "N1",
     "title": "言語は思考を規定するか",
+    "title_zh": "语言是否规定思维",
+    "title_en": "Does Language Determine Thought?",
     "content": "言語は思考を表現する道具にすぎないのか、それとも思考そのものを形作る枠組みなのか。この問いは古くから哲学者や言語学者を悩ませてきた。ある言語の話者はその言語が備える語彙や文法範疇に沿って世界を分節しているのであり、異なる言語の話者は異なる現実を生きているとする言語相対論は、一時は科学的裏付けを欠くとして退けられながらも、近年の実証研究によって部分的に再評価されつつある。例えば、色彩の区分や空間の把握、時間の表現などにおいて、母語の構造が認知の傾向に影響を及ぼすことを示唆する報告は少なくない。もっとも、言語が思考を全面的に決定すると考えるのは早計であろう。翻訳という営みが曲がりなりにも成立している事実は、言語の壁を越えて共有され得る意味の層が存在することを物語っている。人間の認知には言語に先立つ普遍的な基盤があり、言語はその上に築かれた多様な建築物であると見るのが穏当な理解ではなかろうか。しかしながら、たとえ決定論を退けるにしても、言語が思考の習慣を方向づけるという事実の重みは軽視できない。我々は母語の眼鏡を通して世界を眺めており、その眼鏡の存在自体には容易に気づかない。外国語の学習が単なる実用的技能の習得を超えた意義を持つのは、まさにこの点においてである。異なる言語の体系に身を浸すことは、自明視してきた世界の切り取り方を相対化し、思考の柔軟性を涵養する契機となる。翻って、母語の豊かさを養うことの重要性もまた強調されねばならない。抽象的な概念を操り、微細な差異を言い分け、複雑な論理を組み立てる力は、言語的な鍛錬なくしては育たない。語彙の貧困は思考の貧困に直結するとまでは言わないまでも、両者が深く結びついていることは疑いを容れない。デジタル媒体の普及に伴い、短く断片的な言葉のやり取りが日常を覆いつつある現代において、腰を据えて長い文章を読み、書くという営みの価値を、我々は改めて見つめ直すべきであろう。",
     "furigana": "{言語|げんご}は{思考|しこう}を{表現|ひょうげん}する{道具|どうぐ}にすぎないのか、それとも{思考|しこう}そのものを{形作|かたちづく}る{枠組|わくぐ}みなのか。この{問|と}いは{古|ふる}くから{哲学者|てつがくしゃ}や{言語学者|げんごがくしゃ}を{悩|なや}ませてきた。ある{言語|げんご}の{話者|わしゃ}はその{言語|げんご}が{備|そな}える{語彙|ごい}や{文法範疇|ぶんぽうはんちゅう}に{沿|そ}って{世界|せかい}を{分節|ぶんせつ}しているのであり、{異|こと}なる{言語|げんご}の{話者|わしゃ}は{異|こと}なる{現実|げんじつ}を{生|い}きているとする{言語相対論|げんごそうたいろん}は、{一時|いちじ}は{科学的裏付|かがくてきうらづ}けを{欠|か}くとして{退|しりぞ}けられながらも、{近年|きんねん}の{実証研究|じっしょうけんきゅう}によって{部分的|ぶぶんてき}に{再評価|さいひょうか}されつつある。{例|たと}えば、{色彩|しきさい}の{区分|くぶん}や{空間|くうかん}の{把握|はあく}、{時間|じかん}の{表現|ひょうげん}などにおいて、{母語|ぼご}の{構造|こうぞう}が{認知|にんち}の{傾向|けいこう}に{影響|えいきょう}を{及|およ}ぼすことを{示唆|しさ}する{報告|ほうこく}は{少|すく}なくない。もっとも、{言語|げんご}が{思考|しこう}を{全面的|ぜんめんてき}に{決定|けってい}すると{考|かんが}えるのは{早計|そうけい}であろう。{翻訳|ほんやく}という{営|いとな}みが{曲|ま}がりなりにも{成立|せいりつ}している{事実|じじつ}は、{言語|げんご}の{壁|かべ}を{越|こ}えて{共有|きょうゆう}され{得|う}る{意味|いみ}の{層|そう}が{存在|そんざい}することを{物語|ものがた}っている。{人間|にんげん}の{認知|にんち}には{言語|げんご}に{先立|さきだ}つ{普遍的|ふへんてき}な{基盤|きばん}があり、{言語|げんご}はその{上|うえ}に{築|きず}かれた{多様|たよう}な{建築物|けんちくぶつ}であると{見|み}るのが{穏当|おんとう}な{理解|りかい}ではなかろうか。しかしながら、たとえ{決定論|けっていろん}を{退|しりぞ}けるにしても、{言語|げんご}が{思考|しこう}の{習慣|しゅうかん}を{方向|ほうこう}づけるという{事実|じじつ}の{重|おも}みは{軽視|けいし}できない。{我々|われわれ}は{母語|ぼご}の{眼鏡|めがね}を{通|とお}して{世界|せかい}を{眺|なが}めており、その{眼鏡|めがね}の{存在自体|そんざいじたい}には{容易|ようい}に{気|き}づかない。{外国語|がいこくご}の{学習|がくしゅう}が{単|たん}なる{実用的技能|じつようてきぎのう}の{習得|しゅうとく}を{超|こ}えた{意義|いぎ}を{持|も}つのは、まさにこの{点|てん}においてである。{異|こと}なる{言語|げんご}の{体系|たいけい}に{身|み}を{浸|ひた}すことは、{自明視|じめいし}してきた{世界|せかい}の{切|き}り{取|と}り{方|かた}を{相対化|そうたいか}し、{思考|しこう}の{柔軟性|じゅうなんせい}を{涵養|かんよう}する{契機|けいき}となる。{翻|ひるがえ}って、{母語|ぼご}の{豊|ゆた}かさを{養|やしな}うことの{重要性|じゅうようせい}もまた{強調|きょうちょう}されねばならない。{抽象的|ちゅうしょうてき}な{概念|がいねん}を{操|あやつ}り、{微細|びさい}な{差異|さい}を{言|い}い{分|わ}け、{複雑|ふくざつ}な{論理|ろんり}を{組|く}み{立|た}てる{力|ちから}は、{言語的|げんごてき}な{鍛錬|たんれん}なくしては{育|そだ}たない。{語彙|ごい}の{貧困|ひんこん}は{思考|しこう}の{貧困|ひんこん}に{直結|ちょっけつ}するとまでは{言|い}わないまでも、{両者|りょうしゃ}が{深|ふか}く{結|むす}びついていることは{疑|うたが}いを{容|い}れない。デジタル{媒体|ばいたい}の{普及|ふきゅう}に{伴|ともな}い、{短|みじか}く{断片的|だんぺんてき}な{言葉|ことば}のやり{取|と}りが{日常|にちじょう}を{覆|おお}いつつある{現代|げんだい}において、{腰|こし}を{据|す}えて{長|なが}い{文章|ぶんしょう}を{読|よ}み、{書|か}くという{営|いとな}みの{価値|かち}を、{我々|われわれ}は{改|あらた}めて{見|み}つめ{直|なお}すべきであろう。",
     "words": [
@@ -3732,12 +4023,91 @@
         "zh": "重新审视",
         "en": "to take a fresh look at"
       }
+    ],
+    "trans": [
+      {
+        "ja": "言語は思考を表現する道具にすぎないのか、それとも思考そのものを形作る枠組みなのか。",
+        "zh": "语言究竟只是表达思维的工具，还是塑造思维本身的框架？",
+        "en": "Is language merely a tool for expressing thought, or is it the very framework that shapes thought itself?"
+      },
+      {
+        "ja": "この問いは古くから哲学者や言語学者を悩ませてきた。",
+        "zh": "这一问题自古便困扰着哲学家与语言学家。",
+        "en": "The question has vexed philosophers and linguists since antiquity."
+      },
+      {
+        "ja": "ある言語の話者はその言語が備える語彙や文法範疇に沿って世界を分節しているのであり、異なる言語の話者は異なる現実を生きているとする言語相対論は、一時は科学的裏付けを欠くとして退けられながらも、近年の実証研究によって部分的に再評価されつつある。",
+        "zh": "语言相对论主张：某一语言的使用者是依照该语言所具备的词汇与语法范畴来切分世界的，因而不同语言的使用者活在各自不同的现实之中；这一学说一度因缺乏科学依据而遭摒弃，近年却借助实证研究得到了部分重估。",
+        "en": "Linguistic relativity — the view that speakers of a language carve up the world along the vocabulary and grammatical categories that language provides, so that speakers of different languages inhabit different realities — was once dismissed for want of scientific support, yet recent empirical work has brought it a partial rehabilitation."
+      },
+      {
+        "ja": "例えば、色彩の区分や空間の把握、時間の表現などにおいて、母語の構造が認知の傾向に影響を及ぼすことを示唆する報告は少なくない。",
+        "zh": "例如在色彩的划分、空间的把握、时间的表达等方面，暗示母语结构会影响认知倾向的研究报告并不在少数。",
+        "en": "There is no shortage of reports suggesting that the structure of one’s native tongue influences cognitive tendencies in such matters as the division of colour, the grasp of space, and the expression of time."
+      },
+      {
+        "ja": "もっとも、言語が思考を全面的に決定すると考えるのは早計であろう。",
+        "zh": "不过，若因此断定语言全面决定思维，未免失之草率。",
+        "en": "It would be hasty, though, to conclude that language determines thought outright."
+      },
+      {
+        "ja": "翻訳という営みが曲がりなりにも成立している事実は、言語の壁を越えて共有され得る意味の層が存在することを物語っている。",
+        "zh": "翻译这项工作好歹得以成立，这一事实本身就说明：存在着能够跨越语言之壁而共享的意义层面。",
+        "en": "The very fact that translation, however imperfectly, works at all testifies to a stratum of meaning that can be shared across the barrier of language."
+      },
+      {
+        "ja": "人間の認知には言語に先立つ普遍的な基盤があり、言語はその上に築かれた多様な建築物であると見るのが穏当な理解ではなかろうか。",
+        "zh": "人类的认知有着先于语言的普遍基础，语言不过是建于其上的形形色色的建筑——这样的理解或许才算稳妥。",
+        "en": "A sounder understanding, surely, is that human cognition rests on a universal foundation prior to language, and that languages are the diverse structures erected upon it."
+      },
+      {
+        "ja": "しかしながら、たとえ決定論を退けるにしても、言語が思考の習慣を方向づけるという事実の重みは軽視できない。",
+        "zh": "然而，即便摒弃决定论，语言为思维习惯定向这一事实的分量仍不容轻视。",
+        "en": "Even so, and even if determinism is rejected, one cannot make light of the fact that language steers the habits of thought."
+      },
+      {
+        "ja": "我々は母語の眼鏡を通して世界を眺めており、その眼鏡の存在自体には容易に気づかない。",
+        "zh": "我们透过母语这副眼镜观看世界，却难以察觉这副眼镜本身的存在。",
+        "en": "We view the world through the spectacles of our mother tongue, and we do not easily notice that the spectacles are there at all."
+      },
+      {
+        "ja": "外国語の学習が単なる実用的技能の習得を超えた意義を持つのは、まさにこの点においてである。",
+        "zh": "学习外语之所以具有超出实用技能习得的意义，正在于此。",
+        "en": "It is precisely here that learning a foreign language takes on a significance beyond the mastery of a practical skill."
+      },
+      {
+        "ja": "異なる言語の体系に身を浸すことは、自明視してきた世界の切り取り方を相対化し、思考の柔軟性を涵養する契機となる。",
+        "zh": "将自身浸入另一套语言体系，能使我们把一向视为理所当然的世界切分方式相对化，成为培养思维弹性的契机。",
+        "en": "Immersing oneself in another linguistic system relativises the way of carving up the world that one had taken for granted, and becomes an occasion for cultivating flexibility of mind."
+      },
+      {
+        "ja": "翻って、母語の豊かさを養うことの重要性もまた強調されねばならない。",
+        "zh": "反过来说，涵养母语的丰饶同样必须予以强调。",
+        "en": "Conversely, the importance of nurturing richness in one’s own language must equally be stressed."
+      },
+      {
+        "ja": "抽象的な概念を操り、微細な差異を言い分け、複雑な論理を組み立てる力は、言語的な鍛錬なくしては育たない。",
+        "zh": "驾驭抽象概念、辨析细微差异、构筑复杂逻辑的能力，离开语言上的锤炼便无从养成。",
+        "en": "The power to handle abstract concepts, to articulate fine distinctions, and to construct complex arguments does not grow without linguistic training."
+      },
+      {
+        "ja": "語彙の貧困は思考の貧困に直結するとまでは言わないまでも、両者が深く結びついていることは疑いを容れない。",
+        "zh": "纵然不至于说词汇的贫乏直接等同于思维的贫乏，两者深深相连却是毋庸置疑的。",
+        "en": "One need not go so far as to say that poverty of vocabulary is poverty of thought, but that the two are deeply bound up with each other admits of no doubt."
+      },
+      {
+        "ja": "デジタル媒体の普及に伴い、短く断片的な言葉のやり取りが日常を覆いつつある現代において、腰を据えて長い文章を読み、書くという営みの価値を、我々は改めて見つめ直すべきであろう。",
+        "zh": "在数字媒介普及、简短零碎的言辞往来日益笼罩日常生活的今天，我们理应重新审视沉下心来读长文、写长文这件事的价值。",
+        "en": "In an age when digital media have spread and short, fragmentary exchanges of words are coming to blanket daily life, we would do well to look again at the value of settling down to read and to write at length."
+      }
     ]
   },
   {
     "id": "n1-a8",
     "level": "N1",
     "title": "時間に追われる現代人",
+    "title_zh": "被时间追赶的现代人",
+    "title_en": "Modern Life, Chased by the Clock",
     "content": "現代人は常に時間に追われている。効率と生産性を至上の価値とする社会にあって、時間は管理され、節約され、換金されるべき資源と見なされるようになった。しかし、かかる時間観は決して普遍的なものではない。機械時計が普及する以前、人々は日の出とともに起き、日没とともに休むという自然の律動に即して暮らしており、時間は共同体の営みと分かち難く結びついていた。近代化の過程で時間が均質な単位へと分割され、労働の対価が時間によって測られるようになったとき、人間と時間の関係は根本的な変容を遂げたのである。産業社会の要請に鑑みれば、この転換は不可避であったと言えようが、その代償もまた小さくなかった。時計の針に合わせて生きることを強いられた我々は、いつしか待つこと、佇むこと、無為に過ごすことに罪悪感すら覚えるようになった。予定表の空白は埋められるべき欠落と見なされ、移動の合間さえも携帯端末の画面を眺めて過ごす。かくして現代人は、かつてないほど多くの時間節約技術に囲まれながらも、かつてないほど時間の欠乏を訴えるという逆説のうちに生きている。この逆説から抜け出す鍵は、おそらく技術のさらなる進歩にはない。求められているのは、時間に対する構えそのものの転換である。哲学者たちが指摘してきたように、充実した時間の経験は、量の多寡ではなく質の深さによって規定される。一杯の茶を丁寧に淹れる数分間が、慌ただしく過ごした一日よりも豊かに感じられることは、誰しも身に覚えがあろう。速さを競う社会の趨勢に抗い、あえて緩やかさを選び取る生き方は、単なる懐古趣味ではなく、人間らしい生の回復を目指す積極的な営みである。効率化の果てに得られた時間を何に用いるのかという問いを欠いたまま、ひたすら速度を追い求めることの空虚さに、我々はそろそろ気づくべきではなかろうか。",
     "furigana": "{現代人|げんだいじん}は{常|つね}に{時間|じかん}に{追|お}われている。{効率|こうりつ}と{生産性|せいさんせい}を{至上|しじょう}の{価値|かち}とする{社会|しゃかい}にあって、{時間|じかん}は{管理|かんり}され、{節約|せつやく}され、{換金|かんきん}されるべき{資源|しげん}と{見|み}なされるようになった。しかし、かかる{時間観|じかんかん}は{決|けっ}して{普遍的|ふへんてき}なものではない。{機械時計|きかいどけい}が{普及|ふきゅう}する{以前|いぜん}、{人々|ひとびと}は{日|ひ}の{出|で}とともに{起|お}き、{日没|にちぼつ}とともに{休|やす}むという{自然|しぜん}の{律動|りつどう}に{即|そく}して{暮|く}らしており、{時間|じかん}は{共同体|きょうどうたい}の{営|いとな}みと{分|わ}かち{難|がた}く{結|むす}びついていた。{近代化|きんだいか}の{過程|かてい}で{時間|じかん}が{均質|きんしつ}な{単位|たんい}へと{分割|ぶんかつ}され、{労働|ろうどう}の{対価|たいか}が{時間|じかん}によって{測|はか}られるようになったとき、{人間|にんげん}と{時間|じかん}の{関係|かんけい}は{根本的|こんぽんてき}な{変容|へんよう}を{遂|と}げたのである。{産業社会|さんぎょうしゃかい}の{要請|ようせい}に{鑑|かんが}みれば、この{転換|てんかん}は{不可避|ふかひ}であったと{言|い}えようが、その{代償|だいしょう}もまた{小|ちい}さくなかった。{時計|とけい}の{針|はり}に{合|あ}わせて{生|い}きることを{強|し}いられた{我々|われわれ}は、いつしか{待|ま}つこと、{佇|たたず}むこと、{無為|むい}に{過|す}ごすことに{罪悪感|ざいあくかん}すら{覚|おぼ}えるようになった。{予定表|よていひょう}の{空白|くうはく}は{埋|う}められるべき{欠落|けつらく}と{見|み}なされ、{移動|いどう}の{合間|あいま}さえも{携帯端末|けいたいたんまつ}の{画面|がめん}を{眺|なが}めて{過|す}ごす。かくして{現代人|げんだいじん}は、かつてないほど{多|おお}くの{時間節約技術|じかんせつやくぎじゅつ}に{囲|かこ}まれながらも、かつてないほど{時間|じかん}の{欠乏|けつぼう}を{訴|うった}えるという{逆説|ぎゃくせつ}のうちに{生|い}きている。この{逆説|ぎゃくせつ}から{抜|ぬ}け{出|だ}す{鍵|かぎ}は、おそらく{技術|ぎじゅつ}のさらなる{進歩|しんぽ}にはない。{求|もと}められているのは、{時間|じかん}に{対|たい}する{構|かま}えそのものの{転換|てんかん}である。{哲学者|てつがくしゃ}たちが{指摘|してき}してきたように、{充実|じゅうじつ}した{時間|じかん}の{経験|けいけん}は、{量|りょう}の{多寡|たか}ではなく{質|しつ}の{深|ふか}さによって{規定|きてい}される。{一杯|いっぱい}の{茶|ちゃ}を{丁寧|ていねい}に{淹|い}れる{数分間|すうふんかん}が、{慌|あわ}ただしく{過|す}ごした{一日|いちにち}よりも{豊|ゆた}かに{感|かん}じられることは、{誰|だれ}しも{身|み}に{覚|おぼ}えがあろう。{速|はや}さを{競|きそ}う{社会|しゃかい}の{趨勢|すうせい}に{抗|あらが}い、あえて{緩|ゆる}やかさを{選|えら}び{取|と}る{生|い}き{方|かた}は、{単|たん}なる{懐古趣味|かいこしゅみ}ではなく、{人間|にんげん}らしい{生|せい}の{回復|かいふく}を{目指|めざ}す{積極的|せっきょくてき}な{営|いとな}みである。{効率化|こうりつか}の{果|は}てに{得|え}られた{時間|じかん}を{何|なに}に{用|もち}いるのかという{問|と}いを{欠|か}いたまま、ひたすら{速度|そくど}を{追|お}い{求|もと}めることの{空虚|くうきょ}さに、{我々|われわれ}はそろそろ{気|き}づくべきではなかろうか。",
     "words": [
@@ -4460,6 +4830,83 @@
         "r": "ではなかろうか",
         "zh": "岂不是…吗",
         "en": "is it not... (literary rhetorical)"
+      }
+    ],
+    "trans": [
+      {
+        "ja": "現代人は常に時間に追われている。",
+        "zh": "现代人总是被时间追着跑。",
+        "en": "Modern people are forever chased by time."
+      },
+      {
+        "ja": "効率と生産性を至上の価値とする社会にあって、時間は管理され、節約され、換金されるべき資源と見なされるようになった。",
+        "zh": "在以效率与生产力为至上价值的社会中，时间已被视为一种应当管理、节约并折算成金钱的资源。",
+        "en": "In a society that prizes efficiency and productivity above all else, time has come to be seen as a resource to be managed, saved, and converted into money."
+      },
+      {
+        "ja": "しかし、かかる時間観は決して普遍的なものではない。",
+        "zh": "然而，这样的时间观绝非普世之物。",
+        "en": "Such a view of time, however, is by no means universal."
+      },
+      {
+        "ja": "機械時計が普及する以前、人々は日の出とともに起き、日没とともに休むという自然の律動に即して暮らしており、時間は共同体の営みと分かち難く結びついていた。",
+        "zh": "在机械钟表普及之前，人们日出而作、日落而息，依循自然的律动而生活，时间与共同体的劳作密不可分。",
+        "en": "Before mechanical clocks became common, people lived to the rhythm of nature, rising with the sun and resting at dusk, and time was inseparable from the life of the community."
+      },
+      {
+        "ja": "近代化の過程で時間が均質な単位へと分割され、労働の対価が時間によって測られるようになったとき、人間と時間の関係は根本的な変容を遂げたのである。",
+        "zh": "当近代化的进程把时间切分为均质的单位、劳动的报酬开始以时间来计量时，人与时间的关系便发生了根本性的转变。",
+        "en": "When modernisation divided time into uniform units and the reward for labour came to be measured by the hour, the relationship between people and time underwent a fundamental transformation."
+      },
+      {
+        "ja": "産業社会の要請に鑑みれば、この転換は不可避であったと言えようが、その代償もまた小さくなかった。",
+        "zh": "就工业社会的要求而言，这一转变或许无可避免，但其代价同样不小。",
+        "en": "Given the demands of industrial society, the shift was arguably unavoidable; the price paid for it, however, was not small."
+      },
+      {
+        "ja": "時計の針に合わせて生きることを強いられた我々は、いつしか待つこと、佇むこと、無為に過ごすことに罪悪感すら覚えるようになった。",
+        "zh": "被迫按着表针生活的我们，不知不觉间竟对等待、驻足、无所事事怀有了罪恶感。",
+        "en": "Forced to live by the hands of the clock, we have come, at some point, to feel something like guilt at waiting, at standing still, at passing time to no purpose."
+      },
+      {
+        "ja": "予定表の空白は埋められるべき欠落と見なされ、移動の合間さえも携帯端末の画面を眺めて過ごす。",
+        "zh": "日程表上的空白被当成有待填补的缺口，连赶路的间隙也要盯着手机屏幕打发。",
+        "en": "A blank in the schedule is treated as a gap that ought to be filled, and even the interstices of a journey are spent staring at a phone screen."
+      },
+      {
+        "ja": "かくして現代人は、かつてないほど多くの時間節約技術に囲まれながらも、かつてないほど時間の欠乏を訴えるという逆説のうちに生きている。",
+        "zh": "于是，现代人身处前所未有之多的省时技术的包围之中，却又前所未有地抱怨时间不够——我们正生活在这样的悖论里。",
+        "en": "And so modern people live inside a paradox: surrounded by more time-saving technology than ever before, they complain of a scarcity of time as never before."
+      },
+      {
+        "ja": "この逆説から抜け出す鍵は、おそらく技術のさらなる進歩にはない。",
+        "zh": "走出这一悖论的钥匙，恐怕不在于技术的进一步进步。",
+        "en": "The key to escaping this paradox probably does not lie in further technological progress."
+      },
+      {
+        "ja": "求められているのは、時間に対する構えそのものの転換である。",
+        "zh": "真正需要的，是我们面对时间的姿态本身的转变。",
+        "en": "What is called for is a change in our very stance towards time."
+      },
+      {
+        "ja": "哲学者たちが指摘してきたように、充実した時間の経験は、量の多寡ではなく質の深さによって規定される。",
+        "zh": "正如哲学家们所指出的那样，充实的时间体验取决于质的深度，而非量的多寡。",
+        "en": "As philosophers have long pointed out, the experience of time well spent is determined not by quantity but by depth of quality."
+      },
+      {
+        "ja": "一杯の茶を丁寧に淹れる数分間が、慌ただしく過ごした一日よりも豊かに感じられることは、誰しも身に覚えがあろう。",
+        "zh": "用心沏一杯茶的那几分钟，感觉比匆匆忙忙度过的一整天还要丰盈——这样的体会，想必人人都有。",
+        "en": "Everyone, surely, has known the few minutes spent carefully brewing a cup of tea to feel richer than a whole day rushed through."
+      },
+      {
+        "ja": "速さを競う社会の趨勢に抗い、あえて緩やかさを選び取る生き方は、単なる懐古趣味ではなく、人間らしい生の回復を目指す積極的な営みである。",
+        "zh": "抗拒这个比拼速度的社会潮流，刻意选择舒缓的活法，并非单纯的怀旧趣味，而是一种旨在恢复人之为人的生活的积极实践。",
+        "en": "To resist a society bent on speed and deliberately choose slowness is not mere nostalgia but a positive undertaking aimed at recovering a life worthy of human beings."
+      },
+      {
+        "ja": "効率化の果てに得られた時間を何に用いるのかという問いを欠いたまま、ひたすら速度を追い求めることの空虚さに、我々はそろそろ気づくべきではなかろうか。",
+        "zh": "效率化到头来省下的时间究竟用来做什么？在缺失了这一追问的情况下一味追逐速度，其中的空虚，我们也该有所察觉了吧。",
+        "en": "Without ever asking what the time won by all this efficiency is actually for, we chase speed for its own sake — and it is surely about time we noticed how empty that is."
       }
     ]
   }

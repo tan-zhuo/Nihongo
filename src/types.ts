@@ -13,6 +13,16 @@ export interface Article {
   kind?: 'story'
   /** per-article glossary: surface form, reading, zh/en meanings */
   words?: ArticleWord[]
+  /** sentence-aligned translations; joining every `ja` reproduces `content` */
+  trans?: Sentence[]
+  title_zh?: string
+  title_en?: string
+}
+
+export interface Sentence {
+  ja: string
+  zh: string
+  en: string
 }
 
 export interface ArticleWord {
