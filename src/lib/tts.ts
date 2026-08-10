@@ -41,6 +41,20 @@ if (typeof speechSynthesis !== 'undefined') {
   })
 }
 
+/**
+ * Play a pre-generated kana clip when one exists, else synthesize it.
+ * `key` is the kana's primary romaji (the audio filename stem).
+ */
+export function speakKana(kana: string, key: string, available: readonly string[]) {
+  if (available.includes(key)) {
+    cancelSpeech()
+    const el = new Audio(`/audio/kana/${key}.mp3`)
+    el.play().catch(() => speak(kana, { rate: 0.85 }))
+    return
+  }
+  speak(kana, { rate: 0.85 })
+}
+
 export function speak(text: string, opts: { rate?: number; onEnd?: () => void } = {}) {
   if (typeof speechSynthesis === 'undefined') return
   try {

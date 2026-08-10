@@ -8,11 +8,7 @@ interface AudioEntry {
   starts: number[]
 }
 
-const AUDIO: Record<string, AudioEntry> = manifest as Record<string, AudioEntry>
-
-export function hasNeuralAudio(articleId: string): boolean {
-  return Boolean(AUDIO[articleId])
-}
+const AUDIO: Record<string, AudioEntry> = (manifest.articles ?? {}) as Record<string, AudioEntry>
 
 /**
  * Reads an article aloud sentence by sentence, reporting which sentence is

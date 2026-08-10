@@ -2,7 +2,10 @@ import { useEffect, useMemo, useRef, useState } from 'react'
 import { useTranslation } from 'react-i18next'
 import { SECTIONS, allCells, type KanaCell, type KanaSection } from '../data/kana'
 import { addKanaRecord } from '../lib/storage'
-import { speak } from '../lib/tts'
+import { speakKana } from '../lib/tts'
+import manifest from '../data/audio-manifest.json'
+
+const KANA_AUDIO: readonly string[] = manifest.kana ?? []
 
 type Script = 'hiragana' | 'katakana'
 
@@ -71,7 +74,7 @@ export default function Kana() {
     const ok = cell.r.includes(input.trim().toLowerCase())
     if (ok) setCorrectCount((n) => n + 1)
     setFeedback(ok ? 'ok' : 'ng')
-    speak(glyph(cell))
+    speakKana(glyph(cell), cell.r[0], KANA_AUDIO)
   }
   const advance = () => {
     setIndex((i) => i + 1)
@@ -148,7 +151,7 @@ export default function Kana() {
             <div className="my-8 text-center">
               <button
                 className="font-serif text-7xl font-bold transition-colors hover:text-accent-deep"
-                onClick={() => speak(glyph(cell))}
+                onClick={() => speakKana(glyph(cell), cell.r[0], KANA_AUDIO)}
               >
                 {glyph(cell)}
               </button>
@@ -185,7 +188,7 @@ export default function Kana() {
               ) : (
                 <>
                   <button className="btn-primary" onClick={check}>{t('vocab.check')}</button>
-                  <button className="btn-ghost" onClick={() => { setFeedback('ng'); speak(glyph(cell)) }}>
+                  <button className="btn-ghost" onClick={() => { setFeedback('ng'); speakKana(glyph(cell), cell.r[0], KANA_AUDIO) }}>
                     {t('vocab.skip')}
                   </button>
                 </>
@@ -226,7 +229,7 @@ export default function Kana() {
                   kc ? (
                     <button
                       key={i}
-                      onClick={() => speak(script === 'hiragana' ? kc.h : kc.k)}
+                      onClick={() => speakKana(script === "hiragana" ? kc.h : kc.k, kc.r[0], KANA_AUDIO)}
                       className="card flex flex-col items-center py-2.5 transition-all duration-150 hover:-translate-y-0.5 hover:border-accent hover:shadow-lift sm:py-3"
                     >
                       <span className="font-serif text-xl font-semibold sm:text-2xl">
