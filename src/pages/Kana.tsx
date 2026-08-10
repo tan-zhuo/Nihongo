@@ -2,7 +2,7 @@ import { useEffect, useMemo, useRef, useState } from 'react'
 import { useTranslation } from 'react-i18next'
 import { SECTIONS, allCells, type KanaCell, type KanaSection } from '../data/kana'
 import { addKanaRecord } from '../lib/storage'
-import { speakKana } from '../lib/tts'
+import { speakKana, playKanaSequence } from '../lib/tts'
 import manifest from '../data/audio-manifest.json'
 
 const KANA_AUDIO: readonly string[] = manifest.kana ?? []
@@ -29,6 +29,29 @@ export default function Kana() {
   const [practicing, setPracticing] = useState(false)
   const [practiceSet, setPracticeSet] = useState<KanaSection | 'all'>('all')
   const [seed, setSeed] = useState(0)
+  const [playingRow, setPlayingRow] = useState<string | null>(null)
+  const [playingIdx, setPlayingIdx] = useState(-1)
+  const cancelRow = useRef<(() => void) | null>(null)
+
+  // Never let a row keep playing after leaving the chart.
+  useEffect(() => () => cancelRow.current?.(), [])
+
+  const playRow = (name: string, cells: KanaCell[]) => {
+    cancelRow.current?.()
+    if (playingRow === name) {
+      setPlayingRow(null)
+      return
+    }
+    setPlayingRow(name)
+    cancelRow.current = playKanaSequence(
+      cells.map((c) => ({ kana: script === 'hiragana' ? c.h : c.k, key: c.r[0] })),
+      KANA_AUDIO,
+      (i) => {
+        setPlayingIdx(i)
+        if (i === -1) setPlayingRow(null)
+      },
+    )
+  }
 
   const setScriptPersist = (s: Script) => {
     setScript(s)
@@ -218,31 +241,54 @@ export default function Kana() {
             {t(`kana.${section.key}`)}
           </h2>
           <div className="flex flex-col gap-2">
-            {section.rows.map((row) => (
-              <div
-                key={row.name}
-                className={`grid gap-2 ${
-                  row.cells.length === 3 ? 'grid-cols-3 sm:max-w-[19rem]' : 'grid-cols-5'
-                }`}
-              >
-                {row.cells.map((kc, i) =>
-                  kc ? (
-                    <button
-                      key={i}
-                      onClick={() => speakKana(script === "hiragana" ? kc.h : kc.k, kc.r[0], KANA_AUDIO)}
-                      className="card flex flex-col items-center py-2.5 transition-all duration-150 hover:-translate-y-0.5 hover:border-accent hover:shadow-lift sm:py-3"
-                    >
-                      <span className="font-serif text-xl font-semibold sm:text-2xl">
-                        {script === 'hiragana' ? kc.h : kc.k}
-                      </span>
-                      <span className="mt-0.5 text-[11px] text-stone-400">{kc.r[0]}</span>
-                    </button>
-                  ) : (
-                    <span key={i} />
-                  ),
-                )}
-              </div>
-            ))}
+            {section.rows.map((row) => {
+              const filled = row.cells.filter((c): c is KanaCell => c !== null)
+              const isRowPlaying = playingRow === row.name
+              return (
+                <div key={row.name} className="flex items-center gap-2">
+                  <button
+                    className={`shrink-0 rounded-lg border p-1.5 transition-colors ${
+                      isRowPlaying
+                        ? 'border-accent-dark bg-accent-light text-accent-deep'
+                        : 'border-stone-200 bg-white text-stone-300 hover:text-accent-dark'
+                    }`}
+                    onClick={() => playRow(row.name, filled)}
+                    title={t('kana.playRow')}
+                    aria-label={`${row.name} ${t('kana.playRow')}`}
+                  >
+                    <svg viewBox="0 0 24 24" className="h-3.5 w-3.5" fill="currentColor">
+                      {isRowPlaying ? <path d="M7 6h4v12H7zM13 6h4v12h-4z" /> : <path d="M7 4.5v15l12-7.5z" />}
+                    </svg>
+                  </button>
+                  <div
+                    className={`grid flex-1 gap-2 ${
+                      row.cells.length === 3 ? 'grid-cols-3 sm:max-w-[19rem]' : 'grid-cols-5'
+                    }`}
+                  >
+                    {row.cells.map((kc, i) =>
+                      kc ? (
+                        <button
+                          key={i}
+                          onClick={() => speakKana(script === 'hiragana' ? kc.h : kc.k, kc.r[0], KANA_AUDIO)}
+                          className={`card flex flex-col items-center py-2.5 transition-all duration-150 hover:-translate-y-0.5 hover:border-accent hover:shadow-lift sm:py-3 ${
+                            isRowPlaying && filled[playingIdx]?.r[0] === kc.r[0]
+                              ? 'border-accent-dark bg-accent-light'
+                              : ''
+                          }`}
+                        >
+                          <span className="font-serif text-xl font-semibold sm:text-2xl">
+                            {script === 'hiragana' ? kc.h : kc.k}
+                          </span>
+                          <span className="mt-0.5 text-[11px] text-stone-400">{kc.r[0]}</span>
+                        </button>
+                      ) : (
+                        <span key={i} />
+                      ),
+                    )}
+                  </div>
+                </div>
+              )
+            })}
           </div>
         </section>
       ))}

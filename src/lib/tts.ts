@@ -55,6 +55,42 @@ export function speakKana(kana: string, key: string, available: readonly string[
   speak(kana, { rate: 0.85 })
 }
 
+/** Play several kana clips back to back. Returns a cancel function. */
+export function playKanaSequence(
+  items: { kana: string; key: string }[],
+  available: readonly string[],
+  onIndex?: (i: number) => void,
+): () => void {
+  let cancelled = false
+  let current: HTMLAudioElement | null = null
+
+  const step = (i: number) => {
+    if (cancelled || i >= items.length) {
+      onIndex?.(-1)
+      return
+    }
+    onIndex?.(i)
+    const { kana, key } = items[i]
+    if (!available.includes(key)) {
+      speak(kana, { rate: 0.85, onEnd: () => step(i + 1) })
+      return
+    }
+    const el = new Audio(`/audio/kana/${key}.mp3`)
+    current = el
+    el.onended = () => step(i + 1)
+    el.onerror = () => step(i + 1)
+    el.play().catch(() => step(i + 1))
+  }
+  step(0)
+
+  return () => {
+    cancelled = true
+    current?.pause()
+    cancelSpeech()
+    onIndex?.(-1)
+  }
+}
+
 export function speak(text: string, opts: { rate?: number; onEnd?: () => void } = {}) {
   if (typeof speechSynthesis === 'undefined') return
   try {

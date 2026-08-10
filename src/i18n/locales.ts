@@ -21,7 +21,8 @@ export const zh = {
     practice: '假名打字练习',
     backToChart: '返回图表',
     prompt: '输入这个假名的罗马字',
-    tapHint: '点击假名卡片可以听发音（使用浏览器语音合成）。',
+    tapHint: '点击假名听发音，点左侧播放键可整行连读。',
+    playRow: '整行连读',
   },
   home: {
     heroTitle: '日语打字，从今天开始',
@@ -146,7 +147,8 @@ export const ja: typeof zh = {
     practice: 'かなタイピング練習',
     backToChart: '表に戻る',
     prompt: 'このかなのローマ字を入力',
-    tapHint: 'かなをタップすると発音が聞けます（ブラウザの音声合成）。',
+    tapHint: 'かなをタップすると発音が聞けます。左の再生ボタンで行ごとに連続再生。',
+    playRow: '行を連続再生',
   },
   home: {
     heroTitle: '日本語タイピングを、今日から。',
@@ -271,7 +273,8 @@ export const en: typeof zh = {
     practice: 'Kana typing practice',
     backToChart: 'Back to chart',
     prompt: 'Type the romaji for this kana',
-    tapHint: 'Tap a kana card to hear it (browser speech synthesis).',
+    tapHint: 'Tap a kana to hear it, or use the play button to hear a whole row.',
+    playRow: 'Play row',
   },
   home: {
     heroTitle: 'Japanese typing, starting today',
