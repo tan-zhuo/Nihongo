@@ -148,6 +148,18 @@ export default function Practice() {
   const playingSpan = audio.index >= 0 ? spans[audio.index] : undefined
   const RATES = [0.75, 1, 1.25]
 
+  // Translations sit under the line where their sentence ENDS, so the whole
+  // article reads as a parallel text rather than a moving one-line caption.
+  const transByLine = useMemo(() => {
+    const map: (typeof spans)[] = ranges.map(() => [])
+    for (const s of spans) {
+      const lastChar = s.end - 1
+      const li = ranges.findIndex((r) => lastChar >= r.start && lastChar < r.end)
+      if (li >= 0) map[li].push(s)
+    }
+    return map
+  }, [spans, ranges])
+
   return (
     <div className="mx-auto max-w-2xl">
       <div className="mb-5 flex flex-wrap items-center justify-between gap-3">
@@ -164,7 +176,7 @@ export default function Practice() {
           {spans.length > 0 && (
             <>
               <button
-                className={`btn gap-1.5 text-xs ${
+                className={`btn gap-1.5 whitespace-nowrap px-3 text-xs ${
                   audio.playing
                     ? 'border border-accent-dark bg-accent-light text-accent-deep'
                     : 'border border-stone-200 bg-white text-stone-500 hover:text-ink'
@@ -183,7 +195,7 @@ export default function Practice() {
               </button>
               {audio.playing && (
                 <button
-                  className="btn border border-stone-200 bg-white text-xs text-stone-500 hover:text-ink"
+                  className="btn whitespace-nowrap border border-stone-200 bg-white px-2.5 text-xs text-stone-500 hover:text-ink"
                   onClick={() => audio.setRate(RATES[(RATES.indexOf(audio.rate) + 1) % RATES.length])}
                 >
                   {audio.rate}×
@@ -192,7 +204,7 @@ export default function Practice() {
             </>
           )}
           <button
-            className={`btn text-xs ${
+            className={`btn whitespace-nowrap px-3 text-xs ${
               showFurigana
                 ? 'border border-accent-dark bg-accent-light text-accent-deep'
                 : 'border border-stone-200 bg-white text-stone-400 hover:text-ink'
@@ -203,7 +215,7 @@ export default function Practice() {
           </button>
           {spans.length > 0 && (
             <button
-              className={`btn text-xs ${
+              className={`btn whitespace-nowrap px-3 text-xs ${
                 showTrans
                   ? 'border border-accent-dark bg-accent-light text-accent-deep'
                   : 'border border-stone-200 bg-white text-stone-400 hover:text-ink'
@@ -213,7 +225,7 @@ export default function Practice() {
               {t('practice.translation')}
             </button>
           )}
-          <button className="btn-ghost text-xs" onClick={restart}>
+          <button className="btn-ghost whitespace-nowrap px-3 text-xs" onClick={restart}>
             {t('practice.restart')}
           </button>
         </div>
@@ -243,9 +255,9 @@ export default function Practice() {
             <div
               key={li}
               ref={isActive ? activeLineRef : undefined}
-              className={`mb-9 transition-opacity duration-200 ${
-                isActive || isPast ? 'opacity-100' : 'opacity-45'
-              }`}
+              // No opacity dimming: untyped characters are already muted, and
+              // fading whole lines would make the translations unreadable.
+              className="mb-9"
             >
               {/* Original line with furigana; tap any word to look it up */}
               <div className="cursor-pointer text-xl leading-normal tracking-wide sm:text-2xl">
@@ -316,15 +328,23 @@ export default function Practice() {
                   ))}
                 </div>
               ) : (
-                <div className="mt-1.5 border-b border-dashed border-stone-200 py-1.5 text-xl leading-normal sm:text-2xl">
-                  &nbsp;
-                </div>
+                // Short placeholder: a full-height empty slot would push a line's
+                // translation closer to the NEXT line than to its own.
+                <div className="mt-2 h-7 border-b border-dashed border-stone-200" />
               )}
-              {isActive && showTrans && activeSentence && (
-                <p className="mt-2.5 border-l-2 border-accent-light pl-3 text-sm leading-relaxed text-stone-500">
-                  {activeSentence[transLang]}
-                </p>
-              )}
+              {showTrans &&
+                transByLine[li].map((s) => (
+                  <p
+                    key={s.start}
+                    className={`mt-2.5 border-l-2 pl-3 text-sm leading-relaxed transition-colors ${
+                      s === activeSentence
+                        ? 'border-accent-dark text-stone-600'
+                        : 'border-stone-200 text-stone-400'
+                    }`}
+                  >
+                    {s[transLang]}
+                  </p>
+                ))}
             </div>
           )
         })}
