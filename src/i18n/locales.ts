@@ -1,6 +1,16 @@
 export const zh = {
   app: { name: 'NihongoType', tagline: '专注的日语打字练习' },
-  nav: { home: '首页', articles: '文章练习', vocab: '单词练习', stats: '成绩', kana: '五十音' },
+  nav: { home: '首页', articles: '文章练习', vocab: '单词练习', stats: '成绩', kana: '五十音', grammar: '语法' },
+  grammar: {
+    title: '语法・敬语讲解',
+    track_grammar: '语法',
+    track_keigo: '敬语',
+    formation: '接续',
+    note: '注意',
+    count: '共 {{count}} 条',
+    empty: '该等级暂无内容。',
+    keigoIntro: '按「丁宁语 → 尊敬语 → 谦让语 → 商务实践」的顺序循序渐进，点开每条查看讲解和例句。',
+  },
   kana: {
     title: '五十音图',
     hiragana: '平假名',
@@ -115,7 +125,17 @@ export const zh = {
 
 export const ja: typeof zh = {
   app: { name: 'NihongoType', tagline: '集中できる日本語タイピング練習' },
-  nav: { home: 'ホーム', articles: '文章練習', vocab: '単語練習', stats: '記録', kana: '五十音' },
+  nav: { home: 'ホーム', articles: '文章練習', vocab: '単語練習', stats: '記録', kana: '五十音', grammar: '文法' },
+  grammar: {
+    title: '文法・敬語',
+    track_grammar: '文法',
+    track_keigo: '敬語',
+    formation: '接続',
+    note: '注意',
+    count: '全{{count}}項目',
+    empty: 'このレベルの項目はまだありません。',
+    keigoIntro: '丁寧語 → 尊敬語 → 謙譲語 → ビジネス実践 の順に、やさしいものから並べています。',
+  },
   kana: {
     title: '五十音図',
     hiragana: 'ひらがな',
@@ -230,7 +250,17 @@ export const ja: typeof zh = {
 
 export const en: typeof zh = {
   app: { name: 'NihongoType', tagline: 'Focused Japanese typing practice' },
-  nav: { home: 'Home', articles: 'Articles', vocab: 'Vocabulary', stats: 'Stats', kana: 'Kana' },
+  nav: { home: 'Home', articles: 'Articles', vocab: 'Vocabulary', stats: 'Stats', kana: 'Kana', grammar: 'Grammar' },
+  grammar: {
+    title: 'Grammar & keigo',
+    track_grammar: 'Grammar',
+    track_keigo: 'Keigo',
+    formation: 'Attaches to',
+    note: 'Watch out',
+    count: '{{count}} points',
+    empty: 'Nothing for this level yet.',
+    keigoIntro: 'A graded course: polite forms → respectful → humble → business practice.',
+  },
   kana: {
     title: 'Kana chart',
     hiragana: 'Hiragana',

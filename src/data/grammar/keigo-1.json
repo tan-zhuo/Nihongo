@@ -1,0 +1,478 @@
+[
+  {
+    "id": "k-01",
+    "level": "N5",
+    "track": "keigo",
+    "group": "敬語入門",
+    "pattern": "敬語の三分類（丁寧語・尊敬語・謙譲語）",
+    "meaning_zh": "敬语的整体框架：礼貌语、尊敬语、自谦语",
+    "meaning_en": "the three categories of Japanese honorific language",
+    "formation": "丁寧語＝です・ます（把话说客气）／尊敬語＝抬高对方的动作／謙譲語＝压低自己的动作",
+    "explain_zh": "日语敬语不是一句「您好」就能解决的，它是三套并行的系统：丁寧語只是把语气变客气，主语是谁都行；尊敬語的主语必须是「对方（上司、客户、长辈）」，用来抬高对方的动作；謙譲語的主语必须是「我方（我、我们公司、我家人）」，用来压低自己的动作从而间接抬高对方。中文母语者最容易犯的错，就是把「您」和「我」的动作混着用敬语——中文只要加「您」「请」就够了，日语却必须换掉动词本身，而且换哪一套完全由「这个动作是谁做的」决定。",
+    "explain_en": "Japanese keigo is three parallel systems, not one politeness word. Teineigo (です・ます) simply makes speech polite and works with any subject. Sonkeigo raises the listener's or a superior's action, so its subject is always the other party. Kenjougo lowers your own side's action, so its subject is always you or your group. The choice depends entirely on who performs the action.",
+    "examples": [
+      {
+        "ja": "これは会社のパンフレットです。",
+        "furigana": "これは{会社|かいしゃ}のパンフレットです。",
+        "zh": "这是公司的宣传册。（丁宁语：只是语气客气）",
+        "en": "This is the company brochure. (teineigo: simply polite)"
+      },
+      {
+        "ja": "社長が資料をご覧になりました。",
+        "furigana": "{社長|しゃちょう}が{資料|しりょう}をご{覧|らん}になりました。",
+        "zh": "社长看过资料了。（尊敬语：主语是社长，抬高对方）",
+        "en": "The president has looked at the documents. (sonkeigo: subject is the superior)"
+      },
+      {
+        "ja": "私が資料を拝見しました。",
+        "furigana": "{私|わたし}が{資料|しりょう}を{拝見|はいけん}しました。",
+        "zh": "我看过资料了。（自谦语：主语是我，压低自己）",
+        "en": "I have looked at the documents. (kenjougo: subject is oneself)"
+      }
+    ],
+    "note_zh": "同一个动词「見る」，对方做用「ご覧になる」，自己做用「拝見する」。先判断主语，再选敬语，顺序不能反。",
+    "note_en": "For one verb 見る, use ご覧になる when the other party acts and 拝見する when you act. Identify the subject first, then pick the form."
+  },
+  {
+    "id": "k-02",
+    "level": "N5",
+    "track": "keigo",
+    "group": "丁寧語",
+    "pattern": "です・ます体",
+    "meaning_zh": "礼貌体：日语敬语的地基",
+    "meaning_en": "the polite です／ます style",
+    "formation": "名词・形容词 + です ／ 动词ます形（行く→行きます、食べる→食べます）",
+    "explain_zh": "です・ます是丁寧語，作用是「对听话人客气」，跟句子的主语是谁完全无关——说自己的事、说别人的事、说天气，都可以用。所以它不像尊敬語/謙譲語那样有「谁对谁」的限制，是唯一可以无脑使用的敬语。中文没有对应的语法形式，中文靠加「请」「您」，日语则是靠动词词尾整体切换。在公司、店里、对不熟的人，默认全程です・ます体；只有对家人和很熟的同辈才换成简体（だ・する）。",
+    "explain_en": "です／ます is teineigo: it shows respect toward the listener regardless of who the subject is. Unlike sonkeigo and kenjougo, it has no restriction on the subject, so it is the safe default. In companies, shops, and with strangers, keep every sentence in です／ます form; plain form is reserved for family and close peers.",
+    "examples": [
+      {
+        "ja": "私は営業部の田中です。",
+        "furigana": "{私|わたし}は{営業部|えいぎょうぶ}の{田中|たなか}です。",
+        "zh": "我是营业部的田中。",
+        "en": "I am Tanaka from the sales department."
+      },
+      {
+        "ja": "会議は九時に始まります。",
+        "furigana": "{会議|かいぎ}は{九時|くじ}に{始|はじ}まります。",
+        "zh": "会议九点开始。",
+        "en": "The meeting starts at nine."
+      },
+      {
+        "ja": "明日は本社へ行きます。",
+        "furigana": "{明日|あした}は{本社|ほんしゃ}へ{行|い}きます。",
+        "zh": "明天去总公司。",
+        "en": "I will go to the head office tomorrow."
+      }
+    ],
+    "note_zh": "です・ます体只是「起点」，不是「够客气」。对上司只用ます形而不用尊敬語，日本人会觉得不够礼貌，但不会觉得失礼；反过来用错尊敬語才是真失礼。",
+    "note_en": "です／ます is the baseline, not the ceiling. Using only ます with a superior sounds plain but not rude; misusing sonkeigo is far worse."
+  },
+  {
+    "id": "k-03",
+    "level": "N5",
+    "track": "keigo",
+    "group": "丁寧語",
+    "pattern": "ございます／でございます",
+    "meaning_zh": "「あります／です」的更郑重说法",
+    "meaning_en": "the more formal equivalent of あります and です",
+    "formation": "ある → ございます ／ です → でございます",
+    "explain_zh": "ございます是「ある」的郑重形，でございます是「です」的郑重形，属于把话说得更庄重的丁寧語（严格说是丁重語）。它抬高的不是主语，而是整段话的场面感，所以物、地点、自己、公司都能当主语——「トイレは二階にございます」「田中でございます」都对。这一点和尊敬語完全不同：不要因为句子里有客人就以为在抬高客人。主要用在店铺、酒店、电话应对、公司前台这种服务场面；同事之间日常聊天用会显得夸张。",
+    "explain_en": "ございます is the formal version of あります, and でございます of です. It elevates the overall register of the utterance rather than the subject, so it works with objects, places, yourself, and your company alike. It belongs to shops, hotels, reception desks, and phone calls; between colleagues in casual talk it sounds overdone.",
+    "examples": [
+      {
+        "ja": "こちらが新しいカタログでございます。",
+        "furigana": "こちらが{新|あたら}しいカタログでございます。",
+        "zh": "这是最新的产品目录。",
+        "en": "This is our new catalogue."
+      },
+      {
+        "ja": "お手洗いは二階にございます。",
+        "furigana": "お{手洗|てあら}いは{二階|にかい}にございます。",
+        "zh": "洗手间在二楼。",
+        "en": "The restroom is on the second floor."
+      },
+      {
+        "ja": "はい、営業部の田中でございます。",
+        "furigana": "はい、{営業部|えいぎょうぶ}の{田中|たなか}でございます。",
+        "zh": "您好，我是营业部的田中。（电话应对）",
+        "en": "Yes, this is Tanaka from the sales department. (on the phone)"
+      }
+    ],
+    "note_zh": "「〜でございますか」问客人会显得生硬，正确的是「〜でいらっしゃいますか」（尊敬語）。例：×田中様でございますか → ○田中様でいらっしゃいますか。",
+    "note_en": "Do not ask a customer 〜でございますか; use the honorific 〜でいらっしゃいますか instead."
+  },
+  {
+    "id": "k-04",
+    "level": "N5",
+    "track": "keigo",
+    "group": "丁寧語",
+    "pattern": "美化語：お〜／ご〜",
+    "meaning_zh": "美化语：给名词加お・ご让说话文雅",
+    "meaning_en": "beautifying prefixes お and ご on nouns",
+    "formation": "和語（训读词）+ お：お水・お名前・お茶 ／ 漢語（音读词）+ ご：ご住所・ご意見・ご案内",
+    "explain_zh": "美化語只是让措辞显得文雅，不一定指向某个人，所以「お茶を飲む」说自己喝茶也没问题——这是它和尊敬語的お〜になる最大的区别。判断用お还是ご：训读的和语词用お（お名前、お金、お水），音读的汉语词用ご（ご住所、ご意見、ご家族）。中文母语者常见的困惑是「ご飯」「お茶」明明是自己吃的东西为什么加お——因为这些词已经固化，不加反而不自然。但要注意：别人的东西加お・ご是尊重，自己公司的东西对外时不要加（×弊社のご商品）。",
+    "explain_en": "Bika-go simply makes wording more refined and does not necessarily point at anyone, so お茶を飲む is fine even about yourself. Use お with native Japanese (kun-reading) words and ご with Sino-Japanese (on-reading) words. Some forms such as ご飯 and お茶 are fixed and sound unnatural without the prefix, but never attach お／ご to your own company's things when speaking to outsiders.",
+    "examples": [
+      {
+        "ja": "お茶とお菓子をご用意しました。",
+        "furigana": "お{茶|ちゃ}とお{菓子|かし}をご{用意|ようい}しました。",
+        "zh": "已经准备好茶和点心了。",
+        "en": "I have prepared tea and sweets."
+      },
+      {
+        "ja": "お水をもう一杯いかがですか。",
+        "furigana": "お{水|みず}をもう{一杯|いっぱい}いかがですか。",
+        "zh": "要不要再来一杯水？",
+        "en": "Would you like another glass of water?"
+      },
+      {
+        "ja": "お客様のお名前とご住所を確認します。",
+        "furigana": "お{客様|きゃくさま}のお{名前|なまえ}とご{住所|じゅうしょ}を{確認|かくにん}します。",
+        "zh": "确认一下客人的姓名和住址。",
+        "en": "I will confirm the customer's name and address."
+      }
+    ],
+    "note_zh": "外来语原则上不加（×おコーヒー、×おビール，少数如おソースは例外）。另外お・ご加多了会显得刻意，一句话里两三个就够。",
+    "note_en": "Loanwords normally take no prefix (not おコーヒー), and stacking too many お／ご in one sentence sounds affected."
+  },
+  {
+    "id": "k-05",
+    "level": "N4",
+    "track": "keigo",
+    "group": "尊敬語",
+    "pattern": "お〜になる",
+    "meaning_zh": "（尊敬语的通用做法）抬高对方的动作",
+    "meaning_en": "the general honorific pattern for verbs",
+    "formation": "お + 动词ます形去ます + になる（帰ります→お帰りになる、読みます→お読みになる）",
+    "explain_zh": "这是尊敬語最标准的通用公式，主语必须是要抬高的人——上司、客户、长辈、老师，绝对不能用在自己或自己家人身上（×私はお読みになりました）。对外说自己公司的社长时也不用它，因为对外时自己公司的人属于「我方」。和中文的差别在于：中文说「社长已经回去了」和「我已经回去了」动词完全一样，只靠加「您」区分；日语必须把动词本身改成お〜になる。注意ます形只有一个音节的动词（見る→見、寝る→寝）不能套这个公式，要用后面学的特殊敬语动词。",
+    "explain_en": "This is the standard all-purpose honorific formula, and its subject must be the person you are elevating: a superior, client, teacher, or guest. Never use it about yourself or your family, and not about your own company's staff when speaking to outsiders. Verbs whose ます-stem is a single syllable (見る, 寝る) cannot take this pattern and use special honorific verbs instead.",
+    "examples": [
+      {
+        "ja": "社長はもうお帰りになりました。",
+        "furigana": "{社長|しゃちょう}はもうお{帰|かえ}りになりました。",
+        "zh": "社长已经回去了。",
+        "en": "The president has already gone home."
+      },
+      {
+        "ja": "この記事はもうお読みになりましたか。",
+        "furigana": "この{記事|きじ}はもうお{読|よ}みになりましたか。",
+        "zh": "这篇报道您已经读过了吗？",
+        "en": "Have you already read this article?"
+      },
+      {
+        "ja": "部長は会議室でお待ちになっています。",
+        "furigana": "{部長|ぶちょう}は{会議室|かいぎしつ}でお{待|ま}ちになっています。",
+        "zh": "部长正在会议室等着。",
+        "en": "The manager is waiting in the meeting room."
+      }
+    ],
+    "note_zh": "别和謙譲語的「お〜する」混淆：お待ちになる＝对方等（尊敬），お待ちする＝我等（自谦）。差一个字，主语正好相反。",
+    "note_en": "Do not confuse it with humble お〜する: お待ちになる means the other person waits, お待ちする means you wait."
+  },
+  {
+    "id": "k-06",
+    "level": "N4",
+    "track": "keigo",
+    "group": "尊敬語",
+    "pattern": "〜れる／〜られる",
+    "meaning_zh": "用被动形表示尊敬（轻度敬语）",
+    "meaning_en": "honorific use of the passive form",
+    "formation": "五段动词：行く→行かれる ／ 一段动词：食べる→食べられる ／ する→される、来る→来られる",
+    "explain_zh": "形式上和被动形一模一样，但意思是尊敬，主语同样必须是对方或上司。它的敬意程度比お〜になる低一档，属于「轻度敬语」，所以在公司内部对课长、部长、平时接触多的上司用起来最自然；对客户、对社长这种场合，用お〜になる或特殊尊敬动词更稳妥。中文母语者要特别注意：这个形式和「被动」「可能」长得完全一样，判断靠语境——主语是上司且句子没有「被害」含义时，就是尊敬。会话中如果容易误解，宁可换成お〜になる。",
+    "explain_en": "This form looks exactly like the passive but expresses respect, and its subject is again the other party. It carries a lighter degree of honorification than お〜になる, so it fits everyday in-house talk about your section chief or manager, while clients and top executives call for お〜になる or a special honorific verb. Context distinguishes it from passive and potential meanings.",
+    "examples": [
+      {
+        "ja": "社長は明日、大阪へ行かれます。",
+        "furigana": "{社長|しゃちょう}は{明日|あした}、{大阪|おおさか}へ{行|い}かれます。",
+        "zh": "社长明天要去大阪。",
+        "en": "The president will go to Osaka tomorrow."
+      },
+      {
+        "ja": "部長はこの本を読まれたそうです。",
+        "furigana": "{部長|ぶちょう}はこの{本|ほん}を{読|よ}まれたそうです。",
+        "zh": "听说部长读过这本书。",
+        "en": "I hear the manager has read this book."
+      },
+      {
+        "ja": "お客様が受付で待たれています。",
+        "furigana": "お{客様|きゃくさま}が{受付|うけつけ}で{待|ま}たれています。",
+        "zh": "客人正在前台等候。",
+        "en": "The customer is waiting at the reception desk."
+      }
+    ],
+    "note_zh": "「食べられる」既可能是尊敬也可能是可能形，容易歧义，所以「食べる」实际多用「召し上がる」。歧义大的动词优先用特殊敬语动词。",
+    "note_en": "食べられる can read as potential as well as honorific, so 召し上がる is preferred in practice; choose special honorific verbs where ambiguity is high."
+  },
+  {
+    "id": "k-07",
+    "level": "N4",
+    "track": "keigo",
+    "group": "尊敬語",
+    "pattern": "ご〜になる",
+    "meaning_zh": "汉语动词（〜する类）的尊敬语",
+    "meaning_en": "honorific pattern for Sino-Japanese する-verbs",
+    "formation": "ご + 汉语名词 + になる（出発する→ご出発になる、利用する→ご利用になる）",
+    "explain_zh": "お〜になる管和语动词，ご〜になる管汉语动词（出発・利用・説明・確認这类音读词＋する）。判断方法很简单：动词能写成「漢語＋する」就用ご。主语依旧必须是对方或上司，自己一方不能用（×私がご説明になる，自谦要说ご説明します／ご説明いたします）。中文母语者容易觉得「汉字词我认识，直接用就行」，但汉语词做敬语时前缀是ご不是お，而且「ご利用になる」和「ご利用する」意思相反，前者是对方用、后者是我方用，务必分清。少数汉语词习惯上用お（お電話、お食事、お返事）。",
+    "explain_en": "お〜になる covers native verbs while ご〜になる covers Sino-Japanese する-verbs such as 出発する and 利用する. The subject must still be the person being elevated; for your own actions use the humble ご〜します／ご〜いたします. A handful of Sino-Japanese words idiomatically take お instead (お電話, お食事, お返事).",
+    "examples": [
+      {
+        "ja": "先生はもうご出発になりました。",
+        "furigana": "{先生|せんせい}はもうご{出発|しゅっぱつ}になりました。",
+        "zh": "老师已经出发了。",
+        "en": "The teacher has already departed."
+      },
+      {
+        "ja": "会長は来週、東京支社をご視察になります。",
+        "furigana": "{会長|かいちょう}は{来週|らいしゅう}、{東京支社|とうきょうししゃ}をご{視察|しさつ}になります。",
+        "zh": "会长下周将视察东京分公司。",
+        "en": "The chairman will inspect the Tokyo branch next week."
+      },
+      {
+        "ja": "こちらのサービスをご利用になる場合は、会員登録が必要です。",
+        "furigana": "こちらのサービスをご{利用|りよう}になる{場合|ばあい}は、{会員登録|かいいんとうろく}が{必要|ひつよう}です。",
+        "zh": "使用本服务时需要注册会员。",
+        "en": "To use this service, membership registration is required."
+      }
+    ],
+    "note_zh": "口语中「ご利用になる」也常简化成「ご利用いただく」（自谦地表达「承蒙您使用」），说明书和广播里两者都很常见。",
+    "note_en": "In practice ご利用になる often alternates with the humble ご利用いただく in announcements and manuals."
+  },
+  {
+    "id": "k-08",
+    "level": "N4",
+    "track": "keigo",
+    "group": "尊敬語",
+    "pattern": "いらっしゃる",
+    "meaning_zh": "「行く・来る・いる」三合一的尊敬语",
+    "meaning_en": "honorific verb for 行く, 来る, and いる",
+    "formation": "行く・来る・いる → いらっしゃる（ます形是いらっしゃいます，不是×いらっしゃります）",
+    "explain_zh": "一个词同时代替三个动词，具体是哪个意思全靠语境：後面接场所＋に就是「在」，接へ／に＋移动语境就是「去/来」。主语必须是对方、上司、客人，自己一方永远不能用——自己去/来要说「参ります」「伺います」，自己在要说「おります」。中文母语者常犯的错是接电话时说「社長はいらっしゃいません」给外部客户听：对外时自己公司的社长要压低，应说「社長はおりません」。另外「〜ていらっしゃる」＝「〜ている」的尊敬形（待っていらっしゃる），非常常用。",
+    "explain_en": "One verb replaces 行く, 来る, and いる, with context deciding the meaning. The subject is always the other party, a superior, or a guest; for yourself use 参ります／伺います and おります. When speaking to an outside client about your own president, say おりません, not いらっしゃいません. The form 〜ていらっしゃる is the honorific of 〜ている.",
+    "examples": [
+      {
+        "ja": "社長は今、会議室にいらっしゃいます。",
+        "furigana": "{社長|しゃちょう}は{今|いま}、{会議室|かいぎしつ}にいらっしゃいます。",
+        "zh": "社长现在在会议室。（社内对话）",
+        "en": "The president is in the meeting room now. (inside the company)"
+      },
+      {
+        "ja": "明日は何時にいらっしゃいますか。",
+        "furigana": "{明日|あした}は{何時|なんじ}にいらっしゃいますか。",
+        "zh": "您明天几点过来？",
+        "en": "What time will you be coming tomorrow?"
+      },
+      {
+        "ja": "お客様がいらっしゃいました。応接室へご案内します。",
+        "furigana": "お{客様|きゃくさま}がいらっしゃいました。{応接室|おうせつしつ}へご{案内|あんない}します。",
+        "zh": "客人到了，我带他们去会客室。",
+        "en": "The guest has arrived. I will show them to the reception room."
+      }
+    ],
+    "note_zh": "ます形变化不规则：いらっしゃいます／いらっしゃって／いらっしゃいませ。同类还有おっしゃる・くださる・なさる・ござる，都是「〜います」而不是「〜ります」。",
+    "note_en": "It conjugates irregularly to いらっしゃいます, like おっしゃる, くださる, なさる, and ござる."
+  },
+  {
+    "id": "k-09",
+    "level": "N3",
+    "track": "keigo",
+    "group": "尊敬語",
+    "pattern": "おっしゃる",
+    "meaning_zh": "「言う」的尊敬语",
+    "meaning_en": "honorific verb for 言う",
+    "formation": "言う → おっしゃる（ます形：おっしゃいます／过去：おっしゃいました）",
+    "explain_zh": "主语必须是说话的那位尊长——上司、客户、老师；自己说话时要用謙譲語「申す／申し上げる」。中文母语者在自我介绍时最容易混：「私は田中とおっしゃいます」是典型错误，因为主语是自己，正确说法是「私は田中と申します」；反过来问对方名字时才用「お名前は何とおっしゃいますか」。还有一个高频错误是「おっしゃられる」——おっしゃる本身已是尊敬語，再加られる就成了二重敬語（第14课会讲）。",
+    "explain_en": "The subject must be the superior who is speaking; for your own speech use the humble 申す／申し上げる. Saying 私は田中とおっしゃいます about yourself is a classic error — it should be 申します — while asking a name uses お名前は何とおっしゃいますか. Avoid おっしゃられる, which is doubled honorific.",
+    "examples": [
+      {
+        "ja": "部長は「明日は休む」とおっしゃいました。",
+        "furigana": "{部長|ぶちょう}は「{明日|あした}は{休|やす}む」とおっしゃいました。",
+        "zh": "部长说「明天休息」。",
+        "en": "The manager said, \"I'll be off tomorrow.\""
+      },
+      {
+        "ja": "お名前は何とおっしゃいますか。",
+        "furigana": "お{名前|なまえ}は{何|なん}とおっしゃいますか。",
+        "zh": "请问您怎么称呼？",
+        "en": "May I ask your name?"
+      },
+      {
+        "ja": "社長がおっしゃったとおりに準備しました。",
+        "furigana": "{社長|しゃちょう}がおっしゃったとおりに{準備|じゅんび}しました。",
+        "zh": "我按社长说的准备好了。",
+        "en": "I prepared everything just as the president said."
+      }
+    ],
+    "note_zh": "「言われる」也能表尊敬，但和被动「被说」同形，容易误解；正式场合优先用おっしゃる。",
+    "note_en": "言われる can also be honorific but overlaps with the passive, so おっしゃる is safer in formal settings."
+  },
+  {
+    "id": "k-10",
+    "level": "N3",
+    "track": "keigo",
+    "group": "尊敬語",
+    "pattern": "召し上がる",
+    "meaning_zh": "「食べる・飲む」的尊敬语",
+    "meaning_en": "honorific verb for 食べる and 飲む",
+    "formation": "食べる・飲む → 召し上がる（ます形：召し上がります）",
+    "explain_zh": "吃和喝共用一个尊敬语，主语必须是对方——客人、上司、长辈。自己吃喝要用謙譲語「いただく」（例：ありがたくいただきます）。中文母语者常见的两个坑：一是被劝食时回答「はい、召し上がります」，主语变成自己就错了，应说「はい、いただきます」；二是「お召し上がりください」，虽然在商品包装和店里到处能看到、已被广泛接受，但严格说是二重敬语，考试和正式文书里写「召し上がってください」更保险。",
+    "explain_en": "One honorific verb covers both eating and drinking, and the subject must be the other party. For your own eating use the humble いただく — answer はい、いただきます, never 召し上がります, when food is offered. お召し上がりください is common on packaging but is technically a doubled honorific; 召し上がってください is the safe formal choice.",
+    "examples": [
+      {
+        "ja": "どうぞ、温かいうちに召し上がってください。",
+        "furigana": "どうぞ、{温|あたた}かいうちに{召|め}し{上|あ}がってください。",
+        "zh": "请趁热吃。",
+        "en": "Please eat it while it's warm."
+      },
+      {
+        "ja": "コーヒーと紅茶、どちらを召し上がりますか。",
+        "furigana": "コーヒーと{紅茶|こうちゃ}、どちらを{召|め}し{上|あ}がりますか。",
+        "zh": "咖啡和红茶，您要哪个？",
+        "en": "Would you like coffee or tea?"
+      },
+      {
+        "ja": "お客様はもう昼食を召し上がりました。",
+        "furigana": "お{客様|きゃくさま}はもう{昼食|ちゅうしょく}を{召|め}し{上|あ}がりました。",
+        "zh": "客人已经用过午餐了。",
+        "en": "The guest has already had lunch."
+      }
+    ],
+    "note_zh": "「食べられますか」在语法上也能表尊敬，但更容易被理解成「能吃吗（可能形）」，问客人时用「召し上がりますか」不会有歧义。",
+    "note_en": "食べられますか is ambiguous with the potential meaning, so 召し上がりますか is clearer with guests."
+  },
+  {
+    "id": "k-11",
+    "level": "N3",
+    "track": "keigo",
+    "group": "尊敬語",
+    "pattern": "ご覧になる／なさる",
+    "meaning_zh": "「見る」和「する」的尊敬语",
+    "meaning_en": "honorific verbs for 見る and する",
+    "formation": "見る → ご覧になる ／ する → なさる（ます形：なさいます）",
+    "explain_zh": "这两个都是必须背的特殊形，因为「見る」「する」的ます形太短，套不进お〜になる。主语同样是对方：对方看＝ご覧になる，自己看＝拝見する；对方做＝なさる，自己做＝いたす。中文母语者常把「ご覧になる」误写成「ご覧する」——ご覧する不成立，自谦要说「拝見する」。なさる还有一个高频用法是「どうなさいますか」（您打算怎么办／您要哪个），在店里点单、确认客人意向时几乎天天出现，比「どうしますか」礼貌得多。",
+    "explain_en": "Both are irregular forms you must memorize, since 見る and する are too short for お〜になる. Use ご覧になる when the other party looks and 拝見する when you do; use なさる for their actions and いたす for yours. ご覧する does not exist. どうなさいますか is an everyday service-industry phrase far politer than どうしますか.",
+    "examples": [
+      {
+        "ja": "資料はもうご覧になりましたか。",
+        "furigana": "{資料|しりょう}はもうご{覧|らん}になりましたか。",
+        "zh": "资料您已经过目了吗？",
+        "en": "Have you already looked at the documents?"
+      },
+      {
+        "ja": "社長は毎朝、必ず新聞をご覧になります。",
+        "furigana": "{社長|しゃちょう}は{毎朝|まいあさ}、{必|かなら}ず{新聞|しんぶん}をご{覧|らん}になります。",
+        "zh": "社长每天早上一定会看报纸。",
+        "en": "The president reads the newspaper every morning without fail."
+      },
+      {
+        "ja": "お客様はどのプランになさいますか。",
+        "furigana": "お{客様|きゃくさま}はどのプランになさいますか。",
+        "zh": "您要选哪个方案呢？",
+        "en": "Which plan would you like to go with?"
+      }
+    ],
+    "note_zh": "「ご覧になられる」「なされる」都是二重敬语，属于错误用法。另外「ご覧ください」是正确的请求形，但「ご覧になってください」更郑重。",
+    "note_en": "ご覧になられる and なされる are doubled honorifics and incorrect; ご覧ください is fine, and ご覧になってください is more formal."
+  },
+  {
+    "id": "k-12",
+    "level": "N3",
+    "track": "keigo",
+    "group": "尊敬語",
+    "pattern": "くださる",
+    "meaning_zh": "「くれる」的尊敬语：对方给我／为我做",
+    "meaning_en": "honorific verb for くれる",
+    "formation": "くれる → くださる（ます形：くださいます）／ 〜てくださる＝〜てくれる的尊敬形",
+    "explain_zh": "くださる的方向性是固定的：东西或恩惠一定是从对方流向「我方」，主语是给的那一方（上司、客户），受益者是我或我这边的人。所以「部長が資料をくださいました」正确，「私が部長にくださいました」绝对错误（自己给别人要用「差し上げる」）。中文母语者最容易忽略的是「〜てくださる」这个恩惠表达：日语习惯把别人为自己做的事明确标记出来，「先生が来てくださいました」比「先生が来ました」多了一层感谢，中文往往不译出来，但日语里省掉会显得没有感恩之心。",
+    "explain_en": "くださる has a fixed direction: the thing or favor moves from the other party to you or your side, and the giver is the subject. 部長が資料をくださいました is correct, while your own giving requires 差し上げる. The 〜てくださる form explicitly marks a favor received; omitting it, as in 先生が来ました, can sound ungrateful even though Chinese usually leaves it untranslated.",
+    "examples": [
+      {
+        "ja": "部長が資料を貸してくださいました。",
+        "furigana": "{部長|ぶちょう}が{資料|しりょう}を{貸|か}してくださいました。",
+        "zh": "部长把资料借给我了。",
+        "en": "The manager kindly lent me the documents."
+      },
+      {
+        "ja": "先生がわざわざ来てくださいました。",
+        "furigana": "{先生|せんせい}がわざわざ{来|き}てくださいました。",
+        "zh": "老师特意为我跑了一趟。",
+        "en": "The teacher kindly came all the way here."
+      },
+      {
+        "ja": "お客様がお土産をくださいました。",
+        "furigana": "お{客様|きゃくさま}がお{土産|みやげ}をくださいました。",
+        "zh": "客人送了我们礼物。",
+        "en": "The customer gave us a gift."
+      }
+    ],
+    "note_zh": "对比记：くださる（对方给我，尊敬）／いただく（我从对方得到，自谦）。同一件事两种视角都能说：部長が教えてくださった＝部長に教えていただいた。",
+    "note_en": "Contrast くださる (they give to me, honorific) with いただく (I receive, humble): 部長が教えてくださった and 部長に教えていただいた describe the same event."
+  },
+  {
+    "id": "k-13",
+    "level": "N3",
+    "track": "keigo",
+    "group": "尊敬語",
+    "pattern": "お〜ください／ご〜ください",
+    "meaning_zh": "尊敬语的请求形：请您做～",
+    "meaning_en": "honorific request form",
+    "formation": "お + 和语动词ます形去ます + ください ／ ご + 汉语动词 + ください（待つ→お待ちください、確認する→ご確認ください）",
+    "explain_zh": "「〜てください」只是丁寧語，对客人和上司说会显得像在下指令；把它换成お〜ください／ご〜ください，就成了带尊敬语气的请求，是服务业和商务邮件的标准说法。选お还是ご的规则和第5、7课一样：和语用お，汉语用ご。中文母语者要注意，中文一个「请」字通吃所有场合，日语则分层：〜てください（一般）＜お〜ください（尊敬）＜お〜いただけますか（最委婉，请求对方允许）。对地位很高的人或提出麻烦请求时，用「〜いただけますでしょうか」比命令感更弱。",
+    "explain_en": "Plain 〜てください is only polite and can sound like an order to a client or superior, so お〜ください／ご〜ください is the standard in service work and business email. Choose お for native verbs and ご for Sino-Japanese ones. Politeness rises through 〜てください, お〜ください, and お〜いただけますか, the last being the softest for demanding requests.",
+    "examples": [
+      {
+        "ja": "こちらの席にお掛けください。",
+        "furigana": "こちらの{席|せき}にお{掛|か}けください。",
+        "zh": "请坐这边的座位。",
+        "en": "Please have a seat here."
+      },
+      {
+        "ja": "少々お待ちください。",
+        "furigana": "{少々|しょうしょう}お{待|ま}ちください。",
+        "zh": "请稍等。",
+        "en": "Please wait a moment."
+      },
+      {
+        "ja": "詳しくはホームページをご確認ください。",
+        "furigana": "{詳|くわ}しくはホームページをご{確認|かくにん}ください。",
+        "zh": "详情请查看网站。",
+        "en": "For details, please check our website."
+      }
+    ],
+    "note_zh": "特殊动词有固定形：见→ご覧ください、来/去→お越しください、吃→召し上がってください。×お見ください、×お来ください都不成立。",
+    "note_en": "Special verbs have fixed forms: ご覧ください, お越しください, 召し上がってください. Forms like お見ください do not exist."
+  },
+  {
+    "id": "k-14",
+    "level": "N2",
+    "track": "keigo",
+    "group": "尊敬語",
+    "pattern": "二重敬語（敬語の重ねすぎ）",
+    "meaning_zh": "双重敬语：同一个动词上叠加两层敬语的误用",
+    "meaning_en": "double honorifics: stacking two honorific layers on one verb",
+    "formation": "误：特殊尊敬动词 + れる／られる（おっしゃられる）／ お + 特殊尊敬动词 + になる（お召し上がりになる）",
+    "explain_zh": "规则很简单：一个动词只能戴一顶敬语的帽子。已经是特殊尊敬动词的おっしゃる・召し上がる・ご覧になる・なさる・いらっしゃる，再加「られる」或套进「お〜になる」，就是二重敬語。中文母语者容易踩这个坑，因为中文的直觉是「越客气越好、词堆得越多越尊重」，但日语相反：叠得越多越显得不懂敬语，甚至有讽刺感。要区分的是「敬語連結」——不同动词各戴一顶是合法的，比如「お読みになっていらっしゃる」（読む＋いる各自敬语化）、「ご覧になってください」都没问题。判断口诀：看是不是同一个动词被敬语化了两次。",
+    "explain_en": "One verb may carry only one honorific layer. Special honorific verbs such as おっしゃる, 召し上がる, ご覧になる, なさる, and いらっしゃる must not also take られる or be wrapped in お〜になる. Chinese speakers often assume more politeness markers mean more respect, but in Japanese excess signals poor command of keigo. Chaining honorifics across different verbs (お読みになっていらっしゃる) is legitimate; the test is whether the same verb was elevated twice.",
+    "examples": [
+      {
+        "ja": "（誤）お召し上がりになられますか →（正）召し上がりますか。",
+        "furigana": "（{誤|ご}）お{召|め}し{上|あ}がりになられますか →（{正|せい}）{召|め}し{上|あ}がりますか。",
+        "zh": "（误）叠了三层 →（正）用特殊尊敬动词一层就够。",
+        "en": "(wrong) triple-stacked -> (right) the special honorific verb alone."
+      },
+      {
+        "ja": "（誤）部長がおっしゃられました →（正）部長がおっしゃいました。",
+        "furigana": "（{誤|ご}）{部長|ぶちょう}がおっしゃられました →（{正|せい}）{部長|ぶちょう}がおっしゃいました。",
+        "zh": "（误）おっしゃる已是尊敬语，再加られる →（正）おっしゃいました。",
+        "en": "(wrong) おっしゃる already honorific plus られる -> (right) おっしゃいました."
+      },
+      {
+        "ja": "（誤）お客様がお帰りになられました →（正）お客様がお帰りになりました。",
+        "furigana": "（{誤|ご}）お{客様|きゃくさま}がお{帰|かえ}りになられました →（{正|せい}）お{客様|きゃくさま}がお{帰|かえ}りになりました。",
+        "zh": "（误）お〜になる又加られる →（正）お帰りになりました。",
+        "en": "(wrong) お〜になる plus られる -> (right) お帰りになりました."
+      }
+    ],
+    "note_zh": "「お召し上がりください」「お伺いします」虽属二重敬語，但已被社会广泛接受（文化庁『敬語の指針』视为惯用），日常使用无妨，考试作答仍建议写标准形。",
+    "note_en": "お召し上がりください and お伺いします are technically doubled but are accepted as established usage; still write the standard forms in exams."
+  }
+]

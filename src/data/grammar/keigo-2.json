@@ -1,0 +1,478 @@
+[
+  {
+    "id": "k-15",
+    "level": "N3",
+    "track": "keigo",
+    "group": "謙譲語",
+    "pattern": "お〜する／ご〜する",
+    "meaning_zh": "（谦让语的通用做法）我为您做某事",
+    "meaning_en": "general humble form: I do something for you",
+    "formation": "お + 和语动词ます形去ます + する ／ ご + 汉语サ变名词 + する",
+    "explain_zh": "这是谦让语最基本、最万能的公式：主语必须是自己或自己一方（我、我们公司、我的同事），通过降低自己来抬高对方。训读的和语动词用「お」，音读的汉语动词（案内・連絡・説明等）用「ご」。最容易错的是把它用在对方身上——「先生がお持ちします」是错的，对方的动作要用尊敬语「お持ちになります」。",
+    "explain_en": "This is the most basic and most productive humble pattern. The subject must be you or your side (me, my company, my colleague), and the action must involve or benefit the listener. Native Japanese verbs take お, while Sino-Japanese suru-nouns take ご. The classic mistake is applying it to the other person: 先生がお持ちします is wrong; the listener's action needs the honorific お持ちになります.",
+    "examples": [
+      {
+        "ja": "荷物をお持ちします。",
+        "furigana": "{荷物|にもつ}をお{持|も}ちします。",
+        "zh": "我来帮您拿行李。",
+        "en": "Let me carry your bags."
+      },
+      {
+        "ja": "会場まで私がご案内します。",
+        "furigana": "{会場|かいじょう}まで{私|わたし}がご{案内|あんない}します。",
+        "zh": "由我带您到会场。",
+        "en": "I will show you to the venue."
+      },
+      {
+        "ja": "後ほどこちらからお電話します。",
+        "furigana": "{後|のち}ほどこちらからお{電話|でんわ}します。",
+        "zh": "稍后由我们这边给您打电话。",
+        "en": "I will call you back later."
+      }
+    ],
+    "note_zh": "一个字的动词（見る・寝る等）不能用这个公式，要用特殊谦让动词（拝見する）。另外「お返事する」这类词汉语词也可用お，属于习惯用法。",
+    "note_en": "Single-mora verbs like 見る cannot use this pattern; use the special humble verb (拝見する) instead. A few Sino-Japanese words such as お返事 idiomatically take お rather than ご."
+  },
+  {
+    "id": "k-16",
+    "level": "N3",
+    "track": "keigo",
+    "group": "謙譲語",
+    "pattern": "お〜いたします／ご〜いたします",
+    "meaning_zh": "（更郑重的谦让语）我为您做某事",
+    "meaning_en": "more formal humble form: I will do something for you",
+    "formation": "お + 动词ます形去ます + いたす ／ ご + 汉语サ变名词 + いたす",
+    "explain_zh": "把上一课「お〜する」里的「する」换成它的谦让语「いたす」，郑重程度再上一层，是商务场合、电话、邮件里的标准说法。主语同样只能是自己一方，绝不能说「部長がご説明いたします」（对社内上司也不宜，除非是对外）。对客户说「ご案内いたします」比「ご案内します」更得体。",
+    "explain_en": "Replace する in the previous pattern with its humble counterpart いたす and the politeness level rises a notch. This is the default register for business calls, e-mails, and customer service. The subject is still strictly you or your side, so 部長がご説明いたします is wrong when speaking to that boss. To a client, ご案内いたします sounds more polished than ご案内します.",
+    "examples": [
+      {
+        "ja": "資料は本日中にメールでお送りいたします。",
+        "furigana": "{資料|しりょう}は{本日中|ほんじつちゅう}にメールでお{送|おく}りいたします。",
+        "zh": "资料我今天之内用邮件发给您。",
+        "en": "I will send you the materials by e-mail today."
+      },
+      {
+        "ja": "ただいま担当者がご説明いたします。",
+        "furigana": "ただいま{担当者|たんとうしゃ}がご{説明|せつめい}いたします。",
+        "zh": "现在由负责人为您说明。",
+        "en": "Our person in charge will explain it to you now."
+      },
+      {
+        "ja": "明日、改めてご連絡いたします。",
+        "furigana": "{明日|あす}、{改|あらた}めてご{連絡|れんらく}いたします。",
+        "zh": "明天我再重新和您联系。",
+        "en": "I will get back in touch with you again tomorrow."
+      }
+    ],
+    "note_zh": "「お〜いたす」不要和尊敬语混着用，「お伺いいたします」属于双重谦让，虽已被广泛接受，但正式写作中「伺います」更安全。",
+    "note_en": "Avoid stacking honorific and humble forms. お伺いいたします doubles up the humble marking; it is widely tolerated in speech, but 伺います is safer in formal writing."
+  },
+  {
+    "id": "k-17",
+    "level": "N3",
+    "track": "keigo",
+    "group": "謙譲語",
+    "pattern": "伺う",
+    "meaning_zh": "（谦让）去／来／问、听说",
+    "meaning_en": "humble verb for go, come, ask, and hear",
+    "formation": "行く・来る・聞く → 伺う（伺います／伺いました／伺っております）",
+    "explain_zh": "「伺う」一个词兼三个意思：去（拜访）、来（到对方那里）、问／听说。主语永远是自己一方，动作的终点或对象是对方。学习者最常犯的错是把它当尊敬语用——「先生が伺います」是错的，老师来要说「いらっしゃいます」。判断意思靠助词：「〜へ／に伺う」是去，「〜を伺う」「〜について伺う」是问，「〜から伺う」是听说。",
+    "explain_en": "伺う covers three meanings at once: to go (visit), to come to where you are, and to ask or to have heard. The subject is always you or your side, and the destination or the person asked is the listener. A frequent error is treating it as honorific: 先生が伺います is wrong; use いらっしゃいます for the teacher. Particles disambiguate: 〜へ伺う is going, 〜を／について伺う is asking, 〜から伺う is having heard.",
+    "examples": [
+      {
+        "ja": "明日、三時に御社へ伺います。",
+        "furigana": "{明日|あす}、{三時|さんじ}に{御社|おんしゃ}へ{伺|うかが}います。",
+        "zh": "明天三点我去贵公司拜访。",
+        "en": "I will visit your company tomorrow at three."
+      },
+      {
+        "ja": "一点お伺いしたいことがあるのですが。",
+        "furigana": "{一点|いってん}お{伺|うかが}いしたいことがあるのですが。",
+        "zh": "有一点想向您请教。",
+        "en": "There is one thing I would like to ask you about."
+      },
+      {
+        "ja": "その件は部長から伺っております。",
+        "furigana": "その{件|けん}は{部長|ぶちょう}から{伺|うかが}っております。",
+        "zh": "那件事我从部长那里听说了。",
+        "en": "I have heard about that matter from our manager."
+      }
+    ],
+    "note_zh": "「伺う」的对象必须是值得尊敬的人。去自己家、去便利店不能说「伺います」，那只是「行きます」。",
+    "note_en": "伺う requires a respected destination or addressee. You cannot 伺う to your own home or a convenience store; that is simply 行きます."
+  },
+  {
+    "id": "k-18",
+    "level": "N3",
+    "track": "keigo",
+    "group": "謙譲語",
+    "pattern": "申す／申し上げる",
+    "meaning_zh": "（谦让）说、叫作",
+    "meaning_en": "humble verb for to say or to be called",
+    "formation": "言う → 申す（丁重语）／申し上げる（対象を高める謙譲語）",
+    "explain_zh": "两者都是「言う」的谦让形，主语必须是自己一方。「申す」侧重于对听话人郑重，常用于自报姓名和转述自己人的话；「申し上げる」把话所指向的对方抬高一层，更郑重，常用于「お礼／お詫び／お願い申し上げます」这类固定搭配。最大的错误是用在对方身上：客户说的话要用尊敬语「おっしゃる」，不能说「お客様が申しました」。",
+    "explain_en": "Both are humble forms of 言う and require a first-person-side subject. 申す is polite toward the listener and is used for introducing yourself or reporting what your own side said. 申し上げる additionally elevates the person you are speaking to and appears in set phrases such as お礼申し上げます. The big mistake is using either for the other party: what a client says takes the honorific おっしゃる, never お客様が申しました.",
+    "examples": [
+      {
+        "ja": "私は営業部の田中と申します。",
+        "furigana": "{私|わたし}は{営業部|えいぎょうぶ}の{田中|たなか}と{申|もう}します。",
+        "zh": "我是营业部的田中。",
+        "en": "My name is Tanaka from the sales department."
+      },
+      {
+        "ja": "ご迷惑をおかけし、心よりお詫び申し上げます。",
+        "furigana": "ご{迷惑|めいわく}をおかけし、{心|こころ}よりお{詫|わ}び{申|もう}し{上|あ}げます。",
+        "zh": "给您添麻烦了，我由衷地向您道歉。",
+        "en": "I sincerely apologize for the trouble we have caused you."
+      },
+      {
+        "ja": "先ほど申し上げた通り、納期は来週の金曜日です。",
+        "furigana": "{先|さき}ほど{申|もう}し{上|あ}げた{通|とお}り、{納期|のうき}は{来週|らいしゅう}の{金曜日|きんようび}です。",
+        "zh": "正如我刚才所说，交货期是下周五。",
+        "en": "As I mentioned earlier, the delivery date is next Friday."
+      }
+    ],
+    "note_zh": "自我介绍时说「田中と申します」自然，说「田中と申し上げます」反而错误，因为名字不是要抬高对方的内容。",
+    "note_en": "When introducing yourself, 田中と申します is natural; 田中と申し上げます is wrong, because your own name is not something addressed to elevate the listener."
+  },
+  {
+    "id": "k-19",
+    "level": "N3",
+    "track": "keigo",
+    "group": "謙譲語",
+    "pattern": "いたす／おる",
+    "meaning_zh": "（谦让）做／在、正在",
+    "meaning_en": "humble verbs for to do and to be",
+    "formation": "する → いたす（いたします）／ いる → おる（おります・〜ております）",
+    "explain_zh": "「いたす」是「する」、「おる」是「いる」的谦让形，主语只能是自己或自己一方（包括自己公司的人、自己的家人）。「〜ております」是「〜ています」的郑重说法，商务场合极常用。最典型的错误是问对方「どちらにおりますか」，这是把对方降低了，应该说「どちらにいらっしゃいますか」。",
+    "explain_en": "いたす is the humble form of する and おる of いる. The subject can only be you or someone on your side, including your colleagues and family. 〜ております is the formal equivalent of 〜ています and is extremely common in business. A typical error is asking the listener どちらにおりますか, which lowers them; use どちらにいらっしゃいますか instead.",
+    "examples": [
+      {
+        "ja": "準備はこちらでいたしますので、ご心配なく。",
+        "furigana": "{準備|じゅんび}はこちらでいたしますので、ご{心配|しんぱい}なく。",
+        "zh": "准备工作由我们这边来做，请不必担心。",
+        "en": "We will take care of the preparations, so please do not worry."
+      },
+      {
+        "ja": "田中はただいま席を外しております。",
+        "furigana": "{田中|たなか}はただいま{席|せき}を{外|はず}しております。",
+        "zh": "田中现在不在座位上。",
+        "en": "Tanaka is away from his desk at the moment."
+      },
+      {
+        "ja": "父は今、出張で大阪におります。",
+        "furigana": "{父|ちち}は{今|いま}、{出張|しゅっちょう}で{大阪|おおさか}におります。",
+        "zh": "我父亲现在出差在大阪。",
+        "en": "My father is in Osaka on a business trip right now."
+      }
+    ],
+    "note_zh": "「知っております」比「知っています」郑重，但对客户说「知りません」时最好用「存じません」，见下一课。",
+    "note_en": "知っております is more formal than 知っています, but when telling a customer you do not know, 存じません is preferable; see the next lesson."
+  },
+  {
+    "id": "k-20",
+    "level": "N3",
+    "track": "keigo",
+    "group": "謙譲語",
+    "pattern": "拝見する／存じる・存じ上げる",
+    "meaning_zh": "（谦让）看／知道、认为",
+    "meaning_en": "humble verbs for to see and to know or think",
+    "formation": "見る → 拝見する ／ 知る・思う → 存じる（事）・存じ上げる（人）",
+    "explain_zh": "「拝見する」是「見る」的谦让形，看的东西必须是对方的（对方的资料、作品、邮件）；自己看自己的资料只能说「見ます」。「存じる」用于事物，「存じ上げる」只用于人，例如「お名前は存じ上げております」。主语始终是自己，问对方是否知道要用尊敬语「ご存じですか」——这是最常见的混淆点，「存じですか」是错的。",
+    "explain_en": "拝見する is the humble form of 見る, and what you look at must belong to the other party: their documents, their work, their e-mail. 存じる is used for facts and 存じ上げる only for people, as in お名前は存じ上げております. The subject is always you, so asking whether the listener knows something requires the honorific ご存じですか; 存じですか is simply wrong.",
+    "examples": [
+      {
+        "ja": "お送りいただいた資料を拝見しました。",
+        "furigana": "お{送|おく}りいただいた{資料|しりょう}を{拝見|はいけん}しました。",
+        "zh": "您发来的资料我已经拜读了。",
+        "en": "I have looked over the materials you sent me."
+      },
+      {
+        "ja": "その件については存じております。",
+        "furigana": "その{件|けん}については{存|ぞん}じております。",
+        "zh": "关于那件事我知道。",
+        "en": "I am aware of that matter."
+      },
+      {
+        "ja": "お名前はかねてより存じ上げております。",
+        "furigana": "お{名前|なまえ}はかねてより{存|ぞん}じ{上|あ}げております。",
+        "zh": "久仰您的大名。",
+        "en": "I have known of your name for some time."
+      }
+    ],
+    "note_zh": "回答不知道时，事情用「存じません」，人用「存じ上げません」。直接说「知りません」在商务场合显得冷淡。",
+    "note_en": "To say you do not know, use 存じません for things and 存じ上げません for people. A bare 知りません sounds curt in business settings."
+  },
+  {
+    "id": "k-21",
+    "level": "N3",
+    "track": "keigo",
+    "group": "謙譲語",
+    "pattern": "いただく／差し上げる",
+    "meaning_zh": "（谦让）领受、吃喝／奉送",
+    "meaning_en": "humble verbs for to receive, to eat or drink, and to give",
+    "formation": "もらう・食べる・飲む → いただく ／ あげる → 差し上げる",
+    "explain_zh": "「いただく」表示自己从对方那里领受，也表示自己吃喝，主语一律是自己一方。「差し上げる」是自己给对方东西，虽然是谦让语，但因为直接点明「我给你」，有时会显得居高临下，实际商务中更常用「お渡しします」「お送りします」。绝对不能说「先生にお菓子をいただきますか」来问对方要不要吃，那要用尊敬语「召し上がりますか」。",
+    "explain_en": "いただく means you receive something from the other party, and also that you eat or drink; the subject is always your side. 差し上げる means you give to the other party. Although humble, it can sound condescending because it spells out that you are giving, so お渡しします or お送りします is often preferred in real business. Never use いただく to offer food to someone else; asking if they will eat requires the honorific 召し上がりますか.",
+    "examples": [
+      {
+        "ja": "それでは、お先にいただきます。",
+        "furigana": "それでは、お{先|さき}にいただきます。",
+        "zh": "那么，我就先吃了。",
+        "en": "Well then, I will start eating before you."
+      },
+      {
+        "ja": "貴重なご意見をいただき、ありがとうございます。",
+        "furigana": "{貴重|きちょう}なご{意見|いけん}をいただき、ありがとうございます。",
+        "zh": "感谢您提出宝贵的意见。",
+        "en": "Thank you for giving us your valuable feedback."
+      },
+      {
+        "ja": "明日の午前中に、こちらからお電話を差し上げます。",
+        "furigana": "{明日|あす}の{午前中|ごぜんちゅう}に、こちらからお{電話|でんわ}を{差|さ}し{上|あ}げます。",
+        "zh": "明天上午由我们这边给您打电话。",
+        "en": "We will give you a call tomorrow morning."
+      }
+    ],
+    "note_zh": "「いただく」和「くださる」方向相反：「資料をいただきました」（我收到）／「資料をくださいました」（对方给我）。两句意思相同，主语不同。",
+    "note_en": "いただく and くださる point in opposite directions: 資料をいただきました focuses on me receiving, 資料をくださいました on the other person giving. Same event, different subject."
+  },
+  {
+    "id": "k-22",
+    "level": "N3",
+    "track": "keigo",
+    "group": "謙譲語",
+    "pattern": "〜ていただく／〜させていただく",
+    "meaning_zh": "请您为我做／承蒙允许我做",
+    "meaning_en": "have someone do something for me / humbly do something with permission",
+    "formation": "动词て形 + いただく ／ 动词使役形（〜せ／させ）+ ていただく",
+    "explain_zh": "「〜ていただく」是请对方为自己做事，受益的是自己，所以是谦让语；「〜させていただく」表示得到对方许可后自己去做，主语依然是自己。判断标准是：动作是对方做的用「〜ていただく」，动作是自己做的用「〜させていただく」。常见错误是滥用后者，像「担当させていただきます」在没有许可关系时会显得过分，直接说「担当いたします」更干脆。",
+    "explain_en": "〜ていただく means the other person does something and you benefit, which is why it is humble. 〜させていただく means you do the action yourself with the other party's implicit permission. The test is simple: if they act, use 〜ていただく; if you act, use 〜させていただく. Overusing the latter is a common flaw; where no permission is actually involved, 担当いたします is cleaner than 担当させていただきます.",
+    "examples": [
+      {
+        "ja": "こちらの用紙にご記入いただけますか。",
+        "furigana": "こちらの{用紙|ようし}にご{記入|きにゅう}いただけますか。",
+        "zh": "可以请您填写这张表格吗？",
+        "en": "Could I ask you to fill out this form?"
+      },
+      {
+        "ja": "本日は早めに帰らせていただきます。",
+        "furigana": "{本日|ほんじつ}は{早|はや}めに{帰|かえ}らせていただきます。",
+        "zh": "今天请允许我早点回去。",
+        "en": "If you don't mind, I will be leaving a little early today."
+      },
+      {
+        "ja": "いただいた資料を確認させていただきました。",
+        "furigana": "いただいた{資料|しりょう}を{確認|かくにん}させていただきました。",
+        "zh": "您给的资料我已经确认过了。",
+        "en": "I have gone through the materials you gave us."
+      }
+    ],
+    "note_zh": "「〜ていただけますか／〜ていただけませんか」是最礼貌的请求方式，比「〜てください」柔和得多。",
+    "note_en": "〜ていただけますか and 〜ていただけませんか are the politest ways to make a request, far softer than 〜てください."
+  },
+  {
+    "id": "k-23",
+    "level": "N2",
+    "track": "keigo",
+    "group": "使い分け",
+    "pattern": "尊敬語↔謙譲語の使い分け",
+    "meaning_zh": "同一个动词的尊敬语与谦让语对照",
+    "meaning_en": "choosing between honorific and humble forms of the same verb",
+    "formation": "対方の動作 → 尊敬語 ／ 自分側の動作 → 謙譲語",
+    "explain_zh": "判断只有一条铁律：看动作的主语是谁。对方（客户、上司、老师）做的动作用尊敬语，自己一方做的动作用谦让语。核心对照表：見る→ご覧になる／拝見する；言う→おっしゃる／申す・申し上げる；行く・来る→いらっしゃる／伺う・参る；いる→いらっしゃる／おる；食べる→召し上がる／いただく；する→なさる／いたす；知る→ご存じだ／存じる。最常见的错误就是把谦让语套在对方身上，比如「社長が申しました」「先生が資料を拝見しました」，前者应为「おっしゃいました」，后者应为「ご覧になりました」。",
+    "explain_en": "There is one iron rule: identify whose action it is. Actions by the other party take honorific forms; actions by you or your side take humble forms. The core pairs are 見る to ご覧になる or 拝見する, 言う to おっしゃる or 申す, 行く and 来る to いらっしゃる or 伺う, いる to いらっしゃる or おる, 食べる to 召し上がる or いただく, する to なさる or いたす, and 知る to ご存じだ or 存じる. The commonest mistake is applying a humble verb to the listener, as in 社長が申しました, which should be おっしゃいました.",
+    "examples": [
+      {
+        "ja": "部長はもう報告書をご覧になりましたか。",
+        "furigana": "{部長|ぶちょう}はもう{報告書|ほうこくしょ}をご{覧|らん}になりましたか。",
+        "zh": "部长已经看过报告书了吗？",
+        "en": "Have you already looked at the report, sir?"
+      },
+      {
+        "ja": "はい、私も昨日拝見しました。",
+        "furigana": "はい、{私|わたし}も{昨日|きのう}{拝見|はいけん}しました。",
+        "zh": "是的，我昨天也拜读了。",
+        "en": "Yes, I looked at it yesterday as well."
+      },
+      {
+        "ja": "社長がおっしゃったことを、私からご説明申し上げます。",
+        "furigana": "{社長|しゃちょう}がおっしゃったことを、{私|わたし}からご{説明|せつめい}{申|もう}し{上|あ}げます。",
+        "zh": "社长说的内容，由我来向您说明。",
+        "en": "Let me explain to you what the president said."
+      }
+    ],
+    "note_zh": "「参る」和「伺う」都对应「行く・来る」，但「伺う」必须有值得尊敬的对象（去客户处），单纯陈述自己移动用「参ります」。",
+    "note_en": "Both 参る and 伺う correspond to 行く and 来る, but 伺う requires a respected destination or person; for a plain statement of your own movement, use 参ります."
+  },
+  {
+    "id": "k-24",
+    "level": "N2",
+    "track": "keigo",
+    "group": "使い分け",
+    "pattern": "身内敬語（ウチとソト）",
+    "meaning_zh": "对外人提到自己公司上司时不用尊敬语",
+    "meaning_en": "no honorifics for your own boss when speaking to outsiders",
+    "formation": "社外の人に対して：自社の上司も謙譲語＋呼び捨て（「部長の山田」→「山田」）",
+    "explain_zh": "日语敬语按「ウチ（自己一方）」和「ソト（外部）」划分。面对客户或其他公司的人时，自己公司的上司属于「ウチ」，因此要降低：不加「さん」，直呼姓氏，动作用谦让语。所以对客户要说「山田はただいま外出しております」，不能说「山田部長はいらっしゃいません」。反过来在公司内部对上司本人说话时，照常用尊敬语。这条规则中国学习者最容易忽略，因为汉语没有这种内外切换。",
+    "explain_en": "Japanese keigo divides the world into uchi, your own group, and soto, everyone outside it. When you speak to a client or another company, your own boss belongs to uchi and must be lowered: drop さん, use the bare surname, and describe their actions with humble verbs. Hence 山田はただいま外出しております to a client, never 山田部長はいらっしゃいません. Inside the company, speaking to that same boss, honorifics return as normal.",
+    "examples": [
+      {
+        "ja": "申し訳ございません、山田はただいま外出しております。",
+        "furigana": "{申|もう}し{訳|わけ}ございません、{山田|やまだ}はただいま{外出|がいしゅつ}しております。",
+        "zh": "非常抱歉，山田现在外出了。",
+        "en": "I am sorry, but Yamada is out of the office at the moment."
+      },
+      {
+        "ja": "担当の鈴木が戻りましたら、折り返しご連絡いたします。",
+        "furigana": "{担当|たんとう}の{鈴木|すずき}が{戻|もど}りましたら、{折|お}り{返|かえ}しご{連絡|れんらく}いたします。",
+        "zh": "负责人铃木回来后，我们会回复您。",
+        "en": "When Suzuki, the person in charge, is back, we will get back to you."
+      },
+      {
+        "ja": "弊社の社長も、そのように申しております。",
+        "furigana": "{弊社|へいしゃ}の{社長|しゃちょう}も、そのように{申|もう}しております。",
+        "zh": "敝公司的社长也是这么说的。",
+        "en": "Our president says the same thing."
+      }
+    ],
+    "note_zh": "家人同理：对外人说自己的父亲用「父」不用「お父さん」，说「父が申しておりました」。",
+    "note_en": "The same applies to family: to outsiders you refer to your father as 父, not お父さん, as in 父が申しておりました."
+  },
+  {
+    "id": "k-25",
+    "level": "N2",
+    "track": "keigo",
+    "group": "ビジネス実践",
+    "pattern": "クッション言葉",
+    "meaning_zh": "缓冲语：恐れ入りますが／申し訳ございませんが／お手数ですが",
+    "meaning_en": "cushion phrases that soften requests and refusals",
+    "formation": "クッション言葉 + 依頼・断り（〜ていただけますか／〜かねます）",
+    "explain_zh": "缓冲语放在请求、拒绝、打断之前，先表达「给您添麻烦了」的心情，主语依然是说话人自己。三个最常用的是：「恐れ入りますが」（麻烦您、劳驾，最万能）、「申し訳ございませんが」（用于拒绝或道歉）、「お手数ですが」（请对方多花一道工序时）。没有缓冲语的直接请求即使用了敬语也会显得生硬，比如「名前を教えてください」加上「恐れ入りますが」立刻柔和许多。",
+    "explain_en": "Cushion phrases go in front of a request, refusal, or interruption to signal that you know you are imposing; the speaker is still the subject. The three workhorses are 恐れ入りますが for any request, 申し訳ございませんが for refusals and apologies, and お手数ですが when the other person has to take an extra step. Without a cushion, even grammatically polite requests sound blunt.",
+    "examples": [
+      {
+        "ja": "恐れ入りますが、少々お待ちいただけますでしょうか。",
+        "furigana": "{恐|おそ}れ{入|い}りますが、{少々|しょうしょう}お{待|ま}ちいただけますでしょうか。",
+        "zh": "不好意思，能请您稍等一下吗？",
+        "en": "I am sorry to trouble you, but could you wait just a moment?"
+      },
+      {
+        "ja": "申し訳ございませんが、その日は都合がつきかねます。",
+        "furigana": "{申|もう}し{訳|わけ}ございませんが、その{日|ひ}は{都合|つごう}がつきかねます。",
+        "zh": "非常抱歉，那天我时间上不方便。",
+        "en": "I am very sorry, but I am afraid that date does not work for me."
+      },
+      {
+        "ja": "お手数ですが、ご確認のほどよろしくお願いいたします。",
+        "furigana": "お{手数|てすう}ですが、ご{確認|かくにん}のほどよろしくお{願|ねが}いいたします。",
+        "zh": "麻烦您了，请您确认一下。",
+        "en": "Sorry for the trouble, but I would appreciate it if you could check."
+      }
+    ],
+    "note_zh": "拒绝时用「〜かねます」比「できません」委婉得多：「対応いたしかねます」＝无法处理，但语气温和。",
+    "note_en": "For refusals, 〜かねます is far gentler than できません: 対応いたしかねます means we cannot handle it, but sounds considerate."
+  },
+  {
+    "id": "k-26",
+    "level": "N2",
+    "track": "keigo",
+    "group": "ビジネス実践",
+    "pattern": "電話応対の定型表現",
+    "meaning_zh": "电话应对固定说法",
+    "meaning_en": "set phrases for handling business phone calls",
+    "formation": "名乗り → お世話になっております → 用件 → 取次ぎ・折り返し",
+    "explain_zh": "电话里看不见表情，所以几乎全靠固定句式。接起电话先自报公司和姓名，然后说「お世話になっております」（无论是否真的受过照顾，这是寒暄）。转接时说「少々お待ちください」，本人不在时说「席を外しております」并提出「折り返しお電話いたしましょうか」。注意主语始终是自己一方，提到本公司同事一律不加「さん」，动作用谦让语。",
+    "explain_en": "On the phone there are no facial cues, so almost everything runs on fixed formulas. Answer by naming your company and yourself, then say お世話になっております as a greeting regardless of the actual history. Use 少々お待ちください when transferring, 席を外しております when the person is away, and offer 折り返しお電話いたしましょうか. Your side is always the subject, colleagues take no さん, and their actions take humble verbs.",
+    "examples": [
+      {
+        "ja": "いつもお世話になっております。ABC商事の田中でございます。",
+        "furigana": "いつもお{世話|せわ}になっております。ABC{商事|しょうじ}の{田中|たなか}でございます。",
+        "zh": "一直承蒙您关照。我是ABC商事的田中。",
+        "en": "Thank you for your continued business. This is Tanaka from ABC Trading."
+      },
+      {
+        "ja": "少々お待ちください。ただいま担当者と代わります。",
+        "furigana": "{少々|しょうしょう}お{待|ま}ちください。ただいま{担当者|たんとうしゃ}と{代|か}わります。",
+        "zh": "请稍等，现在为您转接负责人。",
+        "en": "One moment please. I will put you through to the person in charge."
+      },
+      {
+        "ja": "あいにく鈴木は席を外しております。折り返しお電話いたしましょうか。",
+        "furigana": "あいにく{鈴木|すずき}は{席|せき}を{外|はず}しております。{折|お}り{返|かえ}しお{電話|でんわ}いたしましょうか。",
+        "zh": "很不巧铃木现在不在座位上。要我们回电给您吗？",
+        "en": "Unfortunately Suzuki is away from his desk. Shall we call you back?"
+      }
+    ],
+    "note_zh": "挂断前说「失礼いたします」而不是「さようなら」。听不清时说「恐れ入りますが、お電話が遠いようです」，比「聞こえません」礼貌。",
+    "note_en": "End the call with 失礼いたします rather than さようなら. If you cannot hear, お電話が遠いようです is more polite than saying 聞こえません."
+  },
+  {
+    "id": "k-27",
+    "level": "N1",
+    "track": "keigo",
+    "group": "ビジネス実践",
+    "pattern": "ビジネスメールの定型表現",
+    "meaning_zh": "商务邮件固定表达",
+    "meaning_en": "set phrases for business e-mail",
+    "formation": "宛名 → お世話になっております → 本文 → 依頼・お願い → 結び（よろしくお願い申し上げます）",
+    "explain_zh": "商务邮件是书面语，敬语等级比口语更高，且高度模板化。开头对外公司用「いつも大変お世話になっております」，对社内用「お疲れ様です」。请求时用「〜いただけますと幸いです」「ご確認のほどよろしくお願いいたします」，比口语的「〜てください」得体。结尾固定用「何卒よろしくお願い申し上げます」。主语依然是自己一方，写「ご確認いたします」指自己确认，写「ご確認ください」才是请对方确认，这两个极易写反。",
+    "explain_en": "Business e-mail is written language, so the register is higher than speech and heavily templated. Open with いつも大変お世話になっております to external contacts and お疲れ様です internally. Requests use 〜いただけますと幸いです or ご確認のほどよろしくお願いいたします rather than the spoken 〜てください. Close with 何卒よろしくお願い申し上げます. Note the trap: ご確認いたします means I will check, while ご確認ください asks the reader to check.",
+    "examples": [
+      {
+        "ja": "いつも大変お世話になっております。",
+        "furigana": "いつも{大変|たいへん}お{世話|せわ}になっております。",
+        "zh": "一直以来承蒙您多方关照。",
+        "en": "Thank you very much for your continued support."
+      },
+      {
+        "ja": "ご多忙のところ恐縮ですが、ご確認いただけますと幸いです。",
+        "furigana": "ご{多忙|たぼう}のところ{恐縮|きょうしゅく}ですが、ご{確認|かくにん}いただけますと{幸|さいわ}いです。",
+        "zh": "百忙之中打扰您，若能确认一下将不胜感激。",
+        "en": "I know you are busy, but I would be grateful if you could take a look."
+      },
+      {
+        "ja": "何卒よろしくお願い申し上げます。",
+        "furigana": "{何卒|なにとぞ}よろしくお{願|ねが}い{申|もう}し{上|あ}げます。",
+        "zh": "还请多多关照。",
+        "en": "Thank you very much in advance for your kind cooperation."
+      }
+    ],
+    "note_zh": "「取り急ぎご連絡まで」用于同级或下级，对客户和上司应写完整的「取り急ぎご連絡申し上げます」。",
+    "note_en": "取り急ぎご連絡まで is fine for peers and juniors; to clients and superiors write the full 取り急ぎご連絡申し上げます."
+  },
+  {
+    "id": "k-28",
+    "level": "N1",
+    "track": "keigo",
+    "group": "ビジネス実践",
+    "pattern": "来客応対・面接での敬語",
+    "meaning_zh": "接待来客与面试场合的敬语",
+    "meaning_en": "keigo for receiving visitors and job interviews",
+    "formation": "お迎え → ご案内 → お礼 ／ 面接：させていただく・存じる・伺う の総合運用",
+    "explain_zh": "这一课把前面所有形式综合起来用。接待来客时，对方的动作用尊敬语（「お待ちいただく」「お掛けになってください」），自己的动作用谦让语（「ご案内いたします」「お持ちいたします」）。面试时主语几乎全是自己，因此以谦让语为主：「応募させていただきました」「御社について調べてまいりました」「〜と存じます」。最容易出错的是紧张时把「拝見してください」「伺ってください」这类谦让语误加在对方身上。",
+    "explain_en": "This lesson combines everything so far. When receiving visitors, their actions take honorifics such as お掛けになってください, while yours take humble forms such as ご案内いたします. In an interview nearly every subject is you, so humble forms dominate: 応募させていただきました, 御社について調べてまいりました, 〜と存じます. Under pressure, candidates often misapply humble verbs to the interviewer, producing errors like 拝見してください.",
+    "examples": [
+      {
+        "ja": "本日はお忙しい中、お時間をいただきありがとうございます。",
+        "furigana": "{本日|ほんじつ}はお{忙|いそが}しい{中|なか}、お{時間|じかん}をいただきありがとうございます。",
+        "zh": "感谢您在百忙之中抽出时间。",
+        "en": "Thank you for taking the time to see me today despite your busy schedule."
+      },
+      {
+        "ja": "お待たせいたしました。応接室へご案内いたします。",
+        "furigana": "お{待|ま}たせいたしました。{応接室|おうせつしつ}へご{案内|あんない}いたします。",
+        "zh": "让您久等了，我带您去会客室。",
+        "en": "Thank you for waiting. Let me show you to the reception room."
+      },
+      {
+        "ja": "御社の理念に共感し、応募させていただきました。",
+        "furigana": "{御社|おんしゃ}の{理念|りねん}に{共感|きょうかん}し、{応募|おうぼ}させていただきました。",
+        "zh": "我认同贵公司的理念，因此前来应聘。",
+        "en": "I applied because I strongly identify with your company's philosophy."
+      }
+    ],
+    "note_zh": "面试口语说「御社」，写在书面材料上说「貴社」；离开时说「本日はありがとうございました。失礼いたします」。",
+    "note_en": "Say 御社 when speaking in an interview and write 貴社 in documents. On leaving, close with 本日はありがとうございました。失礼いたします."
+  }
+]

@@ -1,0 +1,478 @@
+[
+  {
+    "id": "g-n1-01",
+    "level": "N1",
+    "track": "grammar",
+    "group": "時点・手段",
+    "pattern": "〜をもって",
+    "meaning_zh": "以……为限（时间）；以……方式（手段）",
+    "meaning_en": "as of (a date); by means of",
+    "formation": "名词 + をもって／をもちまして（郑重）",
+    "explain_zh": "典型的挨拶・公文書专用表达，只出现在公告、通知、致辞、合同和法令中，日常口语绝对不用，说「今日をもって帰る」会让人发笑。两个用法：接时间名词表示某事到此为止或从此生效，常与「終了・閉店・退任・失効」搭配；接手段名词（書面・メール・投票）表示正式的方式，相当于书面语的「〜で」。郑重体「をもちまして」多用于口头致辞和客户通知，比「をもって」更客气。",
+    "explain_en": "A ceremonial and documentary form, restricted to announcements, notices, addresses, contracts and statutes; it never appears in casual speech, where 今日をもって帰る would sound absurd. Two uses: with a time noun it marks the point at which something ends or takes effect, collocating with 終了, 閉店, 退任 or 失効; with a means noun (書面, メール, 投票) it states an official method, a formal equivalent of 〜で. The polite variant をもちまして is used in spoken addresses and customer notices and is more courteous than をもって.",
+    "examples": [
+      {
+        "ja": "本日をもちまして、当店は閉店とさせていただきます。",
+        "furigana": "{本日|ほんじつ}をもちまして、{当店|とうてん}は{閉店|へいてん}とさせていただきます。",
+        "zh": "本店谨于今日结束营业。",
+        "en": "As of today, this store will close its doors."
+      },
+      {
+        "ja": "三月三十一日をもって、当該サービスの提供を終了いたします。",
+        "furigana": "{三月三十一日|さんがつさんじゅういちにち}をもって、{当該|とうがい}サービスの{提供|ていきょう}を{終了|しゅうりょう}いたします。",
+        "zh": "自三月三十一日起，本服务将停止提供。",
+        "en": "The service in question will cease to be provided as of 31 March."
+      },
+      {
+        "ja": "選考結果は書面をもって通知する。",
+        "furigana": "{選考結果|せんこうけっか}は{書面|しょめん}をもって{通知|つうち}する。",
+        "zh": "选拔结果将以书面形式通知。",
+        "en": "The results of the selection will be notified in writing."
+      }
+    ],
+    "note_zh": "还有一个「〜をもってすれば／〜をもってしても」的强调形式，表示「凭借……（也）」，如「彼の実力をもってしても難しい」。",
+    "note_en": "There is also an emphatic 〜をもってすれば / 〜をもってしても meaning 'even with', as in 彼の実力をもってしても難しい."
+  },
+  {
+    "id": "g-n1-02",
+    "level": "N1",
+    "track": "grammar",
+    "group": "到達・帰結",
+    "pattern": "〜に至る／〜に至って",
+    "meaning_zh": "终于达到……的地步；到了……才（为时已晚）",
+    "meaning_en": "reach the point of; only when it came to ...",
+    "formation": "名词／动词辞书形 + に至る（に至って・に至っては・に至るまで）",
+    "explain_zh": "硬い書き言葉，新闻报道、判决书、社史和论文中描述事态最终结局时使用，口语说「〜ことになった」就够了。前项要求是经过长期曲折的过程，最后到达一个极端或重大的结果，因此不能用于琐事。「〜に至って（は）」常含「事到如今才……」的批评语气，后面多接「ようやく・初めて・もはや」；「〜に至るまで」则表示范围极广，从大到小无所不包。",
+    "explain_en": "Stiff written Japanese used in news, court decisions, corporate histories and academic prose to describe how a situation finally turned out; speech makes do with 〜ことになった. The process leading up to it must be long or convoluted and the outcome extreme or consequential, so it is unsuited to trivia. 〜に至って（は）often carries the critical sense of 'only at this late stage', pairing with ようやく, 初めて or もはや, while 〜に至るまで stresses exhaustive scope from the largest matters down to the smallest.",
+    "examples": [
+      {
+        "ja": "交渉は難航し、ついに決裂するに至った。",
+        "furigana": "{交渉|こうしょう}は{難航|なんこう}し、ついに{決裂|けつれつ}するに{至|いた}った。",
+        "zh": "谈判进展艰难，最终走到了破裂的地步。",
+        "en": "The negotiations stalled and ultimately reached the point of collapse."
+      },
+      {
+        "ja": "事態がここに至っては、辞任もやむを得まい。",
+        "furigana": "{事態|じたい}がここに{至|いた}っては、{辞任|じにん}もやむを{得|え}まい。",
+        "zh": "事已至此，辞职恐怕也在所难免。",
+        "en": "Now that matters have come to this, resignation is probably unavoidable."
+      },
+      {
+        "ja": "両社は長期の協議を経て、業務提携に至った。",
+        "furigana": "{両社|りょうしゃ}は{長期|ちょうき}の{協議|きょうぎ}を{経|へ}て、{業務提携|ぎょうむていけい}に{至|いた}った。",
+        "zh": "两家公司经过长期磋商，最终达成了业务合作。",
+        "en": "After lengthy talks, the two companies arrived at a business partnership."
+      }
+    ],
+    "note_zh": "「〜に至っても」表示「即使到了……仍然」，后接否定；不要与表示原因的「〜に至り」混淆，后者只是中止形。",
+    "note_en": "〜に至っても means 'even after reaching' and takes a negative; do not confuse the clipped 〜に至り, which is merely a continuative form."
+  },
+  {
+    "id": "g-n1-03",
+    "level": "N1",
+    "track": "grammar",
+    "group": "根拠・前提",
+    "pattern": "〜を踏まえ",
+    "meaning_zh": "基于……；在充分考虑……的基础上",
+    "meaning_en": "on the basis of, taking ... into account",
+    "formation": "名词 + を踏まえ／を踏まえて／を踏まえた+名词",
+    "explain_zh": "硬い書き言葉兼正式口头汇报用语，会议纪要、政策文件、报告书和商务提案中高频出现，日常会话不用，朋友之间说「〜を考えて」。语感是「把前面的讨论、结果、经验当作立足点，然后再采取下一步行动」，因此前项多为議論・結果・反省・現状・提言这类抽象名词，后项多是判断、提案、决定。与「〜に基づいて」相比，に基づいて强调严格依据（法律・データ），を踏まえ则是参考、消化后再行动，弹性更大。",
+    "explain_en": "Stiff written Japanese that also appears in formal oral briefings: minutes, policy papers, reports and business proposals use it constantly, while friends would just say 〜を考えて. The nuance is taking prior discussion, findings or experience as a footing before acting, so it takes abstract nouns like 議論, 結果, 反省, 現状 or 提言, followed by a judgement, proposal or decision. Against 〜に基づいて: that phrase means strict conformity to a law or dataset, whereas を踏まえ means having considered and absorbed something, allowing more latitude.",
+    "examples": [
+      {
+        "ja": "前回の議論を踏まえ、修正案を提出する。",
+        "furigana": "{前回|ぜんかい}の{議論|ぎろん}を{踏|ふ}まえ、{修正案|しゅうせいあん}を{提出|ていしゅつ}する。",
+        "zh": "基于上次的讨论，提交修正方案。",
+        "en": "Building on the previous discussion, we will submit a revised proposal."
+      },
+      {
+        "ja": "調査結果を踏まえた上で、今後の方針を決定したい。",
+        "furigana": "{調査結果|ちょうさけっか}を{踏|ふ}まえた{上|うえ}で、{今後|こんご}の{方針|ほうしん}を{決定|けってい}したい。",
+        "zh": "希望在充分考虑调查结果之后再决定今后的方针。",
+        "en": "We would like to set our future policy after taking the survey findings into account."
+      },
+      {
+        "ja": "現行制度の課題を踏まえ、法改正が検討されている。",
+        "furigana": "{現行制度|げんこうせいど}の{課題|かだい}を{踏|ふ}まえ、{法改正|ほうかいせい}が{検討|けんとう}されている。",
+        "zh": "基于现行制度存在的问题，正在研究修改法律。",
+        "en": "In light of the problems with the current system, legal revision is under consideration."
+      }
+    ],
+    "note_zh": "不能接具体的物品：「この書類を踏まえて」不自然，应说「この書類の内容を踏まえて」。",
+    "note_en": "It does not take concrete objects: この書類を踏まえて is unnatural; say この書類の内容を踏まえて."
+  },
+  {
+    "id": "g-n1-04",
+    "level": "N1",
+    "track": "grammar",
+    "group": "根拠・判断",
+    "pattern": "〜に鑑みて",
+    "meaning_zh": "鉴于……（依照先例或客观情势判断）",
+    "meaning_en": "in view of, in light of",
+    "formation": "名词 + に鑑み／に鑑みて／に鑑みれば",
+    "explain_zh": "公文書专用的最高正式度表达，出现在法令、判决、行政通知、企业公告和学术论文中，口语和普通邮件里完全不用，说出来会像在念文件。前项必须是客观的外部标准或情势（社会情勢・前例・判例・事の重大性・過去の経験），绝不能接说话人的个人感情，「私の気持ちに鑑みて」是错的。与「〜を踏まえ」的差别在于：を踏まえ是参考自家的讨论结果，に鑑みて是对照更宏观、更权威的既有标准做判断。",
+    "explain_en": "The most formal of these forms, confined to documents: statutes, judgements, administrative notices, corporate announcements and scholarly writing. It is never used in speech or ordinary email, where it would sound like reading aloud from a file. The first element must be an objective external standard or situation (social conditions, precedent, case law, gravity of the matter, past experience) and never a personal feeling, so 私の気持ちに鑑みて is wrong. Against 〜を踏まえ, which builds on one's own prior discussion, に鑑みて measures a case against a larger, authoritative benchmark.",
+    "examples": [
+      {
+        "ja": "昨今の社会情勢に鑑み、開催を見送ることといたしました。",
+        "furigana": "{昨今|さっこん}の{社会情勢|しゃかいじょうせい}に{鑑|かんが}み、{開催|かいさい}を{見送|みおく}ることといたしました。",
+        "zh": "鉴于近来的社会形势，我们决定暂缓举办。",
+        "en": "In view of recent social conditions, we have decided to postpone the event."
+      },
+      {
+        "ja": "事の重大性に鑑みて、厳正な処分が下された。",
+        "furigana": "{事|こと}の{重大性|じゅうだいせい}に{鑑|かんが}みて、{厳正|げんせい}な{処分|しょぶん}が{下|くだ}された。",
+        "zh": "鉴于事态的严重性，作出了严厉的处分。",
+        "en": "In light of the gravity of the matter, a strict penalty was imposed."
+      },
+      {
+        "ja": "過去の判例に鑑みれば、この主張は認められがたい。",
+        "furigana": "{過去|かこ}の{判例|はんれい}に{鑑|かんが}みれば、この{主張|しゅちょう}は{認|みと}められがたい。",
+        "zh": "鉴于以往的判例，这一主张恐怕难以被采纳。",
+        "en": "Judging by past case law, this claim is unlikely to be accepted."
+      }
+    ],
+    "note_zh": "读作「かんがみて」，注意不是「かがみて」；助词用「に」，「を鑑みて」虽有人用，但规范写法是「に鑑みて」。",
+    "note_en": "Read かんがみて, not かがみて. The prescribed particle is に; 〜を鑑みて is widely heard but non-standard."
+  },
+  {
+    "id": "g-n1-05",
+    "level": "N1",
+    "track": "grammar",
+    "group": "逆接",
+    "pattern": "〜ながらも",
+    "meaning_zh": "虽然……却……；尽管……但是……",
+    "meaning_en": "although, even while, and yet",
+    "formation": "动词ます形去ます／イ形容词辞书形／ナ形容词词干／名词 + ながらも",
+    "explain_zh": "硬い書き言葉，散文、报道、人物介绍和推荐信里用来赞扬「虽有不足却仍有成就」，日常口语用「〜けど」。要点是前后必须逆接且主语一致，语感比「〜のに」文雅、克制，不带抱怨。与表示同时进行的「〜ながら」形同义不同，靠「も」区分：「歩きながら話す」是同时，「知っていながらも黙っていた」是逆接。常见搭配有「小さいながらも・狭いながらも・不十分ながらも・残念ながら」。",
+    "explain_en": "Stiff written Japanese found in essays, reporting, profiles and letters of recommendation, typically praising an achievement made despite limitations; speech uses 〜けど. The two clauses must contrast and share a subject, and the tone is more refined and restrained than 〜のに, without any note of complaint. It is distinguished from simultaneous 〜ながら solely by the も: 歩きながら話す is simultaneity, 知っていながらも黙っていた is concession. Frequent collocations include 小さいながらも, 狭いながらも, 不十分ながらも and 残念ながら.",
+    "examples": [
+      {
+        "ja": "小さいながらも、確かな成果を上げつつある。",
+        "furigana": "{小|ちい}さいながらも、{確|たし}かな{成果|せいか}を{上|あ}げつつある。",
+        "zh": "虽然规模不大，却正在取得实实在在的成果。",
+        "en": "Small though it is, it is steadily producing real results."
+      },
+      {
+        "ja": "彼は病を抱えながらも、研究を続けた。",
+        "furigana": "{彼|かれ}は{病|やまい}を{抱|かか}えながらも、{研究|けんきゅう}を{続|つづ}けた。",
+        "zh": "他虽然身患疾病，却仍坚持研究。",
+        "en": "Even while battling illness, he carried on with his research."
+      },
+      {
+        "ja": "不十分ながらも、一定の効果は認められる。",
+        "furigana": "{不十分|ふじゅうぶん}ながらも、{一定|いってい}の{効果|こうか}は{認|みと}められる。",
+        "zh": "尽管尚不充分，但可以确认有一定效果。",
+        "en": "Although incomplete, a certain degree of effect can be recognised."
+      }
+    ],
+    "note_zh": "前后主语必须一致，「兄は忙しいながらも弟は暇だ」是错句，这种对比要用「〜のに対して」。",
+    "note_en": "The subjects must match: 兄は忙しいながらも弟は暇だ is ungrammatical; such contrasts require 〜のに対して."
+  },
+  {
+    "id": "g-n1-06",
+    "level": "N1",
+    "track": "grammar",
+    "group": "目的・禁止",
+    "pattern": "〜べく／〜べからず",
+    "meaning_zh": "为了……（而）；不得……（禁止）",
+    "meaning_en": "in order to; must not, shall not",
+    "formation": "动词辞书形 + べく／べからず／べからざる+名词（する→すべく／なすべく）",
+    "explain_zh": "文語残留形式，属于最硬的书面语。「〜べく」见于新闻、公司公告和论文，表示目的，后项必须是有意志的动作，不能接可能或否定；「〜べからず」只出现在告示牌、标语和引用古训的场合（立入るべからず・初心忘るべからず），现代文书一般改用「〜てはならない」。连体形「べからざる」多用于固定评价「許すべからざる行為」。口语中说这两个形式会显得刻意做作或幽默。",
+    "explain_en": "Surviving classical forms belonging to the stiffest written register. 〜べく expresses purpose in news, corporate announcements and papers, and requires a volitional main clause, never a potential or negative one. 〜べからず appears only on signs, slogans and quoted maxims (立入るべからず, 初心忘るべからず); modern documents prefer 〜てはならない. The attributive べからざる survives in fixed evaluations such as 許すべからざる行為. Using either in conversation sounds deliberately archaic or jokey.",
+    "examples": [
+      {
+        "ja": "原因を究明すべく、第三者委員会が設置された。",
+        "furigana": "{原因|げんいん}を{究明|きゅうめい}すべく、{第三者委員会|だいさんしゃいいんかい}が{設置|せっち}された。",
+        "zh": "为查明原因，设立了第三方委员会。",
+        "en": "A third-party committee was established in order to determine the cause."
+      },
+      {
+        "ja": "関係者以外、立ち入るべからず。",
+        "furigana": "{関係者以外|かんけいしゃいがい}、{立|た}ち{入|い}るべからず。",
+        "zh": "非相关人员不得入内。",
+        "en": "No entry except for authorised personnel."
+      },
+      {
+        "ja": "これは学生として許すべからざる行為である。",
+        "furigana": "これは{学生|がくせい}として{許|ゆる}すべからざる{行為|こうい}である。",
+        "zh": "这是作为学生不可容许的行为。",
+        "en": "This is conduct that cannot be countenanced in a student."
+      }
+    ],
+    "note_zh": "する的形式传统上是「すべく／すべからず」，「するべく」虽被接受但在正式文书中仍以「すべく」为规范。",
+    "note_en": "For する the traditional forms are すべく and すべからず; するべく is tolerated but すべく remains standard in formal documents."
+  },
+  {
+    "id": "g-n1-07",
+    "level": "N1",
+    "track": "grammar",
+    "group": "感情・自発",
+    "pattern": "〜ずにはいられない",
+    "meaning_zh": "忍不住……；不由得……",
+    "meaning_en": "cannot help doing, cannot keep oneself from",
+    "formation": "动词ない形去ない + ずにはいられない（する→せずにはいられない）",
+    "explain_zh": "书面语色彩强，随笔、书评、影评和演讲中表达抑制不住的感情，日常会话说「つい〜てしまう」。语感是感情或冲动自然涌出，主体无法压抑，因此主语原则上是第一人称或作者，第三人称要加「ようだ・らしい・だろう」。与「〜ざるを得ない」方向完全不同：ざるを得ない是外部压力逼迫下不情愿地做，ずにはいられない是内心冲动驱使下自发地做，把「値上げせずにはいられない」用在商务通知里就闹笑话了。",
+    "explain_en": "Strongly written in flavour, used in essays, reviews and speeches for feelings one cannot suppress; conversation says つい〜てしまう. The nuance is a spontaneous welling-up of emotion or impulse, so the subject is normally first person or the writer, and third-person subjects require ようだ, らしい or だろう. It is the opposite of 〜ざるを得ない: that describes reluctant action under external pressure, whereas this describes action driven by inner compulsion, which is why 値上げせずにはいられない in a corporate notice would be comical.",
+    "examples": [
+      {
+        "ja": "あの光景を思い出すと、涙を流さずにはいられない。",
+        "furigana": "あの{光景|こうけい}を{思|おも}い{出|だ}すと、{涙|なみだ}を{流|なが}さずにはいられない。",
+        "zh": "一想起那个情景，就忍不住落泪。",
+        "en": "Whenever I recall that scene, I cannot help but shed tears."
+      },
+      {
+        "ja": "この結末には、誰もが驚かずにはいられないだろう。",
+        "furigana": "この{結末|けつまつ}には、{誰|だれ}もが{驚|おどろ}かずにはいられないだろう。",
+        "zh": "面对这样的结局，任何人恐怕都会不由得吃惊。",
+        "en": "No one, surely, can fail to be astonished by this ending."
+      },
+      {
+        "ja": "あまりの理不尽さに、抗議せずにはいられなかった。",
+        "furigana": "あまりの{理不尽|りふじん}さに、{抗議|こうぎ}せずにはいられなかった。",
+        "zh": "实在太不讲理，我忍不住提出了抗议。",
+        "en": "It was so unreasonable that I could not refrain from protesting."
+      }
+    ],
+    "note_zh": "口语等价形式是「〜ないではいられない」，语气稍软；「〜ずにはおかない」意思不同，表示「必定使……」。",
+    "note_en": "The softer everyday equivalent is 〜ないではいられない. Do not confuse 〜ずにはおかない, which means 'will inevitably bring about'."
+  },
+  {
+    "id": "g-n1-08",
+    "level": "N1",
+    "track": "grammar",
+    "group": "傾向・評価",
+    "pattern": "〜きらいがある",
+    "meaning_zh": "有……的（不好的）倾向",
+    "meaning_en": "tends to (undesirably), has a bent for",
+    "formation": "动词辞书形／动词ない形／名词+の + きらいがある",
+    "explain_zh": "硬い書き言葉，多见于评论、人物评价、审稿意见和社论，口语说「〜がちだ」或「よく〜する」。铁则是只用于负面倾向，「よく笑うきらいがある」是错句；而且指的是性格或体质上长期存在的倾向，不是偶发行为。与「〜がちだ」相比，がちだ中性且可用于自然现象（曇りがち），きらいがある必带批评口吻，因此用在自我评价时是一种谦虚的自省。常与「やや・ともすると・少し」搭配以缓和批评。",
+    "explain_en": "Stiff written Japanese from commentary, character assessments, peer reviews and editorials; speech uses 〜がちだ or よく〜する. The absolute rule is that the tendency must be undesirable, so よく笑うきらいがある is wrong, and it describes a lasting disposition rather than an isolated act. Unlike neutral 〜がちだ, which even covers weather (曇りがち), きらいがある always carries criticism, so applying it to oneself reads as modest self-reflection. It softens with やや, ともすると or 少し.",
+    "examples": [
+      {
+        "ja": "彼は物事を悲観的に捉えるきらいがある。",
+        "furigana": "{彼|かれ}は{物事|ものごと}を{悲観的|ひかんてき}に{捉|とら}えるきらいがある。",
+        "zh": "他有把事情往悲观方面看的倾向。",
+        "en": "He has a tendency to view things pessimistically."
+      },
+      {
+        "ja": "日本人は議論を避けるきらいがあると指摘されてきた。",
+        "furigana": "{日本人|にほんじん}は{議論|ぎろん}を{避|さ}けるきらいがあると{指摘|してき}されてきた。",
+        "zh": "一直有人指出日本人有回避争论的倾向。",
+        "en": "It has long been noted that Japanese people tend to shy away from argument."
+      },
+      {
+        "ja": "この報告書はやや結論を急ぐきらいがある。",
+        "furigana": "この{報告書|ほうこくしょ}はやや{結論|けつろん}を{急|いそ}ぐきらいがある。",
+        "zh": "这份报告有些急于下结论的倾向。",
+        "en": "This report has something of a tendency to rush to conclusions."
+      }
+    ],
+    "note_zh": "汉字写作「嫌いがある」但与「讨厌」无关，现代文书一般写假名，避免误读。",
+    "note_en": "Though written 嫌いがある, it has nothing to do with disliking; modern documents usually write it in kana to avoid confusion."
+  },
+  {
+    "id": "g-n1-09",
+    "level": "N1",
+    "track": "grammar",
+    "group": "逆接条件",
+    "pattern": "〜であれ／〜であろうと",
+    "meaning_zh": "无论是……都（不影响结论）",
+    "meaning_en": "no matter what/who, whether it be",
+    "formation": "名词／疑问词+名词／ナ形容词词干 + であれ／であろうと（であろうが）",
+    "explain_zh": "硬い書き言葉，社论、规章说明、法庭陈述和正式演讲中用来强调「不管什么情况，原则不变」，口语说「〜でも」。后项必须是不受前项影响的判断、原则或结论，多含说话人的强烈态度，因此常与「許されない・変わらない・つもりはない・例外ではない」搭配。「〜であれ〜であれ」并列两项时更显庄重；「〜であろうと」比「〜であれ」更强调假设，二者可互换但都不用于日常琐碎选择。",
+    "explain_en": "Stiff written Japanese used in editorials, rules, courtroom statements and formal speeches to insist that a principle holds regardless of circumstances; speech uses 〜でも. The main clause must be a judgement, principle or conclusion unaffected by the condition, and it usually conveys a firm stance, collocating with 許されない, 変わらない, つもりはない or 例外ではない. Paired 〜であれ〜であれ sounds especially weighty, and 〜であろうと foregrounds the hypothetical slightly more; neither is used for everyday trivial choices.",
+    "examples": [
+      {
+        "ja": "理由が何であれ、規則違反は許されない。",
+        "furigana": "{理由|りゆう}が{何|なん}であれ、{規則違反|きそくいはん}は{許|ゆる}されない。",
+        "zh": "无论理由是什么，违反规定都不被允许。",
+        "en": "Whatever the reason, a breach of the rules cannot be permitted."
+      },
+      {
+        "ja": "相手が誰であろうと、対応を変えるつもりはない。",
+        "furigana": "{相手|あいて}が{誰|だれ}であろうと、{対応|たいおう}を{変|か}えるつもりはない。",
+        "zh": "无论对方是谁，我都无意改变应对方式。",
+        "en": "No matter who the other party may be, I have no intention of changing my response."
+      },
+      {
+        "ja": "どんなに困難であれ、計画は予定どおり進める。",
+        "furigana": "どんなに{困難|こんなん}であれ、{計画|けいかく}は{予定|よてい}どおり{進|すす}める。",
+        "zh": "无论多么困难，计划都将按预定推进。",
+        "en": "However difficult it may be, the plan will proceed on schedule."
+      }
+    ],
+    "note_zh": "接动词时不能直接说「行くであれ」，要用「行こうと（が）」或「行くであろうと」的名词化形式。",
+    "note_en": "It does not attach to verbs directly: not 行くであれ but 行こうと（が）or a nominalised form."
+  },
+  {
+    "id": "g-n1-10",
+    "level": "N1",
+    "track": "grammar",
+    "group": "強調・全否定",
+    "pattern": "〜たりとも",
+    "meaning_zh": "哪怕一……也（不）……",
+    "meaning_en": "not even a single ...",
+    "formation": "一+量词（一日・一円・一瞬・一人） + たりとも + 否定表达",
+    "explain_zh": "文語色彩浓厚的书面语，出现在训示、社训、演讲、新闻评论和严肃报道中，日常口语几乎不说，朋友之间用「一円も」就够了。用法有严格限制：前面必须是「一」加量词的最小单位，后面必须是否定或禁止表达（〜ない・〜てはならない・〜許されない），说「一日たりとも休んだ」是错句。语感是绝对不容许有丝毫例外，比「一日も〜ない」更强硬、更庄重，常用于表决心或严厉要求。",
+    "explain_en": "Heavily classical written style found in exhortations, company mottos, speeches, commentary and serious reporting; ordinary conversation simply says 一円も. The constraints are strict: the phrase must be 一 plus a counter denoting the smallest unit, and the predicate must be negative or prohibitive (〜ない, 〜てはならない, 〜許されない), so 一日たりとも休んだ is ungrammatical. It asserts that not the slightest exception is tolerable, sounding firmer and graver than 一日も〜ない, and suits declarations of resolve or stern demands.",
+    "examples": [
+      {
+        "ja": "一日たりとも気を抜くことはできない。",
+        "furigana": "{一日|いちにち}たりとも{気|き}を{抜|ぬ}くことはできない。",
+        "zh": "哪怕一天也不能松懈。",
+        "en": "We cannot let our guard down for even a single day."
+      },
+      {
+        "ja": "一円たりとも無駄にしてはならない。",
+        "furigana": "{一円|いちえん}たりとも{無駄|むだ}にしてはならない。",
+        "zh": "哪怕一日元也不得浪费。",
+        "en": "Not a single yen must go to waste."
+      },
+      {
+        "ja": "一瞬たりとも目を離さず、状況を注視していた。",
+        "furigana": "{一瞬|いっしゅん}たりとも{目|め}を{離|はな}さず、{状況|じょうきょう}を{注視|ちゅうし}していた。",
+        "zh": "他一刻也不曾移开视线，密切注视着情况。",
+        "en": "Without looking away for even an instant, he kept a close watch on the situation."
+      }
+    ],
+    "note_zh": "「何人たりとも」是固定说法，意为「无论何人」，后面同样接否定或禁止。",
+    "note_en": "何人たりとも ('no person whatsoever') is a set phrase and likewise takes a negative or prohibitive predicate."
+  },
+  {
+    "id": "g-n1-11",
+    "level": "N1",
+    "track": "grammar",
+    "group": "原因・理由",
+    "pattern": "〜ゆえに",
+    "meaning_zh": "因为……；正因为……才",
+    "meaning_en": "owing to, because of, therefore",
+    "formation": "名词（+の）／动词・形容词普通形（+が） + ゆえに（ゆえの+名词）",
+    "explain_zh": "文語出身的硬い書き言葉，哲学论文、法律文书、评论和格言中使用，口语和普通邮件里说「〜から」「〜ので」，用「ゆえに」会显得装腔作势。语感庄重且带有「本质上必然如此」的论断色彩，因此后项多是结论、评价或判断，不用于日常琐碎因果，「お腹が空いたゆえに食べた」很滑稽。接续灵活：名词可加の也可直接接，イ形容词后常插「が」（若いがゆえに），这一点是考试常考点。",
+    "explain_en": "Classical-derived stiff written Japanese used in philosophical papers, legal texts, commentary and aphorisms; speech and ordinary email use 〜から or 〜ので, and ゆえに there would sound pretentious. Its tone is grave and asserts an essential, necessary consequence, so the main clause is a conclusion, evaluation or judgement rather than everyday causation — お腹が空いたゆえに食べた is comical. Attachment is flexible: nouns take の or attach directly, and i-adjectives often insert が (若いがゆえに), a favourite exam point.",
+    "examples": [
+      {
+        "ja": "経験が浅いがゆえに、判断を誤ったのだろう。",
+        "furigana": "{経験|けいけん}が{浅|あさ}いがゆえに、{判断|はんだん}を{誤|あやま}ったのだろう。",
+        "zh": "正因为经验尚浅，才做出了错误的判断吧。",
+        "en": "It was precisely because of his inexperience that he misjudged the situation."
+      },
+      {
+        "ja": "制度が複雑であるゆえに、利用者の理解が進まない。",
+        "furigana": "{制度|せいど}が{複雑|ふくざつ}であるゆえに、{利用者|りようしゃ}の{理解|りかい}が{進|すす}まない。",
+        "zh": "正因为制度复杂，使用者的理解才难以深入。",
+        "en": "Because the system is complex, users struggle to understand it."
+      },
+      {
+        "ja": "若さゆえの過ちとして、寛大に扱われた。",
+        "furigana": "{若|わか}さゆえの{過|あやま}ちとして、{寛大|かんだい}に{扱|あつか}われた。",
+        "zh": "这被视为年轻所致的过失，得到了宽大处理。",
+        "en": "It was treated leniently as a mistake born of youth."
+      }
+    ],
+    "note_zh": "「ゆえに」单独放句首相当于数学证明中的「所以」；修饰名词时必须用「ゆえの」，不能说「ゆえに過ち」。",
+    "note_en": "Sentence-initial ゆえに means 'therefore', as in mathematical proofs. To modify a noun you must use ゆえの, never ゆえに."
+  },
+  {
+    "id": "g-n1-12",
+    "level": "N1",
+    "track": "grammar",
+    "group": "累加・強調",
+    "pattern": "〜もさることながら",
+    "meaning_zh": "……固然不用说，而更……",
+    "meaning_en": "not only ... but even more so ...",
+    "formation": "名词 + もさることながら",
+    "explain_zh": "硬い書き言葉兼正式口头讲评用语，出现在书评、产品评测、颁奖致辞和商务提案中，口语说「〜はもちろん」。语感是先承认前项已经很出色或很重要，再把重点推到后项，因此后项才是说话人真正想强调的内容，前后都应是正面或至少中性的评价。与「〜はもちろん」相比，这个句型更文雅、更带鉴赏口吻；与「〜どころか」完全不同，后者是否定式的对比递进，不能替换。",
+    "explain_en": "Stiff written Japanese that also appears in formal spoken appraisals: book reviews, product write-ups, award citations and business proposals; speech uses 〜はもちろん. It concedes that the first item is already excellent or important, then shifts the weight onto the second, which is the speaker's real emphasis, so both items should be positive or at least neutral. It is more elegant and connoisseurial than 〜はもちろん, and entirely distinct from 〜どころか, a negative contrastive escalation that cannot be substituted.",
+    "examples": [
+      {
+        "ja": "価格もさることながら、品質の高さが評価されている。",
+        "furigana": "{価格|かかく}もさることながら、{品質|ひんしつ}の{高|たか}さが{評価|ひょうか}されている。",
+        "zh": "价格自不必说，更受好评的是品质之高。",
+        "en": "The price is one thing, but it is the high quality that has won praise."
+      },
+      {
+        "ja": "技術力もさることながら、彼の粘り強さには驚かされる。",
+        "furigana": "{技術力|ぎじゅつりょく}もさることながら、{彼|かれ}の{粘|ねば}り{強|づよ}さには{驚|おどろ}かされる。",
+        "zh": "技术实力自不待言，更令人惊叹的是他的坚韧。",
+        "en": "His technical skill goes without saying, but his tenacity is what astonishes."
+      },
+      {
+        "ja": "本人の努力もさることながら、周囲の支援が大きかった。",
+        "furigana": "{本人|ほんにん}の{努力|どりょく}もさることながら、{周囲|しゅうい}の{支援|しえん}が{大|おお}きかった。",
+        "zh": "本人的努力固然重要，周围的支持也起了很大作用。",
+        "en": "His own effort counted for much, but the support around him mattered even more."
+      }
+    ],
+    "note_zh": "只接名词，不能直接接动词句；要说「努力することもさることながら」这样先名词化。",
+    "note_en": "It attaches only to nouns; nominalise first, as in 努力することもさることながら."
+  },
+  {
+    "id": "g-n1-13",
+    "level": "N1",
+    "track": "grammar",
+    "group": "対比",
+    "pattern": "〜にひきかえ",
+    "meaning_zh": "与……相反；跟……比起来（截然不同）",
+    "meaning_en": "in stark contrast to, unlike",
+    "formation": "名词（+の）／动词・形容词普通形+の + にひきかえ",
+    "explain_zh": "书面语，评论、报道和随笔中用于强烈对比，正式公文少见，口语说「〜と違って」。与中性的「〜に対して」差别很大：に対して只是客观并列两面，にひきかえ必带说话人的主观评价，往往一褒一贬，因此说别人时容易显得刻薄，「兄にひきかえ弟は」这类句子含有明显的贬低。前后必须是同类事物的正反对照，若只是单纯列举差异而无评价，应改用「〜に対して」或「〜一方で」。",
+    "explain_en": "Written style used for sharp contrasts in commentary, reporting and essays; it is rare in official documents, and speech uses 〜と違って. It differs sharply from neutral 〜に対して, which merely juxtaposes two sides: にひきかえ always carries the speaker's evaluation, typically praising one side and disparaging the other, so remarks like 兄にひきかえ弟は sound pointedly critical. The two items must be comparable opposites; for a plain statement of difference without judgement, use 〜に対して or 〜一方で.",
+    "examples": [
+      {
+        "ja": "昨年の好調ぶりにひきかえ、今期は苦戦を強いられている。",
+        "furigana": "{昨年|さくねん}の{好調|こうちょう}ぶりにひきかえ、{今期|こんき}は{苦戦|くせん}を{強|し}いられている。",
+        "zh": "与去年的良好势头相反，本期陷入了苦战。",
+        "en": "In stark contrast to last year's strong showing, this term has been a struggle."
+      },
+      {
+        "ja": "兄の慎重さにひきかえ、弟は無鉄砲だ。",
+        "furigana": "{兄|あに}の{慎重|しんちょう}さにひきかえ、{弟|おとうと}は{無鉄砲|むてっぽう}だ。",
+        "zh": "与哥哥的谨慎相反，弟弟则是有勇无谋。",
+        "en": "Unlike his prudent older brother, the younger one is reckless."
+      },
+      {
+        "ja": "都市部の人口増加にひきかえ、地方では過疎化が進む。",
+        "furigana": "{都市部|としぶ}の{人口増加|じんこうぞうか}にひきかえ、{地方|ちほう}では{過疎化|かそか}が{進|すす}む。",
+        "zh": "与城市地区人口增加相反，地方上人口过疏化不断加剧。",
+        "en": "In contrast to population growth in the cities, rural areas continue to depopulate."
+      }
+    ],
+    "note_zh": "接小句时要加「の」：「よく働くのにひきかえ」；汉字可写「〜に引き換え」，但现代文多写假名。",
+    "note_en": "Clauses require の, as in よく働くのにひきかえ. It may be written 〜に引き換え, though kana is more common today."
+  },
+  {
+    "id": "g-n1-14",
+    "level": "N1",
+    "track": "grammar",
+    "group": "非難・禁止",
+    "pattern": "〜まじき",
+    "meaning_zh": "不该有的……；作为……绝不容许的",
+    "meaning_en": "unbecoming, unforgivable (in someone of that position)",
+    "formation": "名词+に + ある + まじき + 名词（或动词辞书形 + まじき + 名词）",
+    "explain_zh": "文語残留形式，属于最硬的书面语，几乎只出现在新闻报道、社论、处分公告和法庭陈述中，口语绝不使用。用法高度固定：几乎总是「〜にあるまじき行為・態度・発言」的形式，先点明身份（教育者・公務員・医師・政治家），再指责其行为与该身份严重不符。它只作连体修饰，不能单独结句，说「彼の行為はまじき」是错的；含有强烈的社会性谴责，比「〜べきではない」严厉得多。",
+    "explain_en": "A surviving classical form at the stiffest end of written Japanese, appearing almost solely in news reports, editorials, disciplinary announcements and courtroom statements, and never in speech. Its use is highly fixed: nearly always 〜にあるまじき行為・態度・発言, naming a role (educator, civil servant, doctor, politician) and condemning conduct grossly inconsistent with it. It only modifies a noun and cannot end a sentence, so 彼の行為はまじき is wrong. It voices strong public censure, far harsher than 〜べきではない.",
+    "examples": [
+      {
+        "ja": "教育者にあるまじき行為として、厳しく批判された。",
+        "furigana": "{教育者|きょういくしゃ}にあるまじき{行為|こうい}として、{厳|きび}しく{批判|ひはん}された。",
+        "zh": "此举被作为教育工作者不该有的行为受到严厉批评。",
+        "en": "It was severely criticised as conduct unbecoming an educator."
+      },
+      {
+        "ja": "公人として許すまじき発言である。",
+        "furigana": "{公人|こうじん}として{許|ゆる}すまじき{発言|はつげん}である。",
+        "zh": "这是作为公众人物绝不可容许的言论。",
+        "en": "These are remarks that cannot be forgiven in a public figure."
+      },
+      {
+        "ja": "医師にあるまじき怠慢だと遺族は訴えた。",
+        "furigana": "{医師|いし}にあるまじき{怠慢|たいまん}だと{遺族|いぞく}は{訴|うった}えた。",
+        "zh": "遗属控诉说，这是作为医生不该有的失职。",
+        "en": "The bereaved family argued that it was negligence unbecoming a physician."
+      }
+    ],
+    "note_zh": "する接「すまじき」，但现代日语几乎只见「あるまじき」这一形式，其他动词用例极少。",
+    "note_en": "する yields すまじき, but in modern Japanese essentially only あるまじき survives; other verbs are vanishingly rare."
+  }
+]

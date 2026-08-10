@@ -1,0 +1,614 @@
+[
+  {
+    "id": "g-n3-01",
+    "level": "N3",
+    "track": "grammar",
+    "group": "変化・決定",
+    "pattern": "〜ようになる",
+    "meaning_zh": "变得……了；开始……了（能力或习惯的变化）",
+    "meaning_en": "come to; get to the point where; start doing (as a new habit or ability)",
+    "formation": "动词辞书形／可能形／ない形 + ようになる（否定常用「〜なくなる」）",
+    "explain_zh": "表示从「以前不……」到「现在……」的变化，重点在结果状态而非动作本身。接可能形时表示能力的获得（読めるようになった＝以前读不了，现在能读了）；接辞书形时表示习惯的养成。注意否定一般说「〜なくなる」，而不是「〜ないようになる」。",
+    "explain_en": "Marks a change from a previous state: something that was not the case has now become the case. With the potential form it expresses a newly gained ability; with the dictionary form it expresses a newly formed habit. For the negative, Japanese normally uses 〜なくなる rather than 〜ないようになる.",
+    "examples": [
+      {
+        "ja": "毎朝走るようになりました。",
+        "furigana": "{毎朝|まいあさ}{走|はし}るようになりました。",
+        "zh": "我开始每天早上跑步了。",
+        "en": "I've started running every morning."
+      },
+      {
+        "ja": "日本語のニュースが聞き取れるようになった。",
+        "furigana": "{日本語|にほんご}のニュースが{聞|き}き{取|と}れるようになった。",
+        "zh": "我变得能听懂日语新闻了。",
+        "en": "I've become able to catch what they say in Japanese news."
+      },
+      {
+        "ja": "息子は野菜を食べるようになりました。",
+        "furigana": "{息子|むすこ}は{野菜|やさい}を{食|た}べるようになりました。",
+        "zh": "我儿子开始肯吃蔬菜了。",
+        "en": "My son has finally started eating vegetables."
+      }
+    ],
+    "note_zh": "「〜ようにする」是「努力去做（主观努力）」，「〜ようになる」是「自然而然变成」，两者不要混用。",
+    "note_en": "Do not confuse 〜ようにする (make an effort to do) with 〜ようになる (come to be that way)."
+  },
+  {
+    "id": "g-n3-02",
+    "level": "N3",
+    "track": "grammar",
+    "group": "変化・決定",
+    "pattern": "〜ことにする／〜ことになる",
+    "meaning_zh": "决定……（自己决定）／（客观上）决定了……",
+    "meaning_en": "decide to do (my own decision) / it has been decided that (external decision)",
+    "formation": "动词辞书形／ない形 + ことにする／ことになる；持续状态用「ことにしている／ことになっている」",
+    "explain_zh": "两者的核心区别在「谁做的决定」：「ことにする」是说话人自己主动做出的决定（我决定戒烟）；「ことになる」是公司、学校、他人或情势造成的客观结果（公司决定派我去大阪）。用「ことにしている」表示自己一直坚持的习惯，用「ことになっている」表示规定、惯例。日本人常用「ことになりました」来婉转宣布自己的决定，以避免显得自我主张过强。",
+    "explain_en": "The difference is who made the decision. 〜ことにする is the speaker's own choice; 〜ことになる presents the outcome as decided by a company, school, other people, or circumstances. 〜ことにしている describes a personal rule you keep, while 〜ことになっている describes an established rule or custom. Japanese speakers often announce even their own decisions with 〜ことになりました to sound modest.",
+    "examples": [
+      {
+        "ja": "来月から毎日運動することにしました。",
+        "furigana": "{来月|らいげつ}から{毎日|まいにち}{運動|うんどう}することにしました。",
+        "zh": "我决定从下个月开始每天运动。",
+        "en": "I've decided to exercise every day starting next month."
+      },
+      {
+        "ja": "来年、大阪へ転勤することになりました。",
+        "furigana": "{来年|らいねん}、{大阪|おおさか}へ{転勤|てんきん}することになりました。",
+        "zh": "（公司决定）我明年要调到大阪去了。",
+        "en": "It's been decided that I'll be transferred to Osaka next year."
+      },
+      {
+        "ja": "体のためにお酒を飲まないことにしています。",
+        "furigana": "{体|からだ}のためにお{酒|さけ}を{飲|の}まないことにしています。",
+        "zh": "为了身体健康，我一直坚持不喝酒。",
+        "en": "I make it a rule not to drink alcohol, for my health."
+      }
+    ],
+    "note_zh": "「〜ことにする」用过去式「ことにした」是「（当时）决定了」，「ことにしている」才是长期习惯，别漏掉「いる」。",
+    "note_en": "〜ことにした = decided (at that moment); 〜ことにしている = keep doing it as a personal rule. Don't drop the いる."
+  },
+  {
+    "id": "g-n3-03",
+    "level": "N3",
+    "track": "grammar",
+    "group": "準備・状態",
+    "pattern": "〜ておく／〜てある",
+    "meaning_zh": "事先做好……／（已经）……着（有人做过后留下的状态）",
+    "meaning_en": "do in advance / leave something done; something has been done (and remains that way)",
+    "formation": "动词て形 + おく（口语缩为「〜とく」）；他动词て形 + ある（「〜が〜てある」）",
+    "explain_zh": "「〜ておく」着眼于动作，表示为将来做准备、或让状态就这样保持下去。「〜てある」着眼于结果状态：有人有意做了某事，现在还保持着那个状态，宾语要用「が」提示。对比「窓が開いている」（只描述开着，可能是风吹的）和「窓が開けてある」（是有人特意打开并保持着的）。",
+    "explain_en": "〜ておく focuses on the action: doing something in advance for a future purpose, or leaving it as it is. 〜てある focuses on the resulting state left behind by someone's deliberate action, and the object is marked with が. Compare 窓が開いている (the window is open, cause unstated) with 窓が開けてある (someone opened it on purpose and left it open).",
+    "examples": [
+      {
+        "ja": "会議の前に資料を読んでおきます。",
+        "furigana": "{会議|かいぎ}の{前|まえ}に{資料|しりょう}を{読|よ}んでおきます。",
+        "zh": "开会前我会先把资料读一遍。",
+        "en": "I'll read through the documents before the meeting."
+      },
+      {
+        "ja": "机の上に地図が貼ってあります。",
+        "furigana": "{机|つくえ}の{上|うえ}に{地図|ちず}が{貼|は}ってあります。",
+        "zh": "桌子上贴着一张地图。",
+        "en": "There's a map put up on the desk."
+      },
+      {
+        "ja": "ビールは冷蔵庫に入れてあるから、自由に飲んでね。",
+        "furigana": "ビールは{冷蔵庫|れいぞうこ}に{入|い}れてあるから、{自由|じゆう}に{飲|の}んでね。",
+        "zh": "啤酒已经放进冰箱里了，随便喝吧。",
+        "en": "I've put the beer in the fridge, so help yourself."
+      }
+    ],
+    "note_zh": "「〜てある」只能接他动词；自动词要用「〜ている」（ドアが閉まっている ○／ドアが閉まってある ✕）。",
+    "note_en": "〜てある only attaches to transitive verbs; use 〜ている with intransitive ones."
+  },
+  {
+    "id": "g-n3-04",
+    "level": "N3",
+    "track": "grammar",
+    "group": "状態の継続",
+    "pattern": "〜たまま／〜っぱなし",
+    "meaning_zh": "就那样……着／一直……着不管（多含责备语气）",
+    "meaning_en": "leaving it as it is / leaving something undone or running (often with criticism)",
+    "formation": "动词た形／名词の／この・その + まま；动词ます形去ます + っぱなし",
+    "explain_zh": "「〜たまま」客观描述某个状态没有改变就做了别的事，中性。「〜っぱなし」由「放す」而来，多带有「本该收拾却放着不管」的负面评价，常见于「つけっぱなし・開けっぱなし・置きっぱなし」。前者可接名词（このまま・昔のまま），后者只接动词。",
+    "explain_en": "〜たまま neutrally describes doing something while a previous state remains unchanged. 〜っぱなし comes from 放す and usually carries criticism: something was left on or left undone when it should have been dealt with. Only 〜まま can follow nouns (このまま, 昔のまま).",
+    "examples": [
+      {
+        "ja": "靴を履いたまま部屋に入らないでください。",
+        "furigana": "{靴|くつ}を{履|は}いたまま{部屋|へや}に{入|はい}らないでください。",
+        "zh": "请不要穿着鞋进房间。",
+        "en": "Please don't come into the room with your shoes on."
+      },
+      {
+        "ja": "窓を開けっぱなしで出かけてしまった。",
+        "furigana": "{窓|まど}を{開|あ}けっぱなしで{出|で}かけてしまった。",
+        "zh": "我竟然开着窗户就出门了。",
+        "en": "I went out and left the window wide open."
+      },
+      {
+        "ja": "電気をつけたまま寝てしまいました。",
+        "furigana": "{電気|でんき}をつけたまま{寝|ね}てしまいました。",
+        "zh": "我开着灯就睡着了。",
+        "en": "I fell asleep with the light still on."
+      }
+    ],
+    "note_zh": "「まま」前面的动词必须是「た形」，不能用辞书形（履いたまま ○／履くまま ✕）。",
+    "note_en": "The verb before まま must be in the た form, not the dictionary form."
+  },
+  {
+    "id": "g-n3-05",
+    "level": "N3",
+    "track": "grammar",
+    "group": "時間・期間",
+    "pattern": "〜うちに／〜間に",
+    "meaning_zh": "趁着……的时候／在……期间（发生了某事）",
+    "meaning_en": "while (taking advantage of a state) / during the time that",
+    "formation": "动词辞书形・ている形・ない形／い形容词／名词の + うちに；同样接续 + 間（あいだ）に",
+    "explain_zh": "「〜うちに」强调「趁着这段时间还没结束、状态还没变」，带有把握时机的语气，所以常和「熱いうちに」「若いうちに」「忘れないうちに」搭配。「〜間に」只是客观地指出某段时间之内发生了一件事，没有「趁机」的含义。另外「〜ないうちに」＝「趁还没……之前」。若后句动作持续整段时间，用「〜間」（不加に）。",
+    "explain_en": "〜うちに stresses taking advantage of a period before it ends or a state before it changes, so it pairs naturally with 熱いうちに, 若いうちに, 忘れないうちに. 〜間に simply states that something happened within a given stretch of time, with no sense of seizing the chance. 〜ないうちに means before something happens. If the action lasts the whole period, use 〜間 without に.",
+    "examples": [
+      {
+        "ja": "熱いうちに召し上がってください。",
+        "furigana": "{熱|あつ}いうちに{召|め}し{上|あ}がってください。",
+        "zh": "请趁热吃。",
+        "en": "Please eat it while it's still hot."
+      },
+      {
+        "ja": "母が出かけている間に、部屋を掃除した。",
+        "furigana": "{母|はは}が{出|で}かけている{間|あいだ}に、{部屋|へや}を{掃除|そうじ}した。",
+        "zh": "趁妈妈出门的时候，我把房间打扫了。",
+        "en": "While my mother was out, I cleaned the room."
+      },
+      {
+        "ja": "若いうちにいろいろな経験をしたほうがいい。",
+        "furigana": "{若|わか}いうちにいろいろな{経験|けいけん}をしたほうがいい。",
+        "zh": "趁年轻的时候多累积一些经验比较好。",
+        "en": "You should have all kinds of experiences while you're still young."
+      }
+    ],
+    "note_zh": "「〜うちに」还有「不知不觉发生变化」的用法：「話しているうちに、眠くなった」。",
+    "note_en": "〜うちに also expresses an unnoticed change: 話しているうちに、眠くなった (as we talked, I got sleepy)."
+  },
+  {
+    "id": "g-n3-06",
+    "level": "N3",
+    "track": "grammar",
+    "group": "限定・強調",
+    "pattern": "〜ばかり（三种用法）",
+    "meaning_zh": "净是……／刚刚……／就差……了",
+    "meaning_en": "nothing but; only / have just done / all that's left is to",
+    "formation": "名词／动词て形 + ばかり（净是）；动词た形 + ばかり（刚刚）；动词辞书形 + ばかりだ（就差）",
+    "explain_zh": "第一种「名词・てばかり」表示「光是、净是」，常含说话人不满：「ゲームばかりしている」。第二种「た形＋ばかり」表示动作刚结束，是说话人主观感觉的「刚才」，可以说「去年入社したばかり」。第三种「辞书形＋ばかりだ」表示万事俱备，只剩这一件事要做。学习时按「净是→刚刚→就差」的顺序记忆最清楚。",
+    "explain_en": "Three uses. With a noun or the て form it means nothing but, often with a note of complaint. With the た form it means have just done, based on the speaker's feeling, so even 去年入社したばかり is fine. With the dictionary form plus だ it means everything is ready and only this remains.",
+    "examples": [
+      {
+        "ja": "弟はゲームばかりしている。",
+        "furigana": "{弟|おとうと}はゲームばかりしている。",
+        "zh": "我弟弟成天光顾着打游戏。",
+        "en": "My little brother does nothing but play games."
+      },
+      {
+        "ja": "さっき昼ご飯を食べたばかりです。",
+        "furigana": "さっき{昼|ひる}ご{飯|はん}を{食|た}べたばかりです。",
+        "zh": "我刚刚才吃过午饭。",
+        "en": "I just ate lunch a moment ago."
+      },
+      {
+        "ja": "準備はできた。あとは出発するばかりだ。",
+        "furigana": "{準備|じゅんび}はできた。あとは{出発|しゅっぱつ}するばかりだ。",
+        "zh": "准备好了，就差出发了。",
+        "en": "Everything's ready; all that's left is to set off."
+      }
+    ],
+    "note_zh": "「〜たばかり」是主观的「刚刚」，「〜たところ」是客观时间上的「刚好……完」，不能互换。",
+    "note_en": "〜たばかり is subjective (\"just recently\"), while 〜たところ is objectively the very moment of completion."
+  },
+  {
+    "id": "g-n3-07",
+    "level": "N3",
+    "track": "grammar",
+    "group": "時点",
+    "pattern": "〜ところだ（〜する／〜している／〜した）",
+    "meaning_zh": "正要……／正在……／刚……完",
+    "meaning_en": "about to do / in the middle of doing / have just done",
+    "formation": "动词辞书形 + ところだ；动词ている + ところだ；动词た形 + ところだ",
+    "explain_zh": "「ところ」原意是「场面、时点」，靠前面动词的形态区分三个时间点：辞书形＝动作还没开始，马上要做；ている形＝正在进行中；た形＝动作刚刚结束。常与「今から・ちょうど・今」搭配。因为指的是时间点，所以不能说「昨日、着いたところだ」这种和明确过去时间并用的句子。",
+    "explain_en": "ところ marks a point on the timeline, and the verb form decides which point: dictionary form = about to start, ている form = in progress, た form = just finished. It pairs with 今から, ちょうど, and 今. Because it names a present point, it does not combine with explicit past time words like 昨日.",
+    "examples": [
+      {
+        "ja": "今から出かけるところです。",
+        "furigana": "{今|いま}から{出|で}かけるところです。",
+        "zh": "我正要出门。",
+        "en": "I'm just about to head out."
+      },
+      {
+        "ja": "今、宿題をしているところだ。",
+        "furigana": "{今|いま}、{宿題|しゅくだい}をしているところだ。",
+        "zh": "我正在做作业呢。",
+        "en": "I'm in the middle of my homework right now."
+      },
+      {
+        "ja": "ちょうど駅に着いたところです。",
+        "furigana": "ちょうど{駅|えき}に{着|つ}いたところです。",
+        "zh": "我刚好到车站。",
+        "en": "I've just this second arrived at the station."
+      }
+    ],
+    "note_zh": "「〜たところ」只能指刚刚完成，若要说较宽的「刚不久」，用「〜たばかり」。",
+    "note_en": "〜たところ means literally just now; for a looser \"recently\" use 〜たばかり."
+  },
+  {
+    "id": "g-n3-08",
+    "level": "N3",
+    "track": "grammar",
+    "group": "推量・伝聞",
+    "pattern": "〜そうだ（様態 vs 伝聞）",
+    "meaning_zh": "看起来……（样态）／听说……（传闻）",
+    "meaning_en": "looks like; seems (appearance) / I hear that (hearsay)",
+    "formation": "様態：动词ます形去ます／い形容词去い／な形容词词干 + そうだ（いい→よさそう、ない→なさそう）；伝聞：动词・形容词普通形 + そうだ（名词だ + そうだ）",
+    "explain_zh": "两者接续完全不同，这是最关键的区分点：样态用「ます形去ます／形容词词干」，如「降りそうだ（看样子要下雨）」；传闻用「普通形（简体句）」，如「降るそうだ（听说会下雨）」。样态是自己用眼睛看到的直觉判断，可以活用为「そうな＋名词」「そうに＋动词」；传闻是转述别人的话，不能活用，常与「〜によると」呼应。注意「おいしいです」不能说「おいしいそうだ（样态）」，样态要说「おいしそうだ」。",
+    "explain_en": "The conjugation is the key difference. Appearance-そうだ attaches to the ます stem or adjective stem: 降りそうだ (it looks like it will rain). Hearsay-そうだ attaches to the plain form: 降るそうだ (I hear it will rain). Appearance is your own visual judgement and can inflect as そうな or そうに; hearsay simply reports someone else's words, never inflects, and often pairs with 〜によると.",
+    "examples": [
+      {
+        "ja": "このケーキ、おいしそうですね。",
+        "furigana": "このケーキ、おいしそうですね。",
+        "zh": "这个蛋糕看起来很好吃呢。",
+        "en": "This cake looks delicious."
+      },
+      {
+        "ja": "天気予報によると、明日は雨が降るそうだ。",
+        "furigana": "{天気予報|てんきよほう}によると、{明日|あした}は{雨|あめ}が{降|ふ}るそうだ。",
+        "zh": "据天气预报说，明天会下雨。",
+        "en": "According to the forecast, it's supposed to rain tomorrow."
+      },
+      {
+        "ja": "今にも雨が降りそうな空だ。",
+        "furigana": "{今|いま}にも{雨|あめ}が{降|ふ}りそうな{空|そら}だ。",
+        "zh": "天色看起来马上就要下雨了。",
+        "en": "The sky looks like it could start raining any moment."
+      }
+    ],
+    "note_zh": "传闻的「そうだ」没有否定和过去形（そうでした ✕），要变的是前面的动词：「降ったそうだ」。",
+    "note_en": "Hearsay そうだ has no past or negative form of its own; change the preceding verb instead (降ったそうだ)."
+  },
+  {
+    "id": "g-n3-09",
+    "level": "N3",
+    "track": "grammar",
+    "group": "推量・比況",
+    "pattern": "〜ようだ／〜みたいだ",
+    "meaning_zh": "好像……（根据亲身感觉的推测）；像……一样",
+    "meaning_en": "it seems (based on my own perception); like; as if",
+    "formation": "动词・い形容词普通形／な形容词＋な／名词＋の + ようだ；普通形（な形容词・名词去だ）+ みたいだ",
+    "explain_zh": "「ようだ」表示说话人根据自己看到、听到、感觉到的具体证据做出的推测，主观性较强，语感慎重（玄関に靴がある→誰か来たようだ）。「みたいだ」意思几乎相同，但是口语形式，接续更简单：名词和な形容词直接加「みたいだ」，不加「の・な」。两者也都能表示比喻「〜のように／〜みたいに」。与「らしい」相比，「ようだ」的依据来自自己，「らしい」的依据来自外部传闻。",
+    "explain_en": "ようだ expresses a guess grounded in what the speaker personally sees, hears, or senses, and sounds careful and subjective. みたいだ means nearly the same but is colloquial and attaches directly to nouns and na-adjectives with no の or な. Both can also express resemblance (〜のように / 〜みたいに). Against らしい, the evidence for ようだ comes from the speaker, while らしい draws on outside information.",
+    "examples": [
+      {
+        "ja": "誰かが来たようだ。玄関に靴がある。",
+        "furigana": "{誰|だれ}かが{来|き}たようだ。{玄関|げんかん}に{靴|くつ}がある。",
+        "zh": "好像有人来了，玄关那儿有鞋。",
+        "en": "It seems someone has come; there are shoes in the entryway."
+      },
+      {
+        "ja": "彼は風邪をひいたみたいだ。",
+        "furigana": "{彼|かれ}は{風邪|かぜ}をひいたみたいだ。",
+        "zh": "他好像感冒了。",
+        "en": "He seems to have caught a cold."
+      },
+      {
+        "ja": "赤ちゃんみたいによく寝る。",
+        "furigana": "{赤|あか}ちゃんみたいによく{寝|ね}る。",
+        "zh": "睡得像婴儿一样香。",
+        "en": "He sleeps as soundly as a baby."
+      }
+    ],
+    "note_zh": "「学生のようだ」（名词＋の）与「学生みたいだ」（名词直接接）接续不同，考试常考。",
+    "note_en": "Note the different attachment: 学生のようだ (noun + の) but 学生みたいだ (bare noun)."
+  },
+  {
+    "id": "g-n3-10",
+    "level": "N3",
+    "track": "grammar",
+    "group": "推量・伝聞",
+    "pattern": "〜らしい",
+    "meaning_zh": "听说……、好像……（根据外部消息的推测）；有……的典型特点",
+    "meaning_en": "apparently; I gather (based on outside information); typical of",
+    "formation": "动词・い形容词普通形／な形容词词干／名词 + らしい（名词后不加の・だ）",
+    "explain_zh": "「らしい」的依据来自外界：别人说的、新闻上看到的、传闻等，说话人自己不完全负责，语感是「听说好像是这样」。和「そうだ（伝聞）」相比，「らしい」多少含有说话人自己的判断；和「ようだ」相比，「ようだ」的根据是自己亲身感知，「らしい」的根据是二手信息。另有一个接名词的用法表示「典型的、有那个样子」，如「男らしい」「学生らしい服装」。",
+    "explain_en": "らしい is based on outside information: what people say, what was on the news, rumour. The speaker does not fully vouch for it. Compared with hearsay そうだ it includes a bit of the speaker's own judgement; compared with ようだ, ようだ rests on first-hand perception while らしい rests on second-hand information. A separate use after a noun means typical of, as in 男らしい or 学生らしい服装.",
+    "examples": [
+      {
+        "ja": "田中さんは来月結婚するらしい。",
+        "furigana": "{田中|たなか}さんは{来月|らいげつ}{結婚|けっこん}するらしい。",
+        "zh": "听说田中先生下个月要结婚。",
+        "en": "Apparently Tanaka is getting married next month."
+      },
+      {
+        "ja": "あの店は今日休みらしいよ。",
+        "furigana": "あの{店|みせ}は{今日|きょう}{休|やす}みらしいよ。",
+        "zh": "那家店今天好像休息。",
+        "en": "That shop seems to be closed today."
+      },
+      {
+        "ja": "彼はいつも優しくて、男らしい人だ。",
+        "furigana": "{彼|かれ}はいつも{優|やさ}しくて、{男|おとこ}らしい{人|ひと}だ。",
+        "zh": "他总是很温柔，是个有男子气概的人。",
+        "en": "He's always kind, a truly manly sort of person."
+      }
+    ],
+    "note_zh": "名词直接接「らしい」（休みらしい ○／休みだらしい ✕）。",
+    "note_en": "Attach らしい straight onto a noun; do not insert だ."
+  },
+  {
+    "id": "g-n3-11",
+    "level": "N3",
+    "track": "grammar",
+    "group": "確信・当然",
+    "pattern": "〜はずだ／〜はずがない",
+    "meaning_zh": "按理说应该……／不可能……",
+    "meaning_en": "ought to be; should be / there's no way that",
+    "formation": "动词・い形容词普通形／な形容词＋な／名词＋の + はずだ・はずがない",
+    "explain_zh": "「はずだ」表示说话人根据已知的道理、约定或情况，推断「照理来说应该是这样」，确信度较高但仍是推测。「はずがない」是强烈否定的推测：「按理说绝不可能」。要与「わけだ」区分：「はずだ」是对未确认事实的事前推断（もう着いているはずだ），「わけだ」是知道原因后对已发生事实的恍然大悟（どうりで寒いわけだ）。",
+    "explain_en": "はずだ says that, reasoning from known facts, promises, or circumstances, something ought to be the case: a confident but still unconfirmed inference. はずがない is its strong denial, there is no way. Keep it apart from わけだ: はずだ is a prediction about something unverified, while わけだ is the realisation that an already known fact makes sense now that you see the reason.",
+    "examples": [
+      {
+        "ja": "彼は昨日出発したから、もう着いているはずだ。",
+        "furigana": "{彼|かれ}は{昨日|きのう}{出発|しゅっぱつ}したから、もう{着|つ}いているはずだ。",
+        "zh": "他昨天就出发了，按理说应该已经到了。",
+        "en": "He set off yesterday, so he should have arrived by now."
+      },
+      {
+        "ja": "そんな高いものが売れるはずがない。",
+        "furigana": "そんな{高|たか}いものが{売|う}れるはずがない。",
+        "zh": "那么贵的东西不可能卖得出去。",
+        "en": "There's no way something that expensive will sell."
+      },
+      {
+        "ja": "おかしいな、鍵をかけたはずなのに。",
+        "furigana": "おかしいな、{鍵|かぎ}をかけたはずなのに。",
+        "zh": "奇怪，我明明应该锁了门的。",
+        "en": "That's odd; I'm sure I locked the door."
+      }
+    ],
+    "note_zh": "「〜はずだった」表示「本来应该……（结果没实现）」：今日来るはずだったのに。",
+    "note_en": "〜はずだった means it was supposed to happen but didn't."
+  },
+  {
+    "id": "g-n3-12",
+    "level": "N3",
+    "track": "grammar",
+    "group": "確信・当然",
+    "pattern": "〜わけだ／〜わけがない",
+    "meaning_zh": "怪不得……、也就是说……／不可能……",
+    "meaning_en": "that's why; that means; no wonder / there's no way that",
+    "formation": "动词・い形容词普通形／な形容词＋な／名词＋の + わけだ・わけがない",
+    "explain_zh": "「わけだ」用于知道原因或前提之后，对眼前的事实表示「原来如此，难怪」，或对前句内容做逻辑上的换算（＝也就是说）。常与「どうりで」搭配。「わけがない」表示从道理上判断「绝不可能」，语气比「はずがない」更主观强烈。核心对比：「はずだ」是「（我推测）应该是」，「わけだ」是「（已经知道结果）难怪是」。",
+    "explain_en": "わけだ is used once you learn the reason, to say no wonder, or to restate something as a logical conclusion (that means). It often pairs with どうりで. わけがない denies something as logically impossible, and sounds more emphatic and subjective than はずがない. The core contrast: はずだ predicts what should be true, while わけだ explains why something already known makes sense.",
+    "examples": [
+      {
+        "ja": "十年も日本に住んでいたのか。日本語が上手なわけだ。",
+        "furigana": "{十年|じゅうねん}も{日本|にほん}に{住|す}んでいたのか。{日本語|にほんご}が{上手|じょうず}なわけだ。",
+        "zh": "原来他在日本住了十年啊，怪不得日语这么好。",
+        "en": "So he lived in Japan for ten years? No wonder his Japanese is good."
+      },
+      {
+        "ja": "初心者にこの問題が解けるわけがない。",
+        "furigana": "{初心者|しょしんしゃ}にこの{問題|もんだい}が{解|と}けるわけがない。",
+        "zh": "初学者不可能解得开这道题。",
+        "en": "There's no way a beginner could solve this problem."
+      },
+      {
+        "ja": "窓が開いていた。どうりで寒いわけだ。",
+        "furigana": "{窓|まど}が{開|あ}いていた。どうりで{寒|さむ}いわけだ。",
+        "zh": "窗户开着呢，怪不得这么冷。",
+        "en": "The window was open. No wonder it's cold."
+      }
+    ],
+    "note_zh": "「〜わけではない」是部分否定「并不是说……」，与「わけがない（绝不可能）」意思差很多。",
+    "note_en": "〜わけではない is a partial denial (\"it's not that…\"), quite different from わけがない (\"impossible\")."
+  },
+  {
+    "id": "g-n3-13",
+    "level": "N3",
+    "track": "grammar",
+    "group": "比例・程度",
+    "pattern": "〜ば〜ほど",
+    "meaning_zh": "越……越……",
+    "meaning_en": "the more … the more …",
+    "formation": "动词ば形 + 辞书形 + ほど；い形容词ければ + い + ほど；な形容词ならば + な + ほど（同一词重复）",
+    "explain_zh": "表示随着前项程度的提高，后项也随之变化，前后必须是同一个词，先用假定形「ば」，再用原形加「ほど」。な形容词和名词也可用「〜であればあるほど」。口语中有时省略前半，只说「〜ほど」，如「多いほどいい」。",
+    "explain_en": "Expresses that as one thing increases, so does the other. The same word is repeated: first in the ば conditional, then in its plain form before ほど. Na-adjectives and nouns can use 〜であればあるほど. In casual speech the first half is sometimes dropped, leaving just 〜ほど.",
+    "examples": [
+      {
+        "ja": "練習すればするほど上手になります。",
+        "furigana": "{練習|れんしゅう}すればするほど{上手|じょうず}になります。",
+        "zh": "越练习就越熟练。",
+        "en": "The more you practise, the better you get."
+      },
+      {
+        "ja": "値段は安ければ安いほどいい。",
+        "furigana": "{値段|ねだん}は{安|やす}ければ{安|やす}いほどいい。",
+        "zh": "价格越便宜越好。",
+        "en": "The cheaper the price, the better."
+      },
+      {
+        "ja": "考えれば考えるほど分からなくなる。",
+        "furigana": "{考|かんが}えれば{考|かんが}えるほど{分|わ}からなくなる。",
+        "zh": "越想越搞不懂了。",
+        "en": "The more I think about it, the less I understand."
+      }
+    ],
+    "note_zh": "前后两处必须是同一个词，写成「練習すれば上手なほど」是错的。",
+    "note_en": "Both slots must be the same word; mixing two different words is ungrammatical."
+  },
+  {
+    "id": "g-n3-14",
+    "level": "N3",
+    "track": "grammar",
+    "group": "第三者の感情",
+    "pattern": "〜がる／〜たがる",
+    "meaning_zh": "（第三者）显得……、想要……",
+    "meaning_en": "show signs of feeling; (a third person) wants to",
+    "formation": "い形容词・な形容词词干 + がる；动词ます形去ます + たがる（持续状态用「〜たがっている」）",
+    "explain_zh": "日语里表示感情、欲望的词（ほしい・こわい・うれしい・〜たい）原则上只能用于第一人称，说第三者时要加「がる」，把内心感受转成外在表现。加了「がる」之后变成动词，因此宾语用「を」：「彼はパソコンを欲しがっている」。描述当下的状态多用「〜がっている」，「〜がる」表示一般性的倾向。",
+    "explain_en": "Words for emotion and desire (ほしい, こわい, うれしい, 〜たい) normally describe only the speaker. To talk about a third person, add がる, which turns the inner feeling into observable behaviour. The result is a verb, so its object takes を: 彼はパソコンを欲しがっている. Use 〜がっている for a current state and 〜がる for a general tendency.",
+    "examples": [
+      {
+        "ja": "子供が新しいゲームを欲しがっている。",
+        "furigana": "{子供|こども}が{新|あたら}しいゲームを{欲|ほ}しがっている。",
+        "zh": "孩子很想要新游戏。",
+        "en": "My child is dying to have the new game."
+      },
+      {
+        "ja": "妹は暗い所を怖がる。",
+        "furigana": "{妹|いもうと}は{暗|くら}い{所|ところ}を{怖|こわ}がる。",
+        "zh": "我妹妹怕黑的地方。",
+        "en": "My little sister is afraid of dark places."
+      },
+      {
+        "ja": "弟は今年、留学したがっています。",
+        "furigana": "{弟|おとうと}は{今年|ことし}、{留学|りゅうがく}したがっています。",
+        "zh": "我弟弟今年想去留学。",
+        "en": "My younger brother wants to study abroad this year."
+      }
+    ],
+    "note_zh": "「ほしい」的对象用「が」，但「ほしがる」的对象要用「を」，这是常见错误。",
+    "note_en": "ほしい takes が for its object, but ほしがる takes を — a very common mistake."
+  },
+  {
+    "id": "g-n3-15",
+    "level": "N3",
+    "track": "grammar",
+    "group": "完了・限界",
+    "pattern": "〜きる／〜きれない",
+    "meaning_zh": "……完、彻底……／……不完、无法完全……",
+    "meaning_en": "do completely; finish doing / cannot finish; cannot fully do",
+    "formation": "动词ます形去ます + きる／きれる／きれない",
+    "explain_zh": "「〜きる」表示把动作彻底做到最后，强调「完成到极限」，如「読みきる（读完整本）」「走りきる（跑完全程）」，也可表示程度到极点（疲れきる＝累坏了）。可能形「〜きれる／〜きれない」表示「做得完／做不完」，「数えきれないほど」是常用固定说法。与单纯的「〜終わる」相比，「〜きる」更强调达成极限、毫无剩余。",
+    "explain_en": "〜きる means carrying an action through to the very end, as in 読みきる (read the whole thing) or 走りきる (run the entire distance); it can also mean reaching an extreme (疲れきる = utterly exhausted). The potential forms 〜きれる and 〜きれない say whether you can finish, and 数えきれないほど is a set phrase. Compared with plain 〜終わる, 〜きる stresses that nothing at all is left over.",
+    "examples": [
+      {
+        "ja": "この本を一晩で読みきった。",
+        "furigana": "この{本|ほん}を{一晩|ひとばん}で{読|よ}みきった。",
+        "zh": "我一个晚上就把这本书读完了。",
+        "en": "I read this whole book in one night."
+      },
+      {
+        "ja": "料理が多すぎて食べきれません。",
+        "furigana": "{料理|りょうり}が{多|おお}すぎて{食|た}べきれません。",
+        "zh": "菜太多了，吃不完。",
+        "en": "There's so much food that I can't finish it."
+      },
+      {
+        "ja": "最後まで走りきることができた。",
+        "furigana": "{最後|さいご}まで{走|はし}りきることができた。",
+        "zh": "我成功跑完了全程。",
+        "en": "I managed to run all the way to the finish."
+      }
+    ],
+    "note_zh": "「食べ終わる」只是「吃完这个动作结束」，「食べきる」强调「一点不剩」。",
+    "note_en": "食べ終わる just ends the act of eating; 食べきる stresses that nothing was left."
+  },
+  {
+    "id": "g-n3-16",
+    "level": "N3",
+    "track": "grammar",
+    "group": "傾向",
+    "pattern": "〜がち／〜気味",
+    "meaning_zh": "容易……、往往……／有点……的感觉",
+    "meaning_en": "tend to; be prone to / a touch of; feeling slightly",
+    "formation": "动词ます形去ます／名词 + がち；动词ます形去ます／名词 + 気味（ぎみ）",
+    "explain_zh": "「〜がち」表示某种情况发生的频率高、容易发生，几乎都用于消极的事：「忘れがち」「休みがち」「病気になりがち」。「〜気味」表示「稍微有那么一点倾向」，程度轻，重点在说话人自身的感觉：「風邪気味」「疲れ気味」「太り気味」。简单记：「がち」＝次数多，「気味」＝程度轻。",
+    "explain_en": "〜がち says something happens often or easily, and is almost always negative: 忘れがち, 休みがち, 病気になりがち. 〜気味 says there is a slight touch of something, usually about how the speaker feels: 風邪気味, 疲れ気味, 太り気味. In short, がち is about frequency and 気味 is about a mild degree.",
+    "examples": [
+      {
+        "ja": "最近、忘れがちなので、メモを取っている。",
+        "furigana": "{最近|さいきん}、{忘|わす}れがちなので、メモを{取|と}っている。",
+        "zh": "最近容易忘事，所以我都做笔记。",
+        "en": "I've been forgetful lately, so I take notes."
+      },
+      {
+        "ja": "冬は病気になりがちだ。",
+        "furigana": "{冬|ふゆ}は{病気|びょうき}になりがちだ。",
+        "zh": "冬天容易生病。",
+        "en": "People tend to get sick in winter."
+      },
+      {
+        "ja": "少し風邪気味なので、早く帰ります。",
+        "furigana": "{少|すこ}し{風邪気味|かぜぎみ}なので、{早|はや}く{帰|かえ}ります。",
+        "zh": "我有点感冒的感觉，所以早点回去。",
+        "en": "I feel like I'm coming down with a cold, so I'll head home early."
+      }
+    ],
+    "note_zh": "「〜がち」几乎不用于好事，「成功しがち」这种说法不自然。",
+    "note_en": "〜がち is rarely used for good things; 成功しがち sounds unnatural."
+  },
+  {
+    "id": "g-n3-17",
+    "level": "N3",
+    "track": "grammar",
+    "group": "確信",
+    "pattern": "〜に違いない",
+    "meaning_zh": "一定是……、肯定……",
+    "meaning_en": "must be; I'm certain that",
+    "formation": "动词・い形容词普通形／な形容词词干／名词 + に違いない（名词・な形容词后不加だ）",
+    "explain_zh": "表示说话人根据某种根据做出的强烈断定，确信度比「はずだ」「だろう」都高，接近汉语的「一定是」。多用于书面语和郑重的口语，口语中也说「〜に決まっている」（更主观、更强硬）。因为是主观判断，不能用于陈述客观事实。",
+    "explain_en": "Expresses a strong conviction based on some evidence, more certain than はずだ or だろう, close to English \"must be\". It is common in writing and careful speech; casual speech often uses 〜に決まっている, which is blunter. Since it is a personal judgement, it is not used to state objective facts.",
+    "examples": [
+      {
+        "ja": "電気が消えている。もう寝たに違いない。",
+        "furigana": "{電気|でんき}が{消|き}えている。もう{寝|ね}たに{違|ちが}いない。",
+        "zh": "灯关着，他肯定已经睡了。",
+        "en": "The lights are off; he must have gone to bed already."
+      },
+      {
+        "ja": "この字は彼が書いたに違いない。",
+        "furigana": "この{字|じ}は{彼|かれ}が{書|か}いたに{違|ちが}いない。",
+        "zh": "这个字一定是他写的。",
+        "en": "This handwriting must be his."
+      },
+      {
+        "ja": "一人でやったなら、大変だったに違いない。",
+        "furigana": "{一人|ひとり}でやったなら、{大変|たいへん}だったに{違|ちが}いない。",
+        "zh": "如果是一个人做的，那肯定很辛苦。",
+        "en": "If he did it alone, it must have been tough."
+      }
+    ],
+    "note_zh": "名词后直接接（学生に違いない ○／学生だに違いない ✕）。",
+    "note_en": "Attach directly to a noun: 学生に違いない, not 学生だに違いない."
+  },
+  {
+    "id": "g-n3-18",
+    "level": "N3",
+    "track": "grammar",
+    "group": "対比・強調",
+    "pattern": "〜どころか",
+    "meaning_zh": "别说……了，就连……也……；哪里是……，反而……",
+    "meaning_en": "far from; let alone; not only not … but on the contrary",
+    "formation": "动词・い形容词普通形／な形容词词干（＋な）／名词 + どころか",
+    "explain_zh": "前面提出一个程度较高的事项，然后否定它，并指出实际情况在相反或更低的一端，语气强烈。有两种典型格式：一是「AどころかBも／さえ」，B是比A更基本的事（漢字どころかひらがなも読めない）；二是「Aどころか、反而B」，表示与预期完全相反（止むどころか強くなった）。后句常带「ますます・かえって・逆に」。",
+    "explain_en": "You raise something as a possibility, reject it, and show that reality lies at the opposite or a much lower extreme, with strong emphasis. Two typical patterns: A どころか B も／さえ, where B is even more basic than A, and A どころか followed by the opposite outcome. The second clause often contains ますます, かえって, or 逆に.",
+    "examples": [
+      {
+        "ja": "彼は漢字どころか、ひらがなも読めない。",
+        "furigana": "{彼|かれ}は{漢字|かんじ}どころか、ひらがなも{読|よ}めない。",
+        "zh": "他别说汉字了，连平假名都不会读。",
+        "en": "Far from kanji, he can't even read hiragana."
+      },
+      {
+        "ja": "雨は止むどころか、ますます強くなった。",
+        "furigana": "{雨|あめ}は{止|や}むどころか、ますます{強|つよ}くなった。",
+        "zh": "雨非但没停，反而越下越大。",
+        "en": "Far from letting up, the rain got even heavier."
+      },
+      {
+        "ja": "休むどころか、週末も働いていた。",
+        "furigana": "{休|やす}むどころか、{週末|しゅうまつ}も{働|はたら}いていた。",
+        "zh": "别说休息了，他连周末都在工作。",
+        "en": "Far from resting, he was working on the weekend too."
+      }
+    ],
+    "note_zh": "「〜どころではない」是「没心情／没条件做……」，与「どころか」意思不同，别搞混。",
+    "note_en": "〜どころではない means \"this is no time for…\", which is different from どころか."
+  }
+]

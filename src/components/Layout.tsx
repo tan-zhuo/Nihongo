@@ -27,6 +27,9 @@ function NavIcon({ name }: { name: string }) {
   if (name === 'kana') {
     return <span className="flex h-5 w-5 items-center justify-center text-[15px] leading-none">あ</span>
   }
+  if (name === 'grammar') {
+    return <span className="flex h-5 w-5 items-center justify-center font-serif text-[15px] leading-none">文</span>
+  }
   return (
     <svg
       viewBox="0 0 24 24"
@@ -45,10 +48,14 @@ function NavIcon({ name }: { name: string }) {
 const NAV_ITEMS = [
   { to: '/', key: 'home', icon: 'home', end: true },
   { to: '/kana', key: 'kana', icon: 'kana' },
+  { to: '/grammar', key: 'grammar', icon: 'grammar' },
   { to: '/articles', key: 'articles', icon: 'articles' },
   { to: '/vocab', key: 'vocab', icon: 'vocab' },
   { to: '/stats', key: 'stats', icon: 'stats' },
 ]
+
+// The bottom tab bar drops Home — the logo already goes there — to stay legible at 375px.
+const TAB_ITEMS = NAV_ITEMS.filter((i) => i.key !== 'home')
 
 export default function Layout() {
   const { t, i18n } = useTranslation()
@@ -148,6 +155,8 @@ export default function Layout() {
             {t('feedback.title')}
           </button>
         </p>
+        {/* Required by the VOICEVOX terms for the pre-generated audio. */}
+        <p className="mt-2 text-[11px] text-stone-300">音声: VOICEVOX:四国めたん</p>
       </footer>
 
       {feedbackOpen && (
@@ -185,7 +194,7 @@ export default function Layout() {
       {/* Mobile bottom tab bar */}
       <nav className="fixed inset-x-0 bottom-0 z-10 border-t border-stone-200/70 bg-paper/95 pb-[env(safe-area-inset-bottom)] backdrop-blur sm:hidden">
         <div className="flex">
-          {NAV_ITEMS.map((item) => (
+          {TAB_ITEMS.map((item) => (
             <NavLink key={item.to} to={item.to} end={item.end} className={tabCls}>
               <NavIcon name={item.icon} />
               {t(`nav.${item.key}`)}

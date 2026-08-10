@@ -5,6 +5,7 @@ import Home from './pages/Home'
 
 const Articles = lazy(() => import('./pages/Articles'))
 const Kana = lazy(() => import('./pages/Kana'))
+const Grammar = lazy(() => import('./pages/Grammar'))
 const Practice = lazy(() => import('./pages/Practice'))
 const Vocab = lazy(() => import('./pages/Vocab'))
 const Stats = lazy(() => import('./pages/Stats'))
@@ -29,6 +30,10 @@ export default function App() {
         <Route
           path="/kana"
           element={<Suspense fallback={null}><Kana /></Suspense>}
+        />
+        <Route
+          path="/grammar"
+          element={<Suspense fallback={null}><Grammar /></Suspense>}
         />
         <Route
           path="/stats"

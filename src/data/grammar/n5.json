@@ -1,0 +1,382 @@
+[
+ {
+  "id": "g-n5-01",
+  "level": "N5",
+  "track": "grammar",
+  "group": "判断・断定",
+  "pattern": "AはBです",
+  "meaning_zh": "A是B",
+  "meaning_en": "A is B",
+  "formation": "名词 + は + 名词 + です",
+  "explain_zh": "日语最基础的判断句。は读作「わ」，它不是「主语标记」，而是「提示话题」：把A拎出来当话题，后面再说明。です是礼貌体的判断词，相当于中文的「是」，但中文的「是」可以省略而日语的です一般不能省。和中文最大的差别是语序：日语把「です」放句尾，所以听到最后才知道是肯定还是否定。",
+  "explain_en": "The most basic Japanese sentence pattern. は (pronounced 'wa') marks the topic, not the grammatical subject: it lifts A out as 'as for A' and the rest comments on it. です is the polite copula, roughly 'is/am/are', and unlike English it always sits at the very end of the sentence.",
+  "examples": [
+   {"ja": "わたしは学生です。", "furigana": "わたしは{学生|がくせい}です。", "zh": "我是学生。", "en": "I am a student."},
+   {"ja": "田中さんは先生です。", "furigana": "{田中|たなか}さんは{先生|せんせい}です。", "zh": "田中先生是老师。", "en": "Mr. Tanaka is a teacher."},
+   {"ja": "これは本です。", "furigana": "これは{本|ほん}です。", "zh": "这是书。", "en": "This is a book."}
+  ],
+  "note_zh": "は作助词时一定读「わ」，不读「は」。另外不要对自己以外的人乱用さん，说自己时不加さん。",
+  "note_en": "The particle は is always read 'wa'. Also, never attach さん to your own name."
+ },
+ {
+  "id": "g-n5-02",
+  "level": "N5",
+  "track": "grammar",
+  "group": "判断・断定",
+  "pattern": "〜ではありません / 〜じゃないです",
+  "meaning_zh": "不是〜",
+  "meaning_en": "is not ...",
+  "formation": "名词 + は + 名词 + ではありません（＝じゃないです / じゃありません）",
+  "explain_zh": "です的否定形。ではありません偏书面、正式，会话里常缩成じゃないです或じゃありません，语气更轻松。注意中文说「我不是学生」只要加「不」，日语则要把句尾整个换掉，这是初学者最容易漏的地方。写文章、正式场合用ではありません，跟朋友聊天用じゃないです就够了。",
+  "explain_en": "The negative of です. ではありません is the formal written form; in speech it usually contracts to じゃないです or じゃありません. Unlike English, where you just insert 'not', Japanese replaces the whole sentence-ending copula.",
+  "examples": [
+   {"ja": "わたしは日本人ではありません。", "furigana": "わたしは{日本人|にほんじん}ではありません。", "zh": "我不是日本人。", "en": "I am not Japanese."},
+   {"ja": "あの人は先生じゃないです。", "furigana": "あの{人|ひと}は{先生|せんせい}じゃないです。", "zh": "那个人不是老师。", "en": "That person is not a teacher."},
+   {"ja": "これはわたしのかばんじゃありません。", "furigana": "これはわたしのかばんじゃありません。", "zh": "这不是我的包。", "en": "This is not my bag."}
+  ],
+  "note_zh": "では里的は同样读「わ」。过去否定是「ではありませんでした／じゃなかったです」。",
+  "note_en": "The は in では is read 'wa'. The past negative is ではありませんでした / じゃなかったです."
+ },
+ {
+  "id": "g-n5-03",
+  "level": "N5",
+  "track": "grammar",
+  "group": "疑问表现",
+  "pattern": "〜か",
+  "meaning_zh": "吗？呢？（疑问）",
+  "meaning_en": "question marker",
+  "formation": "陈述句 + か（句尾语调上扬）",
+  "explain_zh": "日语的疑问句不用倒装，只要在句尾加か就行，语序完全不变，这一点比英语简单得多。か本身就等于问号，所以正式书写时句尾常写「。」而不写「？」。回答用はい／いいえ。和疑问词（何・誰・どこ）连用时，语调不必刻意上扬也已经是疑问句了。",
+  "explain_en": "Japanese forms questions by simply adding か at the end. There is no word-order inversion and no auxiliary 'do'. Because か already signals a question, formal writing often ends with 。 rather than ?. Answer with はい (yes) or いいえ (no).",
+  "examples": [
+   {"ja": "あなたは学生ですか。", "furigana": "あなたは{学生|がくせい}ですか。", "zh": "你是学生吗？", "en": "Are you a student?"},
+   {"ja": "これは何ですか。", "furigana": "これは{何|なん}ですか。", "zh": "这是什么？", "en": "What is this?"},
+   {"ja": "明日、学校へ行きますか。", "furigana": "{明日|あした}、{学校|がっこう}へ{行|い}きますか。", "zh": "明天去学校吗？", "en": "Are you going to school tomorrow?"}
+  ],
+  "note_zh": "何在ですか前读「なん」，在を、が等前面多读「なに」，如「何を食べますか」。",
+  "note_en": "何 is read なん before です, but usually なに before を or が (e.g. 何を食べますか)."
+ },
+ {
+  "id": "g-n5-04",
+  "level": "N5",
+  "track": "grammar",
+  "group": "助词・名词修饰",
+  "pattern": "AのB",
+  "meaning_zh": "A的B",
+  "meaning_en": "B of A; A's B",
+  "formation": "名词 + の + 名词",
+  "explain_zh": "の连接两个名词，语序和中文「的」完全一样：わたしの本＝我的书。但の的范围比中文的「的」更广，除了所属，还能表示所属机构（会社の人）、内容领域（日本語の先生）、产地材料（日本の車）。中文里常省略「的」（我妈妈），日语的の一般不能省。另外の后面的名词若已明确，可以省略：「これはわたしのです」＝这是我的。",
+  "explain_en": "の links two nouns in the order A の B, matching English 'B of A' reversed. It covers far more than possession: affiliation (会社の人, a person from the company), field (日本語の先生, a Japanese-language teacher), and origin (日本の車, a Japanese car). The second noun can be dropped when obvious: これはわたしのです.",
+  "examples": [
+   {"ja": "これはわたしの本です。", "furigana": "これはわたしの{本|ほん}です。", "zh": "这是我的书。", "en": "This is my book."},
+   {"ja": "田中さんは日本語の先生です。", "furigana": "{田中|たなか}さんは{日本語|にほんご}の{先生|せんせい}です。", "zh": "田中先生是日语老师。", "en": "Mr. Tanaka is a Japanese-language teacher."},
+   {"ja": "それはだれのかさですか。", "furigana": "それはだれのかさですか。", "zh": "那是谁的伞？", "en": "Whose umbrella is that?"}
+  ],
+  "note_zh": "の可以连用：わたしの会社の人（我公司的人），但连用超过两个会显得啰嗦。",
+  "note_en": "の can chain (わたしの会社の人), but more than two in a row sounds clumsy."
+ },
+ {
+  "id": "g-n5-05",
+  "level": "N5",
+  "track": "grammar",
+  "group": "指示词（こそあど）",
+  "pattern": "これ・それ・あれ / この・その・あの",
+  "meaning_zh": "这个・那个・那个（远） / 这〜・那〜・那〜（远）",
+  "meaning_en": "this / that / that over there (pronouns and adnominals)",
+  "formation": "これ・それ・あれ ＋ は…（单独作主语） ／ この・その・あの ＋ 名词",
+  "explain_zh": "日语的指示词是三分法，比中文的「这／那」两分法多一层：これ＝离说话人近，それ＝离听话人近，あれ＝离两人都远。最容易错的是形态：これ・それ・あれ是代词，可以直接当主语；この・その・あの是连体词，后面必须接名词，绝不能说「この は…」。中文说「这本书」，日语必须说この本，不能说これ本。",
+  "explain_en": "Japanese uses a three-way system: これ (near the speaker), それ (near the listener), あれ (far from both). Crucially, これ/それ/あれ are pronouns that stand alone, while この/その/あの are determiners that must be followed by a noun: この本 (this book), never これ本.",
+  "examples": [
+   {"ja": "これは日本の車です。", "furigana": "これは{日本|にほん}の{車|くるま}です。", "zh": "这是日本车。", "en": "This is a Japanese car."},
+   {"ja": "それはわたしのかさです。", "furigana": "それはわたしのかさです。", "zh": "那（你那边的）是我的伞。", "en": "That (near you) is my umbrella."},
+   {"ja": "あの人は山田さんです。", "furigana": "あの{人|ひと}は{山田|やまだ}さんです。", "zh": "那个人是山田先生。", "en": "That person over there is Mr. Yamada."}
+  ],
+  "note_zh": "疑问词是どれ（哪个）／どの＋名词（哪个〜）；地点是ここ・そこ・あそこ・どこ。",
+  "note_en": "The question forms are どれ (which one) and どの + noun; for places, ここ/そこ/あそこ/どこ."
+ },
+ {
+  "id": "g-n5-06",
+  "level": "N5",
+  "track": "grammar",
+  "group": "助词・格助词",
+  "pattern": "〜を＋他动词",
+  "meaning_zh": "把〜、〜（宾语标记）",
+  "meaning_en": "direct object marker",
+  "formation": "名词 + を + 他动词",
+  "explain_zh": "を标记动作直接作用的对象，位置在宾语后面、动词前面，所以日语是「宾语＋动词」的语序，和中文「动词＋宾语」正好相反：パンを食べます＝吃面包。中文没有对应的助词，学习时要养成「说完宾语先加を再说动词」的习惯。を只用作助词，现代日语里不出现在单词内部。",
+  "explain_en": "を marks the direct object of a transitive verb, and it comes before the verb, so Japanese is object-then-verb: パンを食べます literally 'bread-eat'. English has no equivalent particle, so you must consciously attach を to whatever receives the action.",
+  "examples": [
+   {"ja": "毎朝、パンを食べます。", "furigana": "{毎朝|まいあさ}、パンを{食|た}べます。", "zh": "每天早上吃面包。", "en": "I eat bread every morning."},
+   {"ja": "日本語を勉強します。", "furigana": "{日本語|にほんご}を{勉強|べんきょう}します。", "zh": "学习日语。", "en": "I study Japanese."},
+   {"ja": "音楽を聞きます。", "furigana": "{音楽|おんがく}を{聞|き}きます。", "zh": "听音乐。", "en": "I listen to music."}
+  ],
+  "note_zh": "を虽然写作を，发音和「お」完全相同。移动动词还有「公園を散歩します」这种表示经过场所的用法。",
+  "note_en": "を is pronounced exactly like お. With motion verbs it can also mark the space passed through: 公園を散歩します."
+ },
+ {
+  "id": "g-n5-07",
+  "level": "N5",
+  "track": "grammar",
+  "group": "助词・格助词",
+  "pattern": "〜で（场所・手段）",
+  "meaning_zh": "在〜（做某事）、用〜、乘〜",
+  "meaning_en": "at/in (place of action); by/with (means)",
+  "formation": "场所名词 + で + 动作动词 ／ 工具・交通・语言 + で",
+  "explain_zh": "で有两大核心用法：一是动作发生的场所（図書館で読みます＝在图书馆读），二是手段工具（バスで＝坐公交、日本語で＝用日语）。最容易和に混：で强调「在那里做了什么动作」，に强调「存在或到达的点」。所以「教室で勉強します」（在教室学习，有动作）对比「教室にいます」（在教室，只是存在）。",
+  "explain_en": "で has two core jobs: the location where an action happens (図書館で読みます, read at the library) and the means or tool (バスで by bus, 日本語で in Japanese). The classic confusion is で vs に: で marks where an action takes place, while に marks a point of existence or arrival.",
+  "examples": [
+   {"ja": "図書館で本を読みます。", "furigana": "{図書館|としょかん}で{本|ほん}を{読|よ}みます。", "zh": "在图书馆看书。", "en": "I read books at the library."},
+   {"ja": "バスで学校へ行きます。", "furigana": "バスで{学校|がっこう}へ{行|い}きます。", "zh": "坐公交车去学校。", "en": "I go to school by bus."},
+   {"ja": "日本語でメールを書きます。", "furigana": "{日本語|にほんご}でメールを{書|か}きます。", "zh": "用日语写邮件。", "en": "I write emails in Japanese."}
+  ],
+  "note_zh": "「歩いて行きます」（走着去）不用で，走路是例外，不说「足で行きます」。",
+  "note_en": "For going on foot, say 歩いて行きます, not 足で行きます."
+ },
+ {
+  "id": "g-n5-08",
+  "level": "N5",
+  "track": "grammar",
+  "group": "助词・格助词",
+  "pattern": "〜に（时间・方向・存在点）",
+  "meaning_zh": "在〜（时刻）、去〜、（存在）在〜",
+  "meaning_en": "at (time); to (direction); in/at (location of existence)",
+  "formation": "时刻名词 + に ／ 场所 + に + 行きます・来ます ／ 场所 + に + あります・います",
+  "explain_zh": "に有三个N5必备用法：①具体时刻（七時に起きます）；②移动的到达点（学校に行きます）；③存在的地点（部屋にあります）。要点是「带数字的时间才加に」：七時に、月曜日に要加，而今日・明日・毎日这类不带数字的时间词不加に。和で的区别是：に是静态的点（存在、到达），で是动态的舞台（在那里做动作）。",
+  "explain_en": "に covers three essentials at N5: a specific point in time (七時に), the destination of movement (学校に行きます), and the place where something exists (部屋にあります). Rule of thumb: add に to time words that carry a number or a fixed calendar slot, but not to 今日, 明日, or 毎日. Versus で: に is a static point, で is the stage where an action unfolds.",
+  "examples": [
+   {"ja": "七時に起きます。", "furigana": "{七時|しちじ}に{起|お}きます。", "zh": "七点起床。", "en": "I get up at seven."},
+   {"ja": "日曜日に映画を見ます。", "furigana": "{日曜日|にちようび}に{映画|えいが}を{見|み}ます。", "zh": "星期天看电影。", "en": "I watch a movie on Sunday."},
+   {"ja": "部屋にテレビがあります。", "furigana": "{部屋|へや}にテレビがあります。", "zh": "房间里有电视。", "en": "There is a TV in the room."}
+  ],
+  "note_zh": "「今日行きます」不能说「今日に行きます」；星期几加不加に都可以，加了更强调那一天。",
+  "note_en": "Never say 今日に; days of the week may take に optionally, which slightly emphasises that day."
+ },
+ {
+  "id": "g-n5-09",
+  "level": "N5",
+  "track": "grammar",
+  "group": "助词・格助词",
+  "pattern": "〜へ",
+  "meaning_zh": "往〜、去〜（方向）",
+  "meaning_en": "toward; to (direction)",
+  "formation": "场所名词 + へ + 移动动词（行きます・来ます・帰ります）",
+  "explain_zh": "へ表示移动的方向，作助词时读「え」。和に的差别很细：に强调「到达那个点」，へ强调「朝那个方向去」，日常会话中跟行く・来る・帰る连用时两者基本可以互换，写信封地址时习惯用へ。初级阶段记住「移动动词前へ和に都对」即可，不必纠结。",
+  "explain_en": "へ marks direction of movement and is read 'e' when used as a particle. Compared with に, which pins down the destination as an arrival point, へ stresses heading toward somewhere. With 行く/来る/帰る the two are largely interchangeable in everyday speech.",
+  "examples": [
+   {"ja": "来週、京都へ行きます。", "furigana": "{来週|らいしゅう}、{京都|きょうと}へ{行|い}きます。", "zh": "下周去京都。", "en": "I am going to Kyoto next week."},
+   {"ja": "どこへ行きますか。", "furigana": "どこへ{行|い}きますか。", "zh": "去哪里？", "en": "Where are you going?"},
+   {"ja": "家へ帰ります。", "furigana": "{家|うち}へ{帰|かえ}ります。", "zh": "回家。", "en": "I am going home."}
+  ],
+  "note_zh": "へ作助词读「え」，作单词一部分时才读「へ」。另外「へ」不能用于存在句，「部屋へあります」是错的。",
+  "note_en": "As a particle へ is read 'e'. It cannot be used for existence: 部屋へあります is wrong; use に."
+ },
+ {
+  "id": "g-n5-10",
+  "level": "N5",
+  "track": "grammar",
+  "group": "助词・并列",
+  "pattern": "AとB / 〜と（一緒に）",
+  "meaning_zh": "A和B；和〜一起",
+  "meaning_en": "A and B; together with",
+  "formation": "名词 + と + 名词 ／ 人 + と + 动词",
+  "explain_zh": "と只能连接名词，不能连接句子或形容词，这点和中文的「和」一样但和英语的and不同：不能说「安いと便利」。と表示的是穷尽列举，即「就这几样」；如果只是举例，要用や。第二个用法是共同动作的对象：友達と見ます＝和朋友一起看，常加一緒に加强语气。",
+  "explain_en": "と joins nouns only, never clauses or adjectives, so it is narrower than English 'and'. It implies an exhaustive list (exactly these items); use や for a partial list. Its second use marks the person you do something together with: 友達と映画を見ます.",
+  "examples": [
+   {"ja": "父と母は元気です。", "furigana": "{父|ちち}と{母|はは}は{元気|げんき}です。", "zh": "父亲和母亲都很好。", "en": "My father and mother are well."},
+   {"ja": "友達と映画を見ます。", "furigana": "{友達|ともだち}と{映画|えいが}を{見|み}ます。", "zh": "和朋友一起看电影。", "en": "I watch a movie with a friend."},
+   {"ja": "パンと牛乳を買います。", "furigana": "パンと{牛乳|ぎゅうにゅう}を{買|か}います。", "zh": "买面包和牛奶。", "en": "I will buy bread and milk."}
+  ],
+  "note_zh": "三个以上并列时中间都用と：AとBとC。要连接形容词得用「安くて便利です」这样的て形。",
+  "note_en": "For three or more items, repeat と (AとBとC). To link adjectives, use the て-form instead: 安くて便利です."
+ },
+ {
+  "id": "g-n5-11",
+  "level": "N5",
+  "track": "grammar",
+  "group": "助词・提示",
+  "pattern": "〜も",
+  "meaning_zh": "也〜；都〜",
+  "meaning_en": "too; also; either",
+  "formation": "名词 + も（替换掉は・が・を，不与之叠加）",
+  "explain_zh": "も表示「也」，关键是它会顶替掉は、が、を：「わたしは学生です」变成「わたしも学生です」，不能说「わたしはも」。这一点和で、に等则可以叠加（学校でも、東京にも）。も重复使用可以表示「都」：AもBも＝A和B都。用在否定句里就是「也不」：わたしも行きません。",
+  "explain_en": "も means 'too/also', and it replaces は, が and を rather than stacking with them: わたしも学生です, never わたしはも. It can stack with で and に (東京にも). Repeated, it means 'both/all': AもBも. In a negative sentence it means 'not ... either'.",
+  "examples": [
+   {"ja": "わたしも学生です。", "furigana": "わたしも{学生|がくせい}です。", "zh": "我也是学生。", "en": "I am a student too."},
+   {"ja": "田中さんも来ます。", "furigana": "{田中|たなか}さんも{来|き}ます。", "zh": "田中先生也来。", "en": "Mr. Tanaka is coming too."},
+   {"ja": "コーヒーもお茶も好きです。", "furigana": "コーヒーもお{茶|ちゃ}も{好|す}きです。", "zh": "咖啡和茶我都喜欢。", "en": "I like both coffee and tea."}
+  ],
+  "note_zh": "「何も」「誰も」后面必须接否定：何も食べません（什么都不吃）。",
+  "note_en": "何も and 誰も require a negative verb: 何も食べません (I don't eat anything)."
+ },
+ {
+  "id": "g-n5-12",
+  "level": "N5",
+  "track": "grammar",
+  "group": "助词・主格",
+  "pattern": "〜が",
+  "meaning_zh": "〜（主语标记）",
+  "meaning_en": "subject marker",
+  "formation": "名词 + が + 动词・形容词",
+  "explain_zh": "が标记真正的主语，最容易和は搞混。简单的判断法：新信息、听话人还不知道的东西用が；已知的、被拿来当话题的用は。所以「誰が来ますか」（谁来？答案是新信息）要用が，回答「田中さんが来ます」也用が。另外，疑问词作主语时永远用が，不能用は；描写眼前突然看到的景象（空が青い、雨が降っています）也用が。",
+  "explain_en": "が marks the grammatical subject and is the classic contrast with は. Rule of thumb: が introduces new or unknown information, は picks up something already known as the topic. Question words in subject position always take が (誰が来ますか), and so does the answer. Spontaneous description of what you see also uses が.",
+  "examples": [
+   {"ja": "空が青いです。", "furigana": "{空|そら}が{青|あお}いです。", "zh": "天空是蓝的。", "en": "The sky is blue."},
+   {"ja": "あそこに山田さんがいます。", "furigana": "あそこに{山田|やまだ}さんがいます。", "zh": "山田先生在那里。", "en": "Mr. Yamada is over there."},
+   {"ja": "誰が来ますか。", "furigana": "{誰|だれ}が{来|き}ますか。", "zh": "谁来？", "en": "Who is coming?"}
+  ],
+  "note_zh": "「好きです」「上手です」「わかります」的对象用が不用を：日本語がわかります。",
+  "note_en": "好きです, 上手です and わかります take が, not を: 日本語がわかります."
+ },
+ {
+  "id": "g-n5-13",
+  "level": "N5",
+  "track": "grammar",
+  "group": "存在表现",
+  "pattern": "〜があります / 〜がいます",
+  "meaning_zh": "有〜、在〜（有生命用います）",
+  "meaning_en": "there is / there are (います for animate)",
+  "formation": "场所 + に + 名词 + が + あります（无生命）／います（有生命）",
+  "explain_zh": "中文一个「有」，日语要分两个词：あります用于物品、植物、抽象事物，います用于人和动物这类会自己动的生命体。判断标准是「会不会自己动」，所以电车、汽车虽然会动但没生命，用あります。语序是「场所にモノがあります」；如果想把物品当话题，就变成「本は机の上にあります」。",
+  "explain_en": "Chinese and English use one verb for existence, but Japanese splits it: あります for inanimate things, plants and abstractions; います for people and animals, i.e. things that move on their own. Vehicles take あります. The default order is Place に Thing が あります; topicalising the thing gives 本は机の上にあります.",
+  "examples": [
+   {"ja": "机の上に本があります。", "furigana": "{机|つくえ}の{上|うえ}に{本|ほん}があります。", "zh": "桌子上有书。", "en": "There is a book on the desk."},
+   {"ja": "教室に学生がいます。", "furigana": "{教室|きょうしつ}に{学生|がくせい}がいます。", "zh": "教室里有学生。", "en": "There are students in the classroom."},
+   {"ja": "お金がありません。", "furigana": "お{金|かね}がありません。", "zh": "没有钱。", "en": "I have no money."}
+  ],
+  "note_zh": "「有约会」「有考试」这类事件用あります：明日、試験があります。否定是ありません／いません。",
+  "note_en": "Scheduled events also use あります: 明日、試験があります. The negatives are ありません and いません."
+ },
+ {
+  "id": "g-n5-14",
+  "level": "N5",
+  "track": "grammar",
+  "group": "形容词",
+  "pattern": "い形容词（安い・安くないです・安かったです）",
+  "meaning_zh": "い形容词的现在・过去・否定变形",
+  "meaning_en": "i-adjectives and their conjugations",
+  "formation": "词干 + い（现在肯定）／ 词干 + くないです（否定）／ 词干 + かったです（过去）／ 词干 + くなかったです（过去否定）",
+  "explain_zh": "い形容词自己会变形，这是和中文最大的不同：中文说「不便宜／很便宜」靠加词，日语要把词尾い换掉。变形规律是去い加くない、加かった。注意否定和过去的变化发生在形容词上，です不跟着变，所以是「寒くないです」而不是「寒いではありません」。直接修饰名词时保持原形：安い店。いい（好）是唯一的不规则：よくない、よかった。",
+  "explain_en": "i-adjectives conjugate by themselves. Drop the final い and add くない for negative, かった for past. The tense change happens on the adjective, not on です, so it is 寒くないです, not 寒いではありません. Used attributively they keep their plain form: 安い店. いい is irregular: よくない, よかった.",
+  "examples": [
+   {"ja": "この店は安いです。", "furigana": "この{店|みせ}は{安|やす}いです。", "zh": "这家店很便宜。", "en": "This shop is cheap."},
+   {"ja": "今日は寒くないです。", "furigana": "{今日|きょう}は{寒|さむ}くないです。", "zh": "今天不冷。", "en": "It is not cold today."},
+   {"ja": "昨日の映画は面白かったです。", "furigana": "{昨日|きのう}の{映画|えいが}は{面白|おもしろ}かったです。", "zh": "昨天的电影很有意思。", "en": "Yesterday's movie was interesting."}
+  ],
+  "note_zh": "「安いです」里的です只是礼貌，没有判断意义，所以过去式不能说「安いでした」。",
+  "note_en": "The です after an i-adjective is only politeness, so 安いでした is wrong; say 安かったです."
+ },
+ {
+  "id": "g-n5-15",
+  "level": "N5",
+  "track": "grammar",
+  "group": "形容词",
+  "pattern": "な形容词（静かです・静かな＋名词）",
+  "meaning_zh": "な形容词的用法与变形",
+  "meaning_en": "na-adjectives and their conjugations",
+  "formation": "词干 + です ／ 词干 + な + 名词 ／ 词干 + じゃないです（否定）／ 词干 + でした（过去）",
+  "explain_zh": "な形容词性质接近名词，所以变形跟名词一模一样：静かです／静かじゃないです／静かでした。它和い形容词的唯一麻烦是修饰名词时要加な：親切な人。判断方法是看词典形结尾，但要小心きれい・嫌い・有名虽然以い结尾却是な形容词。中文里「安静」「亲切」都是形容词，日语却分两类，必须逐词记住属于哪一类。",
+  "explain_en": "na-adjectives behave like nouns, so they conjugate exactly like the copula: 静かです / 静かじゃないです / 静かでした. The one extra rule is な before a noun: 親切な人. Watch out for きれい, 嫌い and 有名 — they end in い but are na-adjectives.",
+  "examples": [
+   {"ja": "この町は静かです。", "furigana": "この{町|まち}は{静|しず}かです。", "zh": "这个城镇很安静。", "en": "This town is quiet."},
+   {"ja": "田中さんは親切な人です。", "furigana": "{田中|たなか}さんは{親切|しんせつ}な{人|ひと}です。", "zh": "田中先生是个热心的人。", "en": "Mr. Tanaka is a kind person."},
+   {"ja": "交通は便利じゃないです。", "furigana": "{交通|こうつう}は{便利|べんり}じゃないです。", "zh": "交通不方便。", "en": "The transport is not convenient."}
+  ],
+  "note_zh": "な只在直接修饰名词时出现，句尾用です时不加な：×静かなです。",
+  "note_en": "な appears only before a noun; never at the end of a sentence (×静かなです)."
+ },
+ {
+  "id": "g-n5-16",
+  "level": "N5",
+  "track": "grammar",
+  "group": "动词・时态",
+  "pattern": "動詞ます形（ます・ません・ました・ませんでした）",
+  "meaning_zh": "动词礼貌体的现在・过去・否定",
+  "meaning_en": "polite verb forms: present, past, negative",
+  "formation": "动词ます形：〜ます（现在・未来）／〜ません（否定）／〜ました（过去）／〜ませんでした（过去否定）",
+  "explain_zh": "日语动词没有人称变化，只按时态和肯定否定变四种形式，比英语简单。要注意的是ます形同时表示现在习惯和未来，所以「行きます」既是「（平时）去」也是「（将来）要去」，靠时间词区分。这里的「现在」不包括「正在做」，正在进行要用ています。否定形直接把ます换成ません，不需要另加助动词。",
+  "explain_en": "Japanese verbs do not change for person or number; the polite forms only encode tense and polarity. ます covers both habitual present and future, so 行きます can mean 'I go' or 'I will go' depending on the time word. It does not mean 'am going right now' — that needs ています.",
+  "examples": [
+   {"ja": "毎日、六時に起きます。", "furigana": "{毎日|まいにち}、{六時|ろくじ}に{起|お}きます。", "zh": "每天六点起床。", "en": "I get up at six every day."},
+   {"ja": "昨日、映画を見ました。", "furigana": "{昨日|きのう}、{映画|えいが}を{見|み}ました。", "zh": "昨天看了电影。", "en": "I watched a movie yesterday."},
+   {"ja": "明日は働きません。", "furigana": "{明日|あした}は{働|はたら}きません。", "zh": "明天不工作。", "en": "I am not working tomorrow."}
+  ],
+  "note_zh": "动词按变形分三类：I类（書きます）、II类（食べます・見ます）、III类（します・来ます），后面学て形时必须先分清类别。",
+  "note_en": "Verbs fall into three groups (godan, ichidan, irregular する/来る); you need this classification before learning the て-form."
+ },
+ {
+  "id": "g-n5-17",
+  "level": "N5",
+  "track": "grammar",
+  "group": "依赖・请求",
+  "pattern": "〜てください",
+  "meaning_zh": "请〜",
+  "meaning_en": "please do ...",
+  "formation": "动词て形 + ください",
+  "explain_zh": "用て形加ください表示请求或指示，相当于中文的「请〜」。语感上它比中文的「请」更接近「你去做吧」，对上司或长辈单用会显得像下命令，礼貌一点要说「〜ていただけませんか」。反过来，对同事、店员、学生使用完全自然，指路、点餐、课堂指令里最常见。否定请求是「〜ないでください」（请不要〜）。",
+  "explain_en": "て-form + ください makes a request or instruction, 'please do X'. Note the nuance: it is closer to a polite directive than a soft plea, so to a superior you would prefer 〜ていただけませんか. It is perfectly natural to peers, staff and students. The negative is 〜ないでください.",
+  "examples": [
+   {"ja": "ちょっと待ってください。", "furigana": "ちょっと{待|ま}ってください。", "zh": "请稍等一下。", "en": "Please wait a moment."},
+   {"ja": "ここに名前を書いてください。", "furigana": "ここに{名前|なまえ}を{書|か}いてください。", "zh": "请在这里写名字。", "en": "Please write your name here."},
+   {"ja": "もう一度、言ってください。", "furigana": "もう{一度|いちど}、{言|い}ってください。", "zh": "请再说一遍。", "en": "Please say it once more."}
+  ],
+  "note_zh": "て形是难点：書く→書いて、待つ→待って、読む→読んで、する→して、来る→来て，需要专门记忆。",
+  "note_en": "The て-form itself is the hard part: 書く→書いて, 待つ→待って, 読む→読んで, する→して, 来る→来て."
+ },
+ {
+  "id": "g-n5-18",
+  "level": "N5",
+  "track": "grammar",
+  "group": "动词・体（アスペクト）",
+  "pattern": "〜ています",
+  "meaning_zh": "正在〜；（状态）着；一直〜",
+  "meaning_en": "is doing; is in a state of",
+  "formation": "动词て形 + います",
+  "explain_zh": "ています有两个完全不同的意思，靠动词性质决定：①动作动词表示正在进行（雨が降っています＝正在下雨）；②瞬间性动词表示动作完成后留下的状态（結婚しています＝已婚，不是「正在结婚」；知っています＝知道）。第三个常见用法是长期习惯或职业（銀行で働いています）。中文的「了」有时对应②，容易误译，要按动词类型判断。",
+  "explain_en": "ています has two distinct readings depending on the verb: with durative verbs it is a progressive ('it is raining'), but with punctual verbs it describes the resulting state ('結婚しています' means 'is married', not 'is getting married'). It also expresses ongoing habits and occupations: 銀行で働いています.",
+  "examples": [
+   {"ja": "今、雨が降っています。", "furigana": "{今|いま}、{雨|あめ}が{降|ふ}っています。", "zh": "现在正在下雨。", "en": "It is raining now."},
+   {"ja": "姉は銀行で働いています。", "furigana": "{姉|あね}は{銀行|ぎんこう}で{働|はたら}いています。", "zh": "姐姐在银行工作。", "en": "My older sister works at a bank."},
+   {"ja": "田中さんは結婚しています。", "furigana": "{田中|たなか}さんは{結婚|けっこん}しています。", "zh": "田中先生已经结婚了。", "en": "Mr. Tanaka is married."}
+  ],
+  "note_zh": "会话中常缩成「〜てます」：待ってます。「知っています」的否定是「知りません」，不是「知っていません」。",
+  "note_en": "In speech it contracts to 〜てます. Note that the negative of 知っています is 知りません, not 知っていません."
+ },
+ {
+  "id": "g-n5-19",
+  "level": "N5",
+  "track": "grammar",
+  "group": "愿望表现",
+  "pattern": "〜たいです",
+  "meaning_zh": "想〜",
+  "meaning_en": "want to do ...",
+  "formation": "动词ます形去ます + たいです（否定：〜たくないです）",
+  "explain_zh": "表示说话人自己的愿望。最重要的限制是：たい只能用于第一人称，或用か问对方；说第三者「他想去」不能用「彼は行きたいです」，要说「行きたがっています」。另一个要点是たい词尾变化和い形容词完全一样：たくないです、たかったです。宾语助词を常可换成が（水が飲みたい），表示愿望更强。",
+  "explain_en": "たい expresses the speaker's own desire. Crucially it is limited to first person, or second person in questions; for a third party you need 〜たがっています. Grammatically 〜たい behaves like an i-adjective (たくないです, たかったです). The object particle を often becomes が for stronger desire.",
+  "examples": [
+   {"ja": "日本へ行きたいです。", "furigana": "{日本|にほん}へ{行|い}きたいです。", "zh": "我想去日本。", "en": "I want to go to Japan."},
+   {"ja": "水が飲みたいです。", "furigana": "{水|みず}が{飲|の}みたいです。", "zh": "我想喝水。", "en": "I want to drink water."},
+   {"ja": "今日は何も食べたくないです。", "furigana": "{今日|きょう}は{何|なに}も{食|た}べたくないです。", "zh": "今天什么都不想吃。", "en": "I do not want to eat anything today."}
+  ],
+  "note_zh": "对长辈直接问「〜たいですか」有时显得唐突，礼貌说法用「〜ませんか」或「いかがですか」。",
+  "note_en": "Asking a superior 〜たいですか can sound blunt; prefer 〜ませんか or いかがですか."
+ },
+ {
+  "id": "g-n5-20",
+  "level": "N5",
+  "track": "grammar",
+  "group": "劝诱・提议",
+  "pattern": "〜ませんか / 〜ましょう",
+  "meaning_zh": "要不要〜？／〜吧",
+  "meaning_en": "won't you ...? / let's ...",
+  "formation": "动词ます形去ます + ませんか（邀请）／ + ましょう（提议、号召）",
+  "explain_zh": "两者都用于邀约，但语气不同：ませんか是用否定疑问委婉征求对方意愿，把决定权交给对方，适合第一次开口邀请；ましょう则默认对方已经同意，是「那我们就〜吧」，用于确认后的行动或号召。所以顺序常是「見に行きませんか」→「ええ、行きましょう」。另外「〜ましょうか」是主动提出帮忙：荷物を持ちましょうか＝我来帮你拿吧？",
+  "explain_en": "Both invite, but the nuance differs. ませんか uses a negative question to leave the decision to the listener, so it is the polite opener. ましょう assumes agreement — 'let's do it' — and suits the follow-up or a group call to action. 〜ましょうか offers help: 荷物を持ちましょうか.",
+  "examples": [
+   {"ja": "一緒に昼ご飯を食べませんか。", "furigana": "{一緒|いっしょ}に{昼|ひる}ご{飯|はん}を{食|た}べませんか。", "zh": "要不要一起吃午饭？", "en": "Won't you have lunch with me?"},
+   {"ja": "週末、映画を見に行きませんか。", "furigana": "{週末|しゅうまつ}、{映画|えいが}を{見|み}に{行|い}きませんか。", "zh": "周末要不要去看电影？", "en": "Would you like to go see a movie this weekend?"},
+   {"ja": "三時に会いましょう。", "furigana": "{三時|さんじ}に{会|あ}いましょう。", "zh": "三点见吧。", "en": "Let's meet at three."}
+  ],
+  "note_zh": "拒绝时不要直接说いいえ，日本人习惯说「すみません、ちょっと…」把话留一半。",
+  "note_en": "To decline, avoid a flat いいえ; Japanese speakers say すみません、ちょっと… and trail off."
+ }
+]

@@ -25,6 +25,31 @@ export interface Sentence {
   en: string
 }
 
+export interface GrammarExample {
+  ja: string
+  /** ja with kanji runs annotated as {漢字|かんじ} */
+  furigana: string
+  zh: string
+  en: string
+}
+
+export interface GrammarPoint {
+  id: string
+  level: Level
+  track: 'grammar' | 'keigo'
+  group: string
+  pattern: string
+  meaning_zh: string
+  meaning_en: string
+  /** how the pattern attaches to the preceding word */
+  formation: string
+  explain_zh: string
+  explain_en: string
+  examples: GrammarExample[]
+  note_zh?: string
+  note_en?: string
+}
+
 export interface ArticleWord {
   w: string
   r: string

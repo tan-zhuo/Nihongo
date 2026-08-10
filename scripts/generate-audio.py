@@ -59,7 +59,8 @@ ARTICLE_FILES = ["n5.json", "n4.json", "n3.json", "n2.json", "n1.json", "stories
 SAMPLE_RATE = 24000  # Kokoro's native output rate
 DEFAULT_VOICE = "jf_alpha"  # Japanese female; alternatives: jf_gongitsune,
 # jf_nezumi, jf_tebukuro, jm_kumo (male)
-DEFAULT_SPEED = 0.95
+DEFAULT_SPEED = 1.0
+DEFAULT_SPEAKER = 2  # VOICEVOX 四国めたん (ノーマル)
 SENTENCE_GAP = 0.45  # seconds of silence inserted after each sentence
 LEAD_IN = 0.15  # seconds of silence before the first sentence
 
@@ -117,6 +118,64 @@ def load_kana() -> list[tuple[str, str]]:
     return pairs
 
 
+class VoicevoxSynth:
+    """VOICEVOX ENGINE over its local HTTP API (batch-time only; no runtime dep)."""
+
+    def __init__(self, speaker: int, speed: float, host: str):
+        import urllib.error
+        import urllib.request
+
+        self._urllib = urllib
+        self.host = host.rstrip("/")
+        self.speaker = speaker
+        self.speed = speed
+        try:
+            with urllib.request.urlopen(f"{self.host}/version", timeout=5) as r:
+                version = json.loads(r.read())
+        except (urllib.error.URLError, OSError) as exc:
+            raise SystemExit(
+                f"VOICEVOX engine not reachable at {self.host} ({exc}).\n"
+                "Start it with:  cd /root/voicevox/linux-cpu-x64 && ./run "
+                "--host 127.0.0.1 --port 50021 --cpu_num_threads 8"
+            ) from exc
+        print(f"voicevox engine {version}, speaker {speaker}")
+
+    def _post(self, path: str, data: bytes | None, ctype: str | None) -> bytes:
+        req = self._urllib.request.Request(f"{self.host}{path}", data=data, method="POST")
+        if ctype:
+            req.add_header("Content-Type", ctype)
+        with self._urllib.request.urlopen(req, timeout=120) as r:
+            return r.read()
+
+    def sentence(self, text: str) -> np.ndarray:
+        import io
+        import urllib.parse
+
+        qs = urllib.parse.urlencode({"text": text, "speaker": self.speaker})
+        query = json.loads(self._post(f"/audio_query?{qs}", None, None))
+        query["speedScale"] = self.speed
+        # Trim the engine's built-in padding; sentence gaps are added by article().
+        query["prePhonemeLength"] = 0.05
+        query["postPhonemeLength"] = 0.05
+        wav = self._post(
+            f"/synthesis?speaker={self.speaker}",
+            json.dumps(query).encode("utf-8"),
+            "application/json",
+        )
+        import soundfile as sf
+
+        audio, sr = sf.read(io.BytesIO(wav), dtype="float32")
+        if audio.ndim > 1:
+            audio = audio.mean(axis=1)
+        if sr != SAMPLE_RATE:
+            # Engine emits 24k; resample to the project rate by linear interpolation.
+            n = int(round(len(audio) * SAMPLE_RATE / sr))
+            audio = np.interp(
+                np.linspace(0, len(audio) - 1, n), np.arange(len(audio)), audio
+            ).astype(np.float32)
+        return audio.astype(np.float32)
+
+
 class Synth:
     """Lazily-loaded Kokoro + misaki Japanese G2P."""
 
@@ -145,19 +204,20 @@ class Synth:
         assert sr == SAMPLE_RATE, f"unexpected sample rate {sr}"
         return audio.astype(np.float32)
 
-    def article(self, sentences: list[str]) -> tuple[np.ndarray, list[float]]:
-        """Returns (concatenated audio, per-sentence start offsets in seconds)."""
-        gap = np.zeros(int(SAMPLE_RATE * SENTENCE_GAP), dtype=np.float32)
-        parts: list[np.ndarray] = [np.zeros(int(SAMPLE_RATE * LEAD_IN), dtype=np.float32)]
-        starts: list[float] = []
-        cursor = len(parts[0])
-        for text in sentences:
-            starts.append(round(cursor / SAMPLE_RATE, 3))
-            chunk = self.sentence(text)
-            parts.append(chunk)
-            parts.append(gap)
-            cursor += len(chunk) + len(gap)
-        return np.concatenate(parts), starts
+
+def render_article(synth, sentences: list[str]) -> tuple[np.ndarray, list[float]]:
+    """Concatenate one clip per sentence; returns (audio, start offsets in seconds)."""
+    gap = np.zeros(int(SAMPLE_RATE * SENTENCE_GAP), dtype=np.float32)
+    parts: list[np.ndarray] = [np.zeros(int(SAMPLE_RATE * LEAD_IN), dtype=np.float32)]
+    starts: list[float] = []
+    cursor = len(parts[0])
+    for text in sentences:
+        starts.append(round(cursor / SAMPLE_RATE, 3))
+        chunk = synth.sentence(text)
+        parts.append(chunk)
+        parts.append(gap)
+        cursor += len(chunk) + len(gap)
+    return np.concatenate(parts), starts
 
 
 def encode_mp3(audio: np.ndarray, out_path: Path) -> None:
@@ -181,6 +241,13 @@ def encode_mp3(audio: np.ndarray, out_path: Path) -> None:
         tmp_wav.unlink(missing_ok=True)
 
 
+def make_synth(args):
+    if args.engine == "voicevox":
+        return VoicevoxSynth(args.speaker, args.speed, args.host)
+    print(f"loading kokoro ({args.voice}) ...")
+    return Synth(args.voice, args.speed)
+
+
 def main() -> int:
     ap = argparse.ArgumentParser(description=__doc__, formatter_class=argparse.RawDescriptionHelpFormatter)
     ap.add_argument("--limit", type=int, default=None, help="only process the first N articles")
@@ -190,6 +257,11 @@ def main() -> int:
     ap.add_argument("--force", action="store_true", help="re-render even if the mp3 exists")
     ap.add_argument("--out-dir", default=str(AUDIO_DIR), help="mp3 output directory")
     ap.add_argument("--manifest", default=str(MANIFEST_PATH), help="manifest json path")
+    ap.add_argument("--engine", choices=["voicevox", "kokoro"], default="voicevox",
+                    help="synthesis backend (default voicevox)")
+    ap.add_argument("--speaker", type=int, default=DEFAULT_SPEAKER,
+                    help=f"voicevox style id (default {DEFAULT_SPEAKER} = 四国めたん ノーマル)")
+    ap.add_argument("--host", default="http://127.0.0.1:50021", help="voicevox engine url")
     ap.add_argument("--kana", action="store_true", help="also render the gojuon chart clips")
     ap.add_argument("--kana-only", action="store_true", help="render only the kana clips")
     args = ap.parse_args()
@@ -226,11 +298,10 @@ def main() -> int:
             continue
 
         if synth is None:
-            print(f"loading kokoro ({args.voice}) ...")
-            synth = Synth(args.voice, args.speed)
+            synth = make_synth(args)
 
         t0 = time.time()
-        audio, starts = synth.article(sentences)
+        audio, starts = render_article(synth, sentences)
         encode_mp3(audio, out_path)
         wall = time.time() - t0
         dur = round(len(audio) / SAMPLE_RATE, 3)
@@ -258,8 +329,7 @@ def main() -> int:
                     manifest["kana"].append(stem)
                 continue
             if synth is None:
-                print(f"loading kokoro ({args.voice}) ...")
-                synth = Synth(args.voice, args.speed)
+                synth = make_synth(args)
             encode_mp3(synth.sentence(h), clip)
             manifest["kana"].append(stem)
         write_manifest(manifest, manifest_path)

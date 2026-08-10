@@ -84,3 +84,29 @@ src/
 ├── components/               # Layout(语言切换) / LevelFilter / ResultModal
 └── pages/                    # Home / Articles / Practice / Vocab
 ```
+
+## 语音生成（可选，仅在修改文章后需要重跑）
+
+站内音频是**预先合成的静态 MP3**，运行时不加载任何模型、不调用任何 API、也不需要服务器。
+
+- 引擎：[VOICEVOX](https://voicevox.hiroshiba.jp/) ENGINE（本地 CPU 版），配音「四国めたん（ノーマル）」
+- 授权：商用・非商用均可，条件是页面标注「VOICEVOX:四国めたん」——已写在页脚
+- 产物：`public/audio/<article-id>.mp3`（52 篇，含逐句时间轴）与 `public/audio/kana/<romaji>.mp3`（102 个假名），合计约 20MB
+- 时间轴记录在 `src/data/audio-manifest.json`，前端据此高亮正在朗读的句子
+
+重新生成：
+
+```bash
+# 1) 启动 VOICEVOX ENGINE（仅生成时需要，生成完即可关闭）
+cd voicevox/linux-cpu-x64 && ./run --host 127.0.0.1 --port 50021 --cpu_num_threads 8
+
+# 2) 生成（已存在的文件会跳过；--force 强制重来）
+python scripts/generate-audio.py --kana
+
+# 常用参数
+python scripts/generate-audio.py --only n5-a1      # 只重做某一篇
+python scripts/generate-audio.py --speaker 16      # 换配音（九州そら）
+python scripts/generate-audio.py --engine kokoro   # 换引擎（Kokoro，Apache-2.0 无需署名）
+```
+
+浏览器语音合成仍作为兜底：没有对应 MP3 的内容（如 4200 个单词）会自动改用系统语音朗读。

@@ -1,0 +1,546 @@
+[
+  {
+    "id": "g-n2-01",
+    "level": "N2",
+    "track": "grammar",
+    "group": "因果・理由",
+    "pattern": "〜おかげで／〜せいで",
+    "meaning_zh": "多亏……（好结果）／都怪……（坏结果）",
+    "meaning_en": "thanks to (good result) / because of (bad result)",
+    "formation": "名词+の／动词・形容词普通形 + おかげで（せいで）",
+    "explain_zh": "语体上属于口语和一般书面语都能用的中性表达，商务邮件里「皆様のおかげで」很常见，但学术论文和新闻报道一般改用「〜により」「〜が原因で」，因为おかげで／せいで带说话人的主观评价。最容易错的是褒贬：おかげで只接好结果（含反语讽刺时例外），せいで只接坏结果，中文的「由于」两边都能用，所以中国学习者常把「雨のおかげで中止になった」说错。中性无评价时用「〜ため」，这是新闻和公文的标准说法。",
+    "explain_en": "Neutral in register: fine in speech, email and general writing, but formal news and academic prose prefer neutral 〜により or 〜ため, because おかげで/せいで carry the speaker's evaluation. The key contrast is polarity: おかげで takes only welcome results (except in sarcasm), せいで only unwelcome ones. Since English 'because of' is neutral, learners often misuse おかげで for bad outcomes.",
+    "examples": [
+      {
+        "ja": "皆様のご支援のおかげで、無事に開業することができました。",
+        "furigana": "{皆様|みなさま}のご{支援|しえん}のおかげで、{無事|ぶじ}に{開業|かいぎょう}することができました。",
+        "zh": "多亏各位的支持，我们才得以顺利开业。",
+        "en": "Thanks to everyone's support, we were able to open for business without a hitch."
+      },
+      {
+        "ja": "円安のせいで、輸入品の価格が軒並み上昇している。",
+        "furigana": "{円安|えんやす}のせいで、{輸入品|ゆにゅうひん}の{価格|かかく}が{軒並|のきな}み{上昇|じょうしょう}している。",
+        "zh": "由于日元贬值，进口商品的价格普遍上涨。",
+        "en": "Because of the weak yen, the prices of imported goods are rising across the board."
+      },
+      {
+        "ja": "制度が改正されたおかげで、手続きが大幅に簡素化された。",
+        "furigana": "{制度|せいど}が{改正|かいせい}されたおかげで、{手続|てつづ}きが{大幅|おおはば}に{簡素化|かんそか}された。",
+        "zh": "多亏制度得到修改，手续大幅简化了。",
+        "en": "Thanks to the revision of the system, the procedures were greatly simplified."
+      }
+    ],
+    "note_zh": "「〜おかげ」后面接名词时用「おかげの」，句末结句用「〜おかげだ」；「せいだ」结句常带责备语气，对上司或客户慎用。",
+    "note_en": "Use 〜おかげだ / 〜せいだ to end a sentence. Sentence-final せいだ sounds accusatory, so avoid it toward superiors or clients."
+  },
+  {
+    "id": "g-n2-02",
+    "level": "N2",
+    "track": "grammar",
+    "group": "対象・対比",
+    "pattern": "〜に対して",
+    "meaning_zh": "对于……（动作的对象）；与……相对（对比）",
+    "meaning_en": "toward, with regard to; in contrast to",
+    "formation": "名词 + に対して／に対し／に対する+名词",
+    "explain_zh": "偏书面的正式表达，新闻、公文和商务文书中极为常见，口语里说话人多半直接用「〜に」。有两个用法：一是表示动作或态度所朝向的对象（対応・批判・質問など），二是把前后两件事拿来对比。和「〜について」的区别是关键：に対して强调「朝着对方施加动作或态度」，について只是「谈论的话题」，所以「客に対して失礼だ」不能换成「客について」。中止形「〜に対し」和连体形「〜に対する」用于更硬的书面语。",
+    "explain_en": "Formal written style, standard in news, official documents and business writing; in conversation people usually just say 〜に. Two uses: the target of an action or attitude, and a contrast between two things. The crucial contrast is with 〜について: に対して directs an action or attitude at someone, while について merely names a topic, so 客に対して失礼だ cannot become 客について. The clipped 〜に対し and attributive 〜に対する belong to stiffer written registers.",
+    "examples": [
+      {
+        "ja": "政府は今回の提案に対して慎重な姿勢を示した。",
+        "furigana": "{政府|せいふ}は{今回|こんかい}の{提案|ていあん}に{対|たい}して{慎重|しんちょう}な{姿勢|しせい}を{示|しめ}した。",
+        "zh": "政府对此次提案表现出了谨慎的态度。",
+        "en": "The government took a cautious stance toward this proposal."
+      },
+      {
+        "ja": "顧客からの問い合わせに対しては、原則として当日中に回答する。",
+        "furigana": "{顧客|こきゃく}からの{問|と}い{合|あ}わせに{対|たい}しては、{原則|げんそく}として{当日中|とうじつちゅう}に{回答|かいとう}する。",
+        "zh": "对客户的咨询，原则上当天之内予以答复。",
+        "en": "Inquiries from customers are, as a rule, answered the same day."
+      },
+      {
+        "ja": "兄が社交的なのに対して、弟は極めて内向的だ。",
+        "furigana": "{兄|あに}が{社交的|しゃこうてき}なのに{対|たい}して、{弟|おとうと}は{極|きわ}めて{内向的|ないこうてき}だ。",
+        "zh": "与哥哥善于社交相对，弟弟极为内向。",
+        "en": "In contrast to his sociable older brother, the younger one is extremely introverted."
+      }
+    ],
+    "note_zh": "对比用法时，前面接小句要加形式名词：动词・イ形容词普通形+のに対して、ナ形容词な／名词+なのに対して。",
+    "note_en": "For the contrastive use, a clause needs の: verb/i-adjective plain form + のに対して, na-adjective/noun + なのに対して."
+  },
+  {
+    "id": "g-n2-03",
+    "level": "N2",
+    "track": "grammar",
+    "group": "主題・範囲",
+    "pattern": "〜について／〜に関して",
+    "meaning_zh": "关于……；就……而言",
+    "meaning_en": "about, concerning, regarding",
+    "formation": "名词 + について／に関して（连体形：〜についての／〜に関する+名词）",
+    "explain_zh": "两者意思几乎相同，差别在语体和范围：「について」中性，口语和一般书面语都行；「に関して」是硬い書き言葉，多见于论文、报告、法律条文和正式致辞，日常会话说「に関して」会显得过于郑重。另外「について」指向点状、具体的话题，「に関して」覆盖面更广，含「与之相关的一切」，所以论文标题多用「〜に関する研究」。连体形要注意形态不同：についての+名词，に関する+名词。",
+    "explain_en": "Nearly identical in meaning; the difference is register and scope. について is neutral and works in speech and writing, while に関して is stiff written Japanese found in papers, reports, statutes and formal addresses, and sounds overly ceremonious in casual talk. について points at a specific topic; に関して covers everything connected with it, which is why paper titles use 〜に関する研究. Note the differing attributive forms: 〜についての+noun vs 〜に関する+noun.",
+    "examples": [
+      {
+        "ja": "本日は今後の経営方針についてご説明いたします。",
+        "furigana": "{本日|ほんじつ}は{今後|こんご}の{経営方針|けいえいほうしん}についてご{説明|せつめい}いたします。",
+        "zh": "今天我来说明今后的经营方针。",
+        "en": "Today I will explain our management policy going forward."
+      },
+      {
+        "ja": "事故の原因に関しては、なお調査が続いている。",
+        "furigana": "{事故|じこ}の{原因|げんいん}に{関|かん}しては、なお{調査|ちょうさ}が{続|つづ}いている。",
+        "zh": "关于事故原因，调查仍在继续。",
+        "en": "As for the cause of the accident, the investigation is still ongoing."
+      },
+      {
+        "ja": "環境問題に関する論文を学会で発表した。",
+        "furigana": "{環境問題|かんきょうもんだい}に{関|かん}する{論文|ろんぶん}を{学会|がっかい}で{発表|はっぴょう}した。",
+        "zh": "我在学会上发表了有关环境问题的论文。",
+        "en": "I presented a paper on environmental issues at an academic conference."
+      }
+    ],
+    "note_zh": "更硬的公文体还有「〜につきましては」（商务）和「〜に係る」（法令）；「〜に対して」不能互换，那是「朝向对象」而非「话题」。",
+    "note_en": "Stiffer variants are 〜につきましては (business) and 〜に係る (legal). Do not swap in 〜に対して, which marks a target, not a topic."
+  },
+  {
+    "id": "g-n2-04",
+    "level": "N2",
+    "track": "grammar",
+    "group": "変化・並行",
+    "pattern": "〜に伴って",
+    "meaning_zh": "随着……（而同时发生变化）",
+    "meaning_en": "along with, accompanying, as ... progresses",
+    "formation": "名词／动词辞书形+の + に伴って／に伴い／に伴う+名词",
+    "explain_zh": "典型的硬い書き言葉，新闻报道、白皮书、企业公告里成串出现，口语基本不用，日常会话说「〜と一緒に」或「〜するとき」。前项多是社会性、大规模的变化（高齢化・都市化・移転・気温上昇），后项随之发生连带变化，因此前后都倾向于用变化类名词或动词，不能接单纯的一次性动作。「に伴い」是更硬的中止形，公告文书首选。",
+    "explain_en": "Classic stiff written Japanese, dense in news reports, white papers and corporate notices; it is essentially absent from conversation, where people say 〜と一緒に or 〜するとき. The first element is typically a large-scale or social change (ageing, urbanisation, relocation, rising temperatures) and the second changes along with it, so both sides favour change nouns or verbs rather than one-off actions. The clipped 〜に伴い is the default in official announcements.",
+    "examples": [
+      {
+        "ja": "高齢化の進展に伴い、社会保障費が増大している。",
+        "furigana": "{高齢化|こうれいか}の{進展|しんてん}に{伴|ともな}い、{社会保障費|しゃかいほしょうひ}が{増大|ぞうだい}している。",
+        "zh": "随着老龄化的推进，社会保障费用不断增加。",
+        "en": "As ageing advances, social security costs continue to swell."
+      },
+      {
+        "ja": "本社移転に伴って、来月から部署の再編が行われる。",
+        "furigana": "{本社移転|ほんしゃいてん}に{伴|ともな}って、{来月|らいげつ}から{部署|ぶしょ}の{再編|さいへん}が{行|おこな}われる。",
+        "zh": "随着总部迁址，下个月起将进行部门重组。",
+        "en": "In connection with the head office relocation, departments will be reorganised from next month."
+      },
+      {
+        "ja": "気温の上昇に伴って、電力需要も急激に増えた。",
+        "furigana": "{気温|きおん}の{上昇|じょうしょう}に{伴|ともな}って、{電力需要|でんりょくじゅよう}も{急激|きゅうげき}に{増|ふ}えた。",
+        "zh": "随着气温上升，电力需求也急剧增加。",
+        "en": "As temperatures rose, electricity demand climbed sharply as well."
+      }
+    ],
+    "note_zh": "近义的「〜につれて」只表示程度同步递增，不能用于一次性事件；「本社移転に伴う手続き」这种连体形不能换成「につれる」。",
+    "note_en": "Near-synonym 〜につれて covers only gradual proportional change and cannot describe a single event; the attributive 〜に伴う (as in 移転に伴う手続き) has no につれる counterpart."
+  },
+  {
+    "id": "g-n2-05",
+    "level": "N2",
+    "track": "grammar",
+    "group": "対応・基準",
+    "pattern": "〜に応じて",
+    "meaning_zh": "根据……；因应……而（灵活变动）",
+    "meaning_en": "in accordance with, depending on, in response to",
+    "formation": "名词 + に応じて／に応じ／に応じた+名词",
+    "explain_zh": "书面语色彩较强，常见于制度说明、商务提案和服务条款，口语中会说「〜によって」或「〜次第で」。核心语感是「前项有变化，后项跟着灵活调整」，所以前面多接「収入・需要・状況・要望・年齢」这类可变量。与「〜によって」相比，によって只说明差异或手段，に応じて强调主动配合、随之调整，因此商务场合说「ご要望に応じて」显得体贴而专业。",
+    "explain_en": "Written-leaning and common in policy explanations, business proposals and terms of service; conversation prefers 〜によって or 〜次第で. The core nuance is flexible adjustment: the first element varies, and the second adapts to it, so it takes variable nouns like income, demand, circumstances, requests or age. Compared with 〜によって, which merely marks variation or means, 〜に応じて implies actively accommodating, which is why ご要望に応じて sounds attentive and professional in business.",
+    "examples": [
+      {
+        "ja": "収入に応じて保険料が決まる仕組みになっている。",
+        "furigana": "{収入|しゅうにゅう}に{応|おう}じて{保険料|ほけんりょう}が{決|き}まる{仕組|しく}みになっている。",
+        "zh": "该制度是根据收入来决定保险费的。",
+        "en": "The system is set up so that premiums are determined according to income."
+      },
+      {
+        "ja": "お客様のご要望に応じた商品をご提案いたします。",
+        "furigana": "お{客様|きゃくさま}のご{要望|ようぼう}に{応|おう}じた{商品|しょうひん}をご{提案|ていあん}いたします。",
+        "zh": "我们会提出符合客户需求的商品方案。",
+        "en": "We will propose products tailored to your requirements."
+      },
+      {
+        "ja": "需要の変動に応じ、生産量を柔軟に調整する。",
+        "furigana": "{需要|じゅよう}の{変動|へんどう}に{応|おう}じ、{生産量|せいさんりょう}を{柔軟|じゅうなん}に{調整|ちょうせい}する。",
+        "zh": "根据需求波动，灵活调整产量。",
+        "en": "Production volume is adjusted flexibly in response to fluctuations in demand."
+      }
+    ],
+    "note_zh": "前面不接固定不变的事物，「規則に応じて」不自然，应说「規則に従って」；表示遵守规定用「〜に基づいて／〜に従って」。",
+    "note_en": "It does not take fixed items: 規則に応じて is unnatural; use 規則に従って. For compliance with rules use 〜に基づいて or 〜に従って."
+  },
+  {
+    "id": "g-n2-06",
+    "level": "N2",
+    "track": "grammar",
+    "group": "契機・転機",
+    "pattern": "〜をきっかけに／〜を契機に",
+    "meaning_zh": "以……为契机；借……之机（此后发生变化）",
+    "meaning_en": "triggered by, taking ... as an opportunity",
+    "formation": "名词／动词普通形+の + をきっかけに（として）／を契機に（として）",
+    "explain_zh": "两者结构相同但语体分层明显：「をきっかけに」中性，会话和一般文章都能用；「を契機に」是硬い書き言葉，多见于新闻、社史、公司公告和政策文件，口语说会很生硬。语感上前项是某个具体事件，之后发生了持续性的变化或新开始，所以后项不能是一次性小动作，「留学をきっかけに勉強を始めた」自然，「留学をきっかけに写真を撮った」不自然。「〜を機に」介于两者之间，正式度接近「を契機に」。",
+    "explain_en": "Same structure, clearly different registers: 〜をきっかけに is neutral and usable in speech, while 〜を契機に is stiff written Japanese belonging to news, corporate histories, announcements and policy papers, and sounds stilted if spoken. The first element is a specific event after which a lasting change or new beginning follows, so the result cannot be a trivial one-off action. 〜を機に sits between them, close to 〜を契機に in formality.",
+    "examples": [
+      {
+        "ja": "留学をきっかけに、日本語を本格的に学び始めた。",
+        "furigana": "{留学|りゅうがく}をきっかけに、{日本語|にほんご}を{本格的|ほんかくてき}に{学|まな}び{始|はじ}めた。",
+        "zh": "以留学为契机，我开始正式学习日语。",
+        "en": "Studying abroad was what prompted me to start learning Japanese in earnest."
+      },
+      {
+        "ja": "今回の事故を契機に、安全基準が全面的に見直された。",
+        "furigana": "{今回|こんかい}の{事故|じこ}を{契機|けいき}に、{安全基準|あんぜんきじゅん}が{全面的|ぜんめんてき}に{見直|みなお}された。",
+        "zh": "以此次事故为契机，安全标准得到了全面修订。",
+        "en": "Prompted by this accident, safety standards were reviewed across the board."
+      },
+      {
+        "ja": "創業百周年を契機として、社名を変更する運びとなった。",
+        "furigana": "{創業百周年|そうぎょうひゃくしゅうねん}を{契機|けいき}として、{社名|しゃめい}を{変更|へんこう}する{運|はこ}びとなった。",
+        "zh": "借创业一百周年之机，公司决定变更名称。",
+        "en": "Marking its centenary, the company has decided to change its corporate name."
+      }
+    ],
+    "note_zh": "「を契機に」的前项多为社会性或人生转折的大事件；日常小事只能用「をきっかけに」。",
+    "note_en": "〜を契機に takes weighty social or life-changing events; use 〜をきっかけに for everyday triggers."
+  },
+  {
+    "id": "g-n2-07",
+    "level": "N2",
+    "track": "grammar",
+    "group": "手順・条件",
+    "pattern": "〜上で",
+    "meaning_zh": "在……之后（再做）；在……方面（必要条件）",
+    "meaning_en": "after doing ...; in the process of / for the purpose of",
+    "formation": "动词た形／名词+の + 上で（其二：动词辞书形 + 上で）",
+    "explain_zh": "书面和正式口语（说明、商谈、公告）常用，日常闲聊少见，读作「うえで」。两个用法要分清：接动词た形或名词+の时表示「先做完前项，在此基础上再做后项」，多用于手续和判断，后项常是意志性动作；接动词辞书形时表示「在做某事的过程中／为了做某事」，说明必要条件，如「働く上で欠かせない」。这个区别不注意就会写出「確認する上で署名する」这种错句。",
+    "explain_en": "Belongs to writing and formal speech such as explanations, negotiations and notices; read うえで. Two distinct uses: with a た-form verb or noun+の it means doing the second action on the basis of having completed the first, typical of procedures and decisions, with a volitional main clause; with a dictionary-form verb it means 'in the course of / for the purpose of', introducing a necessary condition, as in 働く上で欠かせない. Confusing the two produces errors like 確認する上で署名する.",
+    "examples": [
+      {
+        "ja": "契約内容をご確認の上で、署名をお願いいたします。",
+        "furigana": "{契約内容|けいやくないよう}をご{確認|かくにん}の{上|うえ}で、{署名|しょめい}をお{願|ねが}いいたします。",
+        "zh": "请确认合同内容后再签名。",
+        "en": "Please sign after confirming the contents of the contract."
+      },
+      {
+        "ja": "両者の意見をよく聞いた上で判断したい。",
+        "furigana": "{両者|りょうしゃ}の{意見|いけん}をよく{聞|き}いた{上|うえ}で{判断|はんだん}したい。",
+        "zh": "我想在充分听取双方意见之后再做判断。",
+        "en": "I would like to decide after listening carefully to both sides."
+      },
+      {
+        "ja": "語学力は海外で働く上で欠かせない要素だ。",
+        "furigana": "{語学力|ごがくりょく}は{海外|かいがい}で{働|はたら}く{上|うえ}で{欠|か}かせない{要素|ようそ}だ。",
+        "zh": "语言能力是在海外工作时不可或缺的要素。",
+        "en": "Language ability is an indispensable factor when working abroad."
+      }
+    ],
+    "note_zh": "「〜上に」（而且，累加）和「〜上は」（既然）形近义异，不要混用；「〜てから」只表先后，不含「以此为基础做判断」的语感。",
+    "note_en": "Do not confuse 〜上に (moreover) or 〜上は (now that); 〜てから marks mere sequence without the sense of acting on that basis."
+  },
+  {
+    "id": "g-n2-08",
+    "level": "N2",
+    "track": "grammar",
+    "group": "時間・依存",
+    "pattern": "〜次第／〜次第だ",
+    "meaning_zh": "一……就立刻（做）；取决于……",
+    "meaning_en": "as soon as ...; depends on ...",
+    "formation": "动词ます形去ます + 次第（一……就）；名词 + 次第だ／次第で（取决于）",
+    "explain_zh": "两个用法都属于正式书面语，商务邮件里几乎是固定套路，口语闲聊不用，朋友之间说「決まったらすぐ連絡する」就够了。动词连用形+次第表示前项一实现就马上做后项，因此后项只能是意志、请求或预定，不能接过去时，「到着し次第、電話しました」是错的。名词+次第（で・だ）表示结果完全由前项决定，常用于「あなた次第」「天気次第」这类判断。",
+    "explain_en": "Both uses are formal written Japanese and near-formulaic in business email; friends would simply say 決まったらすぐ連絡する. Verb stem + 次第 means the second action follows immediately once the first is realised, so the main clause must be volitional, a request or a plan, never past tense: 到着し次第、電話しました is ungrammatical. Noun + 次第（で・だ）means the outcome hinges entirely on that factor, as in あなた次第 or 天気次第.",
+    "examples": [
+      {
+        "ja": "詳細が決まり次第、改めてご連絡いたします。",
+        "furigana": "{詳細|しょうさい}が{決|き}まり{次第|しだい}、{改|あらた}めてご{連絡|れんらく}いたします。",
+        "zh": "详情一旦确定，我会再次与您联系。",
+        "en": "As soon as the details are settled, I will contact you again."
+      },
+      {
+        "ja": "先方の返事次第で、出張の日程を調整する。",
+        "furigana": "{先方|せんぽう}の{返事次第|へんじしだい}で、{出張|しゅっちょう}の{日程|にってい}を{調整|ちょうせい}する。",
+        "zh": "视对方的答复情况，调整出差日程。",
+        "en": "We will adjust the business trip schedule depending on their reply."
+      },
+      {
+        "ja": "成功するかどうかは本人の努力次第だ。",
+        "furigana": "{成功|せいこう}するかどうかは{本人|ほんにん}の{努力次第|どりょくしだい}だ。",
+        "zh": "能否成功取决于本人的努力。",
+        "en": "Whether it succeeds depends on the person's own effort."
+      }
+    ],
+    "note_zh": "「〜次第です」还有第三个用法，表示「事情的原委就是这样」，见于商务解释：「以上のような次第でございます」。",
+    "note_en": "A third use, 〜次第です meaning 'such are the circumstances', appears in business explanations: 以上のような次第でございます."
+  },
+  {
+    "id": "g-n2-09",
+    "level": "N2",
+    "track": "grammar",
+    "group": "決意・当然",
+    "pattern": "〜からには",
+    "meaning_zh": "既然……就（理应／一定要）",
+    "meaning_en": "now that, since (one has done ...), then naturally",
+    "formation": "动词・形容词普通形／名词+である + からには",
+    "explain_zh": "属于郑重的口语和一般书面语，演讲、决意表明、社论里常见，公文中更常用「〜以上は」。前项是已经确定的事实或做出的决定，后项必须是说话人的强烈意志、义务、劝告或判断（〜べきだ・〜なければならない・必ず〜する），不能接单纯的客观描述，「日本に来たからには寒い」是错的。语感比「〜ので」强硬得多，带有「话既然说到这份上」的觉悟。",
+    "explain_en": "Weighty spoken and general written style, common in speeches, statements of resolve and editorials; official documents prefer 〜以上は. The first clause states an established fact or decision, and the main clause must express the speaker's strong will, obligation, advice or judgement (〜べきだ, 〜なければならない, 必ず〜する) rather than a neutral description, so 日本に来たからには寒い is wrong. It is far more forceful than 〜ので, carrying a sense of accepted commitment.",
+    "examples": [
+      {
+        "ja": "引き受けたからには、最後まで責任を持ってやり遂げる。",
+        "furigana": "{引|ひ}き{受|う}けたからには、{最後|さいご}まで{責任|せきにん}を{持|も}ってやり{遂|と}げる。",
+        "zh": "既然接下了，就要负责到底、干到最后。",
+        "en": "Now that I have taken it on, I will see it through responsibly to the end."
+      },
+      {
+        "ja": "日本で働くからには、敬語を正しく使えなければならない。",
+        "furigana": "{日本|にほん}で{働|はたら}くからには、{敬語|けいご}を{正|ただ}しく{使|つか}えなければならない。",
+        "zh": "既然要在日本工作，就必须能正确使用敬语。",
+        "en": "If you are going to work in Japan, you must be able to use honorifics correctly."
+      },
+      {
+        "ja": "公約を掲げたからには、必ず実行すべきだ。",
+        "furigana": "{公約|こうやく}を{掲|かか}げたからには、{必|かなら}ず{実行|じっこう}すべきだ。",
+        "zh": "既然提出了公开承诺，就应当切实履行。",
+        "en": "Having put forward a public pledge, they should certainly carry it out."
+      }
+    ],
+    "note_zh": "名词直接接不行，要说「学生であるからには」；「〜からは」是更书面的同义形式。",
+    "note_en": "A bare noun cannot attach directly: say 学生であるからには. The variant 〜からは is more bookish."
+  },
+  {
+    "id": "g-n2-10",
+    "level": "N2",
+    "track": "grammar",
+    "group": "対比・逆接",
+    "pattern": "〜反面",
+    "meaning_zh": "……的另一方面（相反的一面）",
+    "meaning_en": "on the other hand, while (also being)",
+    "formation": "动词・イ形容词普通形／ナ形容词な・である／名词である + 反面",
+    "explain_zh": "偏书面的中性表达，评论、报道、报告书中常用来做优缺点分析，日常会话更常说「〜けど」。用法要点是同一个事物、同一时间同时具有两个相反的性质，因此前后主语必须一致，「都市は便利な反面、田舎は不便だ」是典型错句，那种两个对象的对比该用「〜のに対して」。语感偏客观分析，不带感情色彩，正因为如此很适合写作文的正反论述。",
+    "explain_en": "Neutral, writing-leaning; reviews, reports and news use it for pros-and-cons analysis, while conversation prefers 〜けど. The point is that one and the same thing simultaneously has two opposing sides, so the subject must stay the same: 都市は便利な反面、田舎は不便だ is a classic error, and comparing two different entities calls for 〜のに対して. The tone is objective and unemotional, which makes it ideal for balanced essay writing.",
+    "examples": [
+      {
+        "ja": "この薬は効果が高い反面、副作用も強い。",
+        "furigana": "この{薬|くすり}は{効果|こうか}が{高|たか}い{反面|はんめん}、{副作用|ふくさよう}も{強|つよ}い。",
+        "zh": "这种药效果显著，但另一方面副作用也很强。",
+        "en": "This drug is highly effective, but on the other hand its side effects are strong."
+      },
+      {
+        "ja": "都市部は便利な反面、生活費が高くつく。",
+        "furigana": "{都市部|としぶ}は{便利|べんり}な{反面|はんめん}、{生活費|せいかつひ}が{高|たか}くつく。",
+        "zh": "城市地区虽然方便，但另一方面生活成本很高。",
+        "en": "Urban areas are convenient, but living costs run high."
+      },
+      {
+        "ja": "在宅勤務は効率が上がる反面、社員間の交流が減るという課題がある。",
+        "furigana": "{在宅勤務|ざいたくきんむ}は{効率|こうりつ}が{上|あ}がる{反面|はんめん}、{社員間|しゃいんかん}の{交流|こうりゅう}が{減|へ}るという{課題|かだい}がある。",
+        "zh": "居家办公虽能提高效率，但另一方面存在员工间交流减少的问题。",
+        "en": "Working from home raises efficiency, yet it brings the problem of reduced interaction among staff."
+      }
+    ],
+    "note_zh": "同义的「〜一方（で）」不要求两面相反，只是并列两个侧面，适用范围更广。",
+    "note_en": "The near-synonym 〜一方（で）does not require the two sides to be opposites and is therefore broader."
+  },
+  {
+    "id": "g-n2-11",
+    "level": "N2",
+    "track": "grammar",
+    "group": "否定・様態",
+    "pattern": "〜ことなく",
+    "meaning_zh": "不……（就）；未曾……地",
+    "meaning_en": "without doing, never once doing",
+    "formation": "动词辞书形 + ことなく",
+    "explain_zh": "明确的硬い書き言葉，报道、社史、颁奖词和论文里用来修饰后面的动作，口语一律用「〜ないで」。语感比「〜ないで」郑重、庄重，常带有「长期坚持、始终未曾」的评价色彩，所以多与「一度も・少しも・最後まで」搭配。注意它只修饰动作方式，不能表示原因或替代选择，「宿題をすることなく遊んだ」这种日常琐事听起来夸张，应说「宿題をしないで」。",
+    "explain_en": "Distinctly stiff written Japanese, used in reporting, corporate histories, citations and academic prose to modify the following action; speech always uses 〜ないで. It is more solemn than 〜ないで and often carries the evaluative sense of 'not even once, right to the end', pairing with 一度も, 少しも or 最後まで. It only describes manner, never cause or an alternative choice, so applying it to everyday trivia (宿題をすることなく遊んだ) sounds overblown; use 〜ないで there.",
+    "examples": [
+      {
+        "ja": "彼は一度も休むことなく三十年間勤め上げた。",
+        "furigana": "{彼|かれ}は{一度|いちど}も{休|やす}むことなく{三十年間|さんじゅうねんかん}{勤|つと}め{上|あ}げた。",
+        "zh": "他一次都没有请过假，工作了整整三十年直到退休。",
+        "en": "He served out thirty years without taking a single day off."
+      },
+      {
+        "ja": "その工場は事故を起こすことなく操業を続けている。",
+        "furigana": "その{工場|こうじょう}は{事故|じこ}を{起|お}こすことなく{操業|そうぎょう}を{続|つづ}けている。",
+        "zh": "那家工厂未发生过事故，一直在持续运转。",
+        "en": "That plant has continued operating without ever causing an accident."
+      },
+      {
+        "ja": "伝統を失うことなく、新しい技術を取り入れていきたい。",
+        "furigana": "{伝統|でんとう}を{失|うしな}うことなく、{新|あたら}しい{技術|ぎじゅつ}を{取|と}り{入|い}れていきたい。",
+        "zh": "希望在不丢失传统的前提下引进新技术。",
+        "en": "We hope to adopt new technology without losing our traditions."
+      }
+    ],
+    "note_zh": "「〜ことなしに」语气更硬，且可表示必要条件：「努力することなしに成功はない」。",
+    "note_en": "〜ことなしに is even stiffer and can state a necessary condition: 努力することなしに成功はない."
+  },
+  {
+    "id": "g-n2-12",
+    "level": "N2",
+    "track": "grammar",
+    "group": "部分否定",
+    "pattern": "〜わけではない",
+    "meaning_zh": "并不是……；未必……（部分否定）",
+    "meaning_en": "it is not that ..., not necessarily",
+    "formation": "动词・形容词普通形／ナ形容词な・である／名词という + わけではない",
+    "explain_zh": "口语和书面语都通用，会话中说「〜わけじゃない」，论说文里则是缓和主张的常用手段。它是部分否定，意思是「不能说全部都是那样」，而不是全盘否定，所以「嫌いなわけではない」等于「谈不上讨厌」，不等于「好き」。常与「必ずしも・すべてが・特に」呼应。与完全否定的「〜ないわけではない」（并非不……，双重否定表肯定）方向相反，考试里常成对出题。",
+    "explain_en": "Usable in both speech (contracted to 〜わけじゃない) and writing, where it is a standard way to soften a claim in argumentative prose. It is partial negation, meaning 'it is not the case that all of this holds', not a flat denial: 嫌いなわけではない means 'it is not that I dislike it', which is not the same as 好き. It pairs with 必ずしも, すべてが or 特に. Its mirror image 〜ないわけではない is a double negative meaning 'it is not that I don't', and exams often test the pair together.",
+    "examples": [
+      {
+        "ja": "すべての社員が反対しているわけではない。",
+        "furigana": "すべての{社員|しゃいん}が{反対|はんたい}しているわけではない。",
+        "zh": "并不是所有员工都在反对。",
+        "en": "It is not the case that all employees are opposed."
+      },
+      {
+        "ja": "値段が高ければ必ずしも品質がよいわけではない。",
+        "furigana": "{値段|ねだん}が{高|たか}ければ{必|かなら}ずしも{品質|ひんしつ}がよいわけではない。",
+        "zh": "价格高未必质量就好。",
+        "en": "A high price does not necessarily mean high quality."
+      },
+      {
+        "ja": "日本に住んでいたが、日本語が完璧に話せるわけではない。",
+        "furigana": "{日本|にほん}に{住|す}んでいたが、{日本語|にほんご}が{完璧|かんぺき}に{話|はな}せるわけではない。",
+        "zh": "我虽然在日本住过，但并不是就能把日语说得完美无缺。",
+        "en": "I lived in Japan, but that does not mean I can speak perfect Japanese."
+      }
+    ],
+    "note_zh": "名词要加「という」或「な」：「学生というわけではない」；直接说「学生わけではない」是错的。",
+    "note_en": "Nouns need という or な: 学生というわけではない. Bare 学生わけではない is ungrammatical."
+  },
+  {
+    "id": "g-n2-13",
+    "level": "N2",
+    "track": "grammar",
+    "group": "限定・評価",
+    "pattern": "〜に過ぎない",
+    "meaning_zh": "只不过是……而已（价值低）",
+    "meaning_en": "is no more than, is merely",
+    "formation": "名词／动词・形容词普通形 + に過ぎない",
+    "explain_zh": "书面语，评论、社论、答辩和论文中用来贬低对方论据或谦逊地说明自己，口语几乎只说「〜だけだ」。关键在评价色彩：它不只是客观陈述数量少，而是说话人主张「其价值、重要性微不足道」，所以带轻蔑或谦抑的语气。中止形「〜に過ぎず」用于更硬的文体。若只想中性地表示范围限定，用「〜だけだ」「〜しかない」，把「三人しか来なかった」写成「三人に過ぎなかった」会多出一层贬义。",
+    "explain_en": "Written style, used in commentary, editorials, rebuttals and papers to belittle an opponent's grounds or to be self-deprecating; speech says 〜だけだ. The point is evaluation: it does not merely state a small quantity but asserts that the thing is of negligible worth, hence its dismissive or humble tone. The clipped 〜に過ぎず suits stiffer prose. For neutral limitation use 〜だけだ or 〜しかない, since rewriting 三人しか来なかった as 三人に過ぎなかった adds a layer of disparagement.",
+    "examples": [
+      {
+        "ja": "これはあくまで推測に過ぎず、確証はない。",
+        "furigana": "これはあくまで{推測|すいそく}に{過|す}ぎず、{確証|かくしょう}はない。",
+        "zh": "这终究只是推测而已，并无确凿证据。",
+        "en": "This is no more than conjecture; there is no firm proof."
+      },
+      {
+        "ja": "今回の値上げは全体の一部に過ぎない。",
+        "furigana": "{今回|こんかい}の{値上|ねあ}げは{全体|ぜんたい}の{一部|いちぶ}に{過|す}ぎない。",
+        "zh": "此次涨价只不过是整体中的一部分而已。",
+        "en": "This price rise is merely one part of the whole."
+      },
+      {
+        "ja": "私はただ指示に従ったに過ぎません。",
+        "furigana": "{私|わたし}はただ{指示|しじ}に{従|したが}ったに{過|す}ぎません。",
+        "zh": "我只不过是听从指示行事罢了。",
+        "en": "I merely followed instructions, nothing more."
+      }
+    ],
+    "note_zh": "常与「ただ・あくまで・単なる」搭配加强语气；夸奖别人时不能用，会变成贬低。",
+    "note_en": "It collocates with ただ, あくまで and 単なる. Never use it to praise someone, as it will sound belittling."
+  },
+  {
+    "id": "g-n2-14",
+    "level": "N2",
+    "track": "grammar",
+    "group": "義務・必然",
+    "pattern": "〜ざるを得ない",
+    "meaning_zh": "不得不……；只好……（迫于外部压力）",
+    "meaning_en": "cannot help but, be forced to",
+    "formation": "动词ない形去ない + ざるを得ない（する→せざるを得ない）",
+    "explain_zh": "硬い書き言葉，新闻、社论、商务通知和正式发言里频繁出现，日常会话说「〜しかない」或「〜なきゃいけない」。核心语感是「本心不愿意，但因客观情势别无选择」，因此带有遗憾、无奈甚至抱怨的情绪。与「〜しかない」的区别在于：しかない中性地说明唯一选项，可以是主动选择；ざるを得ない必定含被迫和不情愿，所以「この店にするしかない」自然，而「この店にせざるを得ない」听起来像在抱怨。",
+    "explain_en": "Stiff written Japanese, frequent in news, editorials, corporate notices and formal speeches; conversation uses 〜しかない or 〜なきゃいけない. The core nuance is having no choice despite not wanting to, so it carries regret, resignation or complaint. Against 〜しかない: しかない neutrally names the only remaining option and may even be a willing choice, whereas ざるを得ない always implies compulsion and reluctance, which is why この店にするしかない is neutral but この店にせざるを得ない sounds like grumbling.",
+    "examples": [
+      {
+        "ja": "原材料費の高騰により、値上げをせざるを得ない。",
+        "furigana": "{原材料費|げんざいりょうひ}の{高騰|こうとう}により、{値上|ねあ}げをせざるを{得|え}ない。",
+        "zh": "由于原材料价格暴涨，我们不得不提价。",
+        "en": "With raw material costs soaring, we have no choice but to raise prices."
+      },
+      {
+        "ja": "証拠を突きつけられ、事実を認めざるを得なかった。",
+        "furigana": "{証拠|しょうこ}を{突|つ}きつけられ、{事実|じじつ}を{認|みと}めざるを{得|え}なかった。",
+        "zh": "被摆出证据之后，他不得不承认了事实。",
+        "en": "Confronted with the evidence, he was forced to admit the facts."
+      },
+      {
+        "ja": "台風の影響で、大会は中止せざるを得ない状況だ。",
+        "furigana": "{台風|たいふう}の{影響|えいきょう}で、{大会|たいかい}は{中止|ちゅうし}せざるを{得|え}ない{状況|じょうきょう}だ。",
+        "zh": "受台风影响，比赛处于不得不取消的境地。",
+        "en": "Owing to the typhoon, the tournament is in a situation where it must be called off."
+      }
+    ],
+    "note_zh": "する的形式是「せざるを得ない」而非「しざるを得ない」；来る是「来（こ）ざるを得ない」。",
+    "note_en": "する becomes せざるを得ない (never しざるを得ない), and 来る becomes 来ざるを得ない."
+  },
+  {
+    "id": "g-n2-15",
+    "level": "N2",
+    "track": "grammar",
+    "group": "強い否定",
+    "pattern": "〜どころではない",
+    "meaning_zh": "哪里还谈得上……；根本不是做……的时候",
+    "meaning_en": "this is no time for, far from being able to",
+    "formation": "名词／动词辞书形 + どころではない（どころではなくなる）",
+    "explain_zh": "会话和一般书面语都可用，报道里常出现在描述灾害、经营恶化的语境，正式公文中则少见。语感是「因为有更紧迫的事，前项完全没有余裕」，所以前项通常是悠闲的、享受性的事（旅行・観光・食事・恋愛），后项或上文必须交代那个紧迫状况。与「〜どころか」形近但完全不同：どころか是「别说……反而……」的递进对比，どころではない是否定余裕，不要混用。",
+    "explain_en": "Usable in conversation and general writing, and common in reporting on disasters or business slumps, though rare in formal documents. It means there is no leeway for the stated activity because something far more pressing has intervened, so the activity is typically leisurely (travel, sightseeing, meals, romance) and the surrounding text must supply the pressing situation. Do not confuse it with the similar-looking 〜どころか, which means 'far from X, in fact Y' — a contrastive escalation, not a denial of leeway.",
+    "examples": [
+      {
+        "ja": "締め切り前で、旅行どころではない。",
+        "furigana": "{締|し}め{切|き}り{前|まえ}で、{旅行|りょこう}どころではない。",
+        "zh": "临近截稿，哪里还谈得上去旅行。",
+        "en": "With the deadline looming, this is no time for a trip."
+      },
+      {
+        "ja": "業績が急速に悪化し、新規採用どころではなくなった。",
+        "furigana": "{業績|ぎょうせき}が{急速|きゅうそく}に{悪化|あっか}し、{新規採用|しんきさいよう}どころではなくなった。",
+        "zh": "业绩急剧恶化，已经根本谈不上招聘新人了。",
+        "en": "With performance deteriorating fast, hiring new staff is out of the question."
+      },
+      {
+        "ja": "被災地では生活の再建が急務で、観光どころではない。",
+        "furigana": "{被災地|ひさいち}では{生活|せいかつ}の{再建|さいけん}が{急務|きゅうむ}で、{観光|かんこう}どころではない。",
+        "zh": "灾区当务之急是重建生活，根本谈不上旅游。",
+        "en": "In the disaster area, rebuilding daily life is urgent and tourism is unthinkable."
+      }
+    ],
+    "note_zh": "口语可说「〜どころじゃない」；礼貌形是「〜どころではありません」。",
+    "note_en": "Casual speech contracts it to 〜どころじゃない; the polite form is 〜どころではありません."
+  },
+  {
+    "id": "g-n2-16",
+    "level": "N2",
+    "track": "grammar",
+    "group": "条件・前提",
+    "pattern": "〜てからでないと",
+    "meaning_zh": "不先……的话就（不能）……",
+    "meaning_en": "unless you first do ..., you cannot ...",
+    "formation": "动词て形 + からでないと／からでなければ（后项必为否定或消极表达）",
+    "explain_zh": "说明性口语和一般书面语通用，规章说明、医疗和商务场合的条件说明最常见；更硬的文书会写「〜た上でなければ」。使用铁律是后项必须是否定形式或表示困难的表达（〜できない・〜られない・〜にくい・〜てはいけない），说「許可を得てからでないと公開できる」是错句。「〜からでなければ」比「〜からでないと」更正式，多用于书面通知和口头正式说明。",
+    "explain_en": "Explanatory register shared by speech and general writing, most common in rules, medical guidance and business conditions; stiffer documents use 〜た上でなければ. The iron rule is that the main clause must be negative or express difficulty (〜できない, 〜られない, 〜にくい, 〜てはいけない), so 許可を得てからでないと公開できる is ungrammatical. 〜からでなければ is the more formal variant, favoured in written notices and formal oral explanations.",
+    "examples": [
+      {
+        "ja": "上司の許可を得てからでないと、資料は公開できない。",
+        "furigana": "{上司|じょうし}の{許可|きょか}を{得|え}てからでないと、{資料|しりょう}は{公開|こうかい}できない。",
+        "zh": "不先取得上司许可的话，资料就不能公开。",
+        "en": "The materials cannot be released unless approval is first obtained from a supervisor."
+      },
+      {
+        "ja": "検査結果が出てからでなければ、治療方針は決められません。",
+        "furigana": "{検査結果|けんさけっか}が{出|で}てからでなければ、{治療方針|ちりょうほうしん}は{決|き}められません。",
+        "zh": "检查结果出来之前，无法确定治疗方案。",
+        "en": "Until the test results are in, we cannot decide on a course of treatment."
+      },
+      {
+        "ja": "実際に使ってからでないと、良し悪しは判断しにくい。",
+        "furigana": "{実際|じっさい}に{使|つか}ってからでないと、{良|よ}し{悪|あ}しは{判断|はんだん}しにくい。",
+        "zh": "不实际用一用的话，好坏很难判断。",
+        "en": "It is hard to judge the merits unless you have actually used it."
+      }
+    ],
+    "note_zh": "与单纯表先后的「〜てから」不同，本句型强调「这是必要前提」，因此后项不能是肯定的意志句。",
+    "note_en": "Unlike plain 〜てから, which marks mere sequence, this pattern stresses a prerequisite, so the main clause cannot be an affirmative volitional statement."
+  }
+]
