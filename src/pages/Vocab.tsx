@@ -4,6 +4,7 @@ import { vocab } from '../data/vocab'
 import LevelFilter from '../components/LevelFilter'
 import { KANA_ROWS, rowOfReading, meaningMatches, type RowKey } from '../lib/kana'
 import { addVocabRecord } from '../lib/storage'
+import { speak } from '../lib/tts'
 import type { Level, VocabWord } from '../types'
 
 const SESSION_SIZE = 20
@@ -83,6 +84,7 @@ export default function Vocab() {
     }
     if (ok) setCorrectCount((c) => c + 1)
     setFeedback(ok ? 'ok' : 'ng')
+    speak(word.reading)
   }
 
   const advance = () => {
@@ -187,7 +189,13 @@ export default function Vocab() {
               </>
             ) : (
               <>
-                <div className="mb-2 font-serif text-3xl font-bold sm:text-4xl">{word.word}</div>
+                <button
+                  className="mb-2 font-serif text-3xl font-bold transition-colors hover:text-accent-deep sm:text-4xl"
+                  onClick={() => speak(word.reading)}
+                  title={t('vocab.playAudio')}
+                >
+                  {word.word}
+                </button>
                 <div className="text-stone-500">{word.reading}</div>
                 <p className="mt-4 text-xs text-stone-400">{t('vocab.promptToMeaning')}</p>
               </>

@@ -5,6 +5,7 @@ import { getArticle, nextArticle } from '../data/articles'
 import { useLineTyping, type CharStatus } from '../hooks/useTyping'
 import { parseFurigana, splitSegLines, sliceSegs } from '../lib/furigana'
 import { sentenceSpans, sentenceAt } from '../lib/sentences'
+import { useArticleAudio } from '../hooks/useArticleAudio'
 import { lookupWordAt, type WordHit } from '../lib/lookup'
 import { addArticleRecord, bestForArticle } from '../lib/storage'
 import ResultModal from '../components/ResultModal'
@@ -42,6 +43,7 @@ export default function Practice() {
   const lineSegs = useMemo(() => ranges.map((r) => sliceSegs(segs, r.start, r.end)), [ranges, segs])
 
   const typing = useLineTyping(lines)
+  const audio = useArticleAudio(article?.id, article?.trans ?? [])
   const inputRef = useRef<HTMLInputElement>(null)
   const activeLineRef = useRef<HTMLDivElement>(null)
   const savedRef = useRef(false)
@@ -143,6 +145,8 @@ export default function Practice() {
     ? ranges[typing.lineIdx].start + typing.current.length
     : content.length - 1
   const activeSentence = sentenceAt(spans, cursor)
+  const playingSpan = audio.index >= 0 ? spans[audio.index] : undefined
+  const RATES = [0.75, 1, 1.25]
 
   return (
     <div className="mx-auto max-w-2xl">
@@ -157,6 +161,36 @@ export default function Practice() {
           </span>
         </div>
         <div className="flex items-center gap-2">
+          {spans.length > 0 && (
+            <>
+              <button
+                className={`btn gap-1.5 text-xs ${
+                  audio.playing
+                    ? 'border border-accent-dark bg-accent-light text-accent-deep'
+                    : 'border border-stone-200 bg-white text-stone-500 hover:text-ink'
+                }`}
+                onClick={audio.toggle}
+                aria-label={t('practice.read')}
+              >
+                <svg viewBox="0 0 24 24" className="h-3.5 w-3.5" fill="currentColor">
+                  {audio.playing ? (
+                    <path d="M8 5h3v14H8zM13 5h3v14h-3z" />
+                  ) : (
+                    <path d="M7 4.5v15l12-7.5z" />
+                  )}
+                </svg>
+                {t('practice.read')}
+              </button>
+              {audio.playing && (
+                <button
+                  className="btn border border-stone-200 bg-white text-xs text-stone-500 hover:text-ink"
+                  onClick={() => audio.setRate(RATES[(RATES.indexOf(audio.rate) + 1) % RATES.length])}
+                >
+                  {audio.rate}×
+                </button>
+              )}
+            </>
+          )}
           <button
             className={`btn text-xs ${
               showFurigana
@@ -217,12 +251,17 @@ export default function Practice() {
               <div className="cursor-pointer text-xl leading-normal tracking-wide sm:text-2xl">
                 {lineSegs[li].map((seg, si) => {
                   const chars = Array.from(seg.text).map((ch, ci) => {
-                    const inLine = seg.start + ci - ranges[li].start
+                    const global = seg.start + ci
+                    const inLine = global - ranges[li].start
+                    const reading =
+                      playingSpan && global >= playingSpan.start && global < playingSpan.end
                     return (
                       <span
                         key={ci}
-                        className={CHAR_CLS[typing.statusOf(li, inLine)]}
-                        onClick={(e) => onCharClick(e, seg.start + ci)}
+                        className={`${CHAR_CLS[typing.statusOf(li, inLine)]}${
+                          reading ? ' bg-amber-100/70 rounded-sm' : ''
+                        }`}
+                        onClick={(e) => onCharClick(e, global)}
                       >
                         {ch}
                       </span>

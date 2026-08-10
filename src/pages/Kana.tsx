@@ -2,6 +2,7 @@ import { useEffect, useMemo, useRef, useState } from 'react'
 import { useTranslation } from 'react-i18next'
 import { SECTIONS, allCells, type KanaCell, type KanaSection } from '../data/kana'
 import { addKanaRecord } from '../lib/storage'
+import { speak } from '../lib/tts'
 
 type Script = 'hiragana' | 'katakana'
 
@@ -15,18 +16,6 @@ function shuffle<T>(arr: T[]): T[] {
     ;[a[i], a[j]] = [a[j], a[i]]
   }
   return a
-}
-
-function speak(text: string) {
-  try {
-    const u = new SpeechSynthesisUtterance(text)
-    u.lang = 'ja-JP'
-    u.rate = 0.8
-    window.speechSynthesis.cancel()
-    window.speechSynthesis.speak(u)
-  } catch {
-    // speech synthesis unavailable — chart stays silent
-  }
 }
 
 export default function Kana() {
