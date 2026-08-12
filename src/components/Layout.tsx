@@ -94,15 +94,9 @@ export default function Layout() {
         <div className="mx-auto flex h-14 max-w-5xl items-center justify-between gap-2 px-4 sm:h-16 sm:px-6">
           <div className="flex min-w-0 items-center gap-2 sm:gap-6">
             <Link to="/" className="flex shrink-0 items-center gap-2.5">
-              <svg viewBox="0 0 100 100" className="h-8 w-8" aria-hidden="true">
-                <rect x="4" y="4" width="92" height="92" rx="24" fill="#b45309" />
-                <rect x="27" y="22" width="9" height="50" rx="4.5" fill="#faf9f6" />
-                <rect x="59" y="22" width="9" height="50" rx="4.5" fill="#faf9f6" />
-                <rect x="27" y="22" width="41" height="9" rx="4.5" fill="#faf9f6" />
-                <rect x="27" y="42.5" width="41" height="9" rx="4.5" fill="#faf9f6" />
-                <rect x="27" y="63" width="41" height="9" rx="4.5" fill="#faf9f6" />
-                <path d="M80 66 C83 71 86 74.5 86 78 A6.5 6.5 0 0 1 73 78 C73 74.5 77 71 80 66 Z" fill="#faf9f6" />
-              </svg>
+              <span className="flex h-8 w-8 items-center justify-center rounded-lg bg-accent-dark font-serif text-lg font-bold text-white">
+                日
+              </span>
               <span className="font-serif text-lg font-semibold tracking-tight">
                 nihongo.ink
               </span>
