@@ -4,6 +4,7 @@ import { useTranslation } from 'react-i18next'
 import { loadRecords, clearRecords } from '../lib/storage'
 import { getArticle } from '../data/articles'
 import TrendChart from '../components/TrendChart'
+import { usePageMeta } from '../hooks/usePageMeta'
 
 function formatTime(ms: number): string {
   const totalSec = Math.round(ms / 1000)
@@ -11,6 +12,7 @@ function formatTime(ms: number): string {
 }
 
 export default function Stats() {
+  usePageMeta('/stats')
   const { t, i18n } = useTranslation()
   const [version, setVersion] = useState(0)
   const records = useMemo(() => loadRecords(), [version])

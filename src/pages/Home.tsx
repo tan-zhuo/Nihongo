@@ -1,8 +1,10 @@
 import { Link } from 'react-router-dom'
 import { useTranslation } from 'react-i18next'
+import { usePageMeta } from '../hooks/usePageMeta'
 
 export default function Home() {
   const { t } = useTranslation()
+  usePageMeta('/')
 
   const cards = [
     { to: '/kana', mark: '音', title: t('home.kanaTitle'), desc: t('home.kanaDesc') },

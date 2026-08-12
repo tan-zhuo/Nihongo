@@ -4,12 +4,14 @@ import { useTranslation } from 'react-i18next'
 import { articles } from '../data/articles'
 import LevelFilter from '../components/LevelFilter'
 import { loadRecords, bestForArticle } from '../lib/storage'
+import { usePageMeta } from '../hooks/usePageMeta'
 import type { Level } from '../types'
 
 type Kind = 'all' | 'essay' | 'story'
 
 export default function Articles() {
   const { t, i18n } = useTranslation()
+  usePageMeta('/articles')
   const zhFirst = (i18n.resolvedLanguage ?? 'en').startsWith('zh')
   const [level, setLevel] = useState<Level | 'all'>('all')
   const [kind, setKind] = useState<Kind>('all')

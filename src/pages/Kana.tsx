@@ -4,6 +4,7 @@ import { SECTIONS, allCells, type KanaCell, type KanaSection } from '../data/kan
 import { addKanaRecord } from '../lib/storage'
 import { speakKana, playKanaSequence } from '../lib/tts'
 import manifest from '../data/audio-manifest.json'
+import { usePageMeta } from '../hooks/usePageMeta'
 
 const KANA_AUDIO: readonly string[] = manifest.kana ?? []
 
@@ -22,6 +23,7 @@ function shuffle<T>(arr: T[]): T[] {
 }
 
 export default function Kana() {
+  usePageMeta('/kana')
   const { t } = useTranslation()
   const [script, setScript] = useState<Script>(
     () => (localStorage.getItem(SCRIPT_KEY) === 'katakana' ? 'katakana' : 'hiragana'),

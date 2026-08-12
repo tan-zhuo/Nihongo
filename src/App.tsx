@@ -3,12 +3,25 @@ import { Routes, Route } from 'react-router-dom'
 import Layout from './components/Layout'
 import Home from './pages/Home'
 
-const Articles = lazy(() => import('./pages/Articles'))
-const Kana = lazy(() => import('./pages/Kana'))
-const Grammar = lazy(() => import('./pages/Grammar'))
-const Practice = lazy(() => import('./pages/Practice'))
-const Vocab = lazy(() => import('./pages/Vocab'))
-const Stats = lazy(() => import('./pages/Stats'))
+const pageLoaders = {
+  articles: () => import('./pages/Articles'),
+  kana: () => import('./pages/Kana'),
+  grammar: () => import('./pages/Grammar'),
+  practice: () => import('./pages/Practice'),
+  vocab: () => import('./pages/Vocab'),
+  stats: () => import('./pages/Stats'),
+}
+
+/** Used by entry-server so SSR renders pages instead of Suspense fallbacks. */
+export const preloadAllPages = () =>
+  Promise.all(Object.values(pageLoaders).map((load) => load()))
+
+const Articles = lazy(pageLoaders.articles)
+const Kana = lazy(pageLoaders.kana)
+const Grammar = lazy(pageLoaders.grammar)
+const Practice = lazy(pageLoaders.practice)
+const Vocab = lazy(pageLoaders.vocab)
+const Stats = lazy(pageLoaders.stats)
 
 export default function App() {
   return (

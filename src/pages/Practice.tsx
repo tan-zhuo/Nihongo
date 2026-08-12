@@ -9,6 +9,7 @@ import { useArticleAudio } from '../hooks/useArticleAudio'
 import { lookupWordAt, type WordHit } from '../lib/lookup'
 import { addArticleRecord, bestForArticle } from '../lib/storage'
 import ResultModal from '../components/ResultModal'
+import { useArticlePageMeta } from '../hooks/usePageMeta'
 
 const CHAR_CLS: Record<CharStatus, string> = {
   correct: 'text-emerald-600',
@@ -26,6 +27,7 @@ export default function Practice() {
   const navigate = useNavigate()
   const { t, i18n } = useTranslation()
   const article = useMemo(() => (id ? getArticle(id) : undefined), [id])
+  useArticlePageMeta(article)
   const content = article?.content ?? ''
 
   const [maxLen] = useState(() => (window.innerWidth < 640 ? 13 : 22))

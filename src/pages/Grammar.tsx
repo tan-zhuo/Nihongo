@@ -4,6 +4,7 @@ import { grammarPoints, keigoLessons, byGroup } from '../data/grammar'
 import LevelFilter from '../components/LevelFilter'
 import Furigana from '../components/Furigana'
 import { speak } from '../lib/tts'
+import { usePageMeta } from '../hooks/usePageMeta'
 import type { GrammarPoint, Level } from '../types'
 
 type Track = 'grammar' | 'keigo'
@@ -91,6 +92,7 @@ function PointCard({ point, zhFirst }: { point: GrammarPoint; zhFirst: boolean }
 }
 
 export default function Grammar() {
+  usePageMeta('/grammar')
   const { t, i18n } = useTranslation()
   const zhFirst = (i18n.resolvedLanguage ?? 'en').startsWith('zh')
   const [track, setTrack] = useState<Track>('grammar')

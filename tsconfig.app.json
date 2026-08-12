@@ -19,5 +19,6 @@
     "composite": true,
     "tsBuildInfoFile": "./node_modules/.tmp/tsconfig.app.tsbuildinfo"
   },
-  "include": ["src"]
+  "include": ["src"],
+  "exclude": ["src/entry-server.tsx"]
 }

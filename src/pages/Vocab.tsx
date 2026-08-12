@@ -5,6 +5,7 @@ import LevelFilter from '../components/LevelFilter'
 import { KANA_ROWS, rowOfReading, meaningMatches, type RowKey } from '../lib/kana'
 import { addVocabRecord } from '../lib/storage'
 import { speak } from '../lib/tts'
+import { usePageMeta } from '../hooks/usePageMeta'
 import type { Level, VocabWord } from '../types'
 
 const SESSION_SIZE = 20
@@ -25,6 +26,7 @@ function kataToHira(s: string): string {
 }
 
 export default function Vocab() {
+  usePageMeta('/vocab')
   const { t, i18n } = useTranslation()
   const [level, setLevel] = useState<Level | 'all'>('all')
   const [row, setRow] = useState<RowKey | 'all'>('all')
