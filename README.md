@@ -1,4 +1,4 @@
-# NihongoType 🇯🇵⌨️
+# nihongo.ink 🇯🇵⌨️
 
 专注的日语打字练习网站 — React 18 + Vite + TypeScript + Tailwind CSS，纯前端静态站点，可一键部署到 Vercel。
 

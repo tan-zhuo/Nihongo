@@ -1,5 +1,5 @@
 export const zh = {
-  app: { name: 'NihongoType', tagline: '专注的日语打字练习' },
+  app: { name: 'nihongo.ink', tagline: '专注的日语打字练习' },
   nav: { home: '首页', articles: '文章练习', vocab: '单词练习', stats: '成绩', kana: '五十音', grammar: '语法' },
   grammar: {
     title: '语法・敬语讲解',
@@ -125,7 +125,7 @@ export const zh = {
 }
 
 export const ja: typeof zh = {
-  app: { name: 'NihongoType', tagline: '集中できる日本語タイピング練習' },
+  app: { name: 'nihongo.ink', tagline: '集中できる日本語タイピング練習' },
   nav: { home: 'ホーム', articles: '文章練習', vocab: '単語練習', stats: '記録', kana: '五十音', grammar: '文法' },
   grammar: {
     title: '文法・敬語',
@@ -251,7 +251,7 @@ export const ja: typeof zh = {
 }
 
 export const en: typeof zh = {
-  app: { name: 'NihongoType', tagline: 'Focused Japanese typing practice' },
+  app: { name: 'nihongo.ink', tagline: 'Focused Japanese typing practice' },
   nav: { home: 'Home', articles: 'Articles', vocab: 'Vocabulary', stats: 'Stats', kana: 'Kana', grammar: 'Grammar' },
   grammar: {
     title: 'Grammar & keigo',

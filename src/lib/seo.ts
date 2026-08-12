@@ -13,28 +13,28 @@ export interface PageMeta {
 export const PAGE_META: Record<string, PageMeta> = {
   '/': {
     title:
-      'NihongoType — Japanese Typing Practice | 日本語タイピング練習 · 日语打字练习',
+      'nihongo.ink — Japanese Typing Practice | 日本語タイピング練習 · 日语打字练习',
     desc: 'Free Japanese typing practice. 52 JLPT N5–N1 graded articles and classic folktales, 4,200 vocabulary words, kana drills, grammar and keigo — with furigana, translations and audio.',
   },
   '/articles': {
-    title: 'Japanese Articles for Typing Practice (JLPT N5–N1) — NihongoType',
+    title: 'Japanese Articles for Typing Practice (JLPT N5–N1) — nihongo.ink',
     desc: 'Practice typing 52 graded Japanese articles: 40 original essays from JLPT N5 to N1 plus 12 classic folktales — 桃太郎, 浦島太郎, かぐや姫 and more. Furigana, translations and audio included.',
   },
   '/vocab': {
-    title: 'Japanese Vocabulary Typing Practice — 4,200 JLPT Words — NihongoType',
+    title: 'Japanese Vocabulary Typing Practice — 4,200 JLPT Words — nihongo.ink',
     desc: 'Type 4,200 common Japanese words from JLPT N5 to N1. Two modes: see the meaning and type the Japanese, or see the Japanese and type the meaning. Filter by level and kana row.',
   },
   '/kana': {
-    title: 'Hiragana & Katakana Typing Practice (五十音) — NihongoType',
+    title: 'Hiragana & Katakana Typing Practice (五十音) — nihongo.ink',
     desc: 'Learn to type the Japanese kana. Hiragana and katakana drills across the 五十音 gojūon rows, with native audio for every character.',
   },
   '/grammar': {
-    title: 'Japanese Grammar Typing Practice (JLPT N5–N1 + Keigo) — NihongoType',
+    title: 'Japanese Grammar Typing Practice (JLPT N5–N1 + Keigo) — nihongo.ink',
     desc: 'Type example sentences for JLPT N5–N1 grammar points and keigo (honorific Japanese), with furigana, translations and audio.',
   },
   '/stats': {
-    title: 'My Stats — NihongoType',
-    desc: 'Your typing practice history and progress on NihongoType.',
+    title: 'My Stats — nihongo.ink',
+    desc: 'Your typing practice history and progress on nihongo.ink.',
     noindex: true,
   },
 }
@@ -51,14 +51,14 @@ export function articleMeta(a: Article): PageMeta {
   const en = a.title_en ? ` (${a.title_en})` : ''
   if (a.kind === 'story') {
     return {
-      title: `${a.title}${en} — Japanese Folktale Typing Practice | NihongoType`,
+      title: `${a.title}${en} — Japanese Folktale Typing Practice | nihongo.ink`,
       desc: clip(
         `Type the classic Japanese folktale ${a.title}${en}. ${firstSentence(a)} With furigana, Chinese and English translations, and audio.`,
       ),
     }
   }
   return {
-    title: `${a.title}${en} — JLPT ${a.level} Japanese Typing Practice | NihongoType`,
+    title: `${a.title}${en} — JLPT ${a.level} Japanese Typing Practice | nihongo.ink`,
     desc: clip(
       `Type the JLPT ${a.level} Japanese article ${a.title}${en}. ${firstSentence(a)} With furigana, Chinese and English translations, and audio.`,
     ),

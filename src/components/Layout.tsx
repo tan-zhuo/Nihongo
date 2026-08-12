@@ -66,7 +66,7 @@ export default function Layout() {
   const submitFeedback = () => {
     const url = `https://github.com/tan-zhuo/Nihongo/issues/new?title=${encodeURIComponent(
       '[Feedback] ',
-    )}&body=${encodeURIComponent(feedbackText + '\n\n---\nvia NihongoType feedback')}`
+    )}&body=${encodeURIComponent(feedbackText + '\n\n---\nvia nihongo.ink feedback')}`
     window.open(url, '_blank', 'noopener')
     setFeedbackOpen(false)
     setFeedbackText('')
@@ -94,7 +94,7 @@ export default function Layout() {
                 日
               </span>
               <span className="font-serif text-lg font-semibold tracking-tight">
-                NihongoType
+                nihongo.ink
               </span>
             </Link>
             <nav className="hidden items-center gap-1 sm:flex">
@@ -128,7 +128,7 @@ export default function Layout() {
       </main>
 
       <footer className="border-t border-stone-200/70 px-4 pb-20 pt-6 text-center text-xs tracking-wide text-stone-400 sm:pb-6">
-        <p className="mb-2">NihongoType · {t('app.tagline')}</p>
+        <p className="mb-2">nihongo.ink · {t('app.tagline')}</p>
         <p className="flex items-center justify-center gap-4">
           <a
             href="https://tanzhuo.xyz"

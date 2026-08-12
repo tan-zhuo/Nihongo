@@ -61,7 +61,7 @@ try {
         inLanguage: 'ja',
         educationalLevel: a.kind === 'story' ? undefined : `JLPT ${a.level}`,
         learningResourceType: 'typing practice',
-        isPartOf: { '@type': 'WebSite', name: 'NihongoType', url: ORIGIN },
+        isPartOf: { '@type': 'WebSite', name: 'nihongo.ink', url: ORIGIN },
       }
       html = html.replace(
         '</head>',
