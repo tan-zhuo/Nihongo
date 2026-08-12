@@ -30,6 +30,9 @@ function NavIcon({ name }: { name: string }) {
   if (name === 'grammar') {
     return <span className="flex h-5 w-5 items-center justify-center font-serif text-[15px] leading-none">文</span>
   }
+  if (name === 'quiz') {
+    return <span className="flex h-5 w-5 items-center justify-center font-serif text-[15px] leading-none">験</span>
+  }
   return (
     <svg
       viewBox="0 0 24 24"
@@ -51,6 +54,7 @@ const NAV_ITEMS = [
   { to: '/grammar', key: 'grammar', icon: 'grammar' },
   { to: '/articles', key: 'articles', icon: 'articles' },
   { to: '/vocab', key: 'vocab', icon: 'vocab' },
+  { to: '/quiz', key: 'quiz', icon: 'quiz' },
   { to: '/stats', key: 'stats', icon: 'stats' },
 ]
 

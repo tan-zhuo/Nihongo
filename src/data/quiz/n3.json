@@ -1,0 +1,772 @@
+[
+  {
+    "id": "n3-q01",
+    "level": "N3",
+    "section": "vocab",
+    "type": "kanji-reading",
+    "question": "困ったことがあったら、いつでも私に【相談】してください。",
+    "options": ["そうたん", "そうだん", "しょうだん", "そうだい"],
+    "answer": 1,
+    "expl_zh": "「相談」读作「そうだん」。注意「談」是浊音「だん」，选项1漏掉浊音，是常见陷阱。",
+    "expl_en": "相談 is read そうだん. 談 takes the voiced だん; そうたん drops the voicing and is a common trap."
+  },
+  {
+    "id": "n3-q02",
+    "level": "N3",
+    "section": "vocab",
+    "type": "kanji-reading",
+    "question": "最近、この町では外国人観光客が【増えて】いる。",
+    "options": ["ふえて", "まして", "ぞうえて", "はえて"],
+    "answer": 0,
+    "expl_zh": "「増える」训读「ふえる」。「まして」对应「増して」送假名不同，「ぞう」是音读，不能用于「増えて」。",
+    "expl_en": "増える is read ふえる (kun-reading). まして belongs to 増す, and ぞう is the on-reading, which cannot be used here."
+  },
+  {
+    "id": "n3-q03",
+    "level": "N3",
+    "section": "vocab",
+    "type": "kanji-reading",
+    "question": "友人の結婚式に【招待】された。",
+    "options": ["しょたい", "しょうだい", "しょうたい", "じょうたい"],
+    "answer": 2,
+    "expl_zh": "「招待」读「しょうたい」。注意「招」是长音「しょう」，「待」不浊化；「じょうたい」是「状態」的读法。",
+    "expl_en": "招待 is read しょうたい. 招 has the long vowel しょう and 待 stays unvoiced; じょうたい is the reading of 状態."
+  },
+  {
+    "id": "n3-q04",
+    "level": "N3",
+    "section": "vocab",
+    "type": "kanji-reading",
+    "question": "父は小さな会社を【経営】している。",
+    "options": ["けいえい", "きょうえい", "けいえん", "けえい"],
+    "answer": 0,
+    "expl_zh": "「経営」读「けいえい」。「経」的音读是「けい」，注意不要与「きょう」（如「お経」）混淆。",
+    "expl_en": "経営 is read けいえい. The on-reading of 経 here is けい, not きょう (as in お経)."
+  },
+  {
+    "id": "n3-q05",
+    "level": "N3",
+    "section": "vocab",
+    "type": "kanji-reading",
+    "question": "電車の事故で会社に【遅刻】してしまった。",
+    "options": ["ちごく", "じこく", "ちこく", "ちっこく"],
+    "answer": 2,
+    "expl_zh": "「遅刻」读「ちこく」。「じこく」是「時刻」的读法，注意「刻」不浊化、无促音。",
+    "expl_en": "遅刻 is read ちこく. じこく is 時刻; note 刻 is not voiced and there is no small っ."
+  },
+  {
+    "id": "n3-q06",
+    "level": "N3",
+    "section": "vocab",
+    "type": "kanji-reading",
+    "question": "将来のために、毎月少しずつ【貯金】している。",
+    "options": ["ちょうきん", "じょきん", "ちょっきん", "ちょきん"],
+    "answer": 3,
+    "expl_zh": "「貯金」读「ちょきん」。「ちょ」是短音，选项0的长音和选项2的促音都是常见错误。",
+    "expl_en": "貯金 is read ちょきん. ちょ is short; the long-vowel ちょうきん and the geminate ちょっきん are typical mistakes."
+  },
+  {
+    "id": "n3-q07",
+    "level": "N3",
+    "section": "vocab",
+    "type": "kanji-reading",
+    "question": "先輩の誘いを【断る】のは勇気がいる。",
+    "options": ["こまる", "ことなる", "ことわる", "こどわる"],
+    "answer": 2,
+    "expl_zh": "「断る」训读「ことわる」。「こまる」是「困る」，「ことなる」是「異なる」，选项3多加了浊音。",
+    "expl_en": "断る is read ことわる. こまる is 困る and ことなる is 異なる; こどわる adds a wrong voiced sound."
+  },
+  {
+    "id": "n3-q08",
+    "level": "N3",
+    "section": "vocab",
+    "type": "kanji-reading",
+    "question": "この国は昔から外国との【貿易】が盛んだ。",
+    "options": ["ぼえき", "ぼうえき", "もうえき", "ぼうい"],
+    "answer": 1,
+    "expl_zh": "「貿易」读「ぼうえき」。「貿」是长音「ぼう」，选项0漏掉长音，是易错点。",
+    "expl_en": "貿易 is read ぼうえき. 貿 has the long vowel ぼう; ぼえき drops the long vowel."
+  },
+  {
+    "id": "n3-q09",
+    "level": "N3",
+    "section": "vocab",
+    "type": "kanji-reading",
+    "question": "週末に家族で【温泉】に行く予定だ。",
+    "options": ["おんせん", "おんぜん", "うんせん", "おんせい"],
+    "answer": 0,
+    "expl_zh": "「温泉」读「おんせん」。「泉」不浊化，「おんせい」是「音声」的读法。",
+    "expl_en": "温泉 is read おんせん. 泉 is not voiced here; おんせい is the reading of 音声."
+  },
+  {
+    "id": "n3-q10",
+    "level": "N3",
+    "section": "vocab",
+    "type": "kanji-reading",
+    "question": "今月の家賃をまだ【支払って】いない。",
+    "options": ["しばらって", "しはらって", "さはらって", "しはろって"],
+    "answer": 1,
+    "expl_zh": "「支払う」读「しはらう」。「払」读「はら」，不浊化；「しばらって」是浊音陷阱。",
+    "expl_en": "支払う is read しはらう. 払 is read はら without voicing; しばらって is the voicing trap."
+  },
+  {
+    "id": "n3-q11",
+    "level": "N3",
+    "section": "vocab",
+    "type": "kanji-reading",
+    "question": "【深夜】までテレビを見ていたので、今日は眠い。",
+    "options": ["ふかや", "しんよ", "じんや", "しんや"],
+    "answer": 3,
+    "expl_zh": "「深夜」音读「しんや」。「ふか」是训读，音训不能混用；「深」也不读「じん」。",
+    "expl_en": "深夜 is read しんや (on-reading). ふか is the kun-reading and cannot be mixed in; 深 is not read じん."
+  },
+  {
+    "id": "n3-q12",
+    "level": "N3",
+    "section": "vocab",
+    "type": "kanji-reading",
+    "question": "上司の【命令】には従わなければならない。",
+    "options": ["めいれい", "めいりょう", "みょうれい", "めえれい"],
+    "answer": 0,
+    "expl_zh": "「命令」读「めいれい」。「令」读「れい」，不是「りょう」；「みょう」是「命」的另一音读（如「寿命」），此处不用。",
+    "expl_en": "命令 is read めいれい. 令 is れい, not りょう; みょう (as in 寿命) is not used here."
+  },
+  {
+    "id": "n3-q13",
+    "level": "N3",
+    "section": "vocab",
+    "type": "orthography",
+    "question": "駅までの道を【あんない】してもらった。",
+    "options": ["案内", "安内", "案納", "按内"],
+    "answer": 0,
+    "expl_zh": "「あんない」写作「案内」。「安」「按」与「案」形近，「納」与「内」形近，都是干扰项。",
+    "expl_en": "あんない is written 案内. 安 and 按 look like 案, and 納 looks like 内 — all shape-based distractors."
+  },
+  {
+    "id": "n3-q14",
+    "level": "N3",
+    "section": "vocab",
+    "type": "orthography",
+    "question": "この時計は【こまかい】部品でできている。",
+    "options": ["組かい", "細かい", "紺かい", "緒かい"],
+    "answer": 1,
+    "expl_zh": "「こまかい」写作「細かい」。「組」「紺」「緒」都带糸字旁、与「細」形近，注意区分。",
+    "expl_en": "こまかい is written 細かい. 組, 紺, and 緒 share the thread radical and resemble 細."
+  },
+  {
+    "id": "n3-q15",
+    "level": "N3",
+    "section": "vocab",
+    "type": "orthography",
+    "question": "科学技術の【しんぽ】はとても速い。",
+    "options": ["真歩", "伸歩", "進歩", "進捗"],
+    "answer": 2,
+    "expl_zh": "「しんぽ」写作「進歩」。「進捗」读「しんちょく」，形近但读音不同，是主要陷阱。",
+    "expl_en": "しんぽ is written 進歩. 進捗 looks similar but is read しんちょく — the main trap."
+  },
+  {
+    "id": "n3-q16",
+    "level": "N3",
+    "section": "vocab",
+    "type": "orthography",
+    "question": "旅行の間、ペットを友人に【あずける】つもりだ。",
+    "options": ["頂ける", "領ける", "傾ける", "預ける"],
+    "answer": 3,
+    "expl_zh": "「あずける」写作「預ける」。「頂」「領」「傾」都含「頁」旁、与「預」形近，容易看错。",
+    "expl_en": "あずける is written 預ける. 頂, 領, and 傾 all contain the 頁 element and resemble 預."
+  },
+  {
+    "id": "n3-q17",
+    "level": "N3",
+    "section": "vocab",
+    "type": "orthography",
+    "question": "会議の内容を【きろく】に残してください。",
+    "options": ["記緑", "記録", "紀録", "記禄"],
+    "answer": 1,
+    "expl_zh": "「きろく」写作「記録」。「緑（绿）」「禄」与「録」形近，「紀」与「記」形近，均为字形干扰。",
+    "expl_en": "きろく is written 記録. 緑 and 禄 resemble 録, and 紀 resembles 記 — all shape distractors."
+  },
+  {
+    "id": "n3-q18",
+    "level": "N3",
+    "section": "vocab",
+    "type": "orthography",
+    "question": "くぎに引っかかって、シャツが【やぶれて】しまった。",
+    "options": ["破れて", "敗れて", "壊れて", "割れて"],
+    "answer": 0,
+    "expl_zh": "布类撕裂用「破れる」。「敗れる」同音但表示「输、败」，用于比赛；「壊れる」「割れる」读音不同。",
+    "expl_en": "Cloth tearing is 破れる. 敗れる is the same reading but means to lose a match; 壊れる and 割れる have different readings."
+  },
+  {
+    "id": "n3-q19",
+    "level": "N3",
+    "section": "vocab",
+    "type": "orthography",
+    "question": "この機械の仕組みはとても【ふくざつ】だ。",
+    "options": ["復雑", "腹雑", "複雑", "複稚"],
+    "answer": 2,
+    "expl_zh": "「ふくざつ」写作「複雑」。「復」「腹」与「複」形近，「稚」与「雑」形近，注意偏旁。",
+    "expl_en": "ふくざつ is written 複雑. 復 and 腹 resemble 複, and 稚 resembles 雑 — watch the radicals."
+  },
+  {
+    "id": "n3-q20",
+    "level": "N3",
+    "section": "vocab",
+    "type": "orthography",
+    "question": "この地域では農業が【さかん】だ。",
+    "options": ["栄ん", "勢ん", "豊ん", "盛ん"],
+    "answer": 3,
+    "expl_zh": "「さかん」写作「盛ん」。「栄」「勢」「豊」意思相近但读音和送假名都不对。",
+    "expl_en": "さかん is written 盛ん. 栄, 勢, and 豊 are related in meaning but have wrong readings/okurigana."
+  },
+  {
+    "id": "n3-q21",
+    "level": "N3",
+    "section": "vocab",
+    "type": "context",
+    "question": "まだ時間があるので、（　）歩いて行きましょう。",
+    "options": ["ゆっくり", "しっかり", "はっきり", "すっきり"],
+    "answer": 0,
+    "expl_zh": "有时间所以「慢慢地走」，用「ゆっくり」。「しっかり」是牢牢地，「はっきり」是清楚地，「すっきり」是清爽地。",
+    "expl_en": "With time to spare, ゆっくり (leisurely) fits. しっかり = firmly, はっきり = clearly, すっきり = refreshed."
+  },
+  {
+    "id": "n3-q22",
+    "level": "N3",
+    "section": "vocab",
+    "type": "context",
+    "question": "朝から雨が（　）降っていて、外に出られない。",
+    "options": ["にこにこ", "ざあざあ", "ぺこぺこ", "きらきら"],
+    "answer": 1,
+    "expl_zh": "形容大雨用拟声词「ざあざあ」。「にこにこ」是笑眯眯，「ぺこぺこ」是肚子饿，「きらきら」是闪闪发光。",
+    "expl_en": "Heavy rain is described with ざあざあ. にこにこ = smiling, ぺこぺこ = starving, きらきら = sparkling."
+  },
+  {
+    "id": "n3-q23",
+    "level": "N3",
+    "section": "vocab",
+    "type": "context",
+    "question": "彼は必ず約束を（　）人なので、みんなから信頼されている。",
+    "options": ["防ぐ", "助ける", "守る", "支える"],
+    "answer": 2,
+    "expl_zh": "固定搭配「約束を守る」（遵守约定）。「防ぐ」「助ける」「支える」都不能与「約束」搭配。",
+    "expl_en": "約束を守る (keep a promise) is the set collocation. 防ぐ, 助ける, and 支える do not pair with 約束."
+  },
+  {
+    "id": "n3-q24",
+    "level": "N3",
+    "section": "vocab",
+    "type": "context",
+    "question": "彼女は（　）した性格で、誰とでもすぐ仲良くなれる。",
+    "options": ["がっかり", "うっかり", "ぐったり", "さっぱり"],
+    "answer": 3,
+    "expl_zh": "「さっぱりした性格」指爽快、不拘小节的性格。「がっかり」失望、「うっかり」不留神、「ぐったり」筋疲力尽，都不能形容性格。",
+    "expl_en": "さっぱりした性格 means an easygoing, frank personality. がっかり = disappointed, うっかり = carelessly, ぐったり = exhausted."
+  },
+  {
+    "id": "n3-q25",
+    "level": "N3",
+    "section": "vocab",
+    "type": "context",
+    "question": "電車が遅れたが、約束の時間に（　）間に合った。",
+    "options": ["そろそろ", "ぎりぎり", "だんだん", "いよいよ"],
+    "answer": 1,
+    "expl_zh": "「ぎりぎり間に合う」表示勉强赶上。「そろそろ」是差不多该……，「だんだん」是渐渐，「いよいよ」是终于。",
+    "expl_en": "ぎりぎり間に合う means to make it just barely in time. そろそろ = about time to, だんだん = gradually, いよいよ = at last."
+  },
+  {
+    "id": "n3-q26",
+    "level": "N3",
+    "section": "vocab",
+    "type": "context",
+    "question": "後ろの席まで聞こえるように、もっと（　）話してください。",
+    "options": ["はっきり", "ぼんやり", "こっそり", "ふんわり"],
+    "answer": 0,
+    "expl_zh": "要让后排听见，应「はっきり」（清楚地）说。「ぼんやり」模糊、「こっそり」偷偷地、「ふんわり」软绵绵，语义相反或不合。",
+    "expl_en": "To be heard in the back, speak はっきり (clearly). ぼんやり = vaguely, こっそり = secretly, ふんわり = softly."
+  },
+  {
+    "id": "n3-q27",
+    "level": "N3",
+    "section": "vocab",
+    "type": "context",
+    "question": "駅から近くて買い物にも（　）なので、このアパートに決めた。",
+    "options": ["複雑", "退屈", "便利", "豊富"],
+    "answer": 2,
+    "expl_zh": "离车站近、购物方便，用「便利」。「複雑」复杂、「退屈」无聊、「豊富」丰富，都不符合语境。",
+    "expl_en": "Close to the station and convenient for shopping — 便利. 複雑 = complicated, 退屈 = boring, 豊富 = abundant."
+  },
+  {
+    "id": "n3-q28",
+    "level": "N3",
+    "section": "vocab",
+    "type": "context",
+    "question": "乾いた洗濯物を（　）、たんすにしまった。",
+    "options": ["包んで", "曲げて", "結んで", "たたんで"],
+    "answer": 3,
+    "expl_zh": "衣物「たたむ」（叠）是固定搭配。「包む」是包裹礼物等，「曲げる」是弄弯，「結ぶ」是系、打结。",
+    "expl_en": "Laundry is たたむ (folded). 包む = wrap (a gift), 曲げる = bend, 結ぶ = tie."
+  },
+  {
+    "id": "n3-q29",
+    "level": "N3",
+    "section": "vocab",
+    "type": "context",
+    "question": "この問題は複雑で、簡単には（　）できそうにない。",
+    "options": ["完成", "解決", "成功", "発明"],
+    "answer": 1,
+    "expl_zh": "「問題を解決する」是固定搭配。「完成」用于作品，「成功」不接宾语「問題」，「発明」是发明新事物。",
+    "expl_en": "問題を解決する (solve a problem) is the collocation. 完成 is for finishing works, 成功 doesn't take 問題, 発明 = invent."
+  },
+  {
+    "id": "n3-q30",
+    "level": "N3",
+    "section": "vocab",
+    "type": "context",
+    "question": "とても疲れていたので、ゆうべは（　）眠れた。",
+    "options": ["ぐっすり", "がっかり", "そっくり", "うっとり"],
+    "answer": 0,
+    "expl_zh": "「ぐっすり眠る」表示睡得香。「がっかり」失望、「そっくり」一模一样、「うっとり」出神，都与睡觉不搭配。",
+    "expl_en": "ぐっすり眠る means to sleep soundly. がっかり = disappointed, そっくり = identical, うっとり = enchanted."
+  },
+  {
+    "id": "n3-q31",
+    "level": "N3",
+    "section": "vocab",
+    "type": "context",
+    "question": "世界地図を壁に（　）、毎日眺めている。",
+    "options": ["積んで", "敷いて", "貼って", "埋めて"],
+    "answer": 2,
+    "expl_zh": "把地图贴在墙上用「貼る」。「積む」是堆放，「敷く」是铺（在地上），「埋める」是埋。",
+    "expl_en": "Putting a map on the wall is 貼る (stick/paste). 積む = pile up, 敷く = spread on the floor, 埋める = bury."
+  },
+  {
+    "id": "n3-q32",
+    "level": "N3",
+    "section": "vocab",
+    "type": "context",
+    "question": "事故で電車が止まり、待ち合わせに（　）してしまった。",
+    "options": ["欠席", "中止", "早退", "遅刻"],
+    "answer": 3,
+    "expl_zh": "赶不上约会的时间是「遅刻」（迟到）。「欠席」是缺席（会议、课），「中止」是取消，「早退」是早退。",
+    "expl_en": "Being late to a meeting spot is 遅刻. 欠席 = absence (from class/meeting), 中止 = cancellation, 早退 = leaving early."
+  },
+  {
+    "id": "n3-q33",
+    "level": "N3",
+    "section": "vocab",
+    "type": "paraphrase",
+    "question": "彼の説明は【あいまいで】、よく分からなかった。",
+    "options": ["はっきりしなくて", "長すぎて", "難しすぎて", "声が小さくて"],
+    "answer": 0,
+    "expl_zh": "「あいまい」＝模糊不清，等于「はっきりしない」。其他选项虽然也可能导致听不懂，但不是「あいまい」的意思。",
+    "expl_en": "あいまい means vague, i.e. はっきりしない. The others could cause confusion but are not the meaning of あいまい."
+  },
+  {
+    "id": "n3-q34",
+    "level": "N3",
+    "section": "vocab",
+    "type": "paraphrase",
+    "question": "彼女はその仕事を【引き受けた】。",
+    "options": ["断った", "やることにした", "人に頼んだ", "途中でやめた"],
+    "answer": 1,
+    "expl_zh": "「引き受ける」＝接受、承担，即「やることにした」。「断った」意思正相反，是主要干扰项。",
+    "expl_en": "引き受ける means to take on a task, i.e. やることにした. 断った (refused) is the opposite and the main trap."
+  },
+  {
+    "id": "n3-q35",
+    "level": "N3",
+    "section": "vocab",
+    "type": "paraphrase",
+    "question": "出かける前に部屋を【片づけた】。",
+    "options": ["広くした", "明るくした", "きれいに整理した", "新しく飾った"],
+    "answer": 2,
+    "expl_zh": "「片づける」＝收拾、整理，等于「きれいに整理する」。其他选项都是改变房间的其他状态。",
+    "expl_en": "片づける means to tidy up, i.e. きれいに整理する. The other options describe different changes to the room."
+  },
+  {
+    "id": "n3-q36",
+    "level": "N3",
+    "section": "vocab",
+    "type": "paraphrase",
+    "question": "知らない人に急に話しかけられて【びっくりした】。",
+    "options": ["喜んだ", "困った", "怒った", "驚いた"],
+    "answer": 3,
+    "expl_zh": "「びっくりする」＝「驚く」（吃惊）。「困った」「怒った」是被搭话后可能有的反应，但词义不同，注意不要凭想象选。",
+    "expl_en": "びっくりする equals 驚く (to be surprised). 困った and 怒った are plausible reactions but different in meaning."
+  },
+  {
+    "id": "n3-q37",
+    "level": "N3",
+    "section": "vocab",
+    "type": "paraphrase",
+    "question": "この店は【たいてい】夜9時に閉まる。",
+    "options": ["ほとんどいつも", "必ず", "たまに", "ときどき"],
+    "answer": 0,
+    "expl_zh": "「たいてい」＝大多数情况下，即「ほとんどいつも」。「必ず」语气过强（100%），是主要干扰项。",
+    "expl_en": "たいてい means usually, i.e. ほとんどいつも. 必ず (always, 100%) is too strong and is the main trap."
+  },
+  {
+    "id": "n3-q38",
+    "level": "N3",
+    "section": "vocab",
+    "type": "paraphrase",
+    "question": "彼は【めったに】会議に遅れない。",
+    "options": ["ときどき会議に遅れる", "ほとんど会議に遅れない", "よく会議に遅れる", "絶対に会議に遅れない"],
+    "answer": 1,
+    "expl_zh": "「めったに～ない」＝很少……，即「ほとんど～ない」。「絶対に～ない」表示完全不，程度过强。",
+    "expl_en": "めったに～ない means rarely, i.e. ほとんど～ない. 絶対に～ない (never at all) is too absolute."
+  },
+  {
+    "id": "n3-q39",
+    "level": "N3",
+    "section": "vocab",
+    "type": "paraphrase",
+    "question": "先生に借りた本を【返却した】。",
+    "options": ["貸した", "汚した", "返した", "なくした"],
+    "answer": 2,
+    "expl_zh": "「返却する」是「返す」的书面语。「貸す」方向相反（借出），注意区分授受方向。",
+    "expl_en": "返却する is the formal word for 返す (return). 貸す is the opposite direction (lend) — watch the direction of giving."
+  },
+  {
+    "id": "n3-q40",
+    "level": "N3",
+    "section": "vocab",
+    "type": "paraphrase",
+    "question": "引っ越しの準備は【ほぼ】終わった。",
+    "options": ["まだ半分", "完全に", "ゆっくり", "だいたい"],
+    "answer": 3,
+    "expl_zh": "「ほぼ」＝大体上，等于「だいたい」。「完全に」表示100%完成，程度不同，是干扰项。",
+    "expl_en": "ほぼ means almost/mostly, i.e. だいたい. 完全に (completely) overstates the degree and is the trap."
+  },
+  {
+    "id": "n3-q41",
+    "level": "N3",
+    "section": "vocab",
+    "type": "usage",
+    "question": "夢中",
+    "options": [
+      "将来の夢中は、医者になることです。",
+      "弟はゲームに夢中になって、宿題をするのを忘れていた。",
+      "ゆうべは疲れていたので、夢中に眠ってしまった。",
+      "彼女は夢中が多くて、何になりたいか決められないようだ。"
+    ],
+    "answer": 1,
+    "expl_zh": "「夢中」指入迷、着迷，常用「～に夢中になる」。选项0、3把它当成「夢」（梦想）用，选项2应该用「ぐっすり」。",
+    "expl_en": "夢中 means being absorbed in something, used as ～に夢中になる. Options 0 and 3 confuse it with 夢 (dream); option 2 needs ぐっすり."
+  },
+  {
+    "id": "n3-q42",
+    "level": "N3",
+    "section": "vocab",
+    "type": "usage",
+    "question": "募集",
+    "options": [
+      "趣味で、世界の珍しい切手を募集している。",
+      "誕生日パーティーに友達をたくさん募集した。",
+      "あのコンビニでは、夜に働けるアルバイトを募集している。",
+      "机の上に散らばった書類を募集してください。"
+    ],
+    "answer": 2,
+    "expl_zh": "「募集」指公开招募人员或作品。选项0应用「収集」，选项1应用「招待」，选项3应用「まとめる／集める」。",
+    "expl_en": "募集 means to publicly recruit people or solicit entries. Option 0 needs 収集, option 1 needs 招待, option 3 needs まとめる/集める."
+  },
+  {
+    "id": "n3-q43",
+    "level": "N3",
+    "section": "vocab",
+    "type": "usage",
+    "question": "相変わらず",
+    "options": [
+      "彼は相変わらず毎朝五時に起きて、ジョギングをしている。",
+      "会議の時間が相変わらずになったので、お知らせします。",
+      "兄とは相変わらず、私はスポーツがまったく得意ではない。",
+      "この町は十年前と相変わらず、ずいぶん変わってしまった。"
+    ],
+    "answer": 0,
+    "expl_zh": "「相変わらず」是副词，表示「和以前一样」。选项1应用「変更」，选项2应用「違って」，选项3前后矛盾（既然没变就不能「変わった」）。",
+    "expl_en": "相変わらず is an adverb meaning \"same as before.\" Option 1 needs 変更, option 2 needs 違って, and option 3 is self-contradictory."
+  },
+  {
+    "id": "n3-q44",
+    "level": "N3",
+    "section": "vocab",
+    "type": "usage",
+    "question": "面倒",
+    "options": [
+      "今日は面倒な天気なので、傘を持って行ったほうがいい。",
+      "このかばんは面倒で、荷物がたくさん入る。",
+      "彼は面倒がうまくて、いつもみんなを笑わせている。",
+      "手続きが面倒で、なかなか申し込む気にならない。"
+    ],
+    "answer": 3,
+    "expl_zh": "「面倒」形容手续、事情麻烦费事。选项0应用「変な／ぐずついた」，选项1应用「便利」，选项2应用「冗談」。",
+    "expl_en": "面倒 describes troublesome tasks or procedures. Option 0 misapplies it to weather, option 1 needs 便利, option 2 needs 冗談."
+  },
+  {
+    "id": "n3-q45",
+    "level": "N3",
+    "section": "vocab",
+    "type": "usage",
+    "question": "預ける",
+    "options": [
+      "図書館で借りた本は、今日中に預けなければならない。",
+      "分からない単語は、辞書で預けてください。",
+      "出張の間、子どもを両親に預けることにした。",
+      "明日の天気を、インターネットで預けてみた。"
+    ],
+    "answer": 2,
+    "expl_zh": "「預ける」是把人或物暂时托付给别人保管。选项0应用「返す」，选项1、3应用「調べる」。",
+    "expl_en": "預ける means to entrust a person or thing to someone's care. Option 0 needs 返す; options 1 and 3 need 調べる."
+  },
+  {
+    "id": "n3-q46",
+    "level": "N3",
+    "section": "grammar",
+    "type": "grammar-form",
+    "question": "赤ちゃんが寝ている（　）、夕食の準備をしてしまおう。",
+    "options": ["ばかりに", "うちに", "とおりに", "かわりに"],
+    "answer": 1,
+    "expl_zh": "「～うちに」表示趁某状态持续时做某事：趁孩子睡着做饭。「ばかりに」表示消极原因，「とおりに」照着，「かわりに」代替。",
+    "expl_en": "～うちに means \"while the state lasts\" — cook while the baby sleeps. ばかりに gives a negative cause, とおりに = as instructed, かわりに = instead of."
+  },
+  {
+    "id": "n3-q47",
+    "level": "N3",
+    "section": "grammar",
+    "type": "grammar-form",
+    "question": "この歌を聞く（　）、高校時代を思い出す。",
+    "options": ["たびに", "ところに", "とおりに", "ばかりに"],
+    "answer": 0,
+    "expl_zh": "「～たびに」表示「每次……都……」：每次听这首歌都会想起高中时代。其他选项都不能表达反复联想。",
+    "expl_en": "～たびに means \"every time\" — every time I hear this song I recall high school. The others cannot express this repetition."
+  },
+  {
+    "id": "n3-q48",
+    "level": "N3",
+    "section": "grammar",
+    "type": "grammar-form",
+    "question": "天気予報（　）、明日は大雪になるそうだ。",
+    "options": ["にとって", "に対して", "によると", "について"],
+    "answer": 2,
+    "expl_zh": "「～によると」表示信息来源，与句尾「そうだ」（传闻）呼应。「にとって」对……而言，「に対して」对……（对象），「について」关于。",
+    "expl_en": "～によると marks the information source and pairs with hearsay そうだ. にとって = for, に対して = toward, について = about."
+  },
+  {
+    "id": "n3-q49",
+    "level": "N3",
+    "section": "grammar",
+    "type": "grammar-form",
+    "question": "ゆうべ遅くまでゲームをしていた（　）、今朝は寝坊してしまった。",
+    "options": ["おかげで", "ように", "ことに", "せいで"],
+    "answer": 3,
+    "expl_zh": "结果是消极的（睡过头），所以用表示坏原因的「～せいで」。「おかげで」用于好结果，是主要干扰项。",
+    "expl_en": "The result (oversleeping) is negative, so ～せいで (blame) fits. おかげで is for positive results and is the main trap."
+  },
+  {
+    "id": "n3-q50",
+    "level": "N3",
+    "section": "grammar",
+    "type": "grammar-form",
+    "question": "明日は大事な試験があるので、今夜は遊んでいる（　）。",
+    "options": ["わけにはいかない", "はずがない", "ことはない", "に違いない"],
+    "answer": 0,
+    "expl_zh": "「～わけにはいかない」表示因情理、义务而「不能……」。「はずがない」是不可能，「ことはない」是没必要，「に違いない」是一定是。",
+    "expl_en": "～わけにはいかない means \"can't afford to (for social/duty reasons).\" はずがない = impossible, ことはない = no need, に違いない = must be."
+  },
+  {
+    "id": "n3-q51",
+    "level": "N3",
+    "section": "grammar",
+    "type": "grammar-form",
+    "question": "ニュースによれば、来月からバスの料金が上がる（　）。",
+    "options": ["おかげだ", "はずがない", "ということだ", "ことにしている"],
+    "answer": 2,
+    "expl_zh": "「～ということだ」表示传闻，与「によれば」呼应。「ことにしている」表示自己的习惯性决定，与信息来源不搭。",
+    "expl_en": "～ということだ expresses hearsay, matching によれば. ことにしている states one's own habitual decision and clashes with the source phrase."
+  },
+  {
+    "id": "n3-q52",
+    "level": "N3",
+    "section": "grammar",
+    "type": "grammar-form",
+    "question": "今朝は何も食べ（　）家を出たので、おなかがぺこぺこだ。",
+    "options": ["ずに", "ながら", "そうに", "ように"],
+    "answer": 0,
+    "expl_zh": "「～ずに」＝「～ないで」，表示「没做……就……」。注意接续：「食べずに」（する→せずに是特例）。",
+    "expl_en": "～ずに means \"without doing,\" like ～ないで: 食べずに = without eating. (Note する becomes せずに.)"
+  },
+  {
+    "id": "n3-q53",
+    "level": "N3",
+    "section": "grammar",
+    "type": "grammar-form",
+    "question": "子どものころ、母に嫌いなピーマンを無理やり（　）。",
+    "options": ["食べられた", "食べさせた", "食べさられた", "食べさせられた"],
+    "answer": 3,
+    "expl_zh": "「被妈妈逼着吃」是使役被动「食べさせられた」。「食べさせた」是使役（我让别人吃），「食べさられた」是错误形式。",
+    "expl_en": "\"Was made to eat by my mother\" is the causative-passive 食べさせられた. 食べさせた is plain causative; 食べさられた is a malformed conjugation."
+  },
+  {
+    "id": "n3-q54",
+    "level": "N3",
+    "section": "grammar",
+    "type": "grammar-form",
+    "question": "（会社で）社長はもう今月の報告書を（　）か。",
+    "options": ["ご覧になりました", "拝見しました", "お見になりました", "ご覧しました"],
+    "answer": 0,
+    "expl_zh": "对社长的动作要用尊敬语「ご覧になる」。「拝見する」是谦让语（用于自己），选项2、3是错误的敬语形式。",
+    "expl_en": "The president's action takes the honorific ご覧になる. 拝見する is humble (for one's own action); options 2 and 3 are malformed keigo."
+  },
+  {
+    "id": "n3-q55",
+    "level": "N3",
+    "section": "grammar",
+    "type": "grammar-form",
+    "question": "料理が多すぎて、一人ではとても食べ（　）。",
+    "options": ["かけない", "きれない", "がちだ", "っぽい"],
+    "answer": 1,
+    "expl_zh": "「～きれない」表示「……不完」：太多吃不完。「～かけ」是做到一半，「～がち」是容易……，「～っぽい」是有……的倾向。",
+    "expl_en": "～きれない means \"can't finish\" — too much to eat up. ～かけ = half-done, ～がち = tend to, ～っぽい = -ish."
+  },
+  {
+    "id": "n3-q56",
+    "level": "N3",
+    "section": "grammar",
+    "type": "sentence-order",
+    "question": "毎日練習した　＿＿　＿＿　＿★＿　＿＿　なりました。",
+    "options": ["泳げるように", "速く", "おかげで", "前より"],
+    "answer": 1,
+    "expl_zh": "正确语序：毎日練習したおかげで、前より速く泳げるようになりました。「おかげで」接在「練習した」后，「速く」修饰「泳げる」，★处是「速く」。",
+    "expl_en": "Correct order: 毎日練習したおかげで、前より速く泳げるようになりました。おかげで follows 練習した and 速く modifies 泳げる, so the ★ slot is 速く."
+  },
+  {
+    "id": "n3-q57",
+    "level": "N3",
+    "section": "grammar",
+    "type": "sentence-order",
+    "question": "祖母は、私が　＿＿　＿＿　＿★＿　＿＿　くれる。",
+    "options": ["たびに", "作って", "遊びに行く", "おいしい料理を"],
+    "answer": 3,
+    "expl_zh": "正确语序：祖母は、私が遊びに行くたびに、おいしい料理を作ってくれる。「たびに」接动词原形「遊びに行く」，★处是「おいしい料理を」。",
+    "expl_en": "Correct order: 祖母は、私が遊びに行くたびに、おいしい料理を作ってくれる。たびに follows the dictionary form 遊びに行く, so the ★ slot is おいしい料理を."
+  },
+  {
+    "id": "n3-q58",
+    "level": "N3",
+    "section": "grammar",
+    "type": "sentence-order",
+    "question": "明日は面接が　＿＿　＿＿　＿★＿　＿＿　いかない。",
+    "options": ["お酒を飲む", "わけには", "あるので", "今夜は"],
+    "answer": 0,
+    "expl_zh": "正确语序：明日は面接があるので、今夜はお酒を飲むわけにはいかない。句尾固定「～わけにはいかない」，★处是「お酒を飲む」。",
+    "expl_en": "Correct order: 明日は面接があるので、今夜はお酒を飲むわけにはいかない。The sentence ends with the fixed わけにはいかない, so the ★ slot is お酒を飲む."
+  },
+  {
+    "id": "n3-q59",
+    "level": "N3",
+    "section": "grammar",
+    "type": "sentence-order",
+    "question": "駅前に　＿＿　＿＿　＿★＿　＿＿　込んでいる。",
+    "options": ["いつも", "できた", "レストランは", "ばかりの"],
+    "answer": 2,
+    "expl_zh": "正确语序：駅前にできたばかりのレストランは、いつも込んでいる。「～たばかりの」修饰名词「レストラン」，★处是「レストランは」。",
+    "expl_en": "Correct order: 駅前にできたばかりのレストランは、いつも込んでいる。～たばかりの modifies レストラン, so the ★ slot is レストランは."
+  },
+  {
+    "id": "n3-q60",
+    "level": "N3",
+    "section": "grammar",
+    "type": "sentence-order",
+    "question": "彼は昨日から　＿＿　＿＿　＿★＿　＿＿　はずだ。",
+    "options": ["家にいない", "今日は", "旅行に", "行っているので"],
+    "answer": 1,
+    "expl_zh": "正确语序：彼は昨日から旅行に行っているので、今日は家にいないはずだ。「はずだ」表示有根据的推测，★处是「今日は」。",
+    "expl_en": "Correct order: 彼は昨日から旅行に行っているので、今日は家にいないはずだ。はずだ marks a grounded inference, and the ★ slot is 今日は."
+  },
+  {
+    "id": "n3-q61",
+    "level": "N3",
+    "section": "reading",
+    "type": "reading",
+    "passage": "私は以前、夜遅くまで起きて勉強するタイプだった。しかし、疲れがたまって効率が下がっていることに気づき、思い切って朝型の生活に変えてみた。朝は頭がすっきりしていて、同じ一時間でも夜より集中できる。それに、早起きすると一日が長く感じられ、気持ちにも余裕が生まれる。今では、夜は早めに休み、大事な作業はできるだけ午前中にするようにしている。",
+    "question": "筆者の考えに合うものはどれか。",
+    "options": [
+      "夜遅くまで勉強するほうが集中できる。",
+      "朝の時間を使うほうが効率よく作業できる。",
+      "睡眠時間を減らせば一日を長く使える。",
+      "大事な作業は夜にするべきだ。"
+    ],
+    "answer": 1,
+    "expl_zh": "筆者由夜型改为朝型后发现「同じ一時間でも夜より集中できる」，主旨是早晨效率更高。选项0、3与文章相反，选项2文中未提。",
+    "expl_en": "The writer switched to mornings and finds the same hour more productive than at night. Options 0 and 3 contradict the text; option 2 is not mentioned."
+  },
+  {
+    "id": "n3-q62",
+    "level": "N3",
+    "section": "reading",
+    "type": "reading",
+    "passage": "件名：定例会議の日程変更について\n営業部の皆様\nお疲れさまです。総務部の田中です。来週火曜日に予定していた定例会議は、会議室の工事のため、水曜日の午後2時に変更になりました。場所は同じ3階の第一会議室です。出席できない方は、今週金曜日までに私にメールでご連絡ください。資料は前日までに各自ダウンロードしておいてください。よろしくお願いします。",
+    "question": "会議に出席できない人は、どうしなければならないか。",
+    "options": [
+      "水曜日までに会議室に行く。",
+      "前日までに資料を印刷する。",
+      "金曜日までに田中さんにメールで連絡する。",
+      "火曜日に総務部に電話する。"
+    ],
+    "answer": 2,
+    "expl_zh": "邮件明确写「出席できない方は、今週金曜日までに私にメールでご連絡ください」。资料是「ダウンロード」不是打印，联系方式是邮件不是电话。",
+    "expl_en": "The email says those who cannot attend must email Tanaka by Friday. The materials are to be downloaded, not printed, and contact is by email, not phone."
+  },
+  {
+    "id": "n3-q63",
+    "level": "N3",
+    "section": "reading",
+    "type": "reading",
+    "passage": "市立図書館からのお知らせ\n空調設備の工事のため、9月1日（月）から9月5日（金）まで、図書館全体を休館します。この間、本の返却は入口横の返却ポストをご利用ください。ただし、CDとDVDは壊れやすいため、返却ポストには入れず、9月6日以降にカウンターへお返しください。貸出中の資料の返却期限は、すべて9月13日まで延長されます。ご不便をおかけしますが、ご協力をお願いいたします。",
+    "question": "DVDを借りている人は、どうしなければならないか。",
+    "options": [
+      "9月1日までにカウンターに返す。",
+      "9月6日以降にカウンターに返す。",
+      "休館中に返却ポストに入れる。",
+      "郵便で図書館に送る。"
+    ],
+    "answer": 1,
+    "expl_zh": "通知说CD和DVD易损坏，不能放入还书箱，要在9月6日以后到柜台归还。还书箱只用于还书（本），是干扰项。",
+    "expl_en": "CDs and DVDs are fragile, so they must not go in the return post and should be returned at the counter from Sept 6. The return post is only for books."
+  },
+  {
+    "id": "n3-q64",
+    "level": "N3",
+    "section": "reading",
+    "type": "reading",
+    "passage": "最近は、小学生でもスマートフォンを持つのが当たり前になってきた。スマートフォンは、調べものをしたり、家族と連絡を取ったりするのに便利な道具である。一方で、使い方を決めずに持たせると、夜遅くまで動画を見続けるなど、生活のリズムが崩れやすい。大切なのは、持たせるかどうかではなく、どう使うかを子どもと一緒に考えることだと思う。ルールを親が一方的に決めるのではなく、話し合って決めれば、子どもも守ろうとするはずだ。",
+    "question": "筆者が最も言いたいことはどれか。",
+    "options": [
+      "小学生にスマートフォンを持たせるべきではない。",
+      "スマートフォンがあれば生活のリズムは崩れない。",
+      "使い方のルールは親が一人で決めるべきだ。",
+      "使い方を子どもと話し合って決めることが大切だ。"
+    ],
+    "answer": 3,
+    "expl_zh": "主旨句是「大切なのは……どう使うかを子どもと一緒に考えること」。筆者反对家长单方面定规则，选项2正相反；选项0文中没有主张。",
+    "expl_en": "The key sentence says what matters is deciding usage together with the child. The writer opposes one-sided parental rules (option 2) and never argues option 0."
+  },
+  {
+    "id": "n3-q65",
+    "level": "N3",
+    "section": "reading",
+    "type": "reading",
+    "passage": "先週、駅前に新しいパン屋がオープンした。開店の日には長い行列ができていたので、私は日を改めて行くことにした。数日後の朝、開店と同時に店に入ると、焼きたてのパンの香りが店いっぱいに広がっていた。私はくるみパンとチーズパンを買って帰った。家で食べてみると、外は香ばしく、中はやわらかい。それが忘れられなくて、私は今週もう三回もその店に通っている。",
+    "question": "「それ」とは何を指しているか。",
+    "options": [
+      "開店の日の長い行列",
+      "駅前の新しい店の建物",
+      "買ったパンのおいしさ",
+      "店の中に広がっていた香り"
+    ],
+    "answer": 2,
+    "expl_zh": "「それ」紧接前句「外は香ばしく、中はやわらかい」，指的是在家吃到的面包的美味。选项3的香味是在店里闻到的，位置更远，是干扰项。",
+    "expl_en": "それ points to the immediately preceding description of the bread's taste eaten at home. The aroma (option 3) was in the shop, further back in the text."
+  }
+]

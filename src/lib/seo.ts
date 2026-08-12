@@ -32,6 +32,10 @@ export const PAGE_META: Record<string, PageMeta> = {
     title: 'Japanese Grammar Typing Practice (JLPT N5–N1 + Keigo) — nihongo.ink',
     desc: 'Type example sentences for JLPT N5–N1 grammar points and keigo (honorific Japanese), with furigana, translations and audio.',
   },
+  '/quiz': {
+    title: 'JLPT Practice Quiz (N5–N1) — 模擬試験 · 模拟刷题 — nihongo.ink',
+    desc: 'Free JLPT practice questions for N5–N1 in the official exam format: kanji reading, orthography, context, paraphrase, usage, grammar, sentence order and reading comprehension — with explanations.',
+  },
   '/stats': {
     title: 'My Stats — nihongo.ink',
     desc: 'Your typing practice history and progress on nihongo.ink.',

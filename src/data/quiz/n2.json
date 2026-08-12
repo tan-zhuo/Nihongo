@@ -1,0 +1,772 @@
+[
+  {
+    "id": "n2-q01",
+    "level": "N2",
+    "section": "vocab",
+    "type": "kanji-reading",
+    "question": "日本は多くの国と【貿易】を行っている。",
+    "options": ["もうえき", "ぼうえき", "ぼえき", "ぼうい"],
+    "answer": 1,
+    "expl_zh": "「貿易」读作「ぼうえき」。「もうえき」混淆了声母，「ぼえき」漏掉长音，「ぼうい」是「貿」＋错误读音的拼凑。",
+    "expl_en": "貿易 is read ぼうえき (trade). The distractors confuse the initial consonant, drop the long vowel, or invent a reading."
+  },
+  {
+    "id": "n2-q02",
+    "level": "N2",
+    "section": "vocab",
+    "type": "kanji-reading",
+    "question": "不要になったデータはすぐに【削除】してください。",
+    "options": ["さくじょう", "せつじょ", "さくじょ", "しゃくじょ"],
+    "answer": 2,
+    "expl_zh": "「削除」读作「さくじょ」，注意「除」在此不读长音。「さくじょう」多加了长音，「せつじょ」把「削」误读成「切」的音。",
+    "expl_en": "削除 is read さくじょ (delete). さくじょう wrongly adds a long vowel; せつじょ misreads 削 as 切; しゃくじょ is a fabricated on-reading."
+  },
+  {
+    "id": "n2-q03",
+    "level": "N2",
+    "section": "vocab",
+    "type": "kanji-reading",
+    "question": "この地域では人口の【著しい】減少が続いている。",
+    "options": ["いちじるしい", "ちょじるしい", "いちしるしい", "ちょしるしい"],
+    "answer": 0,
+    "expl_zh": "「著しい」读作「いちじるしい」（显著的）。「ちょ〜」误用了音读，「いちしるしい」漏掉了连浊。",
+    "expl_en": "著しい is read いちじるしい (remarkable). The ちょ- options wrongly use the on-reading; いちしるしい misses the rendaku."
+  },
+  {
+    "id": "n2-q04",
+    "level": "N2",
+    "section": "vocab",
+    "type": "kanji-reading",
+    "question": "彼は何事にも【慎重】に対応するタイプだ。",
+    "options": ["しんじゅう", "じんちょう", "しんちょ", "しんちょう"],
+    "answer": 3,
+    "expl_zh": "「慎重」读作「しんちょう」（慎重）。「しんじゅう」是「心中」的读音，「しんちょ」漏掉长音。",
+    "expl_en": "慎重 is read しんちょう (cautious). しんじゅう is the reading of a different word (心中); しんちょ drops the long vowel."
+  },
+  {
+    "id": "n2-q05",
+    "level": "N2",
+    "section": "vocab",
+    "type": "kanji-reading",
+    "question": "彼は【貧しい】家庭に育ったが、努力して医者になった。",
+    "options": ["とぼしい", "まぶしい", "まずしい", "まづしい"],
+    "answer": 2,
+    "expl_zh": "「貧しい」读作「まずしい」（贫穷的）。「とぼしい」是「乏しい」的读音，「まぶしい」是「眩しい」，「まづしい」是假名拼写错误。",
+    "expl_en": "貧しい is read まずしい (poor). とぼしい is 乏しい, まぶしい is 眩しい, and まづしい uses incorrect kana spelling."
+  },
+  {
+    "id": "n2-q06",
+    "level": "N2",
+    "section": "vocab",
+    "type": "kanji-reading",
+    "question": "駅前の道路の【拡張】工事が来月から始まる。",
+    "options": ["かくちょう", "かくちょ", "こうちょう", "かくじょう"],
+    "answer": 0,
+    "expl_zh": "「拡張」读作「かくちょう」（扩张）。「かくちょ」漏掉长音，「こうちょう」误读「拡」，「かくじょう」误读「張」。",
+    "expl_en": "拡張 is read かくちょう (expansion). かくちょ drops the long vowel; the others misread one of the kanji."
+  },
+  {
+    "id": "n2-q07",
+    "level": "N2",
+    "section": "vocab",
+    "type": "kanji-reading",
+    "question": "犯人は警察の追跡から【逃れる】ことができなかった。",
+    "options": ["にがれる", "のがれる", "まぬがれる", "ぬがれる"],
+    "answer": 1,
+    "expl_zh": "「逃れる」读作「のがれる」（逃脱）。「まぬがれる」是「免れる」的读音，「にがれる」把「逃げる」的读音错误变形。",
+    "expl_en": "逃れる is read のがれる (escape). まぬがれる is the reading of 免れる; にがれる wrongly blends in 逃げる (にげる)."
+  },
+  {
+    "id": "n2-q08",
+    "level": "N2",
+    "section": "vocab",
+    "type": "kanji-reading",
+    "question": "事件から一週間たっても、容疑者の【行方】は分かっていない。",
+    "options": ["いきかた", "ゆくえ", "こうほう", "ぎょうほう"],
+    "answer": 1,
+    "expl_zh": "「行方」是熟字训，读作「ゆくえ」（去向、下落）。「いきかた」是逐字训读的错误，「こうほう」「ぎょうほう」是错误的音读拼凑。",
+    "expl_en": "行方 is a special compound reading ゆくえ (whereabouts). いきかた reads the kanji separately; the others are invented on-readings."
+  },
+  {
+    "id": "n2-q09",
+    "level": "N2",
+    "section": "vocab",
+    "type": "kanji-reading",
+    "question": "この辺りは自然が【豊富】で、観光客に人気がある。",
+    "options": ["ほうぶ", "ほふ", "ほうふう", "ほうふ"],
+    "answer": 3,
+    "expl_zh": "「豊富」读作「ほうふ」（丰富）。「ほうぶ」是错误连浊，「ほふ」漏掉长音，「ほうふう」多加了长音。",
+    "expl_en": "豊富 is read ほうふ (abundant). The distractors add wrong voicing, drop the long vowel, or add an extra one."
+  },
+  {
+    "id": "n2-q10",
+    "level": "N2",
+    "section": "vocab",
+    "type": "kanji-reading",
+    "question": "その事件の【裁判】は来月から始まる予定だ。",
+    "options": ["さいばん", "さいはん", "ざいばん", "せいばん"],
+    "answer": 0,
+    "expl_zh": "「裁判」读作「さいばん」（审判）。「さいはん」漏掉连浊（且与「再販」混淆），「ざいばん」「せいばん」误读「裁」。",
+    "expl_en": "裁判 is read さいばん (trial). さいはん misses the rendaku (and is a different word, 再販); the others misread 裁."
+  },
+  {
+    "id": "n2-q11",
+    "level": "N2",
+    "section": "vocab",
+    "type": "kanji-reading",
+    "question": "ご注文は私が【承り】ます。",
+    "options": ["うけたまり", "うけたわまり", "うけたまわり", "しょうり"],
+    "answer": 2,
+    "expl_zh": "「承る」读作「うけたまわる」，是「受ける／聞く」的自谦语，本题为其连用形「うけたまわり」。其余选项漏字、错位或误用音读。",
+    "expl_en": "承る is read うけたまわる, the humble form of receiving a request; here the stem うけたまわり. The distractors drop or swap syllables, or use the on-reading."
+  },
+  {
+    "id": "n2-q12",
+    "level": "N2",
+    "section": "vocab",
+    "type": "kanji-reading",
+    "question": "彼は会議で【率直】な意見を述べた。",
+    "options": ["りっちょく", "そっちょ", "そつちょく", "そっちょく"],
+    "answer": 3,
+    "expl_zh": "「率直」读作「そっちょく」（率直、坦率）。「りっちょく」误读「率」，「そつちょく」缺少促音，「そっちょ」漏掉词尾。",
+    "expl_en": "率直 is read そっちょく (frank). りっちょく misreads 率; そつちょく lacks the small tsu; そっちょ drops the final syllable."
+  },
+  {
+    "id": "n2-q13",
+    "level": "N2",
+    "section": "vocab",
+    "type": "orthography",
+    "question": "明日の会議には必ず【しゅっせき】してください。",
+    "options": ["出籍", "出席", "出積", "出責"],
+    "answer": 1,
+    "expl_zh": "「出席」（しゅっせき）意为出席。「籍」「積」「責」都是与「席」同音或形近的干扰项。",
+    "expl_en": "出席 (attend) is correct. 籍, 積 and 責 are homophones or look-alikes of 席 used as distractors."
+  },
+  {
+    "id": "n2-q14",
+    "level": "N2",
+    "section": "vocab",
+    "type": "orthography",
+    "question": "いくつかの店の値段を【くらべて】から買うことにしている。",
+    "options": ["批べて", "皆べて", "比べて", "非べて"],
+    "answer": 2,
+    "expl_zh": "「比べる」（くらべる）意为比较。「批」「皆」「非」都是与「比」形近的汉字，均不构成动词「くらべる」。",
+    "expl_en": "比べる (compare) is correct. 批, 皆 and 非 are visually similar kanji that do not form this verb."
+  },
+  {
+    "id": "n2-q15",
+    "level": "N2",
+    "section": "vocab",
+    "type": "orthography",
+    "question": "彼の説明にはどうも【うたがわしい】点がある。",
+    "options": ["疑わしい", "擬わしい", "凝わしい", "疑がわしい"],
+    "answer": 0,
+    "expl_zh": "「疑わしい」（可疑的）送り仮名从「わしい」开始。「疑がわしい」送り仮名多写了「が」，「擬」「凝」是形近字。",
+    "expl_en": "疑わしい (suspicious) is correct. 疑がわしい has wrong okurigana; 擬 and 凝 are look-alike kanji."
+  },
+  {
+    "id": "n2-q16",
+    "level": "N2",
+    "section": "vocab",
+    "type": "orthography",
+    "question": "長年の研究がようやく世間に【みとめられた】。",
+    "options": ["詔められた", "証められた", "誌められた", "認められた"],
+    "answer": 3,
+    "expl_zh": "「認められる」（みとめられる）意为被认可。其余「詔」「証」「誌」都是同为言字旁的形近干扰字。",
+    "expl_en": "認められた (was recognized) is correct. 詔, 証 and 誌 share the speech radical and are shape-based distractors."
+  },
+  {
+    "id": "n2-q17",
+    "level": "N2",
+    "section": "vocab",
+    "type": "orthography",
+    "question": "けがの【ちりょう】に三か月もかかってしまった。",
+    "options": ["治僚", "冶療", "治療", "治瞭"],
+    "answer": 2,
+    "expl_zh": "「治療」（ちりょう）意为治疗。「僚」「瞭」是「療」的形近字，「冶」是「治」的形近字。",
+    "expl_en": "治療 (medical treatment) is correct. 僚 and 瞭 resemble 療, and 冶 resembles 治."
+  },
+  {
+    "id": "n2-q18",
+    "level": "N2",
+    "section": "vocab",
+    "type": "orthography",
+    "question": "駅のロッカーに荷物を【あずけて】から観光に出かけた。",
+    "options": ["預けて", "予けて", "領けて", "預かけて"],
+    "answer": 0,
+    "expl_zh": "「預ける」（あずける）意为寄存。「預かけて」送り仮名错误（混淆了「預かる」），「予」「領」不构成此动词。",
+    "expl_en": "預けて (deposit/leave in care) is correct. 預かけて mixes up okurigana with 預かる; 予 and 領 do not form this verb."
+  },
+  {
+    "id": "n2-q19",
+    "level": "N2",
+    "section": "vocab",
+    "type": "orthography",
+    "question": "彼は面倒な仕事を【こころよく】引き受けてくれた。",
+    "options": ["快よく", "心良く", "怏く", "快く"],
+    "answer": 3,
+    "expl_zh": "「快く」（こころよく）意为爽快地。「快よく」送り仮名错误，「心良く」是按词义拼凑的错误写法，「怏」是形近字。",
+    "expl_en": "快く (willingly) is correct. 快よく has wrong okurigana; 心良く is a meaning-based misspelling; 怏 is a look-alike kanji."
+  },
+  {
+    "id": "n2-q20",
+    "level": "N2",
+    "section": "vocab",
+    "type": "orthography",
+    "question": "今年に入って会社の【ぎょうせき】は順調に回復している。",
+    "options": ["業積", "業績", "業責", "業成"],
+    "answer": 1,
+    "expl_zh": "「業績」（ぎょうせき）意为业绩。「積」「責」是「績」的同音形近字，「成」则是按意思误选的干扰项。",
+    "expl_en": "業績 (business results) is correct. 積 and 責 are homophonous look-alikes of 績; 成 is a meaning-based distractor."
+  },
+  {
+    "id": "n2-q21",
+    "level": "N2",
+    "section": "vocab",
+    "type": "context",
+    "question": "彼女は（　）した性格で、失敗しても引きずらない。",
+    "options": ["うっかり", "がっかり", "さっぱり", "ぐっすり"],
+    "answer": 2,
+    "expl_zh": "「さっぱりした性格」是固定搭配，意为性格爽快、不拘小节。「うっかり」表示疏忽，「がっかり」表示失望，「ぐっすり」形容熟睡。",
+    "expl_en": "さっぱりした性格 means an easygoing, unbothered personality. うっかり = carelessly, がっかり = disappointed, ぐっすり = (sleep) soundly."
+  },
+  {
+    "id": "n2-q22",
+    "level": "N2",
+    "section": "vocab",
+    "type": "context",
+    "question": "彼は大学を辞めて、新しい薬の研究に（　）している。",
+    "options": ["就任", "専念", "到達", "充実"],
+    "answer": 1,
+    "expl_zh": "「〜に専念する」意为专心致志于某事。「就任」接职位，「到達」接目的地或水平，「充実」不能用于「研究に〜している」的句型。",
+    "expl_en": "専念する means to devote oneself to something. 就任 takes a post, 到達 takes a destination/level, and 充実 does not fit this pattern."
+  },
+  {
+    "id": "n2-q23",
+    "level": "N2",
+    "section": "vocab",
+    "type": "context",
+    "question": "電車が遅れたが、約束の時間には（　）間に合った。",
+    "options": ["そろそろ", "のろのろ", "ばらばら", "ぎりぎり"],
+    "answer": 3,
+    "expl_zh": "「ぎりぎり間に合う」意为勉强赶上。「そろそろ」表示差不多该……，「のろのろ」形容缓慢，「ばらばら」形容零散。",
+    "expl_en": "ぎりぎり間に合う means to make it just barely in time. そろそろ = about time to, のろのろ = sluggishly, ばらばら = scattered."
+  },
+  {
+    "id": "n2-q24",
+    "level": "N2",
+    "section": "vocab",
+    "type": "context",
+    "question": "彼とは初対面なのに、なぜか（　）が合ってすぐに仲良くなった。",
+    "options": ["馬", "腰", "腹", "肩"],
+    "answer": 0,
+    "expl_zh": "惯用句「馬が合う」意为投缘、合得来。「腰」「腹」「肩」虽然也有各自的惯用句，但都不表示投缘。",
+    "expl_en": "The idiom 馬が合う means to hit it off with someone. 腰, 腹 and 肩 appear in other idioms but none means getting along."
+  },
+  {
+    "id": "n2-q25",
+    "level": "N2",
+    "section": "vocab",
+    "type": "context",
+    "question": "台風の（　）で、朝から電車のダイヤが乱れている。",
+    "options": ["効果", "印象", "影響", "結果"],
+    "answer": 2,
+    "expl_zh": "「〜の影響で」表示受……的影响，是描述灾害波及的固定说法。「効果」指积极效果，「印象」指印象，「結果」不与「で」这样搭配表原因。",
+    "expl_en": "影響で expresses being affected by something (here a typhoon). 効果 implies a positive effect; 印象 is impression; 結果 does not fit this causal pattern."
+  },
+  {
+    "id": "n2-q26",
+    "level": "N2",
+    "section": "vocab",
+    "type": "context",
+    "question": "面接の順番を待つ間、彼は（　）して落ち着かない様子だった。",
+    "options": ["うとうと", "そわそわ", "ぶつぶつ", "のびのび"],
+    "answer": 1,
+    "expl_zh": "「そわそわする」形容心神不定、坐立不安。「うとうと」是昏昏欲睡，「ぶつぶつ」是嘟囔抱怨，「のびのび」是舒展自在。",
+    "expl_en": "そわそわする describes being restless and fidgety. うとうと = dozing off, ぶつぶつ = muttering, のびのび = relaxed and free."
+  },
+  {
+    "id": "n2-q27",
+    "level": "N2",
+    "section": "vocab",
+    "type": "context",
+    "question": "長年の努力がようやく（　）、彼は自分の店を持つ夢をかなえた。",
+    "options": ["枯れて", "茂って", "生えて", "実って"],
+    "answer": 3,
+    "expl_zh": "「努力が実る」是固定搭配，意为努力有了成果。「枯れる」「茂る」「生える」都只用于植物本身，不与「努力」搭配。",
+    "expl_en": "努力が実る is the set phrase meaning efforts bear fruit. 枯れる, 茂る and 生える describe plants and do not collocate with 努力."
+  },
+  {
+    "id": "n2-q28",
+    "level": "N2",
+    "section": "vocab",
+    "type": "context",
+    "question": "事故の原因を（　）するため、専門家による調査委員会が設置された。",
+    "options": ["究明", "発明", "証明", "釈明"],
+    "answer": 0,
+    "expl_zh": "「原因を究明する」意为查明原因，是固定搭配。「発明」是发明，「証明」是证明某事为真，「釈明」是（为自己）辩解。",
+    "expl_en": "原因を究明する means to investigate and determine the cause. 発明 = invent, 証明 = prove, 釈明 = explain oneself/justify."
+  },
+  {
+    "id": "n2-q29",
+    "level": "N2",
+    "section": "vocab",
+    "type": "context",
+    "question": "（　）お願いしておりました資料の件ですが、その後いかがでしょうか。",
+    "options": ["やがて", "たちまち", "いまさら", "かねて"],
+    "answer": 3,
+    "expl_zh": "「かねて」意为「早先、之前就」，用于提及此前已提出的请求。「やがて」指不久将来，「たちまち」指转眼间，「いまさら」指事到如今。",
+    "expl_en": "かねて means previously/for some time, referring to an earlier request. やがて = before long, たちまち = in an instant, いまさら = (too late) now."
+  },
+  {
+    "id": "n2-q30",
+    "level": "N2",
+    "section": "vocab",
+    "type": "context",
+    "question": "彼女は日本の伝統文化に強い（　）を持っている。",
+    "options": ["関心", "感心", "熱心", "安心"],
+    "answer": 0,
+    "expl_zh": "「関心を持つ」意为抱有兴趣、关注，是固定搭配。「感心」是敬佩（不说「感心を持つ」），「熱心」是形容动词，「安心」意思不符。",
+    "expl_en": "関心を持つ means to have an interest in. 感心 (admiration) does not take 持つ; 熱心 is a na-adjective; 安心 (relief) does not fit."
+  },
+  {
+    "id": "n2-q31",
+    "level": "N2",
+    "section": "vocab",
+    "type": "context",
+    "question": "交渉は難航したが、最終的に両者は妥協点を（　）。",
+    "options": ["見送った", "見出した", "見逃した", "見合わせた"],
+    "answer": 1,
+    "expl_zh": "「妥協点を見出す」意为找到妥协点。「見送る」「見合わせる」是暂缓、作罢，「見逃す」是放过、漏看，均与句意相反。",
+    "expl_en": "妥協点を見出す means to find a point of compromise. 見送る/見合わせる mean to postpone, and 見逃す means to overlook — all contradict the context."
+  },
+  {
+    "id": "n2-q32",
+    "level": "N2",
+    "section": "vocab",
+    "type": "context",
+    "question": "夜遅くにアパートの廊下を（　）歩くと、ほかの住人の迷惑になる。",
+    "options": ["すやすや", "ぺこぺこ", "どたどた", "きらきら"],
+    "answer": 2,
+    "expl_zh": "「どたどた歩く」形容脚步声很重地走路，与「迷惑になる」呼应。「すやすや」形容安睡，「ぺこぺこ」形容点头哈腰或肚子饿，「きらきら」形容闪耀。",
+    "expl_en": "どたどた describes walking with loud, heavy footsteps, which would disturb neighbors. すやすや = sleeping peacefully, ぺこぺこ = bowing/hungry, きらきら = sparkling."
+  },
+  {
+    "id": "n2-q33",
+    "level": "N2",
+    "section": "vocab",
+    "type": "paraphrase",
+    "question": "彼の説明は【あいまいだった】。",
+    "options": ["くわしくなかった", "はっきりしなかった", "短かった", "面白くなかった"],
+    "answer": 1,
+    "expl_zh": "「あいまい」意为含糊不清，最接近「はっきりしない」。「くわしくない」只说明不详细，与含糊暧昧不同。",
+    "expl_en": "あいまい means vague/ambiguous, closest to はっきりしない (unclear). Not detailed, short, or uninteresting are different notions."
+  },
+  {
+    "id": "n2-q34",
+    "level": "N2",
+    "section": "vocab",
+    "type": "paraphrase",
+    "question": "彼は難しい仕事を【引き受けた】。",
+    "options": ["断った", "他の人に頼んだ", "やることにした", "後回しにした"],
+    "answer": 2,
+    "expl_zh": "「引き受ける」意为接受、承担（任务），即「やることにした」。「断る」是拒绝，正好相反。",
+    "expl_en": "引き受ける means to take on/accept a task, i.e. decided to do it. 断る (refuse) is the opposite; the others are unrelated."
+  },
+  {
+    "id": "n2-q35",
+    "level": "N2",
+    "section": "vocab",
+    "type": "paraphrase",
+    "question": "限定商品は発売と同時に【たちまち】売り切れてしまった。",
+    "options": ["すぐに", "だんだん", "ときどき", "やっと"],
+    "answer": 0,
+    "expl_zh": "「たちまち」意为转眼间、立刻，与「すぐに」同义。「だんだん」是渐渐，「やっと」是好不容易才。",
+    "expl_en": "たちまち means in an instant, synonymous with すぐに (immediately). だんだん = gradually, ときどき = sometimes, やっと = finally."
+  },
+  {
+    "id": "n2-q36",
+    "level": "N2",
+    "section": "vocab",
+    "type": "paraphrase",
+    "question": "彼は【用心深い】性格で、知らない人をなかなか信用しない。",
+    "options": ["おおざっぱな", "わがままな", "明るい", "慎重な"],
+    "answer": 3,
+    "expl_zh": "「用心深い」意为小心谨慎，与「慎重な」意思最接近。「おおざっぱ」（粗枝大叶）正好相反。",
+    "expl_en": "用心深い means cautious/wary, closest to 慎重な. おおざっぱ (careless/rough) is the opposite; the others are unrelated."
+  },
+  {
+    "id": "n2-q37",
+    "level": "N2",
+    "section": "vocab",
+    "type": "paraphrase",
+    "question": "大雨のため、運動会は【延期された】。",
+    "options": ["予定より遅い日に行われることになった", "中止になった", "予定より早く行われることになった", "別の場所で行われることになった"],
+    "answer": 0,
+    "expl_zh": "「延期」是推迟到之后的日期举行，并非取消。「中止」（取消）是最常见的混淆项。",
+    "expl_en": "延期 means postponed to a later date, not cancelled. 中止 (cancellation) is the classic trap; the event will still happen, just later."
+  },
+  {
+    "id": "n2-q38",
+    "level": "N2",
+    "section": "vocab",
+    "type": "paraphrase",
+    "question": "工事にかかる費用は【おおよそ】見当がついている。",
+    "options": ["ようやく", "だいたい", "まもなく", "まったく"],
+    "answer": 1,
+    "expl_zh": "「おおよそ」意为大概、大致，与「だいたい」同义。「ようやく」是终于，「まもなく」是不久，「まったく」是完全。",
+    "expl_en": "おおよそ means roughly/approximately, synonymous with だいたい. ようやく = finally, まもなく = soon, まったく = entirely."
+  },
+  {
+    "id": "n2-q39",
+    "level": "N2",
+    "section": "vocab",
+    "type": "paraphrase",
+    "question": "あの学生は【しょっちゅう】授業に遅れてくる。",
+    "options": ["たまに", "めったに", "たびたび", "ついに"],
+    "answer": 2,
+    "expl_zh": "「しょっちゅう」意为经常、动不动就，与「たびたび」意思最接近。「たまに」是偶尔，「めったに」须与否定连用。",
+    "expl_en": "しょっちゅう means frequently, closest to たびたび. たまに = occasionally; めったに requires a negative; ついに = at last."
+  },
+  {
+    "id": "n2-q40",
+    "level": "N2",
+    "section": "vocab",
+    "type": "paraphrase",
+    "question": "この計画にはいくつかの【欠点】がある。",
+    "options": ["よくないところ", "優れたところ", "珍しいところ", "分かりにくいところ"],
+    "answer": 0,
+    "expl_zh": "「欠点」意为缺点，即「よくないところ」。「優れたところ」（优点）正相反，「分かりにくい」只指难懂。",
+    "expl_en": "欠点 means a fault/shortcoming, i.e. a bad point. 優れたところ (strong point) is the opposite; hard to understand is narrower."
+  },
+  {
+    "id": "n2-q41",
+    "level": "N2",
+    "section": "vocab",
+    "type": "usage",
+    "question": "解散",
+    "options": [
+      "氷がお湯の中で解散して、すぐに見えなくなった。",
+      "人気バンドが年内での解散を発表し、ファンを驚かせた。",
+      "古い時計を解散して、部品を一つずつ調べてみた。",
+      "長年の悩みがやっと解散して、気分が軽くなった。"
+    ],
+    "answer": 1,
+    "expl_zh": "「解散」指团体、组织的解散。冰化开应用「溶ける」，拆开机器应用「分解する」，烦恼消除应用「解消する」。",
+    "expl_en": "解散 means a group or organization disbanding. Ice melting is 溶ける, taking apart a device is 分解する, and worries being resolved is 解消する."
+  },
+  {
+    "id": "n2-q42",
+    "level": "N2",
+    "section": "vocab",
+    "type": "usage",
+    "question": "あらためて",
+    "options": [
+      "電車があらためて駅に到着したので、急いで乗り込んだ。",
+      "彼は足があらためて速く、リレーの選手に選ばれた。",
+      "本日はお時間がないようですので、あらためてご説明に伺います。",
+      "このスープはあらためて塩からいので、水を足したほうがいい。"
+    ],
+    "answer": 2,
+    "expl_zh": "「あらためて」意为改日再次、重新（郑重地）做某事，常用于「あらためてご連絡・ご説明します」。其余句子把它误用作普通的程度或时间副词。",
+    "expl_en": "あらためて means to do something anew on another occasion, as in あらためてご説明に伺います. The other sentences misuse it as a plain degree or time adverb."
+  },
+  {
+    "id": "n2-q43",
+    "level": "N2",
+    "section": "vocab",
+    "type": "usage",
+    "question": "補う",
+    "options": [
+      "収入の不足をアルバイトで補っている。",
+      "壊れた自転車を店で補ってもらった。",
+      "破れたシャツを針と糸で補った。",
+      "熱があるので、薬を飲んで体を補った。"
+    ],
+    "answer": 0,
+    "expl_zh": "「補う」意为弥补不足（收入、说明、营养等抽象的欠缺）。修自行车应用「修理する」，缝补衣服应用「繕う」，治病应用「治す」。",
+    "expl_en": "補う means to make up for a lack (income, explanation, nutrition). Repairing a bicycle is 修理する, mending a shirt is 繕う, and curing illness is 治す."
+  },
+  {
+    "id": "n2-q44",
+    "level": "N2",
+    "section": "vocab",
+    "type": "usage",
+    "question": "めったに",
+    "options": [
+      "今日はめったに早く起きられたので、散歩に出かけた。",
+      "彼はめったに遅刻するので、先生に注意された。",
+      "この店はめったに込んでいて、いつも行列ができている。",
+      "祖父は無口で、めったに自分のことを話さない。"
+    ],
+    "answer": 3,
+    "expl_zh": "「めったに」必须与否定形式连用，表示「很少……」。前三句都接了肯定谓语，属于典型误用。",
+    "expl_en": "めったに must be paired with a negative predicate (rarely does...). The first three sentences use affirmative predicates, a classic misuse."
+  },
+  {
+    "id": "n2-q45",
+    "level": "N2",
+    "section": "vocab",
+    "type": "usage",
+    "question": "心当たり",
+    "options": [
+      "彼の親切な言葉に心当たりして、涙が出そうになった。",
+      "誰が花瓶を割ったのか、私にはまったく心当たりがない。",
+      "走りすぎたせいか、心当たりが苦しくて息ができない。",
+      "試験に合格して、今は心当たりでいっぱいだ。"
+    ],
+    "answer": 1,
+    "expl_zh": "「心当たり」意为（对某事的）线索、头绪，常用「心当たりがある／ない」。其余句子应分别用「感動」「心臓」「自信」。",
+    "expl_en": "心当たり means an idea/clue about something, used as 心当たりがある/ない. The other sentences need 感動 (moved), 心臓 (heart), and 自信 (confidence)."
+  },
+  {
+    "id": "n2-q46",
+    "level": "N2",
+    "section": "grammar",
+    "type": "grammar-form",
+    "question": "上司の指示なので、気が進まなくてもその仕事を引き受け（　）。",
+    "options": ["かねる", "ようがない", "がたい", "ざるを得ない"],
+    "answer": 3,
+    "expl_zh": "「〜ざるを得ない」表示「不得不……」，接动词ない形去ない。「かねる」是难以做到，「ようがない」是无法可做，「がたい」是难以……，都不表被迫。",
+    "expl_en": "〜ざるを得ない means to have no choice but to do something. かねる (can hardly), ようがない (no way to), and がたい (hard to) do not express compulsion."
+  },
+  {
+    "id": "n2-q47",
+    "level": "N2",
+    "section": "grammar",
+    "type": "grammar-form",
+    "question": "施設のご利用（　）、以下の注意事項をよくお読みください。",
+    "options": ["に際して", "にかけて", "に沿って", "を問わず"],
+    "answer": 0,
+    "expl_zh": "「〜に際して」表示「在……之际」，用于正式场合。「にかけて」表时间空间范围，「に沿って」表沿着・按照，「を問わず」表不论。",
+    "expl_en": "〜に際して means on the occasion of, used in formal notices. にかけて marks a range, に沿って means along/in line with, を問わず means regardless of."
+  },
+  {
+    "id": "n2-q48",
+    "level": "N2",
+    "section": "grammar",
+    "type": "grammar-form",
+    "question": "この会社では、社員の経験や能力（　）、仕事が割り当てられる。",
+    "options": ["に反して", "に応じて", "をこめて", "にしては"],
+    "answer": 1,
+    "expl_zh": "「〜に応じて」表示「根据、按照……（相应地）」。「に反して」是与……相反，「をこめて」是饱含……，「にしては」是就……而言（出乎意料）。",
+    "expl_en": "〜に応じて means according to/in proportion to. に反して = contrary to, をこめて = filled with (emotion), にしては = considering (unexpectedly)."
+  },
+  {
+    "id": "n2-q49",
+    "level": "N2",
+    "section": "grammar",
+    "type": "grammar-form",
+    "question": "新しいごみ処理場の建設（　）、住民の間で激しい議論が続いている。",
+    "options": ["をこめて", "に限って", "をめぐって", "はもとより"],
+    "answer": 2,
+    "expl_zh": "「〜をめぐって」表示「围绕……（发生争论、对立）」，与「議論」搭配。「に限って」是唯独，「はもとより」是不用说……。",
+    "expl_en": "〜をめぐって means concerning/over (an issue), typically with disputes or debate. に限って = only when it comes to, はもとより = not to mention."
+  },
+  {
+    "id": "n2-q50",
+    "level": "N2",
+    "section": "grammar",
+    "type": "grammar-form",
+    "question": "小さなミスでも放置すれば大事故になり（　）ので、早急な対策が必要だ。",
+    "options": ["得ない", "かねない", "かねる", "っこない"],
+    "answer": 1,
+    "expl_zh": "「〜かねない」表示「有可能（发生坏事）」。「かねる」意思相反（难以……），「得ない」「っこない」都表示不可能，与句意矛盾。",
+    "expl_en": "〜かねない means something bad could well happen. かねる means can hardly do; 得ない and っこない both mean impossible, contradicting the warning."
+  },
+  {
+    "id": "n2-q51",
+    "level": "N2",
+    "section": "grammar",
+    "type": "grammar-form",
+    "question": "海外旅行では何が起こるか分からないから、保険には入っておく（　）。",
+    "options": ["に越したことはない", "どころではない", "ばかりではない", "に相違ない"],
+    "answer": 0,
+    "expl_zh": "「〜に越したことはない」表示「最好还是……、……最为稳妥」。「どころではない」是根本谈不上，「に相違ない」是必定是，均不合句意。",
+    "expl_en": "〜に越したことはない means it is best to do something (you can't go wrong). どころではない = this is no time for, に相違ない = must certainly be."
+  },
+  {
+    "id": "n2-q52",
+    "level": "N2",
+    "section": "grammar",
+    "type": "grammar-form",
+    "question": "彼は日本に十年も住んでいる（　）、漢字はほとんど読めないそうだ。",
+    "options": ["ばかりに", "だけに", "ことに", "ものの"],
+    "answer": 3,
+    "expl_zh": "「〜ものの」表示「虽然……但是……」的逆接。「ばかりに」是只因……（导致坏结果），「だけに」是正因为……更加……，与后句的转折不符。",
+    "expl_en": "〜ものの is a concessive: although he has lived there ten years, he can barely read kanji. ばかりに (simply because) and だけに (precisely because) are causal, not concessive."
+  },
+  {
+    "id": "n2-q53",
+    "level": "N2",
+    "section": "grammar",
+    "type": "grammar-form",
+    "question": "医療の進歩に伴って、この国の平均寿命は年々延び（　）。",
+    "options": ["がちだ", "気味だ", "つつある", "っぽい"],
+    "answer": 2,
+    "expl_zh": "「〜つつある」表示「正在不断……（变化进行中）」。「がちだ」是容易……，「気味だ」是略有……的倾向，「っぽい」是有……的感觉，均不表持续变化。",
+    "expl_en": "〜つつある expresses an ongoing change (life expectancy keeps extending). がちだ = tends to, 気味だ = a touch of, っぽい = -ish; none expresses progression."
+  },
+  {
+    "id": "n2-q54",
+    "level": "N2",
+    "section": "grammar",
+    "type": "grammar-form",
+    "question": "詳しい日程が分かり（　）、すぐにお知らせいたします。",
+    "options": ["つつ", "次第", "がてら", "かけて"],
+    "answer": 1,
+    "expl_zh": "「ます形＋次第」表示「一……立刻就……」。「つつ」是一边……一边……，「がてら」是顺便，「かけて」表示动作中途，均不合句意。",
+    "expl_en": "Masu-stem + 次第 means as soon as (we know, we will inform you). つつ = while, がてら = while at it, かけて = halfway through an action."
+  },
+  {
+    "id": "n2-q55",
+    "level": "N2",
+    "section": "grammar",
+    "type": "grammar-form",
+    "question": "（受付で客に）「担当の者がすぐに（　）ので、こちらで少々お待ちください。」",
+    "options": ["いらっしゃいます", "伺われます", "お越しになります", "参ります"],
+    "answer": 3,
+    "expl_zh": "对客人提到己方人员要用谦让语「参る」。「いらっしゃる」「お越しになる」是尊敬语，不能用于自己一方；「伺われます」是谦让语误加尊敬助动词的错误形式。",
+    "expl_en": "Referring to one's own staff before a customer requires the humble 参ります. いらっしゃいます and お越しになります are honorifics for the other party; 伺われます wrongly adds honorific -れる to a humble verb."
+  },
+  {
+    "id": "n2-q56",
+    "level": "N2",
+    "section": "grammar",
+    "type": "sentence-order",
+    "question": "彼の作品は　＿＿　＿＿　＿★＿　＿＿　知られている。（＿★＿に入るものはどれか）",
+    "options": ["ばかりか", "海外で", "も", "国内"],
+    "answer": 1,
+    "expl_zh": "正确语序：彼の作品は「国内　ばかりか　海外で　も」知られている。「〜ばかりか…も」表示「不仅……而且……」，★处应填「海外で」。",
+    "expl_en": "Correct order: 彼の作品は国内ばかりか海外でも知られている (known not only in Japan but also abroad). The ★ slot takes 海外で."
+  },
+  {
+    "id": "n2-q57",
+    "level": "N2",
+    "section": "grammar",
+    "type": "sentence-order",
+    "question": "明日の試合は　＿＿　＿＿　＿★＿　＿＿　もある。（＿★＿に入るものはどれか）",
+    "options": ["中止になる", "天候", "こと", "次第で"],
+    "answer": 0,
+    "expl_zh": "正确语序：明日の試合は「天候　次第で　中止になる　こと」もある。「〜次第で」表示「取决于……」，★处应填「中止になる」。",
+    "expl_en": "Correct order: 明日の試合は天候次第で中止になることもある (depending on the weather, the game may be cancelled). The ★ slot takes 中止になる."
+  },
+  {
+    "id": "n2-q58",
+    "level": "N2",
+    "section": "grammar",
+    "type": "sentence-order",
+    "question": "この薬は　＿＿　＿＿　＿★＿　＿＿　がある。（＿★＿に入るものはどれか）",
+    "options": ["恐れ", "間違えると", "使い方を", "健康を害する"],
+    "answer": 3,
+    "expl_zh": "正确语序：この薬は「使い方を　間違えると　健康を害する　恐れ」がある。「〜恐れがある」表示「有……的危险」，★处应填「健康を害する」。",
+    "expl_en": "Correct order: この薬は使い方を間違えると健康を害する恐れがある (if misused, this medicine risks harming your health). The ★ slot takes 健康を害する."
+  },
+  {
+    "id": "n2-q59",
+    "level": "N2",
+    "section": "grammar",
+    "type": "sentence-order",
+    "question": "新工場の建設　＿＿　＿＿　＿★＿　＿＿　期待されている。（＿★＿に入るものはどれか）",
+    "options": ["地域の", "活性化すると", "経済が", "を契機に"],
+    "answer": 2,
+    "expl_zh": "正确语序：新工場の建設「を契機に　地域の　経済が　活性化すると」期待されている。「〜を契機に」表示「以……为契机」，★处应填「経済が」。",
+    "expl_en": "Correct order: 新工場の建設を契機に地域の経済が活性化すると期待されている (the new factory is expected to trigger a revival of the local economy). The ★ slot takes 経済が."
+  },
+  {
+    "id": "n2-q60",
+    "level": "N2",
+    "section": "grammar",
+    "type": "sentence-order",
+    "question": "私の　＿＿　＿＿　＿★＿　＿＿　見つからなかった。（＿★＿に入るものはどれか）",
+    "options": ["限りでは", "大きな", "誤りは", "調べた"],
+    "answer": 1,
+    "expl_zh": "正确语序：私の「調べた　限りでは　大きな　誤りは」見つからなかった。「〜限りでは」表示「就……的范围来说」，★处应填「大きな」。",
+    "expl_en": "Correct order: 私の調べた限りでは大きな誤りは見つからなかった (as far as I checked, no major errors were found). The ★ slot takes 大きな."
+  },
+  {
+    "id": "n2-q61",
+    "level": "N2",
+    "section": "reading",
+    "type": "reading",
+    "passage": "近年、在宅勤務を導入する企業が増えている。通勤時間が不要になり、育児や介護と仕事を両立しやすくなるなど、その利点は大きい。一方で、同僚と顔を合わせる機会が減ることで、偶然の会話から生まれるアイデアが失われるという指摘もある。しかし私は、在宅勤務か出社かという二者択一で考えること自体に問題があると思う。仕事の内容も個人の事情も、人によって異なるからだ。大切なのは働く場所を一つに固定することではなく、それぞれの社員が最も力を発揮できる働き方を柔軟に選べる仕組みを整えることではないだろうか。",
+    "question": "筆者の考えに合うものはどれか。",
+    "options": [
+      "在宅勤務ではアイデアが生まれにくいので、全員出社に戻すべきだ。",
+      "育児や介護をしている社員に限って在宅勤務を認めるべきだ。",
+      "働き方を一つに決めず、社員が柔軟に選べるようにするべきだ。",
+      "全員が在宅勤務に移行すれば、企業の生産性は必ず上がる。"
+    ],
+    "answer": 2,
+    "expl_zh": "笔者认为问题在于「二者择一」的思维方式，主张建立让员工灵活选择工作方式的机制。其余选项都把某一种方式绝对化，与笔者立场相反。",
+    "expl_en": "The author rejects the either-or framing and argues for a system where each employee can flexibly choose how to work. The other options absolutize one arrangement, which the author opposes."
+  },
+  {
+    "id": "n2-q62",
+    "level": "N2",
+    "section": "reading",
+    "type": "reading",
+    "passage": "社員各位　経費精算方法の変更について（お知らせ）　これまで経費の精算は、紙の申請書に領収書を添付して経理部へ提出する方法で行ってきました。しかし、処理に時間がかかるうえ、書類の紛失も発生していたため、10月1日より新しい経費精算システムを導入することになりました。今後は、領収書を撮影した画像をシステムにアップロードするだけで申請が完了します。なお、9月30日までに発生した経費については、従来どおり紙の申請書で提出してください。また、システムの操作方法については、9月20日に説明会を開催しますので、全社員は必ず出席してください。",
+    "question": "この文書によると、社員が必ずしなければならないことは何か。",
+    "options": [
+      "9月20日に開かれるシステムの説明会に出席する。",
+      "9月30日までに、すべての領収書を新システムにアップロードする。",
+      "10月1日以降も、経費は紙の申請書で精算する。",
+      "新しいシステムを各自のパソコンにインストールして経理部に報告する。"
+    ],
+    "answer": 0,
+    "expl_zh": "通知末尾明确要求「全社員は必ず出席してください」，指9月20日的说明会。9月30日前的费用仍用纸质申请，10月1日起才改用系统，其余选项均与原文矛盾。",
+    "expl_en": "The notice explicitly orders all employees to attend the September 20 briefing. Expenses before September 30 still use paper forms, and the system starts October 1, so the other options contradict the text."
+  },
+  {
+    "id": "n2-q63",
+    "level": "N2",
+    "section": "reading",
+    "type": "reading",
+    "passage": "試験の前夜に徹夜で勉強する人は少なくない。しかし、脳科学の研究によれば、これは効率の悪い方法だという。人間の脳は、眠っている間にその日に得た情報を整理し、必要な記憶を長期的に保存する作業を行っている。つまり、睡眠は単なる休息ではなく、学習の一部なのである。実際、同じ内容を学んだ後に十分眠ったグループのほうが、徹夜したグループより翌日のテストの成績がよかったという実験結果も報告されている。覚えたことを確実に自分のものにしたいなら、勉強時間を多少削ってでも睡眠を確保するほうが賢明だと言えるだろう。",
+    "question": "筆者が徹夜での勉強を効率が悪いと述べているのはなぜか。",
+    "options": [
+      "徹夜をすると翌日の体調が悪くなり、試験を受けられなくなるから。",
+      "夜は周りがうるさくて、勉強に集中できないから。",
+      "徹夜で覚えた知識は、試験が終わると同時に消えてしまうから。",
+      "記憶を整理して定着させるという睡眠中の脳の働きが失われるから。"
+    ],
+    "answer": 3,
+    "expl_zh": "文章的核心论据是：大脑在睡眠中整理信息并将记忆长期保存，睡眠本身就是学习的一部分；熬夜使这一过程无法进行。其余选项文中均未提及。",
+    "expl_en": "The passage's core reason is that the brain organizes and consolidates memories during sleep, so all-nighters forfeit that process. The other options are not stated in the text."
+  },
+  {
+    "id": "n2-q64",
+    "level": "N2",
+    "section": "reading",
+    "type": "reading",
+    "passage": "電子書籍の利用者が年々増えている。何冊もの本を一台の端末に入れて持ち歩けるうえ、文字の大きさも自由に変えられるのだから、便利さの点で紙の本が及ばないのは確かだろう。それでも私は、紙の本がなくなることはないと考えている。紙の本には、ページをめくる感触や、読み進めた厚みが手に伝わってくるという、電子書籍では得られない体験があるからだ。本棚に並んだ背表紙を眺めていて、ふと昔読んだ本を手に取ることもある。便利さと豊かさは別のものであり、電子書籍と紙の本は、どちらかが他方を滅ぼすのではなく、それぞれの良さを生かして共存していくのではないだろうか。",
+    "question": "筆者の考えに最も近いものはどれか。",
+    "options": [
+      "電子書籍のほうが便利なので、紙の本はいずれ使われなくなるだろう。",
+      "紙の本には電子書籍にない価値があり、今後も残っていくだろう。",
+      "紙の本のほうがあらゆる点で電子書籍より優れている。",
+      "内容が同じである以上、電子書籍と紙の本のどちらを選んでも変わらない。"
+    ],
+    "answer": 1,
+    "expl_zh": "笔者承认电子书更便利，但认为纸质书有翻页触感等独特体验，二者将各展所长共存下去。选项1、3、4分别把某一方绝对化或抹平差异，均不符。",
+    "expl_en": "The author concedes e-books are more convenient but holds that paper books offer unique experiences and will coexist with e-books. The other options absolutize one side or deny any difference."
+  },
+  {
+    "id": "n2-q65",
+    "level": "N2",
+    "section": "reading",
+    "type": "reading",
+    "passage": "株式会社山田製作所　購買部　田中様　いつもお世話になっております。大森電機の佐藤でございます。さて、ご注文いただいております部品A-102の納期についてご連絡いたします。原材料の調達が遅れている影響で、当初9月10日とお約束しておりました納品が、9月24日ごろになる見込みでございます。ご迷惑をおかけし、誠に申し訳ございません。つきましては、この納期の変更でお差し支えないかどうか、9月1日までにご返信いただけますでしょうか。なお、お急ぎの場合は、数量を二回に分けて納品することも可能でございますので、あわせてご検討いただければ幸いです。",
+    "question": "このメールを受け取った田中さんが、まずしなければならないことは何か。",
+    "options": [
+      "9月10日までに部品を受け取る準備をする。",
+      "遅れている原材料を大森電機に送る。",
+      "納期の変更でよいかどうか、9月1日までに返事をする。",
+      "部品の注文を取り消して、ほかの会社に注文し直す。"
+    ],
+    "answer": 2,
+    "expl_zh": "邮件明确请求「9月1日までにご返信いただけますでしょうか」，即在9月1日前答复是否接受交货期变更。分批交货只是备选方案，取消订单文中未提。",
+    "expl_en": "The email explicitly asks for a reply by September 1 on whether the new delivery date is acceptable. Split delivery is only an optional alternative, and cancelling the order is never mentioned."
+  }
+]

@@ -9,6 +9,7 @@ const pageLoaders = {
   grammar: () => import('./pages/Grammar'),
   practice: () => import('./pages/Practice'),
   vocab: () => import('./pages/Vocab'),
+  quiz: () => import('./pages/Quiz'),
   stats: () => import('./pages/Stats'),
 }
 
@@ -21,6 +22,7 @@ const Kana = lazy(pageLoaders.kana)
 const Grammar = lazy(pageLoaders.grammar)
 const Practice = lazy(pageLoaders.practice)
 const Vocab = lazy(pageLoaders.vocab)
+const Quiz = lazy(pageLoaders.quiz)
 const Stats = lazy(pageLoaders.stats)
 
 export default function App() {
@@ -47,6 +49,10 @@ export default function App() {
         <Route
           path="/grammar"
           element={<Suspense fallback={null}><Grammar /></Suspense>}
+        />
+        <Route
+          path="/quiz"
+          element={<Suspense fallback={null}><Quiz /></Suspense>}
         />
         <Route
           path="/stats"

@@ -44,6 +44,14 @@ export default function Stats() {
     return { sessions: list.length, total, accuracy: total > 0 ? correct / total : 0 }
   }, [records])
 
+  const quizStats = useMemo(() => {
+    const list = records.quiz
+    if (list.length === 0) return null
+    const total = list.reduce((n, r) => n + r.total, 0)
+    const correct = list.reduce((n, r) => n + r.correct, 0)
+    return { sessions: list.length, total, accuracy: total > 0 ? correct / total : 0 }
+  }, [records])
+
   const recent = useMemo(
     () => [...records.articles].sort((a, b) => b.ts - a.ts).slice(0, 20),
     [records],
@@ -71,6 +79,7 @@ export default function Stats() {
   }
   const vocabTrend = sessionTrend(records.vocab)
   const kanaTrend = sessionTrend(records.kana)
+  const quizTrend = sessionTrend(records.quiz)
 
   const clear = () => {
     if (window.confirm(t('stats.clearConfirm'))) {
@@ -79,7 +88,7 @@ export default function Stats() {
     }
   }
 
-  if (!articleStats && !vocabStats && !kanaStats) {
+  if (!articleStats && !vocabStats && !kanaStats && !quizStats) {
     return (
       <div className="py-16 text-center text-stone-500">
         <p className="mb-6">{t('stats.empty')}</p>
@@ -142,6 +151,27 @@ export default function Stats() {
             </div>
           </div>
         )}
+        {quizStats && (
+          <div className="card p-5">
+            <h2 className="mb-3 text-sm font-semibold text-stone-500">{t('stats.quizSection')}</h2>
+            <div className="grid grid-cols-3 gap-2 text-center">
+              <div>
+                <div className="text-2xl font-bold text-accent-dark">{quizStats.sessions}</div>
+                <div className="mt-1 text-xs text-stone-400">{t('stats.sessions')}</div>
+              </div>
+              <div>
+                <div className="text-2xl font-bold text-accent-dark">{quizStats.total}</div>
+                <div className="mt-1 text-xs text-stone-400">{t('stats.wordsAnswered')}</div>
+              </div>
+              <div>
+                <div className="text-2xl font-bold text-accent-dark">
+                  {Math.round(quizStats.accuracy * 100)}%
+                </div>
+                <div className="mt-1 text-xs text-stone-400">{t('stats.avgAccuracy')}</div>
+              </div>
+            </div>
+          </div>
+        )}
         {kanaStats && (
           <div className="card p-5">
             <h2 className="mb-3 text-sm font-semibold text-stone-500">{t('stats.kanaSection')}</h2>
@@ -183,7 +213,7 @@ export default function Stats() {
         </div>
       )}
 
-      {(vocabTrend.acc.length >= 2 || kanaTrend.acc.length >= 2) && (
+      {(vocabTrend.acc.length >= 2 || kanaTrend.acc.length >= 2 || quizTrend.acc.length >= 2) && (
         <div className="mb-8 grid gap-4 sm:grid-cols-2">
           {vocabTrend.acc.length >= 2 && (
             <TrendChart
@@ -202,6 +232,16 @@ export default function Stats() {
               labels={kanaTrend.labels}
               unit="%"
               yMin={Math.max(0, Math.floor((Math.min(...kanaTrend.acc) - 10) / 10) * 10)}
+              yMax={100}
+            />
+          )}
+          {quizTrend.acc.length >= 2 && (
+            <TrendChart
+              title={`${t('stats.quizSection')} · ${t('stats.accuracyTrend')}`}
+              values={quizTrend.acc}
+              labels={quizTrend.labels}
+              unit="%"
+              yMin={Math.max(0, Math.floor((Math.min(...quizTrend.acc) - 10) / 10) * 10)}
               yMax={100}
             />
           )}

@@ -66,3 +66,31 @@ export interface VocabWord {
   level: Level
   pos: string
 }
+
+export type QuizSection = 'vocab' | 'grammar' | 'reading'
+
+export type QuizType =
+  | 'kanji-reading'
+  | 'orthography'
+  | 'context'
+  | 'paraphrase'
+  | 'usage'
+  | 'grammar-form'
+  | 'sentence-order'
+  | 'reading'
+
+export interface QuizQuestion {
+  id: string
+  level: Level
+  section: QuizSection
+  type: QuizType
+  /** short reading passage, only for type 'reading' */
+  passage?: string
+  /** stem; target word wrapped in 【】, blanks as （　）, star slot as ★ */
+  question: string
+  options: string[]
+  /** index into options */
+  answer: number
+  expl_zh: string
+  expl_en: string
+}

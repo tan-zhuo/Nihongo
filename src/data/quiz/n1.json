@@ -1,0 +1,772 @@
+[
+  {
+    "id": "n1-q01",
+    "level": "N1",
+    "section": "vocab",
+    "type": "kanji-reading",
+    "question": "会議の進行を【遮る】ような発言は控えていただきたい。",
+    "options": ["はばむ", "へだてる", "さえぎる", "おびやかす"],
+    "answer": 2,
+    "expl_zh": "「遮る」读作「さえぎる」，意为打断、遮挡。「阻む(はばむ)」「隔てる(へだてる)」「脅かす(おびやかす)」是意思相近但汉字不同的词。",
+    "expl_en": "遮る is read さえぎる (to interrupt/block). The distractors はばむ (阻む), へだてる (隔てる), and おびやかす (脅かす) are readings of similar but different kanji."
+  },
+  {
+    "id": "n1-q02",
+    "level": "N1",
+    "section": "vocab",
+    "type": "kanji-reading",
+    "question": "この施設の運営費は、大部分を寄付金で【賄って】いる。",
+    "options": ["まかなって", "やしなって", "つくろって", "おぎなって"],
+    "answer": 0,
+    "expl_zh": "「賄う」读作「まかなう」，意为筹措、供给。「養う(やしなう)」「繕う(つくろう)」「補う(おぎなう)」是字形或语义易混的干扰项。",
+    "expl_en": "賄う is read まかなう (to cover costs, provide). やしなう (養う), つくろう (繕う), and おぎなう (補う) are readings of visually or semantically similar kanji."
+  },
+  {
+    "id": "n1-q03",
+    "level": "N1",
+    "section": "vocab",
+    "type": "kanji-reading",
+    "question": "若者の車離れが進み、かつての習慣はすっかり【廃れて】しまった。",
+    "options": ["さびれて", "すたれて", "かすれて", "しなびて"],
+    "answer": 1,
+    "expl_zh": "「廃れる」读作「すたれる」，指风俗、流行等衰落过时。「寂れる(さびれる)」指地方冷清萧条，语义相近但汉字不同。",
+    "expl_en": "廃れる is read すたれる (to fall out of use, become obsolete). さびれる (寂れる, to decline in liveliness) is semantically close but a different word."
+  },
+  {
+    "id": "n1-q04",
+    "level": "N1",
+    "section": "vocab",
+    "type": "kanji-reading",
+    "question": "政府の場当たり的な対応に、国民は深い【憤り】を覚えた。",
+    "options": ["あせり", "たかぶり", "いらだち", "いきどおり"],
+    "answer": 3,
+    "expl_zh": "「憤り」读作「いきどおり」，意为愤慨。「焦り(あせり)」「昂り(たかぶり)」「苛立ち(いらだち)」都是表示情绪的近义干扰项。",
+    "expl_en": "憤り is read いきどおり (indignation). あせり (焦り), たかぶり (昂り), and いらだち (苛立ち) are other emotion words used as tempting distractors."
+  },
+  {
+    "id": "n1-q05",
+    "level": "N1",
+    "section": "vocab",
+    "type": "kanji-reading",
+    "question": "恵みの雨に、干上がっていた田畑がようやく【潤った】。",
+    "options": ["うるおった", "しめった", "にごった", "ひたった"],
+    "answer": 0,
+    "expl_zh": "「潤う」读作「うるおう」，意为湿润、受惠。「湿る(しめる)」「濁る(にごる)」「浸る(ひたる)」是语义相关的干扰读音。",
+    "expl_en": "潤う is read うるおう (to be moistened, enriched). しめる (湿る), にごる (濁る), and ひたる (浸る) are readings of related water kanji."
+  },
+  {
+    "id": "n1-q06",
+    "level": "N1",
+    "section": "vocab",
+    "type": "kanji-reading",
+    "question": "この旅館は和洋【折衷】の造りで、独特の趣がある。",
+    "options": ["せつじゅう", "おりちゅう", "せっちゅう", "せっしょう"],
+    "answer": 2,
+    "expl_zh": "「折衷」读作「せっちゅう」（促音变），意为折中、调和。「おりちゅう」是误用训读的音训混淆干扰项。",
+    "expl_en": "折衷 is read せっちゅう with sokuon assimilation (compromise, blending). おりちゅう wrongly mixes the kun-yomi of 折; せっしょう resembles 折衝."
+  },
+  {
+    "id": "n1-q07",
+    "level": "N1",
+    "section": "vocab",
+    "type": "kanji-reading",
+    "question": "調査報告書は、希望する会員に無償で【頒布】される。",
+    "options": ["ぶんぷ", "はんぷ", "ふんぷ", "はんぽ"],
+    "answer": 1,
+    "expl_zh": "「頒布」读作「はんぷ」，意为发放、散发。「ぶんぷ」是与「分布」混淆的干扰项。",
+    "expl_en": "頒布 is read はんぷ (distribution of materials). ぶんぷ confuses it with 分布; the others alter the on-yomi slightly."
+  },
+  {
+    "id": "n1-q08",
+    "level": "N1",
+    "section": "vocab",
+    "type": "kanji-reading",
+    "question": "野党は失言を繰り返す大臣の【罷免】を強く求めた。",
+    "options": ["はいめん", "ばつめん", "りめん", "ひめん"],
+    "answer": 3,
+    "expl_zh": "「罷免」读作「ひめん」，意为罢免。「はいめん」是与「廃」类推的误读，「りめん」与「裏面」混淆。",
+    "expl_en": "罷免 is read ひめん (dismissal from office). はいめん wrongly analogizes 罷 to 廃; りめん confuses it with 裏面."
+  },
+  {
+    "id": "n1-q09",
+    "level": "N1",
+    "section": "vocab",
+    "type": "kanji-reading",
+    "question": "工事の【進捗】状況を毎週本社に報告することになっている。",
+    "options": ["しんちょく", "しんしょう", "しんそく", "しんぽ"],
+    "answer": 0,
+    "expl_zh": "「進捗」读作「しんちょく」，意为进展。「しんぽ」是与「進歩」混淆的类似汉语干扰项。",
+    "expl_en": "進捗 is read しんちょく (progress). しんぽ confuses it with 進歩; しんそく with 迅速."
+  },
+  {
+    "id": "n1-q10",
+    "level": "N1",
+    "section": "vocab",
+    "type": "kanji-reading",
+    "question": "長年隠されてきた組織の不正が、内部告発によって【暴かれた】。",
+    "options": ["さらされた", "あかされた", "あばかれた", "おびやかされた"],
+    "answer": 2,
+    "expl_zh": "「暴く」读作「あばく」，意为揭露。「明かす(あかす)」「晒す(さらす)」语义相近，是易混干扰项。",
+    "expl_en": "暴く is read あばく (to expose). あかす (明かす) and さらす (晒す) are semantically close verbs with different kanji."
+  },
+  {
+    "id": "n1-q11",
+    "level": "N1",
+    "section": "vocab",
+    "type": "kanji-reading",
+    "question": "両国の軍事力は、辛うじて微妙な【均衡】を保っている。",
+    "options": ["きんしょう", "ぎんこう", "きんちょう", "きんこう"],
+    "answer": 3,
+    "expl_zh": "「均衡」读作「きんこう」，意为均衡、平衡。「きんちょう」与「緊張」混淆，「ぎんこう」与「銀行」同音干扰。",
+    "expl_en": "均衡 is read きんこう (equilibrium). きんちょう confuses it with 緊張, ぎんこう with 銀行."
+  },
+  {
+    "id": "n1-q12",
+    "level": "N1",
+    "section": "vocab",
+    "type": "kanji-reading",
+    "question": "手続きが煩雑なため、支払いが【滞り】がちになっている。",
+    "options": ["こだわり", "とどこおり", "はかどり", "たまり"],
+    "answer": 1,
+    "expl_zh": "「滞る」读作「とどこおる」，意为拖延、停滞。「捗る(はかどる)」意思正相反，「拘る(こだわる)」字形无关但音近易混。",
+    "expl_en": "滞る is read とどこおる (to be delayed, in arrears). はかどる (捗る) means the opposite; こだわる and たまる are sound-alike traps."
+  },
+  {
+    "id": "n1-q13",
+    "level": "N1",
+    "section": "vocab",
+    "type": "orthography",
+    "question": "製品の品質については、当社が責任をもって【ほしょう】いたします。",
+    "options": ["保証", "保障", "補償", "報奨"],
+    "answer": 0,
+    "expl_zh": "对品质担保用「保証」。「保障」指保障权利安全（安全保障），「補償」指赔偿损失，三者同音但用法不同。",
+    "expl_en": "Guaranteeing quality is 保証. 保障 protects rights/security, 補償 compensates for loss — classic homophone traps."
+  },
+  {
+    "id": "n1-q14",
+    "level": "N1",
+    "section": "vocab",
+    "type": "orthography",
+    "question": "判決を不服として、弁護側は直ちに【いぎ】を申し立てた。",
+    "options": ["意義", "威儀", "異議", "異義"],
+    "answer": 2,
+    "expl_zh": "「異議を申し立てる」是固定搭配，指提出异议。「意義」是意义，「異義」是不同的含义（如同音異義），「威儀」是威仪。",
+    "expl_en": "異議を申し立てる (to file an objection) is the set phrase. 意義 means significance, 異義 a different meaning, 威儀 dignified bearing."
+  },
+  {
+    "id": "n1-q15",
+    "level": "N1",
+    "section": "vocab",
+    "type": "orthography",
+    "question": "政府は被災者の受け入れ【たいせい】を早急に整えると表明した。",
+    "options": ["体制", "態勢", "体勢", "大勢"],
+    "answer": 1,
+    "expl_zh": "临时性的应对准备用「態勢」（受け入れ態勢）。「体制」指长期性制度体系，「体勢」指身体姿势，「大勢」指大局。",
+    "expl_en": "態勢 denotes a temporary state of readiness (受け入れ態勢). 体制 is a long-term system, 体勢 a body posture, 大勢 the general trend."
+  },
+  {
+    "id": "n1-q16",
+    "level": "N1",
+    "section": "vocab",
+    "type": "orthography",
+    "question": "野党は大臣の責任を厳しく【ついきゅう】した。",
+    "options": ["追求", "追究", "追窮", "追及"],
+    "answer": 3,
+    "expl_zh": "追究责任、过失用「追及」。「追求」用于理想・利益，「追究」用于真理・原因，是高频同音辨析。",
+    "expl_en": "Pressing someone over responsibility is 追及. 追求 pursues ideals/profit, 追究 investigates truth/causes — a classic homophone set."
+  },
+  {
+    "id": "n1-q17",
+    "level": "N1",
+    "section": "vocab",
+    "type": "orthography",
+    "question": "他国の内政に【かんしょう】すべきではないというのが原則だ。",
+    "options": ["干渉", "感傷", "鑑賞", "観賞"],
+    "answer": 0,
+    "expl_zh": "干预他国内政用「干渉」（内政干渉）。「鑑賞」欣赏艺术，「観賞」观赏景物，「感傷」是感伤，均为同音干扰。",
+    "expl_en": "Interfering in internal affairs is 干渉. 鑑賞 (art appreciation), 観賞 (enjoying scenery), and 感傷 (sentimentality) are homophones."
+  },
+  {
+    "id": "n1-q18",
+    "level": "N1",
+    "section": "vocab",
+    "type": "orthography",
+    "question": "定年を機に、彼は半生を【かいこ】する随筆を書き始めた。",
+    "options": ["解雇", "悔悟", "回顧", "懐古"],
+    "answer": 2,
+    "expl_zh": "回顾自己的经历用「回顧」（半生を回顧する）。「懐古」是怀念古昔情趣（懐古趣味），不作他动词用；「解雇」「悔悟」为同音干扰。",
+    "expl_en": "Looking back on one's life is 回顧 (半生を回顧する). 懐古 is nostalgic longing for the past and is not used transitively here; 解雇 and 悔悟 are homophones."
+  },
+  {
+    "id": "n1-q19",
+    "level": "N1",
+    "section": "vocab",
+    "type": "orthography",
+    "question": "表現の自由をいたずらに【きせい】することには慎重であるべきだ。",
+    "options": ["既成", "帰省", "寄生", "規制"],
+    "answer": 3,
+    "expl_zh": "限制、管制用「規制」。「既成」是既成的（既成事実），「帰省」是回乡，「寄生」是寄生，均为同音异义词。",
+    "expl_en": "Restricting/regulating is 規制. 既成 (established), 帰省 (returning home), and 寄生 (parasitism) are homophones."
+  },
+  {
+    "id": "n1-q20",
+    "level": "N1",
+    "section": "vocab",
+    "type": "orthography",
+    "question": "二つの調査を【へいこう】して進めることで、期間の短縮を図った。",
+    "options": ["平行", "並行", "平衡", "閉口"],
+    "answer": 1,
+    "expl_zh": "同时进行两件事用「並行」（並行して進める）。「平行」指几何上的平行或议论无交点，「平衡」是平衡，「閉口」是无可奈何。",
+    "expl_en": "Carrying out two things simultaneously is 並行. 平行 is geometric parallelism (or talks going nowhere), 平衡 is balance, 閉口 is being at a loss."
+  },
+  {
+    "id": "n1-q21",
+    "level": "N1",
+    "section": "vocab",
+    "type": "context",
+    "question": "閣僚の軽率な発言が物議を（　）、国会は紛糾した。",
+    "options": ["呈し", "醸し", "催し", "帯び"],
+    "answer": 1,
+    "expl_zh": "「物議を醸す」是固定搭配，意为引起舆论争议。「呈する」接「様相を」，「催す」接「眠気を」，「帯びる」接「熱を」等。",
+    "expl_en": "物議を醸す (to stir controversy) is the set collocation. 呈する pairs with 様相を, 催す with 眠気を, 帯びる with 熱を — none fits 物議."
+  },
+  {
+    "id": "n1-q22",
+    "level": "N1",
+    "section": "vocab",
+    "type": "context",
+    "question": "制度上の不公平を（　）するため、抜本的な法改正が求められている。",
+    "options": ["矯正", "訂正", "更生", "是正"],
+    "answer": 3,
+    "expl_zh": "纠正制度、格差等社会性偏差用「是正」。「矯正」用于牙齿・性格，「訂正」用于文字错误，「更生」指人的改过自新。",
+    "expl_en": "Correcting systemic unfairness is 是正. 矯正 corrects teeth/habits, 訂正 corrects textual errors, 更生 is personal rehabilitation."
+  },
+  {
+    "id": "n1-q23",
+    "level": "N1",
+    "section": "vocab",
+    "type": "context",
+    "question": "この辞典は、近年の新語や俗語まで幅広く（　）している。",
+    "options": ["網羅", "掌握", "収拾", "踏襲"],
+    "answer": 0,
+    "expl_zh": "「網羅」指无遗漏地收罗，与辞典收词搭配。「掌握」是掌控，「収拾」是收拾局面，「踏襲」是沿袭做法。",
+    "expl_en": "網羅 means to cover exhaustively, fitting a dictionary's coverage. 掌握 is to command/control, 収拾 to settle a situation, 踏襲 to follow precedent."
+  },
+  {
+    "id": "n1-q24",
+    "level": "N1",
+    "section": "vocab",
+    "type": "context",
+    "question": "政府は感染症対策の専門家会議を（　）させた。",
+    "options": ["発生", "発進", "発足", "発案"],
+    "answer": 2,
+    "expl_zh": "组织、机构的成立启动用「発足（ほっそく）」。「発進」是车辆飞机出发，「発案」是提出方案，「発生」是发生。",
+    "expl_en": "Launching an organization/committee is 発足 (ほっそく). 発進 is a vehicle setting off, 発案 proposing an idea, 発生 an occurrence."
+  },
+  {
+    "id": "n1-q25",
+    "level": "N1",
+    "section": "vocab",
+    "type": "context",
+    "question": "労使の交渉は（　）状態に陥り、妥結の見通しが立たない。",
+    "options": ["執着", "密着", "定着", "膠着"],
+    "answer": 3,
+    "expl_zh": "「膠着状態」是固定说法，指谈判僵持不下。「執着」是执着，「密着」是紧贴，「定着」是固定扎根，都不与「状態に陥る」搭配。",
+    "expl_en": "膠着状態 (deadlock) is the set expression for stalled negotiations. 執着 (attachment), 密着 (adhesion), and 定着 (taking root) do not collocate here."
+  },
+  {
+    "id": "n1-q26",
+    "level": "N1",
+    "section": "vocab",
+    "type": "context",
+    "question": "到着が予定より（　）遅れたため、式典の開始時刻を変更した。",
+    "options": ["大まかに", "大幅に", "大々的に", "大いに"],
+    "answer": 1,
+    "expl_zh": "表示程度上大幅度地偏离用「大幅に」。「大まかに」是粗略地，「大々的に」是大张旗鼓地，「大いに」多接意志・情感动词。",
+    "expl_en": "大幅に (by a large margin) fits delays and changes in degree. 大まかに is roughly, 大々的に is on a grand scale, 大いに modifies volitional/emotive verbs."
+  },
+  {
+    "id": "n1-q27",
+    "level": "N1",
+    "section": "vocab",
+    "type": "context",
+    "question": "度重なる設計変更が、工事の進行に（　）をきたしている。",
+    "options": ["支障", "故障", "難色", "不順"],
+    "answer": 0,
+    "expl_zh": "「支障をきたす」是固定搭配，指造成妨碍。「故障」用于机器，「難色を示す」是面露难色，「不順」用于天候。",
+    "expl_en": "支障をきたす (to cause a hindrance) is the set collocation. 故障 is mechanical failure, 難色 appears in 難色を示す, 不順 describes weather."
+  },
+  {
+    "id": "n1-q28",
+    "level": "N1",
+    "section": "vocab",
+    "type": "context",
+    "question": "彼は入社してまもなく、企画部門で（　）を現した。",
+    "options": ["本領", "素質", "頭角", "手腕"],
+    "answer": 2,
+    "expl_zh": "「頭角を現す」是惯用句，指崭露头角。「本領」搭配「発揮する」，「手腕」搭配「振るう」，「素質」不与「現す」连用。",
+    "expl_en": "頭角を現す (to distinguish oneself) is the idiom. 本領 takes 発揮する, 手腕 takes 振るう; 素質 does not collocate with 現す."
+  },
+  {
+    "id": "n1-q29",
+    "level": "N1",
+    "section": "vocab",
+    "type": "context",
+    "question": "今回の事故は、日頃の点検の甘さに（　）するところが大きい。",
+    "options": ["由来", "起因", "依存", "根拠"],
+    "answer": 1,
+    "expl_zh": "追究事故等的原因用「起因する」。「由来する」用于名称・习俗的来历，「依存」是依赖，「根拠」是名词不作サ变动词用。",
+    "expl_en": "起因する attributes an incident to its cause. 由来する traces the origin of names/customs, 依存 is dependence, 根拠 is a noun that cannot take する here."
+  },
+  {
+    "id": "n1-q30",
+    "level": "N1",
+    "section": "vocab",
+    "type": "context",
+    "question": "彼女は仕事の（　）を縫って、育児サークルの運営を手伝っている。",
+    "options": ["間際", "隙間", "暇", "合間"],
+    "answer": 3,
+    "expl_zh": "「合間を縫って」是惯用表达，指利用空隙时间。「間際」是临近之时，「隙間」是物理空隙，「暇」不与「縫う」搭配。",
+    "expl_en": "合間を縫って (squeezing it in between tasks) is the idiom. 間際 is the moment just before, 隙間 a physical gap; 暇 does not take 縫う."
+  },
+  {
+    "id": "n1-q31",
+    "level": "N1",
+    "section": "vocab",
+    "type": "context",
+    "question": "事態打開の（　）を探るべく、双方は水面下で接触を続けた。",
+    "options": ["入り口", "手口", "糸口", "小口"],
+    "answer": 2,
+    "expl_zh": "「糸口」指解决问题的线索、突破口（打開の糸口を探る）。「手口」是作案手法，「小口」是小额，「入り口」是具体的入口。",
+    "expl_en": "糸口 is a clue or opening toward a solution (打開の糸口). 手口 is a criminal's method, 小口 a small lot, 入り口 a literal entrance."
+  },
+  {
+    "id": "n1-q32",
+    "level": "N1",
+    "section": "vocab",
+    "type": "context",
+    "question": "放漫な経営がたたって、老舗の百貨店はついに（　）した。",
+    "options": ["破綻", "決裂", "崩落", "挫折"],
+    "answer": 0,
+    "expl_zh": "企业经营失败用「破綻」（経営破綻）。「決裂」用于谈判破裂，「崩落」用于岩石・行情，「挫折」用于计划・志向受挫。",
+    "expl_en": "A business collapse is 破綻 (経営破綻). 決裂 is talks breaking down, 崩落 is physical/market collapse, 挫折 is personal setback of plans."
+  },
+  {
+    "id": "n1-q33",
+    "level": "N1",
+    "section": "vocab",
+    "type": "paraphrase",
+    "question": "彼は【おもむろに】立ち上がり、窓の外に目をやった。",
+    "options": ["突然", "静かに", "ゆっくりと", "しぶしぶ"],
+    "answer": 2,
+    "expl_zh": "「おもむろに」意为缓慢地、不慌不忙地，与「ゆっくりと」同义。常被误解为「突然」，是著名的易错词。",
+    "expl_en": "おもむろに means slowly, deliberately — ゆっくりと. It is famously misunderstood as suddenly, which is exactly the trap here."
+  },
+  {
+    "id": "n1-q34",
+    "level": "N1",
+    "section": "vocab",
+    "type": "paraphrase",
+    "question": "期待された新規事業は、資金難で【あっけなく】頓挫した。",
+    "options": ["いともたやすく", "思いがけなく", "跡形もなく", "不本意にも"],
+    "answer": 0,
+    "expl_zh": "「あっけなく」指轻易地、简单得令人错愕，与「いともたやすく」意思最近。「思いがけなく」强调意外，语感不同。",
+    "expl_en": "あっけなく means all too easily, anticlimactically — closest to いともたやすく. 思いがけなく stresses unexpectedness, a different nuance."
+  },
+  {
+    "id": "n1-q35",
+    "level": "N1",
+    "section": "vocab",
+    "type": "paraphrase",
+    "question": "担当者の説明は【要領を得ない】もので、質問が相次いだ。",
+    "options": ["根拠に乏しい", "長たらしい", "専門的すぎる", "要点がはっきりしない"],
+    "answer": 3,
+    "expl_zh": "「要領を得ない」指抓不住要点、不得要领，即「要点がはっきりしない」。与根据不足、冗长等无关。",
+    "expl_en": "要領を得ない means failing to make the point clear — 要点がはっきりしない. It says nothing about evidence, length, or technicality."
+  },
+  {
+    "id": "n1-q36",
+    "level": "N1",
+    "section": "vocab",
+    "type": "paraphrase",
+    "question": "彼は会議の間、終始【寡黙】だった。",
+    "options": ["不機嫌そうにしていた", "ほとんど口をきかなかった", "落ち着き払っていた", "うわの空だった"],
+    "answer": 1,
+    "expl_zh": "「寡黙」指沉默寡言，即「ほとんど口をきかない」。不代表心情不好或心不在焉。",
+    "expl_en": "寡黙 means taciturn — hardly speaking. It implies nothing about mood (不機嫌) or attention (うわの空)."
+  },
+  {
+    "id": "n1-q37",
+    "level": "N1",
+    "section": "vocab",
+    "type": "paraphrase",
+    "question": "現地の状況を【つぶさに】報告してほしい。",
+    "options": ["詳細に", "速やかに", "簡潔に", "ありのままに"],
+    "answer": 0,
+    "expl_zh": "「つぶさに」意为详细无遗地，与「詳細に」同义。「ありのままに」强调不加修饰，语义有偏差。",
+    "expl_en": "つぶさに means in full detail — 詳細に. ありのままに (as it is, unembellished) is the tempting near-miss but stresses candor, not thoroughness."
+  },
+  {
+    "id": "n1-q38",
+    "level": "N1",
+    "section": "vocab",
+    "type": "paraphrase",
+    "question": "その噂は【根も葉もない】ものだと判明した。",
+    "options": ["誰も信じていない", "悪意に満ちた", "全く事実無根の", "確かめようのない"],
+    "answer": 2,
+    "expl_zh": "「根も葉もない」指毫无事实根据，即「事実無根」。与是否有人相信、是否恶意无关。",
+    "expl_en": "根も葉もない means utterly groundless — 事実無根. Whether people believe it or whether it is malicious is beside the point."
+  },
+  {
+    "id": "n1-q39",
+    "level": "N1",
+    "section": "vocab",
+    "type": "paraphrase",
+    "question": "彼の楽観的な予測は【ことごとく】外れた。",
+    "options": ["あえなく", "一つ残らず", "おおかた", "見事に"],
+    "answer": 1,
+    "expl_zh": "「ことごとく」意为全部、无一例外，即「一つ残らず」。「おおかた」是大部分，程度不同。",
+    "expl_en": "ことごとく means every single one — 一つ残らず. おおかた (mostly) differs in degree; 見事に comments on manner, not totality."
+  },
+  {
+    "id": "n1-q40",
+    "level": "N1",
+    "section": "vocab",
+    "type": "paraphrase",
+    "question": "新記録の樹立に向けて、彼女は大いに【意気込んで】いる。",
+    "options": ["思い詰めて", "気負わずに", "浮き足立って", "張り切って"],
+    "answer": 3,
+    "expl_zh": "「意気込む」指干劲十足、跃跃欲试，与「張り切る」同义。「浮き足立つ」是慌乱不安，「思い詰める」是钻牛角尖。",
+    "expl_en": "意気込む means to be fired up — 張り切る. 浮き足立つ is losing composure, 思い詰める is brooding obsessively, 気負わずに is the opposite."
+  },
+  {
+    "id": "n1-q41",
+    "level": "N1",
+    "section": "vocab",
+    "type": "usage",
+    "question": "目覚ましい",
+    "options": [
+      "徹夜明けなのに、頭が妙に目覚ましくて仕事がはかどった。",
+      "朝は目覚ましい音楽で起きることにしている。",
+      "事故現場の目覚ましい光景に言葉を失った。",
+      "この十年、同国の経済は目覚ましい発展を遂げた。"
+    ],
+    "answer": 3,
+    "expl_zh": "「目覚ましい」形容成果、发展等显著惊人（目覚ましい発展・活躍）。其余选项误将其当作「目が覚める」或「目覚まし」使用。",
+    "expl_en": "目覚ましい describes remarkable progress or achievements (目覚ましい発展). The wrong options misuse it as being awake or as an alarm (目覚まし)."
+  },
+  {
+    "id": "n1-q42",
+    "level": "N1",
+    "section": "vocab",
+    "type": "usage",
+    "question": "一概に",
+    "options": [
+      "彼は一概に会社を辞め、田舎に移住した。",
+      "伝統的な手法が劣っているとは一概に言えない。",
+      "調査の結果を一概に報告してください。",
+      "一概の希望を抱いて最終選考に臨んだ。"
+    ],
+    "answer": 1,
+    "expl_zh": "「一概に」与否定呼应，表示不能一概而论（一概に～ない）。其余选项误作「思い切って」「一括して」「一縷の」使用。",
+    "expl_en": "一概に pairs with a negative: cannot say sweepingly that... The wrong options misuse it for decisively, all at once, or confuse it with 一縷の."
+  },
+  {
+    "id": "n1-q43",
+    "level": "N1",
+    "section": "vocab",
+    "type": "usage",
+    "question": "還元",
+    "options": [
+      "企業は利益の一部を地域社会に還元すべきだ。",
+      "図書館から借りていた資料を持ち主に還元した。",
+      "温泉にゆっくり入って、旅の疲れを還元した。",
+      "誤って消したデータを元の状態に還元した。"
+    ],
+    "answer": 0,
+    "expl_zh": "「還元」指把利益等回馈给来源方（利益を社会に還元する）。归还物品用「返却」，恢复疲劳用「回復」，恢复数据用「復元」。",
+    "expl_en": "還元 means returning profits/benefits to their source (利益を社会に還元). Returning items is 返却, recovering from fatigue 回復, restoring data 復元."
+  },
+  {
+    "id": "n1-q44",
+    "level": "N1",
+    "section": "vocab",
+    "type": "usage",
+    "question": "見合わせる",
+    "options": [
+      "出発前に、忘れ物がないか荷物を見合わせた。",
+      "展望台から街の夜景をゆっくり見合わせた。",
+      "大雪のため、当面の間、列車の運行を見合わせます。",
+      "遠くの山並みを見合わせながら、のんびり歩いた。"
+    ],
+    "answer": 2,
+    "expl_zh": "「見合わせる」在此考查「暂缓、暂停实施」之义（運行を見合わせる）。其余选项应分别用「確かめる」「眺める」。",
+    "expl_en": "見合わせる here means to suspend or hold off (運行を見合わせる). The wrong options call for 確かめる (check) or 眺める (gaze at)."
+  },
+  {
+    "id": "n1-q45",
+    "level": "N1",
+    "section": "vocab",
+    "type": "usage",
+    "question": "円滑",
+    "options": [
+      "この辺りの道は円滑で、自転車でも走りやすい。",
+      "彼は角がなく円滑な人柄で慕われている。",
+      "磨き上げられた床は円滑で、転びそうになった。",
+      "前任者の丁寧な引き継ぎのおかげで、業務は円滑に進んだ。"
+    ],
+    "answer": 3,
+    "expl_zh": "「円滑」形容事情进展顺利无阻（円滑に進む）。不用于路面、地板等物理光滑（应为「滑らか」）或人品（应为「円満」）。",
+    "expl_en": "円滑 describes affairs proceeding smoothly (円滑に進む). Physical smoothness needs 滑らか and an amiable character needs 円満."
+  },
+  {
+    "id": "n1-q46",
+    "level": "N1",
+    "section": "grammar",
+    "type": "grammar-form",
+    "question": "夢を実現（　）、彼は寝る間も惜しんで働き続けた。",
+    "options": ["せんがために", "するがゆえに", "しないがために", "せんばかりに"],
+    "answer": 0,
+    "expl_zh": "「～んがため(に)」是文语目的表达，サ变动词接「せんがため」。「せんばかりに」表示「几乎要～似的」，不表目的。",
+    "expl_en": "～んがため(に) is the literary purposive; suru-verbs take せんがため. せんばかりに means as if about to and does not express purpose."
+  },
+  {
+    "id": "n1-q47",
+    "level": "N1",
+    "section": "grammar",
+    "type": "grammar-form",
+    "question": "記録的な大雪により、多くの便が欠航を（　）。",
+    "options": ["余儀なくさせた", "余儀なくした", "余儀なくされた", "余儀なくなった"],
+    "answer": 2,
+    "expl_zh": "主语「便」被迫停航，用被动「～を余儀なくされる」。「余儀なくさせる」以致使原因为主语（大雪が欠航を余儀なくさせた）。",
+    "expl_en": "The flights were forced into cancellation, so passive ～を余儀なくされる is required. 余儀なくさせる would need the cause (大雪) as subject."
+  },
+  {
+    "id": "n1-q48",
+    "level": "N1",
+    "section": "grammar",
+    "type": "grammar-form",
+    "question": "家族は皆この計画に反対で、父（　）、話を聞こうともしない。",
+    "options": ["にかけては", "に至っては", "にひきかえ", "にもまして"],
+    "answer": 1,
+    "expl_zh": "「～に至っては」举出程度最甚的极端事例，与「家族都反对，父亲更是连听都不听」的语境吻合。",
+    "expl_en": "～に至っては singles out the most extreme case — everyone objects, and father, going furthest, will not even listen. The others compare or praise."
+  },
+  {
+    "id": "n1-q49",
+    "level": "N1",
+    "section": "grammar",
+    "type": "grammar-form",
+    "question": "国民から預かった税金は、一円（　）無駄にすることは許されない。",
+    "options": ["なりとも", "ばかりか", "どころか", "たりとも"],
+    "answer": 3,
+    "expl_zh": "「（最小数量）＋たりとも～ない」表示「哪怕一～也不」。「一円たりとも無駄にできない」是典型用法。",
+    "expl_en": "Minimal quantity + たりとも + negative means not even one —. 一円たりとも無駄にできない is the canonical pattern; なりとも suggests at least some."
+  },
+  {
+    "id": "n1-q50",
+    "level": "N1",
+    "section": "grammar",
+    "type": "grammar-form",
+    "question": "新鮮な海の幸をふんだんに使った、この土地（　）の料理を味わった。",
+    "options": ["なり", "ながら", "ならでは", "めいた"],
+    "answer": 2,
+    "expl_zh": "「～ならでは(の)」表示唯有该事物才有的独特性（この土地ならではの料理）。「めいた」是「带有～气息」，语义不合。",
+    "expl_en": "～ならでは(の) marks something unique to that place (この土地ならではの料理). めいた means tinged with; なり and ながら do not fit."
+  },
+  {
+    "id": "n1-q51",
+    "level": "N1",
+    "section": "grammar",
+    "type": "grammar-form",
+    "question": "本日の受け付けは、午後五時（　）終了いたします。",
+    "options": ["をもって", "において", "に至って", "を経て"],
+    "answer": 0,
+    "expl_zh": "「～をもって」用于郑重宣布以某时刻为界限结束（五時をもって終了）。「において」表场所场合，「を経て」表经过。",
+    "expl_en": "～をもって formally marks the point at which something ends (五時をもって終了). において marks place/occasion, を経て means via/after passing through."
+  },
+  {
+    "id": "n1-q52",
+    "level": "N1",
+    "section": "grammar",
+    "type": "grammar-form",
+    "question": "いかに実の親子（　）、言ってよいことと悪いことがある。",
+    "options": ["ときたら", "とばかりに", "ともなしに", "といえども"],
+    "answer": 3,
+    "expl_zh": "「いかに～といえども」是书面语让步表达：「即使是亲生父子，也～」。「ときたら」表埋怨话题，「とばかりに」表「几乎像在说～」。",
+    "expl_en": "いかに～といえども is the formal concessive: even parent and child have limits. ときたら introduces a topic of complaint, とばかりに means as if to say."
+  },
+  {
+    "id": "n1-q53",
+    "level": "N1",
+    "section": "grammar",
+    "type": "grammar-form",
+    "question": "今年は昇進に長男の誕生と、めでたいこと（　）の一年だった。",
+    "options": ["まみれ", "ずくめ", "だらけ", "がち"],
+    "answer": 1,
+    "expl_zh": "「～ずくめ」表示清一色都是～（いいことずくめ・ごちそうずくめ），可用于好事。「まみれ」「だらけ」只用于污垢、缺点等负面事物。",
+    "expl_en": "～ずくめ means nothing but — and welcomes positive things (めでたいことずくめ). まみれ and だらけ attach to grime and faults; がち means prone to."
+  },
+  {
+    "id": "n1-q54",
+    "level": "N1",
+    "section": "grammar",
+    "type": "grammar-form",
+    "question": "最近の報道は、正確さよりも話題性を優先する（　）。",
+    "options": ["きらいがある", "ゆえんである", "かいがある", "までもない"],
+    "answer": 0,
+    "expl_zh": "「～きらいがある」表示有～的（不好的）倾向，是含批评语气的书面语。「ゆえん」是缘由，「かいがある」是有价值、值得。",
+    "expl_en": "～きらいがある notes an undesirable tendency, with a critical tone. ゆえん states a reason for a name/fact; かいがある means to be worth doing."
+  },
+  {
+    "id": "n1-q55",
+    "level": "N1",
+    "section": "grammar",
+    "type": "grammar-form",
+    "question": "彼女こそ、この大任を任せる（　）人物だと確信している。",
+    "options": ["に堪えない", "に至る", "に足る", "に及ぶ"],
+    "answer": 2,
+    "expl_zh": "「～に足る」表示足以、值得（任せるに足る人物・信頼するに足る）。「に堪えない」表示不堪～或情不自禁，语义相反。",
+    "expl_en": "～に足る means worthy of, sufficient for (任せるに足る人物). に堪えない means unbearable or overcome with emotion — the opposite fit."
+  },
+  {
+    "id": "n1-q56",
+    "level": "N1",
+    "section": "grammar",
+    "type": "sentence-order",
+    "question": "その茶碗には、機械生産では　＿＿　＿＿　＿★＿　＿＿　が宿っている。",
+    "options": ["温かみ", "ならではの", "決して出せない", "手仕事"],
+    "answer": 1,
+    "expl_zh": "正确语序为「機械生産では決して出せない手仕事ならではの温かみが宿っている」，★处是「ならではの」。「ならでは」紧接「手仕事」表示唯手工才有。",
+    "expl_en": "The sentence assembles as 機械生産では決して出せない手仕事ならではの温かみが宿っている; the ★ slot is ならではの, which must follow 手仕事 (a warmth unique to handwork)."
+  },
+  {
+    "id": "n1-q57",
+    "level": "N1",
+    "section": "grammar",
+    "type": "sentence-order",
+    "question": "監督は、主力選手が　＿＿　＿＿　＿★＿　＿＿　を貫いた。",
+    "options": ["余儀なくされた", "攻めの姿勢", "欠場を", "状況にあっても"],
+    "answer": 3,
+    "expl_zh": "正确语序为「主力選手が欠場を余儀なくされた状況にあっても攻めの姿勢を貫いた」，★处是「状況にあっても」。「欠場を余儀なくされた」修饰「状況」。",
+    "expl_en": "The sentence assembles as 主力選手が欠場を余儀なくされた状況にあっても攻めの姿勢を貫いた; the ★ slot is 状況にあっても, modified by 欠場を余儀なくされた."
+  },
+  {
+    "id": "n1-q58",
+    "level": "N1",
+    "section": "grammar",
+    "type": "sentence-order",
+    "question": "環境問題は、一国　＿＿　＿＿　＿★＿　＿＿　べき課題である。",
+    "options": ["一丸となって", "取り組む", "のみならず", "国際社会が"],
+    "answer": 0,
+    "expl_zh": "正确语序为「一国のみならず国際社会が一丸となって取り組むべき課題である」，★处是「一丸となって」。「のみならず」紧接「一国」。",
+    "expl_en": "The sentence assembles as 一国のみならず国際社会が一丸となって取り組むべき課題である; the ★ slot is 一丸となって. のみならず must attach directly to 一国."
+  },
+  {
+    "id": "n1-q59",
+    "level": "N1",
+    "section": "grammar",
+    "type": "sentence-order",
+    "question": "あれほど固く　＿＿　＿＿　＿★＿　＿＿　とは、あきれてものも言えない。",
+    "options": ["破る", "にもかかわらず", "平然と", "約束した"],
+    "answer": 2,
+    "expl_zh": "正确语序为「あれほど固く約束したにもかかわらず平然と破るとは」，★处是「平然と」。「固く」修饰「約束した」，「平然と」修饰「破る」。",
+    "expl_en": "The sentence assembles as あれほど固く約束したにもかかわらず平然と破るとは; the ★ slot is 平然と. 固く modifies 約束した and 平然と modifies 破る."
+  },
+  {
+    "id": "n1-q60",
+    "level": "N1",
+    "section": "grammar",
+    "type": "sentence-order",
+    "question": "計画がこのような　＿＿　＿＿　＿★＿　＿＿　と言わざるを得ない。",
+    "options": ["ものだ", "による", "結果に終わったのは", "見通しの甘さ"],
+    "answer": 1,
+    "expl_zh": "正确语序为「計画がこのような結果に終わったのは見通しの甘さによるものだと言わざるを得ない」，★处是「による」，构成「～のは～によるものだ」句式。",
+    "expl_en": "The sentence assembles as このような結果に終わったのは見通しの甘さによるものだ; the ★ slot is による, forming the ～のは～によるものだ construction."
+  },
+  {
+    "id": "n1-q61",
+    "level": "N1",
+    "section": "reading",
+    "type": "reading",
+    "passage": "技術の進歩は、私たちの生活から「待つ」という時間を着実に奪ってきた。検索すれば数秒で答えが得られ、注文すれば翌日には品物が届く。かつて数週間を要した手紙のやりとりを思えば、まさに隔世の感がある。だが、こうした即時性に慣れきった私たちは、答えの出ない問いを抱え続ける耐性を失いつつあるのではないか。考えるという営みは本来、時間のかかる、効率とは無縁のものである。すぐに得られる答えは、多くの場合、誰かがすでに用意した答えにすぎない。便利さそのものを否定するつもりはないが、それと引き換えに何を手放しているのかについては、一度立ち止まって考えてみる必要があるだろう。",
+    "question": "筆者の考えに最も合うものはどれか。",
+    "options": [
+      "技術の進歩は人間から思考力を完全に奪ってしまった。",
+      "便利な生活を捨てて、不便だった時代の暮らしに戻るべきだ。",
+      "即座に得られる答えに頼るうちに、自ら考え続ける力が損なわれる恐れがある。",
+      "検索で得られる情報は誤りが多いので、信頼すべきではない。"
+    ],
+    "answer": 2,
+    "expl_zh": "作者说「答えの出ない問いを抱え続ける耐性を失いつつある」并指出现成答案只是别人准备好的东西，即担心即时性侵蚀独立思考的耐力。作者明言并不否定便利本身，故其余选项过于绝对或无中生有。",
+    "expl_en": "The author fears we are losing the stamina to sit with unanswered questions, since instant answers are merely ones someone else prepared. He explicitly does not reject convenience itself, so the absolute options and the accuracy claim are wrong."
+  },
+  {
+    "id": "n1-q62",
+    "level": "N1",
+    "section": "reading",
+    "type": "reading",
+    "passage": "「最近の若者の言葉は乱れている」という嘆きは、いつの時代にも繰り返されてきた。実のところ、現在「正しい」とされる言い回しの多くも、かつては誤用として非難されたものである。言葉は生き物であり、変化しない言語は死んだ言語にほかならない。とはいえ、あらゆる変化を無条件に肯定すればよいというものでもなかろう。その変化が伝達の効率や表現の豊かさをもたらすのか、それとも単に語彙の貧困化を招くだけなのかは、慎重に見極める必要がある。要は、変化そのものを嘆くのでも礼賛するのでもなく、その変化が言葉の働きに何をもたらすかを問い続けることこそが肝要なのだ。",
+    "question": "言葉の変化について、筆者はどのように考えているか。",
+    "options": [
+      "変化を頭ごなしに否定も肯定もせず、それが言語の働きにもたらす影響を見極めるべきだ。",
+      "言葉は常に変化するものだから、どのような変化もそのまま受け入れるべきだ。",
+      "昔の正しい言葉遣いを次の世代に伝えていくことが何よりも重要だ。",
+      "若者の言葉の乱れは語彙の貧困化を招くため、早急に正すべきだ。"
+    ],
+    "answer": 0,
+    "expl_zh": "作者既指出「変化しない言語は死んだ言語」，又说「あらゆる変化を無条件に肯定すればよいというものでもない」，主张关键在于分辨变化带来的影响。其余选项都偏向一个极端。",
+    "expl_en": "The author holds a middle position: language must change, yet not every change deserves blanket approval — what matters is judging what each change brings. The other options each take one extreme he rejects."
+  },
+  {
+    "id": "n1-q63",
+    "level": "N1",
+    "section": "reading",
+    "type": "reading",
+    "passage": "「個性を伸ばす教育」という言葉が叫ばれて久しい。だが、その内実を見ると、あらかじめ用意された選択肢の中から好きなものを選ばせているにすぎない場合が少なくない。真の個性とは、提示された枠の中で選び取れるものではなく、他者との摩擦や試行錯誤の果てに、当人すら予期しない形で立ち現れるものではないか。皮肉なことに、「個性的であれ」という号令自体が、一つの画一的な要求と化している。誰もが同じように「個性」を競わされる教室ほど、没個性的な光景もあるまい。結局のところ教育にできるのは、個性を「作る」ことではなく、それが芽生えたときに摘み取らずにおく土壌を耕すことくらいであろう。",
+    "question": "筆者の主張として最も適切なものはどれか。",
+    "options": [
+      "個性を伸ばすためには、生徒により多くの選択肢を用意するべきだ。",
+      "個性は生まれつきのものであり、教育によって変えることはできない。",
+      "教室で個性を競わせることが、生徒の意欲を高める最善の方法だ。",
+      "個性は意図的に作り出せるものではなく、教育にできるのはそれが育つ土壌を整えることである。"
+    ],
+    "answer": 3,
+    "expl_zh": "末句点明主旨：教育不能「制造」个性，只能耕耘让个性萌芽后不被摘除的土壤。作者批评「从选项中挑选」和「竞争个性」，故前三项均与文意相反。",
+    "expl_en": "The final sentence states the thesis: education cannot manufacture individuality, only cultivate soil where it can sprout unplucked. The author criticizes both menu-choosing and competing over individuality, so the other options contradict him."
+  },
+  {
+    "id": "n1-q64",
+    "level": "N1",
+    "section": "reading",
+    "type": "reading",
+    "passage": "情報化社会と呼ばれて久しいが、情報が増えることと、人が賢くなることとは、必ずしも同義ではない。情報とは、いわば加工前の素材であり、それ自体は断片にすぎない。断片を自らの経験や既有の知識と結び付け、体系の中に位置付けて初めて、情報は知識となる。ところが今日では、この咀嚼の過程を省略し、検索結果をそのまま「知っている」ことと錯覚する風潮が広がっている。手元の端末で世界中の情報に触れられることと、自分がそれを理解していることとは、全くの別事である。情報の洪水の中でこそ、それを取捨選択し、自らの血肉に変える力が問われているのである。",
+    "question": "この文章で筆者が最も言いたいことは何か。",
+    "options": [
+      "情報化社会では、できるだけ多くの情報を効率よく集めることが重要だ。",
+      "情報は自ら咀嚼し体系づけて初めて知識となるのであり、その消化の力こそが問われている。",
+      "検索技術の発達により、知識をわざわざ記憶する必要はなくなった。",
+      "世の中に出回っている情報の大半は、信頼するに値しない断片である。"
+    ],
+    "answer": 1,
+    "expl_zh": "作者的核心论点是：信息只是素材，须经与自身经验・知识结合并体系化的「咀嚼」过程才成为知识，信息洪流中考验的正是这种消化能力。其余选项或与文意相反，或曲解「断片」的含义。",
+    "expl_en": "The core claim: information is raw material that becomes knowledge only when digested and systematized against one's own experience — and that digesting power is what matters. The other options invert the argument or distort what fragment means."
+  },
+  {
+    "id": "n1-q65",
+    "level": "N1",
+    "section": "reading",
+    "type": "reading",
+    "passage": "日本庭園の美しさは、石や木そのものよりも、むしろそれらの間に広がる余白によって支えられていると言われる。水墨画においても、描かれていない部分が、描かれた部分に劣らぬ意味を担う。翻って現代の生活を顧みると、私たちは空白を恐れるかのように、あらゆる隙間を予定と情報で埋め尽くしている。会話が途切れれば慌てて言葉を継ぎ、待ち時間には反射的に画面へ手を伸ばす。だが、豊かさとは、何かで満たされている状態だけを指すのだろうか。空白があるからこそ、そこに置かれたものが際立ち、沈黙があるからこそ、言葉は重みを持つ。埋めることばかりに熱心な生活は、かえって肝心なものを見えなくしているのかもしれない。",
+    "question": "筆者の考えに最も近いものはどれか。",
+    "options": [
+      "日本庭園や水墨画の技法を、現代の生活設計に取り入れるべきだ。",
+      "予定を詰め込んだ多忙な生活は、心身の健康に悪影響を及ぼす。",
+      "会話中の沈黙は相手に対して失礼にあたるので、避けたほうがよい。",
+      "空白や沈黙にこそ意味があり、すべてを埋め尽くす生活はかえって豊かさを損ないかねない。"
+    ],
+    "answer": 3,
+    "expl_zh": "作者借庭园与水墨画的「余白」立论：有空白事物才醒目，有沉默言语才有分量，一味填满反而使人看不见要紧之物。健康、礼仪、技法均非文章论点。",
+    "expl_en": "Using garden and ink-painting negative space, the author argues blankness makes things stand out and silence gives words weight — a life bent on filling every gap may obscure what matters. Health, etiquette, and technique are not his point."
+  }
+]

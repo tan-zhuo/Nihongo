@@ -26,10 +26,19 @@ export interface KanaRecord {
   total: number
 }
 
+export interface QuizRecord {
+  ts: number
+  level: Level | 'all'
+  section: 'all' | 'vocab' | 'grammar' | 'reading'
+  correct: number
+  total: number
+}
+
 interface Records {
   articles: ArticleRecord[]
   vocab: VocabRecord[]
   kana: KanaRecord[]
+  quiz: QuizRecord[]
 }
 
 const KEY = 'nihongotype.records.v1'
@@ -44,12 +53,13 @@ export function loadRecords(): Records {
         articles: Array.isArray(parsed.articles) ? parsed.articles : [],
         vocab: Array.isArray(parsed.vocab) ? parsed.vocab : [],
         kana: Array.isArray(parsed.kana) ? parsed.kana : [],
+        quiz: Array.isArray(parsed.quiz) ? parsed.quiz : [],
       }
     }
   } catch {
     // corrupted or unavailable storage → start fresh
   }
-  return { articles: [], vocab: [], kana: [] }
+  return { articles: [], vocab: [], kana: [], quiz: [] }
 }
 
 function save(records: Records) {
@@ -83,6 +93,15 @@ export function addKanaRecord(record: KanaRecord) {
   records.kana.push(record)
   if (records.kana.length > MAX_ENTRIES) {
     records.kana = records.kana.slice(-MAX_ENTRIES)
+  }
+  save(records)
+}
+
+export function addQuizRecord(record: QuizRecord) {
+  const records = loadRecords()
+  records.quiz.push(record)
+  if (records.quiz.length > MAX_ENTRIES) {
+    records.quiz = records.quiz.slice(-MAX_ENTRIES)
   }
   save(records)
 }
