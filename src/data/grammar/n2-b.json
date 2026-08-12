@@ -1,0 +1,1260 @@
+[
+ {
+  "id": "g-n2-17",
+  "level": "N2",
+  "track": "grammar",
+  "group": "時間・場面",
+  "pattern": "〜たびに",
+  "meaning_zh": "每当……就……；每次……都……",
+  "meaning_en": "every time, whenever",
+  "formation": "动词辞书形／名词+の + たびに",
+  "explain_zh": "口语和书面语通用的中性表达，日常会话、随笔、商务寒暄里都常见。表示「每次发生前项，后项就随之发生」，后项多是自然而然产生的情感、回忆或习惯性动作。与「〜と」的恒常条件不同，たびに强调「一次又一次、每一次都」的反复感，所以前项必须是可以反复发生的事件，「日本に着いたたびに」这种一次性事件是错的。",
+  "explain_en": "Neutral register usable in speech and writing alike. It means that each occurrence of the first event brings about the second, typically a feeling, a memory or a habitual action. Unlike the conditional 〜と, たびに foregrounds repetition — 'each and every time' — so the first clause must be a repeatable event; a one-off like 日本に着いたたびに is impossible.",
+  "examples": [
+   {
+    "ja": "この曲を聞くたびに、学生時代を思い出す。",
+    "furigana": "この{曲|きょく}を{聞|き}くたびに、{学生時代|がくせいじだい}を{思|おも}い{出|だ}す。",
+    "zh": "每次听到这首曲子，我都会想起学生时代。",
+    "en": "Every time I hear this song, I remember my school days."
+   },
+   {
+    "ja": "出張のたびに、その土地の名物を買って帰る。",
+    "furigana": "{出張|しゅっちょう}のたびに、その{土地|とち}の{名物|めいぶつ}を{買|か}って{帰|かえ}る。",
+    "zh": "每次出差，我都会买当地的特产回来。",
+    "en": "Whenever I go on a business trip, I bring back a local specialty."
+   },
+   {
+    "ja": "彼は会うたびに新しいアイデアを話してくれる。",
+    "furigana": "{彼|かれ}は{会|あ}うたびに{新|あたら}しいアイデアを{話|はな}してくれる。",
+    "zh": "每次见面，他都会跟我讲新的想法。",
+    "en": "Every time we meet, he tells me about some new idea."
+   }
+  ],
+  "note_zh": "前接动词只能用辞书形，不能用た形；名词后必须加の：「会議のたびに」。",
+  "note_en": "Verbs take only the dictionary form, never た形; nouns need の, as in 会議のたびに."
+ },
+ {
+  "id": "g-n2-18",
+  "level": "N2",
+  "track": "grammar",
+  "group": "時間・場面",
+  "pattern": "〜最中に",
+  "meaning_zh": "正在……的时候（偏偏发生了）",
+  "meaning_en": "right in the middle of",
+  "formation": "动词ている形／名词+の + 最中に（句末：〜最中だ）",
+  "explain_zh": "口语和一般书面语都可用，读作「さいちゅう」。表示某动作正处于进行的高峰时，突然发生了意外或打扰，因此后项多是电话、地震、停电这类突发事件，带「偏偏在这个节骨眼上」的语感。与中性的「〜ている間に」不同，最中に强调正在进行的那个「当口」，后项若是平淡无奇的事就不自然。句末形式「〜最中だ」表示「正在进行中」。",
+  "explain_en": "Common in both speech and writing; read さいちゅう. It marks the very peak of an ongoing action, into which something unexpected intrudes — a phone call, an earthquake, a blackout — with the nuance 'of all moments, right then'. Unlike neutral 〜ている間に, it highlights that critical moment, so a mundane main clause sounds odd. Sentence-final 〜最中だ means 'is right in the middle of it'.",
+  "examples": [
+   {
+    "ja": "会議の最中に、携帯電話が鳴ってしまった。",
+    "furigana": "{会議|かいぎ}の{最中|さいちゅう}に、{携帯電話|けいたいでんわ}が{鳴|な}ってしまった。",
+    "zh": "正开着会，手机偏偏响了。",
+    "en": "My phone went off right in the middle of the meeting."
+   },
+   {
+    "ja": "食事をしている最中に、急な仕事の連絡が入った。",
+    "furigana": "{食事|しょくじ}をしている{最中|さいちゅう}に、{急|きゅう}な{仕事|しごと}の{連絡|れんらく}が{入|はい}った。",
+    "zh": "正在吃饭的时候，突然来了工作上的联络。",
+    "en": "An urgent work call came in right while I was eating."
+   },
+   {
+    "ja": "今、その問題について調査している最中だ。",
+    "furigana": "{今|いま}、その{問題|もんだい}について{調査|ちょうさ}している{最中|さいちゅう}だ。",
+    "zh": "现在正处于对该问题进行调查的过程中。",
+    "en": "We are right in the middle of investigating that issue."
+   }
+  ],
+  "note_zh": "动词一般用「ている+最中」，不用辞书形；「真っ最中」是强调形：「今、試験の真っ最中だ」。",
+  "note_en": "Verbs normally take ている before 最中, not the dictionary form. 真っ最中 is an intensified variant: 試験の真っ最中だ."
+ },
+ {
+  "id": "g-n2-19",
+  "level": "N2",
+  "track": "grammar",
+  "group": "時間・場面",
+  "pattern": "〜と同時に",
+  "meaning_zh": "与……同时；既是……同时也是……",
+  "meaning_en": "at the same time as; as well as being",
+  "formation": "动词辞书形／名词（+である） + と同時に",
+  "explain_zh": "中性偏书面的表达，新闻和商务文书中很常见。有两个用法：一是表示两个动作、事件几乎在同一瞬间发生，二是表示同一事物兼具两种身份或性质，相当于「〜であるとともに」。表瞬间同时时，前后都应是有明确时点的事件；表兼具时常用「名词+であると同時に」的形式。口语里第一种用法多说「〜たとたん」或「〜とすぐ」。",
+  "explain_en": "Neutral to written register, frequent in news and business documents. Two uses: two events occurring at virtually the same instant, and one entity having two roles or qualities at once (like 〜であるとともに). For the simultaneous-event use, both clauses should be clearly punctual; for the dual-role use, the pattern noun+であると同時に is typical.",
+  "examples": [
+   {
+    "ja": "ドアが開くと同時に、客が一斉に入ってきた。",
+    "furigana": "ドアが{開|あ}くと{同時|どうじ}に、{客|きゃく}が{一斉|いっせい}に{入|はい}ってきた。",
+    "zh": "门一开，顾客就一齐涌了进来。",
+    "en": "The moment the doors opened, customers streamed in all at once."
+   },
+   {
+    "ja": "彼は社長であると同時に、大学の教授でもある。",
+    "furigana": "{彼|かれ}は{社長|しゃちょう}であると{同時|どうじ}に、{大学|だいがく}の{教授|きょうじゅ}でもある。",
+    "zh": "他既是公司社长，同时也是大学教授。",
+    "en": "He is a company president and, at the same time, a university professor."
+   },
+   {
+    "ja": "開業と同時に、大勢の客が押し寄せた。",
+    "furigana": "{開業|かいぎょう}と{同時|どうじ}に、{大勢|おおぜい}の{客|きゃく}が{押|お}し{寄|よ}せた。",
+    "zh": "一开业，就有大批顾客蜂拥而至。",
+    "en": "As soon as the business opened, crowds of customers surged in."
+   }
+  ],
+  "note_zh": "表兼具身份时后项常用「〜でもある」呼应；与「〜とともに」相比，と同時に更强调「同一时刻」。",
+  "note_en": "The dual-role use often pairs with 〜でもある. Compared with 〜とともに, と同時に stresses the exact same moment."
+ },
+ {
+  "id": "g-n2-21",
+  "level": "N2",
+  "track": "grammar",
+  "group": "時間・場面",
+  "pattern": "〜か〜ないかのうちに",
+  "meaning_zh": "刚要……就……；几乎同时",
+  "meaning_en": "hardly ... when, no sooner ... than",
+  "formation": "动词辞书形・た形 + か + 同一动词ない形 + かのうちに",
+  "explain_zh": "叙述性口语和书面语都可用，小说和报道的描写中常见。表示前一动作是否完成还说不清的那一瞬间，后一动作就发生了，时间间隔比「〜たとたん」还要短，带夸张的描写色彩。前后要重复同一个动词（鳴るか鳴らないか），后项和たとたん一样必须是已发生的、非意志性的事件，不能用于命令或将来的打算。",
+  "explain_en": "Narrative register for both speech and writing, common in fiction and reportage. The second action occurs at the very instant when one cannot yet say whether the first has finished — an even narrower gap than 〜たとたん, with a touch of hyperbole. The same verb is repeated in affirmative and negative (鳴るか鳴らないか), and as with たとたん the main clause must be a realized, non-volitional event.",
+  "examples": [
+   {
+    "ja": "ベルが鳴るか鳴らないかのうちに、学生たちは教室を飛び出した。",
+    "furigana": "ベルが{鳴|な}るか{鳴|な}らないかのうちに、{学生|がくせい}たちは{教室|きょうしつ}を{飛|と}び{出|だ}した。",
+    "zh": "铃声还没响完，学生们就冲出了教室。",
+    "en": "The bell had hardly rung before the students dashed out of the classroom."
+   },
+   {
+    "ja": "横になるかならないかのうちに、眠ってしまった。",
+    "furigana": "{横|よこ}になるかならないかのうちに、{眠|ねむ}ってしまった。",
+    "zh": "刚一躺下，就睡着了。",
+    "en": "I had barely lain down when I fell asleep."
+   },
+   {
+    "ja": "発売が始まるか始まらないかのうちに、チケットは売り切れた。",
+    "furigana": "{発売|はつばい}が{始|はじ}まるか{始|はじ}まらないかのうちに、チケットは{売|う}り{切|き}れた。",
+    "zh": "发售刚一开始，票就卖光了。",
+    "en": "No sooner had sales opened than the tickets sold out."
+   }
+  ],
+  "note_zh": "前后必须是同一动词的肯定＋否定；与「〜たとたん」可互换的场合多，但本句型更强调「几乎零间隔」。",
+  "note_en": "The same verb appears in affirmative then negative. Often interchangeable with 〜たとたん, but this pattern stresses a near-zero interval."
+ },
+ {
+  "id": "g-n2-22",
+  "level": "N2",
+  "track": "grammar",
+  "group": "時間・場面",
+  "pattern": "〜かと思うと／〜かと思ったら",
+  "meaning_zh": "刚一……马上就……（变化快得出人意料）",
+  "meaning_en": "no sooner had ... than; one minute ..., the next ...",
+  "formation": "动词た形 + かと思うと／かと思ったら",
+  "explain_zh": "口语和叙述文章通用，多用来描写天气、小孩、心情这类变化无常的对象。表示刚确认前项成立，紧接着就出现了与之形成反差的后项，说话人对这种急转带着惊讶或无奈。后项是既成事实，所以不能接意志、命令句，也不能用于说话人自己的行为，「私は帰ったかと思うと寝た」不自然。",
+  "explain_en": "Used in speech and narrative prose, typically of changeable things — weather, children, moods. Barely has the speaker registered the first state when a contrasting second one appears, and the speaker reacts with surprise or exasperation at the quick turnabout. The main clause states an accomplished fact, so volitional or imperative clauses are out, and it is not used of the speaker's own actions.",
+  "examples": [
+   {
+    "ja": "空が暗くなったかと思うと、激しい雨が降り出した。",
+    "furigana": "{空|そら}が{暗|くら}くなったかと{思|おも}うと、{激|はげ}しい{雨|あめ}が{降|ふ}り{出|だ}した。",
+    "zh": "天刚一变暗，就下起了大雨。",
+    "en": "No sooner had the sky darkened than a downpour began."
+   },
+   {
+    "ja": "さっきまで泣いていたかと思ったら、もう笑っている。",
+    "furigana": "さっきまで{泣|な}いていたかと{思|おも}ったら、もう{笑|わら}っている。",
+    "zh": "刚才还在哭，转眼就又笑了。",
+    "en": "One minute she was crying, and the next she is laughing."
+   },
+   {
+    "ja": "帰ってきたかと思うと、すぐまた出かけて行った。",
+    "furigana": "{帰|かえ}ってきたかと{思|おも}うと、すぐまた{出|で}かけて{行|い}った。",
+    "zh": "刚一回来，马上又出门去了。",
+    "en": "He had scarcely come home before he went out again."
+   }
+  ],
+  "note_zh": "N1的「〜かと思いきや」是其书面强调形，含「本以为……谁知」的意外感更强。",
+  "note_en": "The N1 form 〜かと思いきや is a bookish variant with a stronger sense of defied expectation."
+ },
+ {
+  "id": "g-n2-24",
+  "level": "N2",
+  "track": "grammar",
+  "group": "時間・場面",
+  "pattern": "〜たところ",
+  "meaning_zh": "做了……之后（结果发现／结果是）",
+  "meaning_en": "when (I) did ..., upon doing ... (it turned out that)",
+  "formation": "动词た形 + ところ（、…）",
+  "explain_zh": "偏正式的书面语和郑重口语，商务邮件与报告书中极为常用。表示做了前项动作之后，得到了某个发现或结果，前后没有必然的因果，只是「一试之下恰好如此」的偶然关系，因此后项是既成事实，不能接意志句。与条件句「〜たら」不同，たところ不表示假设，只用于报告已发生的事，语体也郑重得多。",
+  "explain_en": "Formal written or polite spoken style, extremely common in business email and reports. Having performed the action, one discovered a certain result; the connection is incidental — 'I tried, and this is what turned out' — not causal, so the main clause reports an accomplished fact and cannot be volitional. Unlike conditional 〜たら it never expresses hypothesis, and its register is far more formal.",
+  "examples": [
+   {
+    "ja": "問い合わせたところ、在庫はまだ十分にあるとのことだった。",
+    "furigana": "{問|と}い{合|あ}わせたところ、{在庫|ざいこ}はまだ{十分|じゅうぶん}にあるとのことだった。",
+    "zh": "询问之后得知，库存还很充足。",
+    "en": "When we inquired, we were told there was still plenty of stock."
+   },
+   {
+    "ja": "新製品を試験的に導入したところ、予想以上の効果が得られた。",
+    "furigana": "{新製品|しんせいひん}を{試験的|しけんてき}に{導入|どうにゅう}したところ、{予想以上|よそういじょう}の{効果|こうか}が{得|え}られた。",
+    "zh": "试验性地引进新产品后，获得了超出预期的效果。",
+    "en": "When we introduced the new product on a trial basis, the results exceeded expectations."
+   },
+   {
+    "ja": "上司に相談したところ、快く許可してくれた。",
+    "furigana": "{上司|じょうし}に{相談|そうだん}したところ、{快|こころよ}く{許可|きょか}してくれた。",
+    "zh": "跟上司商量之后，他爽快地批准了。",
+    "en": "When I consulted my boss, he readily gave his approval."
+   }
+  ],
+  "note_zh": "更硬的文体写作「〜たところが」时表示意外的逆接结果；不要与表地点的「ところ」混淆。",
+  "note_en": "The stiffer 〜たところが marks an unexpected, adversative result. Do not confuse with locational ところ."
+ },
+ {
+  "id": "g-n2-26",
+  "level": "N2",
+  "track": "grammar",
+  "group": "時間・場面",
+  "pattern": "〜たきり（…ない）",
+  "meaning_zh": "自从……之后（就再也没有……）",
+  "meaning_en": "(not) ever since doing ...",
+  "formation": "动词た形 + きり（、…ない）",
+  "explain_zh": "口语色彩较强，也用于一般叙述文。表示前项动作发生之后，本应接着发生的事一直没有发生，状态就此停住，后项多为否定形式或表示中断的说法。与「〜て以来」的区别在于评价色彩：以来中性地陈述起点，たきり则带「就此杳无音信、再无下文」的遗憾或挂念，所以常用于人与人失去联系、东西一去不回的语境。",
+  "explain_en": "Colloquial-leaning but fine in narrative prose. After the first action, the expected follow-up never came — things simply stopped there — so the main clause is usually negative or expresses discontinuation. Unlike neutral 〜て以来, たきり carries a wistful 'and that was the last of it' flavour, typical of lost contact or things never returned.",
+  "examples": [
+   {
+    "ja": "彼は部屋に入ったきり、夜になっても出てこない。",
+    "furigana": "{彼|かれ}は{部屋|へや}に{入|はい}ったきり、{夜|よる}になっても{出|で}てこない。",
+    "zh": "他进了房间之后，到了晚上也一直没出来。",
+    "en": "He went into his room and, even after nightfall, has not come out."
+   },
+   {
+    "ja": "十年前に別れたきり、彼女とは連絡を取っていない。",
+    "furigana": "{十年前|じゅうねんまえ}に{別|わか}れたきり、{彼女|かのじょ}とは{連絡|れんらく}を{取|と}っていない。",
+    "zh": "十年前分别之后，就再没和她联系过。",
+    "en": "We parted ten years ago and I have not been in touch with her since."
+   },
+   {
+    "ja": "父は朝出かけたきり、まだ帰ってこない。",
+    "furigana": "{父|ちち}は{朝|あさ}{出|で}かけたきり、まだ{帰|かえ}ってこない。",
+    "zh": "父亲早上出门之后，到现在还没回来。",
+    "en": "Father went out this morning and still has not come back."
+   }
+  ],
+  "note_zh": "「名词+きり」表示限定（二人きり）；「寝たきり」已词汇化，指卧床不起。",
+  "note_en": "Noun+きり expresses limitation (二人きり), and 寝たきり has lexicalized to mean 'bedridden'."
+ },
+ {
+  "id": "g-n2-27",
+  "level": "N2",
+  "track": "grammar",
+  "group": "時間・場面",
+  "pattern": "〜にあたって",
+  "meaning_zh": "值此……之际；在……（这一重要时刻）",
+  "meaning_en": "on the occasion of, at the (important) juncture of",
+  "formation": "动词辞书形／名词 + にあたって／にあたり",
+  "explain_zh": "郑重的书面语和演讲用语，开幕致辞、公告、合同说明里最常见，日常小事不用，说「引っ越しにあたって荷物を捨てた」就大词小用了。前项须是开业、入学、签约这类人生或事业的重要节点，后项多是为迎接它而做的准备、决心或致意。「にあたり」更硬，是公文和致辞的标准形。与「〜に際して」几乎同义，にあたって积极主动的语感略强。",
+  "explain_en": "Ceremonious written and speech-making style, standard in opening addresses, announcements and contract preambles; using it for trivia sounds inflated. The occasion must be a significant juncture — opening a business, matriculation, signing — and the main clause states preparations, resolve or greetings for it. にあたり is the stiffer form for documents and formal addresses. Nearly synonymous with 〜に際して, with a slightly more proactive flavour.",
+  "examples": [
+   {
+    "ja": "開会にあたって、一言ご挨拶申し上げます。",
+    "furigana": "{開会|かいかい}にあたって、{一言|ひとこと}ご{挨拶|あいさつ}{申|もう}し{上|あ}げます。",
+    "zh": "值此开会之际，请允许我讲几句话。",
+    "en": "On the occasion of this opening, allow me to say a few words of greeting."
+   },
+   {
+    "ja": "新事業を始めるにあたり、綿密な市場調査を行った。",
+    "furigana": "{新事業|しんじぎょう}を{始|はじ}めるにあたり、{綿密|めんみつ}な{市場調査|しじょうちょうさ}を{行|おこな}った。",
+    "zh": "在开展新事业之际，我们进行了周密的市场调查。",
+    "en": "In launching the new business, we conducted a meticulous market survey."
+   },
+   {
+    "ja": "契約にあたっては、以下の点にご注意ください。",
+    "furigana": "{契約|けいやく}にあたっては、{以下|いか}の{点|てん}にご{注意|ちゅうい}ください。",
+    "zh": "签约之时，请注意以下几点。",
+    "en": "When concluding the contract, please note the following points."
+   }
+  ],
+  "note_zh": "只用于积极迎接的场合，不用于葬礼等消极事件。",
+  "note_en": "Reserved for occasions one embraces; it is not used for negative events such as funerals."
+ },
+ {
+  "id": "g-n2-28",
+  "level": "N2",
+  "track": "grammar",
+  "group": "時間・場面",
+  "pattern": "〜につけ（て）",
+  "meaning_zh": "每当……就（不由得产生某种情绪）",
+  "meaning_en": "whenever ..., every time (a feeling arises)",
+  "formation": "动词辞书形 + につけ（て）；いいにつけ悪いにつけ",
+  "explain_zh": "偏书面的表达，随笔和评论里常见，口语多说「〜たびに」。表示每当看到、听到、想到某事，就自然涌起某种情感或联想，因此前项多是「見る・聞く・思う・考える」这类知觉动词，后项必须是自发的心理活动（思い出される・気になる），不能是有意志的行为，「写真を見るにつけ、掃除をする」是错的。成对形式「〜につけ〜につけ」表示「无论哪种场合都」。",
+  "explain_en": "Writing-leaning; essays and commentary use it where conversation would use 〜たびに. Each time one sees, hears or thinks of something, a feeling or association wells up of itself, so the first verb is perceptual (見る, 聞く, 思う) and the main clause must be a spontaneous mental response (思い出される, 気になる), never a deliberate act. The paired form 〜につけ〜につけ means 'in either case alike'.",
+  "examples": [
+   {
+    "ja": "この写真を見るにつけ、故郷のことが思い出される。",
+    "furigana": "この{写真|しゃしん}を{見|み}るにつけ、{故郷|こきょう}のことが{思|おも}い{出|だ}される。",
+    "zh": "每当看到这张照片，就不由得想起故乡。",
+    "en": "Whenever I look at this photo, memories of my hometown come back to me."
+   },
+   {
+    "ja": "彼の活躍を聞くにつけて、自分も頑張ろうという気になる。",
+    "furigana": "{彼|かれ}の{活躍|かつやく}を{聞|き}くにつけて、{自分|じぶん}も{頑張|がんば}ろうという{気|き}になる。",
+    "zh": "每次听到他的活跃表现，我就不由得想自己也要加油。",
+    "en": "Every time I hear of his achievements, I find myself wanting to work harder too."
+   },
+   {
+    "ja": "いいにつけ悪いにつけ、上司の判断に従うしかない。",
+    "furigana": "いいにつけ{悪|わる}いにつけ、{上司|じょうし}の{判断|はんだん}に{従|したが}うしかない。",
+    "zh": "无论好坏，都只能服从上司的判断。",
+    "en": "For better or worse, we have no choice but to follow the boss's judgement."
+   }
+  ],
+  "note_zh": "「何かにつけて」是惯用形，意为「动不动就、事事都」：「彼は何かにつけて文句を言う」。",
+  "note_en": "The set phrase 何かにつけて means 'at every turn': 彼は何かにつけて文句を言う."
+ },
+ {
+  "id": "g-n2-31",
+  "level": "N2",
+  "track": "grammar",
+  "group": "原因・理由",
+  "pattern": "〜あまり（に）",
+  "meaning_zh": "由于过于……（导致异常结果）",
+  "meaning_en": "so ... that, out of an excess of",
+  "formation": "名词+の／动词辞书形・た形 + あまり（に）",
+  "explain_zh": "书面语色彩较强，小说、评论和正式发言里常见，口语会说「あまりに〜ので」。表示某种情感或行为的程度超出常态，因而引发了不寻常的、多半消极的结果。前项典型的是「緊張・心配・悲しみ・喜び」等情感名词加の，或「考えすぎる・急ぐ」类动词，后项应是失常的状态，普通结果配あまり会显得夸张。",
+  "explain_en": "Bookish register, common in fiction, commentary and formal speech; conversation prefers あまりに〜ので. An emotion or activity exceeds its normal bounds and triggers an abnormal, usually undesirable outcome. Typical first elements are emotion nouns with の (緊張, 心配, 悲しみ, 喜び) or verbs of excess (considering too much, rushing), and the result should itself be out of the ordinary — a mundane outcome makes あまり sound overwrought.",
+  "examples": [
+   {
+    "ja": "緊張のあまり、用意した言葉が全部飛んでしまった。",
+    "furigana": "{緊張|きんちょう}のあまり、{用意|ようい}した{言葉|ことば}が{全部|ぜんぶ}{飛|と}んでしまった。",
+    "zh": "由于过度紧张，准备好的话全都忘光了。",
+    "en": "I was so nervous that everything I had prepared to say flew out of my head."
+   },
+   {
+    "ja": "息子の合格を喜ぶあまり、涙を流す母親もいた。",
+    "furigana": "{息子|むすこ}の{合格|ごうかく}を{喜|よろこ}ぶあまり、{涙|なみだ}を{流|なが}す{母親|ははおや}もいた。",
+    "zh": "有的母亲因为儿子考上而喜极而泣。",
+    "en": "Some mothers were so overjoyed at their sons' success that they shed tears."
+   },
+   {
+    "ja": "完璧を求めるあまり、締め切りに間に合わなくなっては本末転倒だ。",
+    "furigana": "{完璧|かんぺき}を{求|もと}めるあまり、{締|し}め{切|き}りに{間|ま}に{合|あ}わなくなっては{本末転倒|ほんまつてんとう}だ。",
+    "zh": "如果因为过分追求完美而赶不上截止日期，那就本末倒置了。",
+    "en": "If the pursuit of perfection makes you miss the deadline, that defeats the purpose."
+   }
+  ],
+  "note_zh": "动词表示状态延续时可用た形：「思いつめたあまり」；「あまりの+名词+に」是变体：「あまりの暑さに倒れた」。",
+  "note_en": "A た-form appears for resultant states (思いつめたあまり). The variant あまりの+noun+に also exists: あまりの暑さに倒れた."
+ },
+ {
+  "id": "g-n2-32",
+  "level": "N2",
+  "track": "grammar",
+  "group": "原因・理由",
+  "pattern": "〜あげく（に）",
+  "meaning_zh": "……到最后（结果却是坏结果）",
+  "meaning_en": "after much ..., in the end (something bad)",
+  "formation": "动词た形／名词+の + あげく（に）",
+  "explain_zh": "口语和书面语都可用，叙述文中常见。表示经过长时间的纠结、争论、折腾之后，最终落得一个消极的或令人无奈的结果，前项多与「さんざん・長い間・何度も」搭配以强调过程之久。与「〜末に」的最大区别是结果的褒贬：あげく几乎只接坏结果或空忙一场，末に则好坏皆可，所以「努力したあげく合格した」不自然。",
+  "explain_en": "Fine in speech and writing, common in narration. After prolonged agonizing, arguing or struggling, things end in an unwelcome or exasperating outcome; the first clause often carries さんざん, 長い間 or 何度も to stress how drawn out it was. The crucial contrast with 〜末に is polarity: あげく takes almost only bad or futile results, while 末に accepts either, so 努力したあげく合格した sounds wrong.",
+  "examples": [
+   {
+    "ja": "さんざん迷ったあげく、結局何も買わずに帰った。",
+    "furigana": "さんざん{迷|まよ}ったあげく、{結局|けっきょく}{何|なに}も{買|か}わずに{帰|かえ}った。",
+    "zh": "犹豫了半天，最后什么也没买就回去了。",
+    "en": "After endless dithering, I ended up going home without buying anything."
+   },
+   {
+    "ja": "長時間の議論のあげく、結論は先送りになった。",
+    "furigana": "{長時間|ちょうじかん}の{議論|ぎろん}のあげく、{結論|けつろん}は{先送|さきおく}りになった。",
+    "zh": "讨论了很长时间，结果结论还是被推迟了。",
+    "en": "After hours of debate, the decision was put off after all."
+   },
+   {
+    "ja": "彼は借金を重ねたあげく、会社を辞めざるを得なくなった。",
+    "furigana": "{彼|かれ}は{借金|しゃっきん}を{重|かさ}ねたあげく、{会社|かいしゃ}を{辞|や}めざるを{得|え}なくなった。",
+    "zh": "他债台高筑，最后不得不辞去了公司的工作。",
+    "en": "He piled up debts and in the end had no choice but to leave the company."
+   }
+  ],
+  "note_zh": "惯用语「あげくの果てに」进一步强调「到头来竟然」；前项必须是持续了一段时间的行为。",
+  "note_en": "The idiom あげくの果てに intensifies the sense of 'to crown it all'. The preceding action must have lasted some time."
+ },
+ {
+  "id": "g-n2-33",
+  "level": "N2",
+  "track": "grammar",
+  "group": "原因・理由",
+  "pattern": "〜末（に）",
+  "meaning_zh": "经过……之后（终于）",
+  "meaning_en": "after (a long process), finally",
+  "formation": "动词た形／名词+の + 末（に）",
+  "explain_zh": "偏书面的表达，新闻报道和正式文章里常见，读作「すえ」。表示经过一段长期的过程，最后得出某个结果，好结果坏结果都能接，这一点与几乎只接坏结果的「〜あげく」形成对照。语感的重心在「过程漫长、曲折」，所以前项常是「悩む・話し合う・検討する」这类需要时间的行为，瞬间动作不能用。后接名词时用「〜た末の+名词」。",
+  "explain_en": "Writing-leaning, common in news and formal prose; read すえ. After a long process one arrives at a result, which may be good or bad — the point of contrast with あげく, which is nearly always negative. The weight falls on the length and struggle of the process, so the first verb is typically durative (悩む, 話し合う, 検討する), never punctual. Before a noun it becomes 〜た末の+noun.",
+  "examples": [
+   {
+    "ja": "何度も話し合いを重ねた末に、両社は合併に合意した。",
+    "furigana": "{何度|なんど}も{話|はな}し{合|あ}いを{重|かさ}ねた{末|すえ}に、{両社|りょうしゃ}は{合併|がっぺい}に{合意|ごうい}した。",
+    "zh": "经过多次反复协商，两家公司终于就合并达成了一致。",
+    "en": "After repeated rounds of talks, the two companies agreed to merge."
+   },
+   {
+    "ja": "悩んだ末、留学することに決めた。",
+    "furigana": "{悩|なや}んだ{末|すえ}、{留学|りゅうがく}することに{決|き}めた。",
+    "zh": "苦恼了许久之后，我决定去留学。",
+    "en": "After much agonizing, I decided to study abroad."
+   },
+   {
+    "ja": "激しい競争の末に、わが社が契約を勝ち取った。",
+    "furigana": "{激|はげ}しい{競争|きょうそう}の{末|すえ}に、わが{社|しゃ}が{契約|けいやく}を{勝|か}ち{取|と}った。",
+    "zh": "经过激烈的竞争，我们公司最终赢得了合同。",
+    "en": "After fierce competition, our company won the contract."
+   }
+  ],
+  "note_zh": "常与「熟考の末」「協議の末」等汉语名词搭配显得正式；表好结果时不能换成「あげく」。",
+  "note_en": "Sino-Japanese nouns like 熟考の末 and 協議の末 sound formal. With good outcomes it cannot be replaced by あげく."
+ },
+ {
+  "id": "g-n2-34",
+  "level": "N2",
+  "track": "grammar",
+  "group": "原因・理由",
+  "pattern": "〜ことだから",
+  "meaning_zh": "因为是……（根据其一贯性格推测）",
+  "meaning_en": "since it is (that person), knowing them",
+  "formation": "名词（多为人物）+の + ことだから",
+  "explain_zh": "口语色彩强，用于说话人和听话人都熟悉话题人物的场合。以那个人一贯的性格、习惯为依据，推出「肯定会如此」的判断，因此前面几乎总是人物名词，且常带「責任感の強い・時間に厳しい」这类描述其特点的修饰语，后项则是「だろう・はずだ・に違いない」等推量表达。对不了解的人或客观事物不能用。",
+  "explain_en": "Distinctly conversational, used when both parties know the person in question. On the basis of that person's known character or habits, the speaker infers what will surely happen, so the pattern takes person nouns, often modified by traits (責任感の強い, 時間に厳しい), and the main clause carries conjecture such as だろう, はずだ or に違いない. It cannot be used of strangers or of inanimate matters.",
+  "examples": [
+   {
+    "ja": "責任感の強い彼のことだから、最後までやり遂げるだろう。",
+    "furigana": "{責任感|せきにんかん}の{強|つよ}い{彼|かれ}のことだから、{最後|さいご}までやり{遂|と}げるだろう。",
+    "zh": "他责任感很强，肯定会坚持做到最后的。",
+    "en": "Knowing how responsible he is, he will surely see it through to the end."
+   },
+   {
+    "ja": "時間に厳しい部長のことだから、一分でも遅れたら叱られるよ。",
+    "furigana": "{時間|じかん}に{厳|きび}しい{部長|ぶちょう}のことだから、{一分|いっぷん}でも{遅|おく}れたら{叱|しか}られるよ。",
+    "zh": "部长对时间要求很严，哪怕迟到一分钟也会挨骂的。",
+    "en": "Knowing how strict the manager is about time, you'll get scolded if you're even a minute late."
+   },
+   {
+    "ja": "あの人のことだから、今回もきっと何とかしてくれるはずだ。",
+    "furigana": "あの{人|ひと}のことだから、{今回|こんかい}もきっと{何|なん}とかしてくれるはずだ。",
+    "zh": "那个人一向如此，这次也一定会想办法帮我们的。",
+    "en": "Being who he is, he is bound to work something out for us this time too."
+   }
+  ],
+  "note_zh": "与表辩解的「〜ものだから」形近义远；「〜ことだし」（理由列举）也不要混淆。",
+  "note_en": "Do not confuse with excuse-making 〜ものだから or reason-listing 〜ことだし, which merely look similar."
+ },
+ {
+  "id": "g-n2-35",
+  "level": "N2",
+  "track": "grammar",
+  "group": "原因・理由",
+  "pattern": "〜ことだし",
+  "meaning_zh": "既然……（作为理由之一，提议做某事）",
+  "meaning_en": "since, seeing that (one reason among others)",
+  "formation": "动词・イ形容词普通形／ナ形容词な・である／名词である + ことだし",
+  "explain_zh": "口语表达，商量、提议的场景里最常见，书面报告不用。挑出当下情形中的一个有利条件作为理由，暗示「除此之外还有别的原因」，语气比「〜から」缓和、随意，因此后项多是「〜ようか・〜たらどうですか・〜ましょう」这类提议、劝诱或意向。把它用在陈述客观因果的句子里会不自然。",
+  "explain_en": "Conversational, most at home in consultations and suggestions; it does not appear in written reports. It picks out one favourable circumstance as a reason while implying there are others too, sounding softer and more casual than 〜から, so the main clause is typically a proposal, invitation or intention (〜ようか, 〜たらどうですか, 〜ましょう). It fits poorly in statements of objective cause and effect.",
+  "examples": [
+   {
+    "ja": "雨も上がったことだし、そろそろ出かけようか。",
+    "furigana": "{雨|あめ}も{上|あ}がったことだし、そろそろ{出|で}かけようか。",
+    "zh": "雨也停了，我们差不多该出门了吧。",
+    "en": "The rain has let up, so shall we get going?"
+   },
+   {
+    "ja": "全員そろったことだし、会議を始めましょう。",
+    "furigana": "{全員|ぜんいん}そろったことだし、{会議|かいぎ}を{始|はじ}めましょう。",
+    "zh": "人都到齐了，我们开始开会吧。",
+    "en": "Everyone is here, so let us begin the meeting."
+   },
+   {
+    "ja": "子どもも大きくなったことだし、そろそろ仕事に復帰したい。",
+    "furigana": "{子|こ}どもも{大|おお}きくなったことだし、そろそろ{仕事|しごと}に{復帰|ふっき}したい。",
+    "zh": "孩子也大了，我想差不多该重返职场了。",
+    "en": "Now that the children are older, I would like to go back to work."
+   }
+  ],
+  "note_zh": "前项常用「も」呼应（雨も上がったことだし），暗示理由不止一个。",
+  "note_en": "The particle も often appears in the reason clause (雨も上がったことだし), hinting that this is only one of several reasons."
+ },
+ {
+  "id": "g-n2-36",
+  "level": "N2",
+  "track": "grammar",
+  "group": "原因・理由",
+  "pattern": "〜につき",
+  "meaning_zh": "因……（公告用语）；每……",
+  "meaning_en": "due to (in notices); per",
+  "formation": "名词 + につき",
+  "explain_zh": "典型的告示、公文用语，贴在门口的通知、商务文书里最常见，口语和普通叙述文完全不用，说话时要换成「〜のため」。表原因时前面直接接汉语名词（改装・雨天・不在），句子简洁生硬，正是公告文体的特征。另一个用法是「每……」，表示分配比例：「一人につき二枚まで」。两个用法都属于固定套路，掌握常见搭配即可。",
+  "explain_en": "Classic notice-and-document language, seen on signs and in business paperwork; it is never spoken, where 〜のため takes over. For cause it attaches directly to Sino-Japanese nouns (改装, 雨天, 不在), producing the clipped tone typical of public notices. Its second use is distributive 'per': 一人につき二枚まで. Both uses are formulaic, so learning the standard collocations suffices.",
+  "examples": [
+   {
+    "ja": "店内改装につき、今月末まで休業いたします。",
+    "furigana": "{店内改装|てんないかいそう}につき、{今月末|こんげつまつ}まで{休業|きゅうぎょう}いたします。",
+    "zh": "因店内装修，本店停业至本月底。",
+    "en": "Due to interior renovations, we will be closed until the end of this month."
+   },
+   {
+    "ja": "雨天につき、本日の試合は中止となりました。",
+    "furigana": "{雨天|うてん}につき、{本日|ほんじつ}の{試合|しあい}は{中止|ちゅうし}となりました。",
+    "zh": "因下雨，今天的比赛已取消。",
+    "en": "Owing to rain, today's match has been cancelled."
+   },
+   {
+    "ja": "担当者不在につき、改めてご連絡いたします。",
+    "furigana": "{担当者不在|たんとうしゃふざい}につき、{改|あらた}めてご{連絡|れんらく}いたします。",
+    "zh": "因负责人不在，我们将另行与您联系。",
+    "en": "As the person in charge is away, we will contact you again later."
+   }
+  ],
+  "note_zh": "表原因的につき只出现在告示、通知文体中；「〜について」（关于）意思完全不同，勿混。",
+  "note_en": "Causal につき belongs only to notices. It is unrelated to 〜について 'concerning', despite the resemblance."
+ },
+ {
+  "id": "g-n2-37",
+  "level": "N2",
+  "track": "grammar",
+  "group": "原因・理由",
+  "pattern": "〜だけあって／〜だけに",
+  "meaning_zh": "不愧是……；正因为……（程度更深）",
+  "meaning_en": "as one would expect from; precisely because",
+  "formation": "动词・形容词普通形／名词（+である） + だけあって／だけに",
+  "explain_zh": "口语和书面语通用。だけあって表示「与其身份、经历相称」，后项是与之匹配的好评价，常与「さすが」呼应，是夸奖的句式。だけに有两个方向：一是同だけあって的顺接（正因为是专家，做得更好），二是反差用法「正因为期待大，失望也格外大」，后项配「かえって・なおさら・余計に」。だけあって不能用于坏结果，这是两者最重要的分工。",
+  "explain_en": "Common in both speech and writing. だけあって means 'true to that status or background', followed by a matching favourable judgement, often with さすが — it is a complimenting pattern. だけに goes two ways: the same appreciative reading, or a contrastive one where high expectations make the letdown all the greater, with かえって, なおさら or 余計に. だけあって never takes bad outcomes; that division of labour is the key point.",
+  "examples": [
+   {
+    "ja": "さすが一流ホテルだけあって、サービスが行き届いている。",
+    "furigana": "さすが{一流|いちりゅう}ホテルだけあって、サービスが{行|ゆ}き{届|とど}いている。",
+    "zh": "不愧是一流酒店，服务无微不至。",
+    "en": "As you would expect of a first-class hotel, the service is impeccable."
+   },
+   {
+    "ja": "彼は十年も日本に住んでいただけあって、敬語の使い方が自然だ。",
+    "furigana": "{彼|かれ}は{十年|じゅうねん}も{日本|にほん}に{住|す}んでいただけあって、{敬語|けいご}の{使|つか}い{方|かた}が{自然|しぜん}だ。",
+    "zh": "他毕竟在日本住了十年，敬语用得很自然。",
+    "en": "Having lived in Japan for ten years, he uses honorifics naturally, as one would expect."
+   },
+   {
+    "ja": "期待が大きかっただけに、失敗したときの落胆も大きかった。",
+    "furigana": "{期待|きたい}が{大|おお}きかっただけに、{失敗|しっぱい}したときの{落胆|らくたん}も{大|おお}きかった。",
+    "zh": "正因为期望很高，失败时的失落也格外大。",
+    "en": "Precisely because expectations were high, the disappointment at failure was all the greater."
+   }
+  ],
+  "note_zh": "「〜だけのことはある」是句末形：「十年住んでいただけのことはある」，同样表示「名不虚传」。",
+  "note_en": "The sentence-final variant 〜だけのことはある likewise means 'it lives up to that': 十年住んでいただけのことはある."
+ },
+ {
+  "id": "g-n2-39",
+  "level": "N2",
+  "track": "grammar",
+  "group": "原因・理由",
+  "pattern": "〜以上（は）／〜上は",
+  "meaning_zh": "既然……就（必须／理应）",
+  "meaning_en": "now that, since (one has), then necessarily",
+  "formation": "动词普通形／名词である + 以上（は）；动词た形・辞书形 + 上は",
+  "explain_zh": "郑重的书面语和正式口语，规章说明、决意表明里常见。前项是既成事实或既定身份，后项由此导出义务、决心、当然的判断（〜なければならない・〜べきだ・〜つもりだ），逻辑上比「から」硬得多。与「〜からには」几乎同义，但以上（は）更书面、更冷静，からには感情色彩更浓。「〜上は」是更文语的形式，多接「こうなった・かくなる」等，日常已少用。",
+  "explain_en": "Formal register for documents and serious speech, common in rules and declarations of resolve. Given an established fact or status, the main clause derives an obligation, resolution or natural conclusion (〜なければならない, 〜べきだ, 〜つもりだ), with far harder logic than から. Nearly synonymous with 〜からには, but 以上（は）is more written and dispassionate, while からには is more emotive. 〜上は is the literary variant, now mostly in set phrases like こうなった上は.",
+  "examples": [
+   {
+    "ja": "会社の代表として出席する以上、恥ずかしい振る舞いはできない。",
+    "furigana": "{会社|かいしゃ}の{代表|だいひょう}として{出席|しゅっせき}する{以上|いじょう}、{恥|は}ずかしい{振|ふ}る{舞|ま}いはできない。",
+    "zh": "既然是作为公司代表出席，就不能有失体面的举止。",
+    "en": "Since I am attending as the company's representative, I cannot behave in an unseemly way."
+   },
+   {
+    "ja": "引き受けた以上は、途中で投げ出すわけにはいかない。",
+    "furigana": "{引|ひ}き{受|う}けた{以上|いじょう}は、{途中|とちゅう}で{投|な}げ{出|だ}すわけにはいかない。",
+    "zh": "既然接手了，就不能中途撂挑子。",
+    "en": "Having taken it on, I cannot very well abandon it halfway."
+   },
+   {
+    "ja": "こうなった上は、正直にすべてを報告するしかない。",
+    "furigana": "こうなった{上|うえ}は、{正直|しょうじき}にすべてを{報告|ほうこく}するしかない。",
+    "zh": "事已至此，只能如实汇报一切了。",
+    "en": "Now that it has come to this, there is nothing for it but to report everything honestly."
+   }
+  ],
+  "note_zh": "后项不能是单纯的客观描述，必须含义务、决意、判断等语气；「学生である以上」中名词需加である。",
+  "note_en": "The main clause must express duty, resolve or judgement, not neutral description. Nouns require である: 学生である以上."
+ },
+ {
+  "id": "g-n2-40",
+  "level": "N2",
+  "track": "grammar",
+  "group": "逆接・譲歩",
+  "pattern": "〜ものの",
+  "meaning_zh": "虽然……但是……",
+  "meaning_en": "although, but (things did not follow)",
+  "formation": "动词・イ形容词普通形／ナ形容词な・である／名词である + ものの",
+  "explain_zh": "偏书面的表达，报告、随笔和新闻里常见，口语多说「〜けど」。表示前项确实成立，但按理应随之而来的后项却没有实现，典型语境是「东西买了却没用」「资格拿了却没派上用场」这类落空感。与「〜が」的单纯转折不同，ものの强调「事与愿违、进展不顺」的语感，因此前后主语一般相同，多描述同一件事的两个阶段。",
+  "explain_en": "Writing-leaning, common in reports, essays and news; conversation prefers 〜けど. The first clause did happen, yet what should naturally have followed failed to materialize — the typical contexts are licences never used, purchases never touched, a nagging sense of things not panning out. Unlike plain 〜が, ものの carries that flavour of stalled follow-through, so the subject usually stays the same across both clauses.",
+  "examples": [
+   {
+    "ja": "免許は取ったものの、車を買うお金がない。",
+    "furigana": "{免許|めんきょ}は{取|と}ったものの、{車|くるま}を{買|か}うお{金|かね}がない。",
+    "zh": "驾照虽然考下来了，却没有钱买车。",
+    "en": "I got my licence, but I have no money to buy a car."
+   },
+   {
+    "ja": "新しいシステムを導入したものの、十分に活用されていない。",
+    "furigana": "{新|あたら}しいシステムを{導入|どうにゅう}したものの、{十分|じゅうぶん}に{活用|かつよう}されていない。",
+    "zh": "虽然引进了新系统，但没有得到充分利用。",
+    "en": "Although the new system was introduced, it is not being fully utilized."
+   },
+   {
+    "ja": "引き受けはしたものの、どう進めればいいのか見当もつかない。",
+    "furigana": "{引|ひ}き{受|う}けはしたものの、どう{進|すす}めればいいのか{見当|けんとう}もつかない。",
+    "zh": "虽然是接下来了，但完全不知道该怎么推进。",
+    "en": "I did take it on, but I have no idea how to proceed."
+   }
+  ],
+  "note_zh": "「とはいうものの」用于句首承接上文；n2.json 的「〜反面」表示同一事物的两面，与此处「预期落空」不同。",
+  "note_en": "Sentence-initial とはいうものの links back to the preceding statement. 〜反面 describes two sides of one thing, not a failed follow-through."
+ },
+ {
+  "id": "g-n2-41",
+  "level": "N2",
+  "track": "grammar",
+  "group": "逆接・譲歩",
+  "pattern": "〜といっても",
+  "meaning_zh": "虽说……（其实程度有限）",
+  "meaning_en": "although one says ..., (it is not as much as it sounds)",
+  "formation": "动词・形容词普通形／名词 + といっても",
+  "explain_zh": "口语和一般书面语通用。先重复一个可能引起对方过高想象的说法，再补充「实际情况没那么夸张」，起修正预期的作用，因此后项多是缩小、降级的说明。它不是单纯转折，而是「解释真相」：说「会日语」之后怕对方期待过高，赶紧补一句「也就日常会话水平」。商务和自我介绍里用它可以避免言过其实。",
+  "explain_en": "At home in speech and general writing. It first echoes a statement likely to inflate the listener's expectations, then scales it down: 'that said, it is less than it sounds'. It is not simple contrast but expectation management — after claiming to speak Japanese, one hurries to add 'only everyday conversation, though'. Handy in business and self-introductions to avoid overstating.",
+  "examples": [
+   {
+    "ja": "日本語が話せるといっても、簡単な日常会話程度です。",
+    "furigana": "{日本語|にほんご}が{話|はな}せるといっても、{簡単|かんたん}な{日常会話|にちじょうかいわ}{程度|ていど}です。",
+    "zh": "虽说会说日语，也就是简单的日常会话水平。",
+    "en": "I can speak Japanese, but only at the level of simple everyday conversation."
+   },
+   {
+    "ja": "社長といっても、社員は私一人だけの小さな会社だ。",
+    "furigana": "{社長|しゃちょう}といっても、{社員|しゃいん}は{私|わたし}{一人|ひとり}だけの{小|ちい}さな{会社|かいしゃ}だ。",
+    "zh": "虽说是社长，其实是只有我一个人的小公司。",
+    "en": "President, yes — but of a tiny company whose only employee is me."
+   },
+   {
+    "ja": "旅行に行ったといっても、隣の県に一泊しただけだ。",
+    "furigana": "{旅行|りょこう}に{行|い}ったといっても、{隣|となり}の{県|けん}に{一泊|いっぱく}しただけだ。",
+    "zh": "虽说去旅行了，也不过是在邻县住了一晚而已。",
+    "en": "I did go on a trip, though it was just one night in the next prefecture."
+   }
+  ],
+  "note_zh": "后项常与「だけ・程度・にすぎない」搭配；书面语可用「とはいえ」替换，语气更硬。",
+  "note_en": "The follow-up often carries だけ, 程度 or にすぎない. Written style can substitute the stiffer とはいえ."
+ },
+ {
+  "id": "g-n2-43",
+  "level": "N2",
+  "track": "grammar",
+  "group": "逆接・譲歩",
+  "pattern": "〜にしては",
+  "meaning_zh": "作为……来说（却出乎意料）",
+  "meaning_en": "for (a) ..., considering it is ...",
+  "formation": "名词／动词普通形 + にしては",
+  "explain_zh": "口语和书面语通用。以「如果是 X 的话理应如此」的常识为基准，指出实际情况与之明显不符，可褒可贬：「初めてにしては上手」是夸奖，「プロにしては下手」是批评。前项必须是能唤起明确预期的具体身份或情况（外国人・十二月・プロ），不能是程度模糊的形容词，这一点和「〜わりに」相反。前后主语必须指同一对象。",
+  "explain_en": "Common in both registers. Taking as its yardstick what one would normally expect of X, it notes that reality clearly deviates, for better or worse: skilled for a first-timer, poor for a professional. The first element must be a concrete identity or circumstance that evokes definite expectations (a foreigner, December, a pro), never a vague gradable adjective — the mirror image of 〜わりに. Both clauses must be about the same referent.",
+  "examples": [
+   {
+    "ja": "初めてにしては、なかなか上手にできている。",
+    "furigana": "{初|はじ}めてにしては、なかなか{上手|じょうず}にできている。",
+    "zh": "作为第一次来说，做得相当不错了。",
+    "en": "For a first attempt, this is done quite well."
+   },
+   {
+    "ja": "十年も日本にいたにしては、日本の習慣をあまり知らない。",
+    "furigana": "{十年|じゅうねん}も{日本|にほん}にいたにしては、{日本|にほん}の{習慣|しゅうかん}をあまり{知|し}らない。",
+    "zh": "就在日本待了十年这一点来说，他对日本的习俗知道得太少了。",
+    "en": "For someone who spent ten years in Japan, he knows surprisingly little about its customs."
+   },
+   {
+    "ja": "今日は十二月にしては暖かい。",
+    "furigana": "{今日|きょう}は{十二月|じゅうにがつ}にしては{暖|あたた}かい。",
+    "zh": "就十二月而言，今天算是暖和的。",
+    "en": "For December, today is warm."
+   }
+  ],
+  "note_zh": "「〜としては」表示立场（作为……的立场），与表意外的にしては不同，勿混。",
+  "note_en": "〜としては marks a standpoint ('in my capacity as'), quite different from expectation-defying にしては."
+ },
+ {
+  "id": "g-n2-44",
+  "level": "N2",
+  "track": "grammar",
+  "group": "逆接・譲歩",
+  "pattern": "〜つつ（も）",
+  "meaning_zh": "一边……一边……；虽然……却……",
+  "meaning_en": "while doing; even while (knowing)",
+  "formation": "动词ます形去ます + つつ（も）",
+  "explain_zh": "书面语，「〜ながら」的文章体对应形式，口语里说ながら即可。两个用法：一是两个动作同时并行（景色を眺めつつ歩く），二是加も构成逆接「明知……却……」，此时前项多是「思う・知る・分かる」等认识动词，表示心里明白行动却相反，带自责或矛盾的语感。第二用法在随笔、反省文中特别常见，是 N2 考查的重点。",
+  "explain_en": "Written Japanese, the literary counterpart of 〜ながら. Two uses: simultaneous actions (walking while gazing at the scenery), and with も a concessive 'even while knowing', where the first verb is cognitive (思う, 知る, 分かる) and one's behaviour contradicts one's better judgement, tinged with self-reproach. The second use, frequent in essays and reflective prose, is the one exams target.",
+  "examples": [
+   {
+    "ja": "体に悪いと知りつつも、たばこがやめられない。",
+    "furigana": "{体|からだ}に{悪|わる}いと{知|し}りつつも、たばこがやめられない。",
+    "zh": "明知对身体不好，却还是戒不掉烟。",
+    "en": "Even while knowing it is bad for me, I cannot quit smoking."
+   },
+   {
+    "ja": "早く返事をしなければと思いつつ、一週間が過ぎてしまった。",
+    "furigana": "{早|はや}く{返事|へんじ}をしなければと{思|おも}いつつ、{一週間|いっしゅうかん}が{過|す}ぎてしまった。",
+    "zh": "心里想着得赶紧回复，结果一个星期就这么过去了。",
+    "en": "While telling myself I had to reply soon, a whole week slipped by."
+   },
+   {
+    "ja": "景色を眺めつつ、ゆっくり温泉につかった。",
+    "furigana": "{景色|けしき}を{眺|なが}めつつ、ゆっくり{温泉|おんせん}につかった。",
+    "zh": "一边眺望景色，一边悠闲地泡温泉。",
+    "en": "I soaked at leisure in the hot spring while taking in the view."
+   }
+  ],
+  "note_zh": "「〜つつある」表示变化正在进行（回復しつつある），是另一个句型；逆接时几乎总带も。",
+  "note_en": "〜つつある marks ongoing change (回復しつつある) and is a separate pattern. The concessive reading nearly always takes も."
+ },
+ {
+  "id": "g-n2-45",
+  "level": "N2",
+  "track": "grammar",
+  "group": "逆接・譲歩",
+  "pattern": "〜にもかかわらず",
+  "meaning_zh": "尽管……却……",
+  "meaning_en": "despite, in spite of",
+  "formation": "动词・形容词普通形／名词（＋である） + にもかかわらず",
+  "explain_zh": "正式的书面语和郑重口语，新闻、商务信函和致辞里频繁出现，日常会话说「〜のに」。表示在前项条件下按理不该出现后项，后项却发生了，客观陈述反差，不像「のに」那样带撒娇式的不满。商务上「お忙しいにもかかわらず」「休日にもかかわらず」是感谢对方的固定套语。注意写法：かかわらず一般不写汉字「関わらず」，且与「〜にかかわらず」（无论……都）意思不同。",
+  "explain_en": "Formal written and ceremonious spoken style, frequent in news, business letters and speeches; conversation uses 〜のに. Under the stated condition the outcome should not have occurred, yet it did — an objective statement of contrast without the plaintive tone of のに. In business, お忙しいにもかかわらず and 休日にもかかわらず are stock phrases of gratitude. Note the kana spelling and the separate pattern 〜にかかわらず 'regardless of'.",
+  "examples": [
+   {
+    "ja": "悪天候にもかかわらず、大勢のファンが集まった。",
+    "furigana": "{悪天候|あくてんこう}にもかかわらず、{大勢|おおぜい}のファンが{集|あつ}まった。",
+    "zh": "尽管天气恶劣，还是聚集了大批粉丝。",
+    "en": "Despite the bad weather, a huge crowd of fans gathered."
+   },
+   {
+    "ja": "何度も注意したにもかかわらず、同じミスが繰り返された。",
+    "furigana": "{何度|なんど}も{注意|ちゅうい}したにもかかわらず、{同|おな}じミスが{繰|く}り{返|かえ}された。",
+    "zh": "尽管提醒了很多次，同样的错误还是再次发生了。",
+    "en": "In spite of repeated warnings, the same mistake was made again."
+   },
+   {
+    "ja": "休日にもかかわらず、対応していただきありがとうございます。",
+    "furigana": "{休日|きゅうじつ}にもかかわらず、{対応|たいおう}していただきありがとうございます。",
+    "zh": "尽管是休息日，还劳您处理，非常感谢。",
+    "en": "Thank you for handling this even though it is a day off."
+   }
+  ],
+  "note_zh": "「〜にかかわらず」（天候にかかわらず実施＝无论天气如何都举行）是另一句型，一字之差意思全变。",
+  "note_en": "〜にかかわらず means 'regardless of' (天候にかかわらず実施). One も changes the meaning entirely."
+ },
+ {
+  "id": "g-n2-47",
+  "level": "N2",
+  "track": "grammar",
+  "group": "逆接・譲歩",
+  "pattern": "〜にしろ／〜にせよ",
+  "meaning_zh": "即使……也；无论……都",
+  "meaning_en": "even if, no matter (which)",
+  "formation": "动词・形容词普通形／名词・ナ形容词（＋である） + にしろ／にせよ",
+  "explain_zh": "偏正式的书面语和郑重口语，评论和训示里常见，日常会话多说「〜にしても」。表示「即便承认前项成立，后项的判断也不变」，后项多是义务、批评、当然的主张（〜べきだ・〜はずだ・許されない）。常与「たとえ・どんな・いくら」呼应加强让步。にせよ比にしろ更书面；惯用语「いずれにせよ／いずれにしろ」（总之、无论如何）使用频率极高，值得整体记住。",
+  "explain_en": "Formal-leaning register for commentary and admonition; everyday talk prefers 〜にしても. Even granting the first clause, the judgement stands, so the main clause carries obligation, criticism or a firm claim (〜べきだ, 〜はずだ, 許されない). It pairs with たとえ, どんな or いくら for emphasis. にせよ is the more bookish of the two, and the set phrase いずれにせよ／いずれにしろ 'in any case' is so frequent it deserves memorizing whole.",
+  "examples": [
+   {
+    "ja": "どんな理由があるにしろ、暴力は許されない。",
+    "furigana": "どんな{理由|りゆう}があるにしろ、{暴力|ぼうりょく}は{許|ゆる}されない。",
+    "zh": "无论有什么理由，暴力都是不可原谅的。",
+    "en": "Whatever the reason, violence cannot be tolerated."
+   },
+   {
+    "ja": "参加しないにせよ、返事だけは早めに出すべきだ。",
+    "furigana": "{参加|さんか}しないにせよ、{返事|へんじ}だけは{早|はや}めに{出|だ}すべきだ。",
+    "zh": "即使不参加，至少也应该尽早回复。",
+    "en": "Even if you are not attending, you should at least reply promptly."
+   },
+   {
+    "ja": "いずれにせよ、最終決定は来週の会議までに下さなければならない。",
+    "furigana": "いずれにせよ、{最終決定|さいしゅうけってい}は{来週|らいしゅう}の{会議|かいぎ}までに{下|くだ}さなければならない。",
+    "zh": "无论如何，最终决定必须在下周会议之前做出。",
+    "en": "In any case, the final decision must be made by next week's meeting."
+   }
+  ],
+  "note_zh": "成对使用「〜にしろ〜にしろ」表示列举（见并立条目）；更文语的形式是 N1 的「〜にもせよ」。",
+  "note_en": "Paired 〜にしろ〜にしろ lists alternatives (see the coordination entry). The N1 form 〜にもせよ is still more literary."
+ },
+ {
+  "id": "g-n2-49",
+  "level": "N2",
+  "track": "grammar",
+  "group": "条件・仮定",
+  "pattern": "〜ものなら",
+  "meaning_zh": "要是能……的话（真想……）",
+  "meaning_en": "if only one could",
+  "formation": "动词可能形 + ものなら",
+  "explain_zh": "口语和书面语都可用，带强烈的感情色彩。前接可能形，表示说话人明知实现的希望渺茫，仍怀着「要是能做到就好了」的愿望，后项多是「〜たい・〜てほしい」，常重复同一动词（帰れるものなら帰りたい）。因为暗含「实际做不到」，用于明明轻易能做到的事就不自然。挑衅用法「できるものならやってみろ」（有本事你就试试）也源于同一逻辑。",
+  "explain_en": "Found in both registers, heavily emotive. With a potential verb it voices a wish the speaker knows is barely realizable — 'if only I could' — and the main clause carries 〜たい or 〜てほしい, often repeating the same verb (帰れるものなら帰りたい). Since it presupposes impossibility, it sounds odd for easily achievable acts. The taunting use できるものならやってみろ 'do it if you can' follows the same logic.",
+  "examples": [
+   {
+    "ja": "帰れるものなら、今すぐ国へ帰りたい。",
+    "furigana": "{帰|かえ}れるものなら、{今|いま}すぐ{国|くに}へ{帰|かえ}りたい。",
+    "zh": "要是能回去的话，我真想现在就回国。",
+    "en": "If only I could, I would go back to my country right now."
+   },
+   {
+    "ja": "やり直せるものなら、学生時代からやり直したい。",
+    "furigana": "やり{直|なお}せるものなら、{学生時代|がくせいじだい}からやり{直|なお}したい。",
+    "zh": "要是能重来的话，我想从学生时代重新来过。",
+    "en": "If I could do it over, I would start again from my school days."
+   },
+   {
+    "ja": "代われるものなら、入院している娘に代わってやりたい。",
+    "furigana": "{代|か}われるものなら、{入院|にゅういん}している{娘|むすめ}に{代|か}わってやりたい。",
+    "zh": "要是能替她的话，我真想替住院的女儿受这个罪。",
+    "en": "If I could take her place, I would gladly suffer instead of my hospitalized daughter."
+   }
+  ],
+  "note_zh": "N1的「〜（よ）うものなら」（一旦……就会有严重后果）形近义远，注意区分。",
+  "note_en": "Distinguish the N1 pattern 〜（よ）うものなら, which warns of dire consequences should something happen."
+ },
+ {
+  "id": "g-n2-50",
+  "level": "N2",
+  "track": "grammar",
+  "group": "条件・仮定",
+  "pattern": "〜ないことには",
+  "meaning_zh": "如果不先……就（无法）……",
+  "meaning_en": "unless ..., not ...",
+  "formation": "动词ない形 + ことには、…ない",
+  "explain_zh": "口语和书面语通用。表示前项是后项成立的必要前提，「不迈出这一步，后面就无从谈起」，因此后项必须以否定形式结尾（決められない・始まらない・分からない），这条铁律与「〜てからでないと」相同。语感上强调「什么都还没开始」的停滞状态，所以常用于说明当前动不了的原因。形容词、名词也可用：「安くないことには売れない」。",
+  "explain_en": "Common to both registers. The first clause is the indispensable first step without which the rest cannot even begin, so the sentence must end in a negative (決められない, 始まらない, 分からない) — the same iron rule as 〜てからでないと. It highlights a stalled state where nothing can move, and thus often explains why things are on hold. Adjectives and nouns work too: 安くないことには売れない.",
+  "examples": [
+   {
+    "ja": "実物を見ないことには、買うかどうか決められない。",
+    "furigana": "{実物|じつぶつ}を{見|み}ないことには、{買|か}うかどうか{決|き}められない。",
+    "zh": "不看到实物，就没法决定买不买。",
+    "en": "Unless I see the actual item, I cannot decide whether to buy it."
+   },
+   {
+    "ja": "予算が承認されないことには、プロジェクトは始められない。",
+    "furigana": "{予算|よさん}が{承認|しょうにん}されないことには、プロジェクトは{始|はじ}められない。",
+    "zh": "预算不获批准，项目就无法启动。",
+    "en": "Unless the budget is approved, the project cannot get under way."
+   },
+   {
+    "ja": "本人に会って話さないことには、何とも判断できない。",
+    "furigana": "{本人|ほんにん}に{会|あ}って{話|はな}さないことには、{何|なん}とも{判断|はんだん}できない。",
+    "zh": "不见到本人谈一谈，就什么也判断不了。",
+    "en": "Without meeting and talking to the person, I can make no judgement at all."
+   }
+  ],
+  "note_zh": "后项若不是否定表达就是错句；类似的「〜なければ」缺少「万事从此开始」的强调语感。",
+  "note_en": "A non-negative main clause is ungrammatical. Plain 〜なければ lacks the 'everything hinges on this first step' emphasis."
+ },
+ {
+  "id": "g-n2-51",
+  "level": "N2",
+  "track": "grammar",
+  "group": "条件・仮定",
+  "pattern": "〜て初めて",
+  "meaning_zh": "……之后才（第一次）……",
+  "meaning_en": "only after ..., not until ...",
+  "formation": "动词て形 + 初めて",
+  "explain_zh": "口语和书面语通用，随笔和感悟类文章里尤其常见。表示直到经历了前项，后项的认识或状态才首次出现，隐含「在那之前一直不懂、没有」的对比，因此后项多是「分かる・気づく・知る」等认识动词或「〜ものだ」的一般论。它不是单纯的时间先后，重点在「经历带来觉悟」，所以「朝起きて初めて歯を磨く」这种日常流程是错用。",
+  "explain_en": "At home in both registers, especially in reflective essays. Only through the first experience does the realization or state described in the main clause arise for the first time, implying one had lacked it until then; hence the main clause typically has cognition verbs (分かる, 気づく, 知る) or a general truth with 〜ものだ. It is not mere sequence but experience-born insight, so using it for daily routines like brushing teeth after waking is wrong.",
+  "examples": [
+   {
+    "ja": "病気になって初めて、健康のありがたさが分かった。",
+    "furigana": "{病気|びょうき}になって{初|はじ}めて、{健康|けんこう}のありがたさが{分|わ}かった。",
+    "zh": "生了病之后，才懂得健康的可贵。",
+    "en": "Only after falling ill did I understand how precious health is."
+   },
+   {
+    "ja": "親になって初めて、親の苦労が理解できるものだ。",
+    "furigana": "{親|おや}になって{初|はじ}めて、{親|おや}の{苦労|くろう}が{理解|りかい}できるものだ。",
+    "zh": "只有自己当了父母，才能体会父母的辛劳。",
+    "en": "It is only when you become a parent yourself that you can grasp your parents' hardships."
+   },
+   {
+    "ja": "海外で暮らして初めて、自分の国のよさに気づいた。",
+    "furigana": "{海外|かいがい}で{暮|く}らして{初|はじ}めて、{自分|じぶん}の{国|くに}のよさに{気|き}づいた。",
+    "zh": "在国外生活之后，我才第一次意识到自己国家的好。",
+    "en": "Not until I lived abroad did I notice the good points of my own country."
+   }
+  ],
+  "note_zh": "常与「〜ものだ」搭配表示普遍感悟；强调必要条件时与「〜てこそ」相近，但てこそ主张色彩更强。",
+  "note_en": "Often pairs with 〜ものだ for general insights. 〜てこそ is close but far more assertive about the condition."
+ },
+ {
+  "id": "g-n2-52",
+  "level": "N2",
+  "track": "grammar",
+  "group": "条件・仮定",
+  "pattern": "〜てこそ",
+  "meaning_zh": "只有……才（真正）……",
+  "meaning_en": "only by doing ... (does something hold true)",
+  "formation": "动词て形 + こそ",
+  "explain_zh": "偏书面的表达，演讲、社训、议论文里常见，用来阐述信念。用こそ强调「唯有做到前项，后项才真正成立」，后项是积极的评价或理想状态，常以「〜と言える・〜ものだ・意味がある」结尾。与「〜て初めて」的区别：て初めて客观叙述「经历后才明白」，てこそ则是说话人主张「这才是真谛」，说教色彩明显，因此多用于表达价值观。",
+  "explain_en": "Writing-leaning, favoured in speeches, company mottoes and argumentation to state convictions. こそ insists that only through the first action does the second — a positive ideal — truly hold, often ending in 〜と言える, 〜ものだ or 意味がある. Against 〜て初めて: that pattern reports a realization after experience, while てこそ asserts 'this is what it really means', with an unmistakably preachy tone suited to voicing values.",
+  "examples": [
+   {
+    "ja": "自分で経験してこそ、本当の意味で理解できる。",
+    "furigana": "{自分|じぶん}で{経験|けいけん}してこそ、{本当|ほんとう}の{意味|いみ}で{理解|りかい}できる。",
+    "zh": "只有亲身经历，才能真正地理解。",
+    "en": "Only by experiencing it yourself can you truly understand it."
+   },
+   {
+    "ja": "困難を乗り越えてこそ、人は成長するものだ。",
+    "furigana": "{困難|こんなん}を{乗|の}り{越|こ}えてこそ、{人|ひと}は{成長|せいちょう}するものだ。",
+    "zh": "人只有跨越困难，才会成长。",
+    "en": "It is only by overcoming difficulties that people grow."
+   },
+   {
+    "ja": "お互いに信頼し合ってこそ、よいチームと言える。",
+    "furigana": "お{互|たが}いに{信頼|しんらい}し{合|あ}ってこそ、よいチームと{言|い}える。",
+    "zh": "只有彼此信任，才称得上是好团队。",
+    "en": "Only when members trust one another can you call it a good team."
+   }
+  ],
+  "note_zh": "后项必须是肯定的积极内容，「勉強してこそ落ちる」这类消极结果不能用。",
+  "note_en": "The main clause must be affirmative and positive; negative outcomes are incompatible with てこそ."
+ },
+ {
+  "id": "g-n2-53",
+  "level": "N2",
+  "track": "grammar",
+  "group": "条件・仮定",
+  "pattern": "〜を抜きにして（は）／〜抜きで",
+  "meaning_zh": "撇开……；如果没有……（就无法）",
+  "meaning_en": "leaving aside; without (which not)",
+  "formation": "名词 + を抜きにして（は）／名词 + 抜きで（抜きに）",
+  "explain_zh": "口语和书面语通用，商务谈判和致辞里常见。三个层次的用法要分清：「〜を抜きにして」表示把某话题、要素排除在外（冗談を抜きにして＝言归正传）；带は的「〜を抜きにしては…ない」表示「若无此要素则不成立」，后项必须是否定，是对某人某事的高度评价；「名词+抜きで」最简洁，表示「省去……」（朝食抜きで出かけた）。",
+  "explain_en": "Shared by both registers, frequent in negotiations and formal remarks. Three uses to keep apart: 〜を抜きにして sets a topic or element aside (冗談を抜きにして = joking aside); with は, 〜を抜きにしては…ない says the whole thing collapses without that element — the main clause must be negative, making it a strong tribute; and bare noun+抜きで simply means omitting something (朝食抜きで出かけた).",
+  "examples": [
+   {
+    "ja": "現場の協力を抜きにしては、この計画は実現できない。",
+    "furigana": "{現場|げんば}の{協力|きょうりょく}を{抜|ぬ}きにしては、この{計画|けいかく}は{実現|じつげん}できない。",
+    "zh": "没有一线人员的配合，这个计划就无法实现。",
+    "en": "Without the cooperation of those on the ground, this plan cannot be realized."
+   },
+   {
+    "ja": "冗談を抜きにして、真剣に話し合いましょう。",
+    "furigana": "{冗談|じょうだん}を{抜|ぬ}きにして、{真剣|しんけん}に{話|はな}し{合|あ}いましょう。",
+    "zh": "先把玩笑放一边，我们认真谈谈吧。",
+    "en": "Joking aside, let us discuss this seriously."
+   },
+   {
+    "ja": "今夜は仕事の話抜きで楽しみましょう。",
+    "furigana": "{今夜|こんや}は{仕事|しごと}の{話|はなし}{抜|ぬ}きで{楽|たの}しみましょう。",
+    "zh": "今晚咱们不谈工作，好好放松一下吧。",
+    "en": "Tonight, let us enjoy ourselves with no shop talk."
+   }
+  ],
+  "note_zh": "「〜は抜きにして」也常见（お世辞は抜きにして）；N1 的「〜なくして（は）」是更书面的同义形式。",
+  "note_en": "〜は抜きにして is also common (お世辞は抜きにして). The N1 form 〜なくして（は）is its stiffer equivalent."
+ },
+ {
+  "id": "g-n2-54",
+  "level": "N2",
+  "track": "grammar",
+  "group": "程度・選択",
+  "pattern": "〜くらいなら",
+  "meaning_zh": "与其……（不如……）",
+  "meaning_en": "rather than (do something that bad)",
+  "formation": "动词辞书形 + くらいなら（ぐらいなら）",
+  "explain_zh": "口语色彩强，表达好恶分明的取舍。把前项贬低为「沦落到那种地步」的下策，主张宁可选择后项，后项常用「〜ほうがましだ・〜ほうがいい」呼应，ましだ本身就含「两害相权取其轻」的语感。因为带强烈的嫌弃情绪，只能用于说话人主观的价值判断，中性的方案比较要用「〜より」。",
+  "explain_en": "Strongly colloquial, for stark either-or preferences. The first option is disparaged as a fate one refuses to stoop to, and the speaker would sooner take the second, typically with 〜ほうがましだ or 〜ほうがいい — ましだ itself implying the lesser of two evils. Because of this charged disdain it suits only subjective value judgements; neutral comparison of options calls for 〜より.",
+  "examples": [
+   {
+    "ja": "途中であきらめるくらいなら、最初からやらないほうがいい。",
+    "furigana": "{途中|とちゅう}であきらめるくらいなら、{最初|さいしょ}からやらないほうがいい。",
+    "zh": "与其半途而废，不如一开始就别做。",
+    "en": "Rather than give up halfway, it is better not to start at all."
+   },
+   {
+    "ja": "満員電車に乗るくらいなら、一時間歩いて帰るほうがましだ。",
+    "furigana": "{満員電車|まんいんでんしゃ}に{乗|の}るくらいなら、{一時間|いちじかん}{歩|ある}いて{帰|かえ}るほうがましだ。",
+    "zh": "与其挤满员电车，还不如走一个小时回家。",
+    "en": "I would sooner walk home for an hour than ride a packed train."
+   },
+   {
+    "ja": "頭を下げて頼むくらいなら、自分でやったほうが早い。",
+    "furigana": "{頭|あたま}を{下|さ}げて{頼|たの}むくらいなら、{自分|じぶん}でやったほうが{早|はや}い。",
+    "zh": "与其低声下气去求人，还不如自己动手来得快。",
+    "en": "Rather than bow and beg someone, it is quicker to do it myself."
+   }
+  ],
+  "note_zh": "「ましだ」表示「虽不理想但强过前者」；不能用于两个都喜欢的选项之间的比较。",
+  "note_en": "ましだ means 'not great, but better than that'. The pattern cannot compare two options you actually like."
+ },
+ {
+  "id": "g-n2-55",
+  "level": "N2",
+  "track": "grammar",
+  "group": "程度・選択",
+  "pattern": "〜てまで",
+  "meaning_zh": "甚至不惜……（也要）；到……的地步",
+  "meaning_en": "going so far as to, even at the cost of",
+  "formation": "动词て形 + まで／名词 + までして",
+  "explain_zh": "口语和书面语通用，多用于批评或质疑。表示为达目的采取了超出常理的极端手段，说话人对此持否定或怀疑态度，因此典型句式是「〜てまで…たいとは思わない」「〜てまで…する必要があるのか」这类否定、反问。肯定语境（不惜彻夜也要完成的决心）也有，但考试重点是否定评价。名词形式用「までして」：「借金までして」。",
+  "explain_en": "Both registers, mostly to criticize or question. Someone resorts to extreme lengths for a goal, and the speaker doubts it is worth it, so the typical frames are negative or rhetorical: 〜てまで…たいとは思わない, or 'is it really necessary to go that far?'. Affirmative resolve is possible but the exam focus is the disapproving use. With nouns it becomes までして: 借金までして.",
+  "examples": [
+   {
+    "ja": "徹夜してまで、そのゲームがしたいのか。",
+    "furigana": "{徹夜|てつや}してまで、そのゲームがしたいのか。",
+    "zh": "你至于熬通宵也要玩那个游戏吗？",
+    "en": "Do you really want to play that game so badly you would stay up all night?"
+   },
+   {
+    "ja": "自然を破壊してまで、開発を進める必要があるのだろうか。",
+    "furigana": "{自然|しぜん}を{破壊|はかい}してまで、{開発|かいはつ}を{進|すす}める{必要|ひつよう}があるのだろうか。",
+    "zh": "真的有必要不惜破坏自然也要推进开发吗？",
+    "en": "Is it really necessary to push development even at the cost of destroying nature?"
+   },
+   {
+    "ja": "借金をしてまで車を買おうとは思わない。",
+    "furigana": "{借金|しゃっきん}をしてまで{車|くるま}を{買|か}おうとは{思|おも}わない。",
+    "zh": "我不想借钱去买车。",
+    "en": "I would not go so far as to borrow money to buy a car."
+   }
+  ],
+  "note_zh": "「名词+までして」与「〜てまで」等价：「整形までして若く見せたいのか」。",
+  "note_en": "Noun+までして is equivalent: 整形までして若く見せたいのか."
+ },
+ {
+  "id": "g-n2-56",
+  "level": "N2",
+  "track": "grammar",
+  "group": "並立・添加",
+  "pattern": "〜上（に）",
+  "meaning_zh": "不仅……而且……（累加）",
+  "meaning_en": "in addition to, on top of",
+  "formation": "动词・イ形容词普通形／ナ形容词な・である／名词の・である + 上（に）",
+  "explain_zh": "口语和书面语通用，读作「うえ」。在前项之上再叠加同方向的后项，好上加好或坏上加坏，因此前后的褒贬必须一致，「安い上にまずい」这种好坏混搭是错句。比「〜し」正式，比「〜のみならず」平易，作文里用来列举优点缺点最顺手。注意与同形的「〜上で」（在……之后）「〜上は」（既然）区分，助词不同意思完全不同。",
+  "explain_en": "Common to both registers; read うえ. It stacks a second point on the first in the same direction — good on good, or bad on bad — so the two must match in polarity: 安い上にまずい, mixing plus and minus, is wrong. More formal than 〜し, plainer than 〜のみならず, it is the workhorse for listing merits or faults in essays. Distinguish carefully from 〜上で (after doing) and 〜上は (now that), where the particle changes everything.",
+  "examples": [
+   {
+    "ja": "このアパートは家賃が安い上に、駅にも近い。",
+    "furigana": "このアパートは{家賃|やちん}が{安|やす}い{上|うえ}に、{駅|えき}にも{近|ちか}い。",
+    "zh": "这套公寓不仅房租便宜，而且离车站也近。",
+    "en": "This apartment has cheap rent and, on top of that, is close to the station."
+   },
+   {
+    "ja": "彼女は仕事が正確な上に、スピードも速い。",
+    "furigana": "{彼女|かのじょ}は{仕事|しごと}が{正確|せいかく}な{上|うえ}に、スピードも{速|はや}い。",
+    "zh": "她工作不仅准确，而且速度也快。",
+    "en": "Her work is accurate and quick besides."
+   },
+   {
+    "ja": "道に迷った上に、雨にまで降られて、さんざんな一日だった。",
+    "furigana": "{道|みち}に{迷|まよ}った{上|うえ}に、{雨|あめ}にまで{降|ふ}られて、さんざんな{一日|いちにち}だった。",
+    "zh": "不仅迷了路，还被雨淋了，真是倒霉的一天。",
+    "en": "I got lost and, to make matters worse, was caught in the rain — an awful day."
+   }
+  ],
+  "note_zh": "后项常有「も・まで」呼应强调累加；前后褒贬方向必须一致。",
+  "note_en": "も or まで often reinforces the added item. The two clauses must share the same evaluative direction."
+ },
+ {
+  "id": "g-n2-59",
+  "level": "N2",
+  "track": "grammar",
+  "group": "並立・添加",
+  "pattern": "〜のみならず",
+  "meaning_zh": "不仅……（而且）……（书面语）",
+  "meaning_en": "not only ... (but also) (formal)",
+  "formation": "名词／动词・形容词普通形（ナ形容词・名词+である） + のみならず",
+  "explain_zh": "硬い書き言葉，论文、社论、法律文书和正式演讲的常客，口语里说「だけでなく」。意思与「〜ばかりでなく」相同，但格调高一档，后项多与「も・まで・さえ」呼应。接续上比ばかりか更灵活，名词直接接，句子则用普通形或である形。写议论文时把「だけでなく」升级为「のみならず」，语体立刻显得正式，是写作提分的常用替换。",
+  "explain_en": "Stiff written Japanese, a staple of academic prose, editorials, legal writing and formal speeches; conversation says だけでなく. Same meaning as 〜ばかりでなく but a register higher, with も, まで or さえ in the second clause. Nouns attach directly; clauses take plain or である forms. Swapping だけでなく for のみならず instantly formalizes an essay, making it a favourite upgrade in writing exams.",
+  "examples": [
+   {
+    "ja": "この問題は一企業のみならず、業界全体に関わる。",
+    "furigana": "この{問題|もんだい}は{一企業|いちきぎょう}のみならず、{業界全体|ぎょうかいぜんたい}に{関|かか}わる。",
+    "zh": "这个问题不仅关系到一家企业，而且关系到整个行业。",
+    "en": "This issue concerns not just one company but the entire industry."
+   },
+   {
+    "ja": "彼は技術に優れているのみならず、人望も厚い。",
+    "furigana": "{彼|かれ}は{技術|ぎじゅつ}に{優|すぐ}れているのみならず、{人望|じんぼう}も{厚|あつ}い。",
+    "zh": "他不仅技术出众，而且深孚众望。",
+    "en": "He is not only technically excellent but also widely trusted."
+   },
+   {
+    "ja": "地震は建物のみならず、人々の心にも深い傷を残した。",
+    "furigana": "{地震|じしん}は{建物|たてもの}のみならず、{人々|ひとびと}の{心|こころ}にも{深|ふか}い{傷|きず}を{残|のこ}した。",
+    "zh": "地震不仅摧毁了建筑，也给人们的心灵留下了深深的创伤。",
+    "en": "The earthquake left deep scars not only on buildings but on people's hearts."
+   }
+  ],
+  "note_zh": "N1 的「〜もさることながら」承认前项重要再推出后项，递进方式不同。",
+  "note_en": "N1's 〜もさることながら concedes the first item's importance before topping it — a different kind of escalation."
+ },
+ {
+  "id": "g-n2-61",
+  "level": "N2",
+  "track": "grammar",
+  "group": "並立・添加",
+  "pattern": "〜やら〜やら",
+  "meaning_zh": "……啦……啦（列举，含杂乱、应接不暇感）",
+  "meaning_en": "what with ... and ..., ... and ... and whatnot",
+  "formation": "名词／动词辞书形／イ形容词 + やら + 同类项 + やら",
+  "explain_zh": "口语色彩强的列举句式。从一堆同类事物中举出两个例子，暗示「还有很多，乱七八糟数不过来」，因此常用于抱怨忙乱（準備やら手続きやら）或形容百感交集（うれしいやら恥ずかしいやら）。与中性列举的「〜や〜など」相比，やら带明显的困惑、招架不住的情绪，这正是它的考点。惯用句「何やら」「どうやら」是派生用法。",
+  "explain_en": "A colloquial listing pattern: two examples stand in for a chaotic heap of similar things, implying 'and plenty more I can't keep track of'. Hence it suits complaints about hectic busyness (準備やら手続きやら) or a jumble of emotions (うれしいやら恥ずかしいやら). Unlike neutral 〜や〜など, やら signals being overwhelmed — exactly what exams test. 何やら and どうやら are lexicalized offshoots.",
+  "examples": [
+   {
+    "ja": "引っ越しの準備やら手続きやらで、今週はずっと忙しい。",
+    "furigana": "{引|ひ}っ{越|こ}しの{準備|じゅんび}やら{手続|てつづ}きやらで、{今週|こんしゅう}はずっと{忙|いそが}しい。",
+    "zh": "又是搬家的准备又是各种手续，这一周一直忙个不停。",
+    "en": "What with packing and paperwork for the move, I have been busy all week."
+   },
+   {
+    "ja": "突然の指名に、うれしいやら恥ずかしいやらで、顔が赤くなった。",
+    "furigana": "{突然|とつぜん}の{指名|しめい}に、うれしいやら{恥|は}ずかしいやらで、{顔|かお}が{赤|あか}くなった。",
+    "zh": "突然被点到名，又高兴又难为情，脸都红了。",
+    "en": "At being suddenly singled out, I blushed, half delighted and half embarrassed."
+   },
+   {
+    "ja": "部屋には雑誌やら服やらが散らかっている。",
+    "furigana": "{部屋|へや}には{雑誌|ざっし}やら{服|ふく}やらが{散|ち}らかっている。",
+    "zh": "房间里杂志啦衣服啦扔得到处都是。",
+    "en": "Magazines, clothes and whatnot lie scattered around the room."
+   }
+  ],
+  "note_zh": "常以「〜やら〜やらで」的形式说明忙乱的原因；正式文章中改用「〜や〜など」。",
+  "note_en": "The form 〜やら〜やらで often explains a hectic state. Formal prose replaces it with 〜や〜など."
+ },
+ {
+  "id": "g-n2-62",
+  "level": "N2",
+  "track": "grammar",
+  "group": "並立・添加",
+  "pattern": "〜にしても〜にしても／〜にしろ〜にしろ",
+  "meaning_zh": "无论……还是……（都一样）",
+  "meaning_en": "whether ... or ..., either way",
+  "formation": "名词／动词辞书形（＋ない形） + にしても（にしろ・にせよ） + 对立项 + にしても（にしろ・にせよ）",
+  "explain_zh": "口语和书面语都常用。举出两个对立或并列的选项，表示「不管落在哪一边，后项的结论都不变」，后项因此多是义务、建议或不变的判断。选项常是「行く／行かない」这类正反对立，也可以是「買う／借りる」的并列备选。语体上にしても最口语，にしろ其次，にせよ最书面，三者可依场合替换。",
+  "explain_en": "Frequent in both registers. Two opposing or parallel options are named, and whichever holds, the conclusion stays the same — so the main clause states an obligation, recommendation or constant judgement. The pair is often affirmative/negative (going or not going) or parallel alternatives (buying or renting). Register rises from にしても (most spoken) through にしろ to にせよ (most written), interchangeable by occasion.",
+  "examples": [
+   {
+    "ja": "行くにしても行かないにしても、早めに連絡してください。",
+    "furigana": "{行|い}くにしても{行|い}かないにしても、{早|はや}めに{連絡|れんらく}してください。",
+    "zh": "去也好不去也好，请尽早联系。",
+    "en": "Whether you go or not, please let us know early."
+   },
+   {
+    "ja": "買うにしろ借りるにしろ、まず予算を決めることだ。",
+    "furigana": "{買|か}うにしろ{借|か}りるにしろ、まず{予算|よさん}を{決|き}めることだ。",
+    "zh": "无论是买还是租，都应该先定好预算。",
+    "en": "Whether buying or renting, the first thing is to set a budget."
+   },
+   {
+    "ja": "賛成にしても反対にしても、理由を明確にすべきだ。",
+    "furigana": "{賛成|さんせい}にしても{反対|はんたい}にしても、{理由|りゆう}を{明確|めいかく}にすべきだ。",
+    "zh": "无论赞成还是反对，都应当把理由说清楚。",
+    "en": "For or against, you should make your reasons clear."
+   }
+  ],
+  "note_zh": "单独的「〜にしろ／〜にせよ」表示单项让步（见逆接条目）；两用法一并记忆效率高。",
+  "note_en": "Single 〜にしろ／〜にせよ is the one-item concessive (see that entry); learning the two together pays off."
+ },
+ {
+  "id": "g-n2-64",
+  "level": "N2",
+  "track": "grammar",
+  "group": "対比",
+  "pattern": "〜に反して",
+  "meaning_zh": "与……相反；违反……",
+  "meaning_en": "contrary to, against",
+  "formation": "名词 + に反して／に反し／に反する+名词",
+  "explain_zh": "硬い書き言葉，新闻和论述文常用，口语说「〜と違って」。前项接「予想・期待・意向・規則」这类表示预期或规范的名词，表示实际结果与之背道而驰或行为违背了规范。与「〜に対して」的对比用法不同：に対して只是并列两个不同侧面，に反して则必须是「预期落空、方向相反」。连体形「〜に反する＋名词」（規則に反する行為）在法律、规章文体中尤其常见。",
+  "explain_en": "Stiff written Japanese, standard in news and argumentation; speech says 〜と違って. It follows nouns of expectation or norm — 予想, 期待, 意向, 規則 — and states that reality ran counter to them or that conduct violated the norm. Unlike contrastive 〜に対して, which merely sets two things side by side, に反して requires genuine reversal of what was anticipated. The attributive 〜に反する+noun (規則に反する行為) is especially common in legal and regulatory prose.",
+  "examples": [
+   {
+    "ja": "大方の予想に反して、新人候補が当選した。",
+    "furigana": "{大方|おおかた}の{予想|よそう}に{反|はん}して、{新人候補|しんじんこうほ}が{当選|とうせん}した。",
+    "zh": "与多数人的预想相反，新人候选人当选了。",
+    "en": "Contrary to most predictions, the newcomer won the election."
+   },
+   {
+    "ja": "親の期待に反して、彼は大学を中退して起業した。",
+    "furigana": "{親|おや}の{期待|きたい}に{反|はん}して、{彼|かれ}は{大学|だいがく}を{中退|ちゅうたい}して{起業|きぎょう}した。",
+    "zh": "与父母的期望相反，他从大学退学去创业了。",
+    "en": "Against his parents' hopes, he dropped out of university and started a business."
+   },
+   {
+    "ja": "規則に反する行為は厳しく処分される。",
+    "furigana": "{規則|きそく}に{反|はん}する{行為|こうい}は{厳|きび}しく{処分|しょぶん}される。",
+    "zh": "违反规定的行为将受到严厉处分。",
+    "en": "Conduct that violates the rules is severely punished."
+   }
+  ],
+  "note_zh": "前项限「预想・期待・命令・規則」类名词；一般名词的对照（兄に反して×）不能用，要说「兄と違って」。",
+  "note_en": "Only nouns of expectation or norm qualify; for ordinary contrasts (unlike my brother) use 〜と違って."
+ },
+ {
+  "id": "g-n2-65",
+  "level": "N2",
+  "track": "grammar",
+  "group": "対比",
+  "pattern": "〜というより",
+  "meaning_zh": "与其说……不如说……",
+  "meaning_en": "rather than ..., more like ...",
+  "formation": "动词・形容词普通形／名词・ナ形容词 + というより（というよりむしろ）",
+  "explain_zh": "口语和书面语通用。先否定一个乍看合适的说法，再提出更贴切的表述，是「换个说法更准确」的修正句式，常与「むしろ」搭配加强。它比较的是「说法、定性」而不是事物本身，这一点与单纯比较的「〜より」不同：「犬というより熊だ」是说「与其叫它狗不如叫它熊」，并非比较狗和熊。会话里用来做机智的评价，文章里用来精确定义概念。",
+  "explain_en": "Common in both registers. It rejects a first, seemingly apt description in favour of a more accurate one — a rephrasing device, often reinforced by むしろ. What it compares are characterizations, not the things themselves, unlike plain 〜より: 犬というより熊だ means 'bear is the better word than dog', not a comparison of dogs and bears. Speech uses it for witty appraisals, writing for sharpening definitions.",
+  "examples": [
+   {
+    "ja": "彼の部屋は汚いというより、物置に近い状態だ。",
+    "furigana": "{彼|かれ}の{部屋|へや}は{汚|きたな}いというより、{物置|ものおき}に{近|ちか}い{状態|じょうたい}だ。",
+    "zh": "他的房间与其说是脏，不如说更接近于杂物间的状态。",
+    "en": "His room is not so much messy as practically a storage shed."
+   },
+   {
+    "ja": "あの人は歌手というより、もはや芸術家だ。",
+    "furigana": "あの{人|ひと}は{歌手|かしゅ}というより、もはや{芸術家|げいじゅつか}だ。",
+    "zh": "那个人与其说是歌手，不如说已经是艺术家了。",
+    "en": "Rather than a singer, that person is by now an artist."
+   },
+   {
+    "ja": "今日は涼しいというより、寒いくらいだ。",
+    "furigana": "{今日|きょう}は{涼|すず}しいというより、{寒|さむ}いくらいだ。",
+    "zh": "今天与其说是凉爽，不如说都有点冷了。",
+    "en": "Today is not so much cool as verging on cold."
+   }
+  ],
+  "note_zh": "常与「むしろ」呼应：「AというよりむしろB」；名词、ナ形容词可直接接，不加だ。",
+  "note_en": "Often paired with むしろ: AというよりむしろB. Nouns and na-adjectives attach directly, without だ."
+ },
+ {
+  "id": "g-n2-66",
+  "level": "N2",
+  "track": "grammar",
+  "group": "評価・感想",
+  "pattern": "〜ことに（は）",
+  "meaning_zh": "令人……的是……（先说感想再说事实）",
+  "meaning_en": "to my (surprise, regret, etc.)",
+  "formation": "感情动词た形／イ形容词い／ナ形容词な + ことに（は）",
+  "explain_zh": "书面语色彩较强的表达，随笔、报道和郑重的口头叙述里常用。把说话人的情感评价提到句首，先亮出「令人吃惊的是」这一态度，再叙述事实，全句的信息焦点因此落在后面的事实上。前接的多是「驚いた・残念な・ありがたい・不思議な」等固定的一批情感词，后项必须是既成事实，不能是意志、推量句。日常口语里则说「〜て驚いた」这类顺序。",
+  "explain_en": "A writing-leaning device common in essays, reporting and formal narration. The speaker's evaluation is fronted — 'to my surprise' — before the fact itself, which then carries the sentence's focus. The slot takes a fixed set of emotion words: 驚いた, 残念な, ありがたい, 不思議な and the like, and the main clause must state an accomplished fact, never volition or conjecture. Everyday speech prefers the plain order 〜て驚いた.",
+  "examples": [
+   {
+    "ja": "驚いたことに、彼は一年で社長にまで昇進した。",
+    "furigana": "{驚|おどろ}いたことに、{彼|かれ}は{一年|いちねん}で{社長|しゃちょう}にまで{昇進|しょうしん}した。",
+    "zh": "令人吃惊的是，他一年之内竟升到了社长。",
+    "en": "Astonishingly, he was promoted all the way to president within a year."
+   },
+   {
+    "ja": "残念なことに、今回の企画は採用されなかった。",
+    "furigana": "{残念|ざんねん}なことに、{今回|こんかい}の{企画|きかく}は{採用|さいよう}されなかった。",
+    "zh": "遗憾的是，这次的方案没有被采纳。",
+    "en": "Regrettably, our proposal was not adopted this time."
+   },
+   {
+    "ja": "ありがたいことに、多くの方から支援の申し出をいただいた。",
+    "furigana": "ありがたいことに、{多|おお}くの{方|かた}から{支援|しえん}の{申|もう}し{出|で}をいただいた。",
+    "zh": "令人感激的是，许多人主动提出了援助。",
+    "en": "Gratifyingly, many people offered us their support."
+   }
+  ],
+  "note_zh": "能进入此句型的情感词有限，背固定搭配即可；「〜ことには」语气更郑重。",
+  "note_en": "Only a limited set of emotion words fits the slot, so learn the collocations. 〜ことには is the more solemn variant."
+ }
+]

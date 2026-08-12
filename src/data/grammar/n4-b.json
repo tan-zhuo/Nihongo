@@ -1,0 +1,1702 @@
+[
+  {
+    "id": "g-n4-19",
+    "level": "N4",
+    "track": "grammar",
+    "group": "动词变形",
+    "pattern": "動詞た形（買った・飲んだ・書いた）",
+    "meaning_zh": "动词的简体过去形，也是「〜たことがある」「〜たら」等句型的接续基础",
+    "meaning_en": "the plain past (た) form of verbs; the base for patterns like 〜たことがある and 〜たら",
+    "formation": "Ⅰ类按音便：う・つ・る→った（買う→買った）、ぬ・ぶ・む→んだ（飲む→飲んだ）、く→いた（書く→書いた、例外：行く→行った）、ぐ→いだ（泳ぐ→泳いだ）、す→した（話す→話した）；Ⅱ类る→た（食べる→食べた）；する→した、来る→来た",
+    "explain_zh": "た形是简体的过去形，变法和て形完全平行：把て形的「て／で」换成「た／だ」就行，所以先把て形练熟，た形就自动会了。它除了叙述过去，还承担大量句型的接续：「〜たことがある」「〜た後で」「〜たら」「〜たり」都建立在た形上。音便是Ⅰ类动词的难点，「行く→行った」是唯一必须死记的例外。",
+    "explain_en": "The た-form is the plain past. It is formed exactly like the て-form with て/で replaced by た/だ, so mastering the て-form gives you the た-form for free. Beyond marking past tense it is the attachment point for many patterns such as 〜たことがある, 〜た後で, 〜たら and 〜たり. The only irregular sound change to memorise is 行く→行った.",
+    "examples": [
+      {
+        "ja": "昨日、友だちと映画を見た。",
+        "furigana": "{昨日|きのう}、{友|とも}だちと{映画|えいが}を{見|み}た。",
+        "zh": "昨天和朋友看了电影。",
+        "en": "Yesterday I watched a movie with a friend."
+      },
+      {
+        "ja": "朝ご飯を食べた後で、新聞を読んだ。",
+        "furigana": "{朝|あさ}ご{飯|はん}を{食|た}べた{後|あと}で、{新聞|しんぶん}を{読|よ}んだ。",
+        "zh": "吃完早饭后看了报纸。",
+        "en": "After eating breakfast, I read the newspaper."
+      },
+      {
+        "ja": "宿題はもう出した？",
+        "furigana": "{宿題|しゅくだい}はもう{出|だ}した？",
+        "zh": "作业已经交了吗？",
+        "en": "Have you handed in the homework yet?"
+      }
+    ],
+    "note_zh": "た形＝て形的「て／で」换成「た／だ」：買って→買った、飲んで→飲んだ。会了一个就会另一个。",
+    "note_en": "The た-form mirrors the て-form exactly: 買って→買った, 飲んで→飲んだ. Learn one and you know both."
+  },
+  {
+    "id": "g-n4-20",
+    "level": "N4",
+    "track": "grammar",
+    "group": "指示词（こそあど）",
+    "pattern": "こんな・そんな・あんな＋名詞",
+    "meaning_zh": "这样的…／那样的…（表示性质、样子的指示词）",
+    "meaning_en": "this kind of; that kind of (demonstratives describing quality or appearance)",
+    "formation": "こんな／そんな／あんな／どんな + 名词（こんな＝离说话人近或刚提到，そんな＝离听话人近或对方提到，あんな＝双方都远的事物）",
+    "explain_zh": "「この」指“这个东西”，「こんな」指“这种、这样的东西”，多了一层“性质、程度”的含义。分工和こそあど系统一致：「こんな」用于自己刚说的或眼前的事，「そんな」用于对方提到的事（そんなことはない＝没那回事），「あんな」用于双方共同记忆中的远处事物。「そんな」单独用还能表示惊讶或否定对方的话，是会话高频表达。",
+    "explain_en": "While この points to 'this thing', こんな means 'this kind of thing', adding a sense of quality or degree. The こ/そ/あ division works as usual: こんな for what is near you or what you just said, そんな for what the listener mentioned (そんなことはない = that's not true), あんな for something distant that both remember. On its own, そんな… also expresses surprise or mild denial in conversation.",
+    "examples": [
+      {
+        "ja": "こんな大きいケーキは一人で食べられません。",
+        "furigana": "こんな{大|おお}きいケーキは{一人|ひとり}で{食|た}べられません。",
+        "zh": "这么大的蛋糕我一个人吃不完。",
+        "en": "I can't eat a cake this big by myself."
+      },
+      {
+        "ja": "そんな話は聞いたことがありません。",
+        "furigana": "そんな{話|はなし}は{聞|き}いたことがありません。",
+        "zh": "那种事我从来没听说过。",
+        "en": "I've never heard of such a thing."
+      },
+      {
+        "ja": "私もあんな家に住みたいなあ。",
+        "furigana": "{私|わたし}もあんな{家|いえ}に{住|す}みたいなあ。",
+        "zh": "我也想住那样的房子啊。",
+        "en": "I'd love to live in a house like that too."
+      }
+    ],
+    "note_zh": "「この＋名词」＝指个体；「こんな＋名词」＝指种类、样子。对应的副词形是こう・そう・ああ（こうしてください）。",
+    "note_en": "この picks out an item; こんな describes its kind. The adverbial counterparts are こう, そう and ああ."
+  },
+  {
+    "id": "g-n4-21",
+    "level": "N4",
+    "track": "grammar",
+    "group": "副词・呼应",
+    "pattern": "そんなに〜ない",
+    "meaning_zh": "没有那么…；不那么…",
+    "meaning_en": "not that ...; not as ... as you think",
+    "formation": "そんなに + 形容词・动词的否定形（そんなに高くない、そんなに食べない）",
+    "explain_zh": "「そんなに」和否定呼应，表示“程度没有（你想的／说的）那么高”，常用来回应对方的想象或缓和对方的担心：「難しいでしょう？」「いいえ、そんなに難しくないですよ」。它也可以用在「そんなに急がなくてもいいです」这类句子里，劝对方不必做到那个程度。和「あまり〜ない」相比，「そんなに」明显带有“针对对方所说程度”的语感。",
+    "explain_en": "そんなに pairs with a negative to say the degree is not as high as assumed, typically responding to what the listener said or imagined: 'Is it hard?' 'No, not that hard.' It also softens advice, as in そんなに急がなくてもいいです (you don't need to hurry that much). Unlike あまり〜ない, it explicitly refers back to the degree the other person has in mind.",
+    "examples": [
+      {
+        "ja": "この問題はそんなに難しくないですよ。",
+        "furigana": "この{問題|もんだい}はそんなに{難|むずか}しくないですよ。",
+        "zh": "这道题没有那么难哦。",
+        "en": "This question isn't that difficult."
+      },
+      {
+        "ja": "今日はそんなに寒くないから、コートはいりません。",
+        "furigana": "{今日|きょう}はそんなに{寒|さむ}くないから、コートはいりません。",
+        "zh": "今天没那么冷，不用穿大衣。",
+        "en": "It's not that cold today, so you don't need a coat."
+      },
+      {
+        "ja": "時間はまだあるから、そんなに急がなくてもいいですよ。",
+        "furigana": "{時間|じかん}はまだあるから、そんなに{急|いそ}がなくてもいいですよ。",
+        "zh": "还有时间，不用那么着急。",
+        "en": "There's still time, so you don't have to rush that much."
+      }
+    ],
+    "note_zh": "肯定句里的「そんなに」表示“那么…”（そんなに食べたら、おなかが痛くなるよ），只有和否定呼应时才是“没那么…”。",
+    "note_en": "In affirmative sentences そんなに means 'that much'; the 'not that ...' sense appears only with a negative."
+  },
+  {
+    "id": "g-n4-22",
+    "level": "N4",
+    "track": "grammar",
+    "group": "副词・呼应",
+    "pattern": "なかなか〜ない",
+    "meaning_zh": "怎么也不…；迟迟不…（不能顺利实现）",
+    "meaning_en": "not easily; (something desired) just won't happen",
+    "formation": "なかなか + 动词否定形（多为可能形否定：なかなか覚えられない）",
+    "explain_zh": "「なかなか〜ない」表示“虽然期待、努力，事情却迟迟不能实现”，带有着急、无奈的心情：「バスがなかなか来ない」是等了很久还不来。因为含有“不顺利”的语感，后面常接可能形的否定（覚えられない、開かない）。要注意「なかなか」接肯定时意思完全不同，是“相当、挺不错”的褒义：「なかなかおもしろい」。",
+    "explain_en": "なかなか〜ない says that despite waiting or trying, the desired thing just will not happen, with a nuance of impatience: バスがなかなか来ない means the bus still hasn't come though you've waited. It often takes a negative potential form. Watch out: with an affirmative, なかなか flips to a compliment meaning 'quite good'.",
+    "examples": [
+      {
+        "ja": "バスがなかなか来ません。",
+        "furigana": "バスがなかなか{来|き}ません。",
+        "zh": "公交车怎么也不来。",
+        "en": "The bus just won't come."
+      },
+      {
+        "ja": "漢字がなかなか覚えられない。",
+        "furigana": "{漢字|かんじ}がなかなか{覚|おぼ}えられない。",
+        "zh": "汉字怎么也记不住。",
+        "en": "I just can't seem to memorise kanji."
+      },
+      {
+        "ja": "仕事が忙しくて、なかなか旅行に行けません。",
+        "furigana": "{仕事|しごと}が{忙|いそが}しくて、なかなか{旅行|りょこう}に{行|い}けません。",
+        "zh": "工作太忙，迟迟去不了旅行。",
+        "en": "Work keeps me so busy that I can never manage to go on a trip."
+      }
+    ],
+    "note_zh": "「なかなか＋肯定」＝相当不错（この店の料理はなかなかおいしい），和否定呼应时才是“怎么也不…”。",
+    "note_en": "なかなか + affirmative means 'quite good'; only with a negative does it mean 'just won't ...'."
+  },
+  {
+    "id": "g-n4-23",
+    "level": "N4",
+    "track": "grammar",
+    "group": "副词・呼应",
+    "pattern": "きっと・たぶん・もしかしたら（推量の副詞）",
+    "meaning_zh": "一定／大概／说不定（表示把握程度的副词，和句尾推量呼应）",
+    "meaning_en": "surely / probably / possibly: adverbs of certainty that pair with sentence-final conjecture",
+    "formation": "きっと〜（だろう・はずだ）；たぶん〜だろう（〜でしょう）；もしかしたら〜かもしれない",
+    "explain_zh": "这三个副词表示说话人把握的大小，和句尾的推量形式配套使用：把握从高到低是きっと（约八九成）→たぶん（六七成）→もしかしたら（五成以下）。呼应关系基本固定：「もしかしたら」几乎只和「かもしれない」搭配，「たぶん」和「だろう／でしょう」搭配，「きっと」把握最高，甚至可以直接接断定。写句子时先选副词，再选相应的句尾，前后一致才自然。",
+    "explain_en": "These adverbs grade the speaker's confidence and pair with matching sentence endings: きっと (very likely) → たぶん (probably) → もしかしたら (maybe, below 50%). The pairings are largely fixed: もしかしたら goes with かもしれない, たぶん with だろう/でしょう, and きっと can even end in a plain assertion. Choose the adverb and the ending together so they agree.",
+    "examples": [
+      {
+        "ja": "明日はたぶん雨でしょう。",
+        "furigana": "{明日|あした}はたぶん{雨|あめ}でしょう。",
+        "zh": "明天大概会下雨吧。",
+        "en": "It will probably rain tomorrow."
+      },
+      {
+        "ja": "彼はきっと来ると思います。",
+        "furigana": "{彼|かれ}はきっと{来|く}ると{思|おも}います。",
+        "zh": "我想他一定会来。",
+        "en": "I'm sure he will come."
+      },
+      {
+        "ja": "もしかしたら会議に間に合わないかもしれません。",
+        "furigana": "もしかしたら{会議|かいぎ}に{間|ま}に{合|あ}わないかもしれません。",
+        "zh": "说不定我赶不上会议。",
+        "en": "I might possibly not make it to the meeting in time."
+      }
+    ],
+    "note_zh": "×「もしかしたら雨でしょう」——「もしかしたら」要和「かもしれない」呼应；把握程度：きっと＞たぶん＞もしかしたら。",
+    "note_en": "もしかしたら must pair with かもしれない, not でしょう. Confidence ranks きっと > たぶん > もしかしたら."
+  },
+  {
+    "id": "g-n4-24",
+    "level": "N4",
+    "track": "grammar",
+    "group": "助词・并列",
+    "pattern": "AかB（選択の「か」）",
+    "meaning_zh": "A或者B（从两者中选一个）",
+    "meaning_en": "A or B (a choice between alternatives)",
+    "formation": "名词 + か + 名词（+か）：コーヒーか紅茶；バスかタクシーで",
+    "explain_zh": "「か」放在名词和名词之间表示“或者”，从列出的选项中选一个。它和「と」的区别是：「と」表示“A和B都”，「か」表示“A或B其中之一”：「土曜日と日曜日に行く」是两天都去，「土曜日か日曜日に行く」是去其中一天。后面的助词照常接在最后一个名词之后：「バスかタクシーで」「田中さんか山田さんに」。",
+    "explain_en": "Between nouns, か means 'or', selecting one option from the list. Contrast it with と: 土曜日と日曜日 means both days, while 土曜日か日曜日 means one of the two. Any following particle attaches after the last noun, as in バスかタクシーで.",
+    "examples": [
+      {
+        "ja": "コーヒーか紅茶を飲みませんか。",
+        "furigana": "コーヒーか{紅茶|こうちゃ}を{飲|の}みませんか。",
+        "zh": "要不要喝咖啡或者红茶？",
+        "en": "Would you like some coffee or tea?"
+      },
+      {
+        "ja": "土曜日か日曜日に買い物に行きます。",
+        "furigana": "{土曜日|どようび}か{日曜日|にちようび}に{買|か}い{物|もの}に{行|い}きます。",
+        "zh": "星期六或者星期天去买东西。",
+        "en": "I'll go shopping on Saturday or Sunday."
+      },
+      {
+        "ja": "駅まではバスかタクシーで来てください。",
+        "furigana": "{駅|えき}まではバスかタクシーで{来|き}てください。",
+        "zh": "请坐公交或者出租车来车站。",
+        "en": "Please come to the station by bus or taxi."
+      }
+    ],
+    "note_zh": "「と」＝A和B都；「か」＝A或B选一。句尾的疑问「か」和这个选择的「か」是不同用法。",
+    "note_en": "と lists everything ('and'), か offers alternatives ('or'). This is different from the question-marking か at the end of a sentence."
+  },
+  {
+    "id": "g-n4-25",
+    "level": "N4",
+    "track": "grammar",
+    "group": "助词・并列",
+    "pattern": "数量詞＋で（一人で・みんなで）",
+    "meaning_zh": "（多少人）一起…；独自…（表示动作进行时的人数、单位）",
+    "meaning_en": "as a group of ...; by oneself (the number of people doing something together)",
+    "formation": "人数词 + で + 动词：一人で住む、二人で行く、家族四人で旅行する、みんなで歌う",
+    "explain_zh": "人数词加「で」表示“以这个人数（为一组）做某事”：「一人で」＝独自，「二人で」＝两个人一起，「みんなで」＝大家一起。它回答的是「何人で行きますか」这种问题。要注意「一人で」不需要再加「だけ」就已经表示“独自一人”；而“大家一起”也常说「みんなで一緒に」。",
+    "explain_en": "A number of people plus で expresses doing something 'as a group of that many': 一人で = alone, 二人で = the two of us together, みんなで = all together. It answers questions like 何人で行きますか (how many of you are going?). Note that 一人で already means 'by oneself' without adding だけ.",
+    "examples": [
+      {
+        "ja": "妹は一人で外国へ行きました。",
+        "furigana": "{妹|いもうと}は{一人|ひとり}で{外国|がいこく}へ{行|い}きました。",
+        "zh": "妹妹一个人去了国外。",
+        "en": "My little sister went abroad by herself."
+      },
+      {
+        "ja": "家族四人でこの家に住んでいます。",
+        "furigana": "{家族|かぞく}{四人|よにん}でこの{家|いえ}に{住|す}んでいます。",
+        "zh": "我们一家四口住在这所房子里。",
+        "en": "The four of us in my family live in this house."
+      },
+      {
+        "ja": "最後にみんなで写真を撮りましょう。",
+        "furigana": "{最後|さいご}にみんなで{写真|しゃしん}を{撮|と}りましょう。",
+        "zh": "最后大家一起拍张照吧。",
+        "en": "Let's all take a photo together at the end."
+      }
+    ],
+    "note_zh": "「全部で」「二つで」等表示合计的「で」（全部で千円です）参见N5；这里的「で」强调“以几个人为一组”。",
+    "note_en": "The totalling で (全部で千円 = 1000 yen in all) is covered at N5; here で marks the size of the group doing the action."
+  },
+  {
+    "id": "g-n4-26",
+    "level": "N4",
+    "track": "grammar",
+    "group": "时间・期限",
+    "pattern": "〜まで／〜までに",
+    "meaning_zh": "一直到…（持续）／在…之前（期限）",
+    "meaning_en": "until (continuously) / by (a deadline)",
+    "formation": "时间名词・动词辞书形 + まで（动作持续到该时点）；时间名词・动词辞书形 + までに（在该时点之前完成一次性动作）",
+    "explain_zh": "「まで」和「までに」只差一个「に」，意思却完全不同。「まで」表示动作或状态一直持续到那个时刻：「五時まで勉強する」是从现在一直学到五点；「までに」表示期限，动作只要在那个时刻之前的任何时间点完成一次即可：「五時までに帰る」是五点前回来就行。判断方法：后面的动词是持续性的（勉強する、待つ、働く）用「まで」，是一次性的（出す、帰る、終わる）用「までに」。",
+    "explain_en": "まで and までに differ by one letter but mean different things. まで marks continuation up to a point in time: 五時まで勉強する = study continuously until five. までに marks a deadline: 五時までに帰る = come home at some point before five. Rule of thumb: durative verbs (study, wait, work) take まで; one-time verbs (submit, return, finish) take までに.",
+    "examples": [
+      {
+        "ja": "五時まで図書館で勉強します。",
+        "furigana": "{五時|ごじ}まで{図書館|としょかん}で{勉強|べんきょう}します。",
+        "zh": "我在图书馆学习到五点。",
+        "en": "I'll study at the library until five."
+      },
+      {
+        "ja": "レポートは金曜日までに出してください。",
+        "furigana": "レポートは{金曜日|きんようび}までに{出|だ}してください。",
+        "zh": "请在星期五之前交报告。",
+        "en": "Please hand in the report by Friday."
+      },
+      {
+        "ja": "十時までに家に帰らなければなりません。",
+        "furigana": "{十時|じゅうじ}までに{家|いえ}に{帰|かえ}らなければなりません。",
+        "zh": "我必须在十点之前回家。",
+        "en": "I have to be home by ten."
+      }
+    ],
+    "note_zh": "「まで」＝持续到那一刻；「までに」＝那一刻之前做完。×「五時までにずっと待ちます」——「ずっと」类持续动作只能用「まで」。",
+    "note_en": "まで = keep doing until then; までに = finish before then. Durative actions like waiting cannot take までに."
+  },
+  {
+    "id": "g-n4-27",
+    "level": "N4",
+    "track": "grammar",
+    "group": "时间・期限",
+    "pattern": "〜るとき／〜たとき（従属節の時制）",
+    "meaning_zh": "…（还没做）的时候／…（做完）之后的时候（とき前面的时态区别）",
+    "meaning_en": "when about to do / when having done: tense inside the とき clause",
+    "formation": "动词辞书形 + とき（该动作尚未完成时）；动词た形 + とき（该动作已完成时）。时态以主句动作发生的时点为基准，不看整句的过去・未来",
+    "explain_zh": "「とき」前面用辞书形还是た形，不由整句的时态决定，而由“主句动作发生时，とき从句的动作完成了没有”决定。「日本へ行くとき、かばんを買いました」——买包时还没到日本，是在出发前（本国）买的；「日本へ行ったとき、かばんを買いました」——已经到了日本，是在日本买的。也就是说：辞书形＋とき＝“…之前／途中”，た形＋とき＝“…之后”。这是N4最经典的考点之一，务必用这组对比例句记住。",
+    "explain_en": "Whether とき takes the dictionary form or the た-form depends not on the sentence's overall tense but on whether the clause's action is complete at the moment of the main action. 日本へ行くとき、かばんを買いました = I bought the bag before arriving (on the way); 日本へ行ったとき = I bought it after arriving, in Japan. Dictionary form + とき = before/during; た-form + とき = after. A classic N4 exam point.",
+    "examples": [
+      {
+        "ja": "日本へ行くとき、空港でかばんを買いました。",
+        "furigana": "{日本|にほん}へ{行|い}くとき、{空港|くうこう}でかばんを{買|か}いました。",
+        "zh": "去日本的时候（出发前），我在机场买了包。",
+        "en": "When I was on my way to Japan, I bought a bag at the airport."
+      },
+      {
+        "ja": "日本へ行ったとき、着物を買いました。",
+        "furigana": "{日本|にほん}へ{行|い}ったとき、{着物|きもの}を{買|か}いました。",
+        "zh": "到了日本之后，我买了和服。",
+        "en": "When I went to Japan (after arriving), I bought a kimono."
+      },
+      {
+        "ja": "寝るとき、「おやすみなさい」と言います。",
+        "furigana": "{寝|ね}るとき、「おやすみなさい」と{言|い}います。",
+        "zh": "睡觉的时候说「晚安」。",
+        "en": "When going to bed, we say 'oyasuminasai'."
+      }
+    ],
+    "note_zh": "判断标准只有一个：主句动作发生时，とき从句的动作“完成了”用た形，“还没完成”用辞书形，与整句过去将来无关。",
+    "note_en": "The only test: at the time of the main action, is the とき-clause action finished (た形) or not yet (dictionary form)? The overall tense is irrelevant."
+  },
+  {
+    "id": "g-n4-28",
+    "level": "N4",
+    "track": "grammar",
+    "group": "时间・期限",
+    "pattern": "〜間（あいだ）",
+    "meaning_zh": "在…的整个期间一直…（两个动作、状态同时持续）",
+    "meaning_en": "during; all the while that (an action continues for the whole period)",
+    "formation": "动词ている形・辞书形 / 名词の + 間（あいだ）、后项多与「ずっと」呼应，用持续性动作",
+    "explain_zh": "「〜間」表示“在A持续的整段时间里，B也一直持续”，所以后项必须是持续性的动作或状态，常和「ずっと」搭配：「夏休みの間、ずっと国へ帰っていました」。前面接动词时多用「〜ている間」。如果后项只是期间内某一点发生的一次性动作，则要用「〜間に」：「寝ている間に電話が来た」。「間」问“整段”，「間に」问“段中一点”，这一对和「まで／までに」的关系很相似。",
+    "explain_en": "〜間 says that B continues throughout the whole period that A lasts, so the main clause needs a durative action, often reinforced with ずっと. Verbs usually appear as 〜ている間. If the main event happens just once at some point inside the period, use 〜間に instead (寝ている間に電話が来た). The 間 / 間に contrast parallels まで / までに.",
+    "examples": [
+      {
+        "ja": "夏休みの間、ずっと国へ帰っていました。",
+        "furigana": "{夏休|なつやす}みの{間|あいだ}、ずっと{国|くに}へ{帰|かえ}っていました。",
+        "zh": "暑假期间我一直回国了。",
+        "en": "I was back in my home country for the whole summer vacation."
+      },
+      {
+        "ja": "子どもが寝ている間、母は本を読んでいました。",
+        "furigana": "{子|こ}どもが{寝|ね}ている{間|あいだ}、{母|はは}は{本|ほん}を{読|よ}んでいました。",
+        "zh": "孩子睡觉的这段时间，妈妈一直在看书。",
+        "en": "While the child was sleeping, the mother was reading a book."
+      },
+      {
+        "ja": "電車を待っている間、雑誌を読んでいました。",
+        "furigana": "{電車|でんしゃ}を{待|ま}っている{間|あいだ}、{雑誌|ざっし}を{読|よ}んでいました。",
+        "zh": "等电车的时候我一直在看杂志。",
+        "en": "While waiting for the train, I was reading a magazine."
+      }
+    ],
+    "note_zh": "「間」后项＝持续动作（ずっと〜ていた）；「間に」后项＝期间内的一次性动作。「〜うちに／〜間に」的详细用法见N3。",
+    "note_en": "間 takes a durative main clause; 間に takes a one-time event within the period (covered in detail at N3 with うちに)."
+  },
+  {
+    "id": "g-n4-29",
+    "level": "N4",
+    "track": "grammar",
+    "group": "疑问词・不定",
+    "pattern": "疑問詞＋〜か（間接疑問）",
+    "meaning_zh": "（不知道／请告诉我）什么时候…、在哪里…（把疑问句嵌入句子中）",
+    "meaning_en": "embedded questions: (I don't know / please tell me) when/where/what ...",
+    "formation": "疑问词 + 普通形 + か + 主句动词（知っている・分かる・教える・忘れる等）。名词・な形容词现在形不加だ：誰か、何時か",
+    "explain_zh": "把带疑问词的问句放进句子里作宾语时，句中动词要改成普通形，句末加「か」：「会議はいつ始まりますか」→「会議がいつ始まるか、教えてください」。嵌入部分里的主语助词常由「は」变成「が」。名词句、な形容词句嵌入时现在形不加「だ」：「あの人が誰か知りません」。这个结构在「知っていますか」「分かりません」「忘れました」「教えてください」等动词前极为常用。",
+    "explain_en": "To embed a question-word question inside a sentence, put the verb in plain form and add か: 会議がいつ始まるか、教えてください. Inside the embedded clause the topic は usually becomes が, and with nouns or な-adjectives in the present tense, だ is dropped: あの人が誰か知りません. The structure appears constantly before 知っていますか, 分かりません, 忘れました and 教えてください.",
+    "examples": [
+      {
+        "ja": "田中さんがどこに住んでいるか、知っていますか。",
+        "furigana": "{田中|たなか}さんがどこに{住|す}んでいるか、{知|し}っていますか。",
+        "zh": "你知道田中住在哪里吗？",
+        "en": "Do you know where Tanaka lives?"
+      },
+      {
+        "ja": "会議が何時に始まるか、教えてください。",
+        "furigana": "{会議|かいぎ}が{何時|なんじ}に{始|はじ}まるか、{教|おし}えてください。",
+        "zh": "请告诉我会议几点开始。",
+        "en": "Please tell me what time the meeting starts."
+      },
+      {
+        "ja": "誕生日に何を買うか、まだ決めていません。",
+        "furigana": "{誕生日|たんじょうび}に{何|なに}を{買|か}うか、まだ{決|き}めていません。",
+        "zh": "生日买什么，我还没决定。",
+        "en": "I still haven't decided what to buy for the birthday."
+      }
+    ],
+    "note_zh": "没有疑问词的一般疑问句嵌入时用「〜かどうか」（行くかどうか分かりません），详见N3。",
+    "note_en": "Yes/no questions embed with 〜かどうか (covered at N3): 行くかどうか分かりません."
+  },
+  {
+    "id": "g-n4-30",
+    "level": "N4",
+    "track": "grammar",
+    "group": "疑问词・不定",
+    "pattern": "疑問詞＋でも（何でも・誰でも・いつでも）",
+    "meaning_zh": "无论什么／谁／何时都…（全面肯定）",
+    "meaning_en": "anything / anyone / anytime: total affirmation with question word + でも",
+    "formation": "何でも・誰でも・どこでも・いつでも・どれでも + 肯定句",
+    "explain_zh": "疑问词加「でも」表示“范围内的全部都成立”，后面接肯定：「何でも食べます」＝什么都吃。它和「疑问词＋も＋否定」正好是一对：「何も食べません」＝什么都不吃。注意接肯定时一般用「でも」而不是「も」，这是中文使用者最容易犯的错：想说“谁都会”，要说「誰でもできる」，不说「×誰もできる」。",
+    "explain_en": "A question word plus でも affirms the whole range: 何でも食べます = I eat anything. It pairs with question word + も + negative (何も食べません = I eat nothing). For affirmative sentences use でも, not も — 'anyone can do it' is 誰でもできる, a frequent mistake for learners.",
+    "examples": [
+      {
+        "ja": "分からないことがあったら、何でも聞いてください。",
+        "furigana": "{分|わ}からないことがあったら、{何|なん}でも{聞|き}いてください。",
+        "zh": "有不懂的地方，什么都可以问我。",
+        "en": "If there's anything you don't understand, ask me anything."
+      },
+      {
+        "ja": "この教室は誰でも使うことができます。",
+        "furigana": "この{教室|きょうしつ}は{誰|だれ}でも{使|つか}うことができます。",
+        "zh": "这间教室谁都可以使用。",
+        "en": "Anyone can use this classroom."
+      },
+      {
+        "ja": "暇なときは、いつでも遊びに来てください。",
+        "furigana": "{暇|ひま}なときは、いつでも{遊|あそ}びに{来|き}てください。",
+        "zh": "有空的时候，随时都可以来玩。",
+        "en": "Come over anytime you're free."
+      }
+    ],
+    "note_zh": "全面肯定用「疑问词＋でも」，全面否定用「疑问词＋も＋否定」：誰でも来られる↔誰も来なかった。",
+    "note_en": "Question word + でも affirms everything; question word + も + negative denies everything: 誰でも来られる vs 誰も来なかった."
+  },
+  {
+    "id": "g-n4-31",
+    "level": "N4",
+    "track": "grammar",
+    "group": "疑问词・不定",
+    "pattern": "疑問詞＋〜ても（いくら〜ても）",
+    "meaning_zh": "无论怎么…也…；不管…多少次都…",
+    "meaning_en": "no matter how much / how many times / who ..., still ...",
+    "formation": "いくら・どんなに・何度・誰・何 等 + 动词て形 + も（形容词〜くても、名词・な形容词〜でも）＋（多为否定或不变的结果）",
+    "explain_zh": "疑问词和「ても」搭配，表示“无论条件怎么变，结果都不变”：「いくら考えても分かりません」。前面常用「いくら」「どんなに」「何度」等表示程度、次数的词，后项多是否定或与期待相反的结果。它和上一条「疑问词＋でも」不同：「でも」直接接在疑问词后（誰でも），「ても」接在动词、形容词的活用形后（誰に聞いても）。",
+    "explain_en": "With a question word, 〜ても means the result stays the same no matter how the condition varies: いくら考えても分かりません (no matter how much I think, I don't get it). いくら, どんなに and 何度 are common lead-ins, and the main clause is usually negative or contrary to expectation. Unlike 誰でも (でも right after the question word), here ても attaches to the verb or adjective: 誰に聞いても.",
+    "examples": [
+      {
+        "ja": "いくら考えても、答えが分かりません。",
+        "furigana": "いくら{考|かんが}えても、{答|こた}えが{分|わ}かりません。",
+        "zh": "无论怎么想，也想不出答案。",
+        "en": "No matter how much I think, I can't figure out the answer."
+      },
+      {
+        "ja": "この本は何度読んでも、おもしろいです。",
+        "furigana": "この{本|ほん}は{何度|なんど}{読|よ}んでも、おもしろいです。",
+        "zh": "这本书无论读多少遍都很有意思。",
+        "en": "No matter how many times I read this book, it's interesting."
+      },
+      {
+        "ja": "誰に聞いても、同じ答えでした。",
+        "furigana": "{誰|だれ}に{聞|き}いても、{同|おな}じ{答|こた}えでした。",
+        "zh": "不管问谁，答案都一样。",
+        "en": "No matter whom I asked, the answer was the same."
+      }
+    ],
+    "note_zh": "「たとえ〜ても」（即使…也…）语气更强，属于N3；这里先掌握「いくら／何度／誰〜ても」的搭配。",
+    "note_en": "The stronger たとえ〜ても belongs to N3; at N4 master いくら/何度/誰 + 〜ても first."
+  },
+  {
+    "id": "g-n4-32",
+    "level": "N4",
+    "track": "grammar",
+    "group": "接续・て形",
+    "pattern": "〜て（原因・理由）",
+    "meaning_zh": "因为…（用て形连接原因和结果）",
+    "meaning_en": "the て-form linking a cause to its result",
+    "formation": "动词て形／い形容词〜くて／な形容词・名词＋で + 结果句（后项不能是意志・命令・请求）",
+    "explain_zh": "て形除了表示动作顺序，还能表示原因：「ニュースを聞いて、びっくりしました」＝因为听到消息而吃惊。它比「から」「ので」弱，只是自然地把前因后果连起来，所以后项不能放意志、命令、请求等主观表达：想说“因为下雨所以请带伞”必须用「から／ので」。后项多为感情（びっくりする、安心する、困る）或不可控的状态（疲れる、遅れる）。",
+    "explain_en": "Besides sequencing actions, the て-form can link a cause to its result: ニュースを聞いて、びっくりしました. It is weaker than から or ので, and the result clause cannot contain volition, commands or requests — for those, use から/ので. Typical main clauses are emotions (surprised, relieved, troubled) or uncontrollable states (tired, late).",
+    "examples": [
+      {
+        "ja": "そのニュースを聞いて、びっくりしました。",
+        "furigana": "そのニュースを{聞|き}いて、びっくりしました。",
+        "zh": "听到那个消息，我吓了一跳。",
+        "en": "I was surprised to hear that news."
+      },
+      {
+        "ja": "頭が痛くて、学校を休みました。",
+        "furigana": "{頭|あたま}が{痛|いた}くて、{学校|がっこう}を{休|やす}みました。",
+        "zh": "因为头疼，我向学校请了假。",
+        "en": "I had a headache, so I stayed home from school."
+      },
+      {
+        "ja": "遅くなって、すみません。",
+        "furigana": "{遅|おそ}くなって、すみません。",
+        "zh": "来晚了，对不起。",
+        "en": "Sorry for being late."
+      }
+    ],
+    "note_zh": "×「雨が降って、傘を持って行ってください」——后项是请求时必须改用「から／ので」。",
+    "note_en": "If the main clause is a request or command, you must switch to から or ので."
+  },
+  {
+    "id": "g-n4-33",
+    "level": "N4",
+    "track": "grammar",
+    "group": "接续・て形",
+    "pattern": "〜なくて（原因・理由）",
+    "meaning_zh": "因为不…／因为没有…（否定形的原因用法）",
+    "meaning_en": "because ... not ...: the negative て-form expressing cause",
+    "formation": "动词ない形去い + くて（来ない→来なくて）；い形容词〜くなくて；名词・な形容词＋じゃなくて。后项多为感情・困扰・不可控的结果",
+    "explain_zh": "「なくて」是ない形的て形，用来表示否定的原因：「バスが来なくて、遅刻しました」＝因为公交不来所以迟到了。和肯定的「〜て（原因）」一样，后项多是感情或不可控的结果（困る、心配だ、遅刻する），不能接意志、命令。要和「ないで」分清楚：「なくて」＝因为不…（原因），「ないで」＝不…而做…（附带状况），「朝ご飯を食べなくて、おなかがすいた」対「朝ご飯を食べないで、出かけた」。",
+    "explain_en": "なくて is the て-form of ない and gives a negative cause: バスが来なくて、遅刻しました (the bus didn't come, so I was late). As with the affirmative causal て, the main clause is usually an emotion or uncontrollable result. Keep it apart from ないで: なくて = 'because not' (cause), ないで = 'without doing / instead of doing' (accompanying circumstance).",
+    "examples": [
+      {
+        "ja": "バスがなかなか来なくて、遅刻してしまいました。",
+        "furigana": "バスがなかなか{来|こ}なくて、{遅刻|ちこく}してしまいました。",
+        "zh": "公交车迟迟不来，结果我迟到了。",
+        "en": "The bus took forever to come, so I ended up late."
+      },
+      {
+        "ja": "日本語が分からなくて、困りました。",
+        "furigana": "{日本語|にほんご}が{分|わ}からなくて、{困|こま}りました。",
+        "zh": "因为不懂日语，我很为难。",
+        "en": "I didn't understand Japanese and was at a loss."
+      },
+      {
+        "ja": "子どもが野菜を食べなくて、心配です。",
+        "furigana": "{子|こ}どもが{野菜|やさい}を{食|た}べなくて、{心配|しんぱい}です。",
+        "zh": "孩子不吃蔬菜，我很担心。",
+        "en": "My child won't eat vegetables, and I'm worried."
+      }
+    ],
+    "note_zh": "「なくて」表示原因，「ないで」表示“不做A而做B”。分不清时想一想后项是不是前项造成的结果。",
+    "note_en": "なくて gives a cause; ないで describes doing B without doing A. Ask whether the main clause is a result of the negative clause."
+  },
+  {
+    "id": "g-n4-34",
+    "level": "N4",
+    "track": "grammar",
+    "group": "接续・て形",
+    "pattern": "〜ないで（付帯状況・代わりに）",
+    "meaning_zh": "不…就…；没…而…（在不做A的状态下做B；或不做A改做B）",
+    "meaning_en": "do B without doing A; do B instead of A",
+    "formation": "动词ない形 + で + 动词句（主语相同）",
+    "explain_zh": "「ないで」表示“在没做A的状态下做了B”：「晩ご飯を食べないで寝ました」＝没吃晚饭就睡了。它还有“不做A、改做B”的取舍用法：「学校へ行かないで、家で勉強しました」。前后主语必须相同，后项是主要动作。书面语中「ずに」意思相同（食べずに寝た），属于N3；「ないでください」的请求用法则在N5已学过，注意区分。",
+    "explain_en": "ないで means doing B while leaving A undone: 晩ご飯を食べないで寝ました = I went to bed without eating dinner. It also expresses choosing B instead of A: 学校へ行かないで、家で勉強しました. Both clauses share the same subject, and the second clause carries the main action. The written equivalent ずに appears at N3; the request 〜ないでください was covered at N5.",
+    "examples": [
+      {
+        "ja": "昨日は晩ご飯を食べないで寝てしまいました。",
+        "furigana": "{昨日|きのう}は{晩|ばん}ご{飯|はん}を{食|た}べないで{寝|ね}てしまいました。",
+        "zh": "昨天没吃晚饭就睡着了。",
+        "en": "Yesterday I fell asleep without eating dinner."
+      },
+      {
+        "ja": "辞書を使わないで、この文章を読んでみてください。",
+        "furigana": "{辞書|じしょ}を{使|つか}わないで、この{文章|ぶんしょう}を{読|よ}んでみてください。",
+        "zh": "请试着不用词典读这篇文章。",
+        "en": "Try reading this passage without using a dictionary."
+      },
+      {
+        "ja": "今朝は傘を持たないで出かけてしまった。",
+        "furigana": "{今朝|けさ}は{傘|かさ}を{持|も}たないで{出|で}かけてしまった。",
+        "zh": "今天早上没带伞就出门了。",
+        "en": "This morning I went out without taking an umbrella."
+      }
+    ],
+    "note_zh": "「ないで」＝不做A而做B（同一主语的两个动作）；「なくて」＝因为不…。「ずに」是「ないで」的书面形（N3）。",
+    "note_en": "ないで links two actions of one subject ('without doing'); なくて gives a cause. ずに is its written counterpart (N3)."
+  },
+  {
+    "id": "g-n4-35",
+    "level": "N4",
+    "track": "grammar",
+    "group": "接続助詞",
+    "pattern": "〜し（並列・理由）",
+    "meaning_zh": "又…又…；既…而且…（列举几个理由或性质）",
+    "meaning_en": "and what's more; listing several reasons or qualities",
+    "formation": "普通形 + し（名词・な形容词＋だし）、常用「〜し、〜し、…」列举后接结论",
+    "explain_zh": "「し」把几个理由或性质并列起来，暗示“不止这些，还有别的”：「この店は安いし、おいしいし、よく行きます」。和只表并列的「〜て」相比，「し」带有“把它们都当作理由”的语感，所以结论句常一起出现。只举一个理由时也可以用（雨も降っているし、今日はやめよう），此时「し」暗示还有其他没说出的理由，语气比「から」委婉。接续要用普通形，名词和な形容词后加「だし」。",
+    "explain_en": "し lists reasons or qualities while implying there are more: この店は安いし、おいしいし、よく行きます. Unlike the neutral て-linking, し presents the items as reasons, so a conclusion often follows. Even a single し (雨も降っているし) hints at other unstated reasons and sounds softer than から. Attach it to plain forms, with だし after nouns and な-adjectives.",
+    "examples": [
+      {
+        "ja": "この店は安いし、おいしいし、よく来ます。",
+        "furigana": "この{店|みせ}は{安|やす}いし、おいしいし、よく{来|き}ます。",
+        "zh": "这家店又便宜又好吃，所以我常来。",
+        "en": "This place is cheap and the food is good, so I come often."
+      },
+      {
+        "ja": "雨も降っているし、今日は家でゆっくりしましょう。",
+        "furigana": "{雨|あめ}も{降|ふ}っているし、{今日|きょう}は{家|いえ}でゆっくりしましょう。",
+        "zh": "雨也在下，今天就在家好好休息吧。",
+        "en": "It's raining anyway, so let's take it easy at home today."
+      },
+      {
+        "ja": "彼は親切だし、頭もいいし、みんなに人気があります。",
+        "furigana": "{彼|かれ}は{親切|しんせつ}だし、{頭|あたま}もいいし、みんなに{人気|にんき}があります。",
+        "zh": "他既热心，脑子又好，很受大家欢迎。",
+        "en": "He is kind and smart, so he is popular with everyone."
+      }
+    ],
+    "note_zh": "「し」的分句里常用「も」代替「は／が」（雨も降っているし），进一步强调“又、也”的叠加感。",
+    "note_en": "Inside し-clauses, も often replaces は/が (雨も降っているし) to reinforce the 'on top of that' feeling."
+  },
+  {
+    "id": "g-n4-36",
+    "level": "N4",
+    "track": "grammar",
+    "group": "接続助詞",
+    "pattern": "〜けれども／〜けど",
+    "meaning_zh": "虽然…但是…；（用于开场白）…，那个…",
+    "meaning_en": "but; although (also used to soften an opening remark)",
+    "formation": "普通形・丁宁形 + けれども／けれど／けど（名词・な形容词＋だけど）。郑重程度：けれども＞けれど＞けど",
+    "explain_zh": "「けれども」和「が」一样表示转折，但更口语，缩短形「けど」在会话里用得最多。除了转折，它还有重要的“开场白”用法：「すみません、ちょっと聞きたいんですけど」——先把话题轻轻递出去，等对方接话，句子停在「けど」处不说完，这种“言いさし”是日语会话的常态，并不是话没说完的错误。郑重场合用「けれども／が」，朋友之间用「けど」。",
+    "explain_en": "けれども marks contrast like が but is more colloquial; the short form けど dominates conversation. Just as important is its use as a soft opener: すみません、ちょっと聞きたいんですけど… trails off and invites the other person to respond. Ending mid-sentence at けど is normal, polite conversational strategy, not an unfinished mistake. Use けれども/が in formal settings and けど with friends.",
+    "examples": [
+      {
+        "ja": "薬を飲んだけれども、熱が下がりません。",
+        "furigana": "{薬|くすり}を{飲|の}んだけれども、{熱|ねつ}が{下|さ}がりません。",
+        "zh": "虽然吃了药，烧却没退。",
+        "en": "I took the medicine, but the fever hasn't gone down."
+      },
+      {
+        "ja": "すみません、ちょっと聞きたいんですけど。",
+        "furigana": "すみません、ちょっと{聞|き}きたいんですけど。",
+        "zh": "不好意思，我想问一下……",
+        "en": "Excuse me, there's something I'd like to ask..."
+      },
+      {
+        "ja": "高かったけど、買ってよかったです。",
+        "furigana": "{高|たか}かったけど、{買|か}ってよかったです。",
+        "zh": "虽然贵，但是买了真好。",
+        "en": "It was expensive, but I'm glad I bought it."
+      }
+    ],
+    "note_zh": "名词・な形容词后要加「だ」：学生だけど、静かだけど。「〜んですけど」的开场白用法参见N4的「〜んですが」。",
+    "note_en": "Nouns and な-adjectives need だ before けど. For the opener use, compare 〜んですが at N4."
+  },
+  {
+    "id": "g-n4-37",
+    "level": "N4",
+    "track": "grammar",
+    "group": "接続助詞",
+    "pattern": "〜ても／〜でも（逆接条件）",
+    "meaning_zh": "即使…也…（假设或既定条件下结果仍不变）",
+    "meaning_en": "even if; even though (the result holds regardless)",
+    "formation": "动词て形 + も；い形容词〜くても；な形容词・名词 + でも",
+    "explain_zh": "「ても」表示“即使前项成立，后项也不受影响”，是「たら」的反义结构：「雨が降ったら中止です」対「雨が降っても行きます」。它既可以用于还没发生的假设（高くても買う），也可以用于已成事实的让步。名词和な形容词用「でも」：「日曜日でも働く」「元気でも休んだほうがいい」。后项常用「〜ます／〜つもりだ」等表示不变的决心或事实。",
+    "explain_en": "ても says the main clause holds even if the condition is met — the mirror image of たら: 雨が降ったら中止です vs 雨が降っても行きます. It covers both hypothetical conditions (高くても買う) and accepted facts. Nouns and な-adjectives take でも: 日曜日でも働く. The main clause typically states an unchanged fact or firm intention.",
+    "examples": [
+      {
+        "ja": "明日は雨が降っても、試合があります。",
+        "furigana": "{明日|あした}は{雨|あめ}が{降|ふ}っても、{試合|しあい}があります。",
+        "zh": "明天就算下雨，比赛也照常进行。",
+        "en": "Even if it rains tomorrow, the match will still be held."
+      },
+      {
+        "ja": "少し高くても、この辞書を買うつもりです。",
+        "furigana": "{少|すこ}し{高|たか}くても、この{辞書|じしょ}を{買|か}うつもりです。",
+        "zh": "就算稍微贵一点，我也打算买这本词典。",
+        "en": "Even if it's a bit expensive, I plan to buy this dictionary."
+      },
+      {
+        "ja": "日曜日でも、父は仕事をしています。",
+        "furigana": "{日曜日|にちようび}でも、{父|ちち}は{仕事|しごと}をしています。",
+        "zh": "即使是星期天，爸爸也在工作。",
+        "en": "Even on Sundays, my father is working."
+      }
+    ],
+    "note_zh": "「ても」↔「たら」是一对：条件成立结果变＝たら，条件成立结果不变＝ても。「たとえ〜ても」的强调形见N3。",
+    "note_en": "たら and ても are a pair: with たら the outcome depends on the condition; with ても it doesn't. The emphatic たとえ〜ても is N3."
+  },
+  {
+    "id": "g-n4-38",
+    "level": "N4",
+    "track": "grammar",
+    "group": "条件表现",
+    "pattern": "〜たら（発見・意外な結果）",
+    "meaning_zh": "一…竟然发现…；做了A之后（意外地）发生了B",
+    "meaning_en": "when I did A, I (unexpectedly) found B",
+    "formation": "动词た形 + ら + 过去式的既定事实（后项非意志性、多为发现或意外）",
+    "explain_zh": "「たら」除了表示条件，还有一个重要用法：叙述过去“做了A之后发现B”的意外经历，后项必须是过去式：「窓を開けたら、雪が降っていた」。这里不是假设，A和B都是已经发生的事实，重点在于B出乎说话人预料，或者是A之后才知道的事。后项不能是说话人自己的意志动作（那样要用「〜てから」），而是自然映入眼帘的状况，所以常用「〜ていた」「〜だった」。",
+    "explain_en": "Besides conditions, たら narrates a past discovery: I did A, and then — unexpectedly — B was the case. The main clause must be past tense: 窓を開けたら、雪が降っていた. Nothing is hypothetical; both events happened, and B is something noticed only after A. The main clause cannot be the speaker's own volitional act (use 〜てから for that), so 〜ていた and 〜だった are typical endings.",
+    "examples": [
+      {
+        "ja": "窓を開けたら、雪が降っていました。",
+        "furigana": "{窓|まど}を{開|あ}けたら、{雪|ゆき}が{降|ふ}っていました。",
+        "zh": "一打开窗户，发现下雪了。",
+        "en": "When I opened the window, I found it was snowing."
+      },
+      {
+        "ja": "家に帰ったら、友だちが待っていました。",
+        "furigana": "{家|いえ}に{帰|かえ}ったら、{友|とも}だちが{待|ま}っていました。",
+        "zh": "回到家，发现朋友在等我。",
+        "en": "When I got home, my friend was waiting for me."
+      },
+      {
+        "ja": "箱を開けたら、中は空でした。",
+        "furigana": "{箱|はこ}を{開|あ}けたら、{中|なか}は{空|から}でした。",
+        "zh": "打开箱子一看，里面是空的。",
+        "en": "When I opened the box, it turned out to be empty."
+      }
+    ],
+    "note_zh": "假设的「たら」后项自由，发现的「たら」后项必须是过去式且非意志。「〜と」也有同样的发现用法（開けると、雪が降っていた）。",
+    "note_en": "In the discovery use, the main clause must be past and non-volitional. 〜と has a parallel discovery use."
+  },
+  {
+    "id": "g-n4-39",
+    "level": "N4",
+    "track": "grammar",
+    "group": "条件表现",
+    "pattern": "もし〜たら",
+    "meaning_zh": "如果／万一…的话（用副词もし明示假设）",
+    "meaning_en": "if (by any chance); もし signals that a hypothesis follows",
+    "formation": "もし（もしも）+ 〜たら／〜ば／〜なら 的条件句（もし雨が降ったら…）",
+    "explain_zh": "「もし」本身不是条件形，而是提前告诉听话人“下面是假设”的副词，几乎总和「たら／ば／なら」搭配。加上「もし」后，假设的语感更明确，也常用于可能性较低的想象：「もし宝くじに当たったら」。强调形「もしも」可能性更低、语气更郑重。注意「もし」不能单独构成条件，句中必须仍有「たら」等条件形式，这一点和中文“如果”可以独立使用不同。",
+    "explain_en": "もし is an adverb that announces 'a hypothesis is coming' and almost always pairs with たら, ば or なら. It sharpens the hypothetical feel and suits low-probability imaginings: もし宝くじに当たったら (if I won the lottery). The emphatic もしも sounds even less likely and more formal. Unlike Chinese 如果 or English 'if', もし cannot mark the condition alone — the clause still needs たら or another conditional form.",
+    "examples": [
+      {
+        "ja": "もし明日雨が降ったら、試合はどうなりますか。",
+        "furigana": "もし{明日|あした}{雨|あめ}が{降|ふ}ったら、{試合|しあい}はどうなりますか。",
+        "zh": "如果明天下雨，比赛会怎么样？",
+        "en": "If it rains tomorrow, what happens to the match?"
+      },
+      {
+        "ja": "もし時間があったら、うちへ遊びに来てください。",
+        "furigana": "もし{時間|じかん}があったら、うちへ{遊|あそ}びに{来|き}てください。",
+        "zh": "如果有时间的话，请来我家玩。",
+        "en": "If you have time, please come over to my place."
+      },
+      {
+        "ja": "もし一億円があったら、何がしたいですか。",
+        "furigana": "もし{一億円|いちおくえん}があったら、{何|なに}がしたいですか。",
+        "zh": "如果有一亿日元，你想做什么？",
+        "en": "If you had 100 million yen, what would you want to do?"
+      }
+    ],
+    "note_zh": "×「もし雨が降る、中止です」——「もし」只是副词，条件形「たら／ば／なら」不能省略。",
+    "note_en": "もし is only an adverb; the conditional ending (たら/ば/なら) can never be omitted."
+  },
+  {
+    "id": "g-n4-40",
+    "level": "N4",
+    "track": "grammar",
+    "group": "接続詞",
+    "pattern": "それで／すると（接続詞）",
+    "meaning_zh": "因此、所以（承接原因）／于是（紧接着发生）",
+    "meaning_en": "and so; therefore / and then (something happened right after)",
+    "formation": "句子A。それで、句子B（B是A的自然结果，B不能是意志・命令）；句子A。すると、句子B（B是紧接A发生的意外・发现）",
+    "explain_zh": "「それで」承接前句的原因，引出自然的结果：「熱がありました。それで、会社を休みました」；因为只表示客观因果，后句不能是命令或意志（那要用「だから」）。「すると」表示“A刚一发生，紧接着就出现了B”，B多是意外的发现或状况变化，不能是说话人的意志动作：「ボタンを押しました。すると、ドアが開きました」。会话里「それで？」单独使用还能催促对方“后来呢？”。",
+    "explain_en": "それで picks up the previous sentence as a cause and introduces its natural result; because it is objective, the result cannot be a command or intention (use だから for that). すると means 'and just then', introducing something unexpected that happened immediately after, never the speaker's own volitional act. On its own, それで？ prompts the other person to continue their story.",
+    "examples": [
+      {
+        "ja": "昨日は熱がありました。それで、会社を休みました。",
+        "furigana": "{昨日|きのう}は{熱|ねつ}がありました。それで、{会社|かいしゃ}を{休|やす}みました。",
+        "zh": "昨天发烧了，所以向公司请了假。",
+        "en": "I had a fever yesterday, so I took the day off work."
+      },
+      {
+        "ja": "ボタンを押しました。すると、ドアが開きました。",
+        "furigana": "ボタンを{押|お}しました。すると、ドアが{開|あ}きました。",
+        "zh": "我按了按钮，于是门就开了。",
+        "en": "I pressed the button, and then the door opened."
+      },
+      {
+        "ja": "電車が止まっていたんです。それで遅れてしまいました。",
+        "furigana": "{電車|でんしゃ}が{止|と}まっていたんです。それで{遅|おく}れてしまいました。",
+        "zh": "电车停运了，因此我迟到了。",
+        "en": "The trains had stopped; that's why I ended up late."
+      }
+    ],
+    "note_zh": "「だから」后可接意志・劝诱（だから早く行こう），「それで」不行；「すると」后只能是客观发生的事。",
+    "note_en": "だから allows volition after it; それで does not, and すると introduces only objective happenings."
+  },
+  {
+    "id": "g-n4-41",
+    "level": "N4",
+    "track": "grammar",
+    "group": "接続詞",
+    "pattern": "それに／ところで（接続詞）",
+    "meaning_zh": "而且、再加上（追加）／对了，话说（转换话题）",
+    "meaning_en": "what's more; besides / by the way (changing the subject)",
+    "formation": "句子A。それに、句子B（B与A同方向追加）；会话中：ところで、+ 新话题",
+    "explain_zh": "「それに」在前句的基础上追加同方向的信息，好的事情后面加好的，坏的后面加坏的：「この部屋は広いです。それに、駅から近いです」。「ところで」则用来切断当前话题、开启新话题，相当于中文的“对了”“话说”，多用于会话开头转折处：「ところで、夏休みはどうしますか」。两者一个是“顺着说”，一个是“岔开说”，正好相反，别混用。",
+    "explain_en": "それに adds more information in the same direction — good news piles on good, bad on bad: この部屋は広いです。それに、駅から近いです. ところで cuts off the current topic and opens a new one, like 'by the way': ところで、夏休みはどうしますか. One continues the thread, the other deliberately breaks it; don't swap them.",
+    "examples": [
+      {
+        "ja": "この部屋は広いです。それに、駅から近いです。",
+        "furigana": "この{部屋|へや}は{広|ひろ}いです。それに、{駅|えき}から{近|ちか}いです。",
+        "zh": "这个房间很宽敞，而且离车站很近。",
+        "en": "This room is spacious, and what's more, it's close to the station."
+      },
+      {
+        "ja": "彼は英語が話せます。それに、中国語もできます。",
+        "furigana": "{彼|かれ}は{英語|えいご}が{話|はな}せます。それに、{中国語|ちゅうごくご}もできます。",
+        "zh": "他会说英语，而且还会中文。",
+        "en": "He can speak English, and Chinese as well."
+      },
+      {
+        "ja": "ところで、夏休みはどうしますか。",
+        "furigana": "ところで、{夏休|なつやす}みはどうしますか。",
+        "zh": "对了，暑假你打算怎么过？",
+        "en": "By the way, what are you doing for summer vacation?"
+      }
+    ],
+    "note_zh": "「それに」前后必须同方向（都是优点或都是缺点）；追加理由时也常和「し」连用（安いし、それに近いし）。",
+    "note_en": "それに requires the added point to run in the same direction as the first; it often teams up with し (安いし、それに近いし)."
+  },
+  {
+    "id": "g-n4-42",
+    "level": "N4",
+    "track": "grammar",
+    "group": "变化表现",
+    "pattern": "〜くする／〜にする（他動的な変化）",
+    "meaning_zh": "把…弄成…；使…变…（人为地改变状态）",
+    "meaning_en": "make something ... (change its state deliberately)",
+    "formation": "い形容词去い + くする（小さくする）；な形容词・名词 + にする（きれいにする、半分にする）",
+    "explain_zh": "「〜くなる／〜になる」是事物自己发生变化，「〜くする／〜にする」则是人有意地改变它：「部屋が暖かくなった」（自然变暖）対「部屋を暖かくした」（我把房间弄暖）。因为是他动结构，宾语用「を」。「音を大きくする」「髪を短くする」「教室をきれいにする」都是日常高频说法。记住这一对“自动＝なる、他动＝する”的对应，后面学自他动词的成对规律会更轻松。",
+    "explain_en": "While 〜くなる/〜になる describes a change happening by itself, 〜くする/〜にする means someone deliberately makes the change: 部屋が暖かくなった (it got warm) vs 部屋を暖かくした (I warmed it up). Being transitive, it takes を. The なる = intransitive, する = transitive correspondence returns when you study transitivity pairs, so fix it here first.",
+    "examples": [
+      {
+        "ja": "テレビの音を小さくしてください。",
+        "furigana": "テレビの{音|おと}を{小|ちい}さくしてください。",
+        "zh": "请把电视的声音调小。",
+        "en": "Please turn the TV volume down."
+      },
+      {
+        "ja": "パーティーの前に、部屋をきれいにしましょう。",
+        "furigana": "パーティーの{前|まえ}に、{部屋|へや}をきれいにしましょう。",
+        "zh": "开派对之前，把房间打扫干净吧。",
+        "en": "Let's tidy up the room before the party."
+      },
+      {
+        "ja": "夏になったので、髪を短くしました。",
+        "furigana": "{夏|なつ}になったので、{髪|かみ}を{短|みじか}くしました。",
+        "zh": "因为到夏天了，我把头发剪短了。",
+        "en": "Summer is here, so I had my hair cut short."
+      }
+    ],
+    "note_zh": "「〜にします」的“选择、决定”用法（コーヒーにします）在N5已学，和这里“把…变成…”的用法接续相同、意思不同。",
+    "note_en": "The N5 use of にします for choosing (コーヒーにします) looks identical but means deciding on, not transforming."
+  },
+  {
+    "id": "g-n4-43",
+    "level": "N4",
+    "track": "grammar",
+    "group": "变化表现",
+    "pattern": "〜なくなる",
+    "meaning_zh": "变得不…了；不再…了（状态或习惯向否定方向变化）",
+    "meaning_en": "no longer do; become unable to; stop being ...",
+    "formation": "动词ない形去い + くなる（食べなくなる）；可能形否定 + くなる（読めなくなる）；い形容词〜くなくなる；な形容词・名词＋じゃなくなる",
+    "explain_zh": "「なくなる」是「ない＋なる」的组合，表示“以前是…，现在变得不…了”：「甘い物を食べなくなった」＝不再吃甜食了。和可能形连用的「〜られなくなる」（变得不能…）使用频率极高：「小さい字が読めなくなった」。反方向的变化“变得会…、开始…了”用「〜ようになる」（N3），两者是一对：食べるようになった↔食べなくなった。注意动词直接说「×食べないになる」是典型错误。",
+    "explain_en": "なくなる combines ない + なる to say something that used to happen no longer does: 甘い物を食べなくなった = I've stopped eating sweets. With the potential form (読めなくなる = become unable to read) it is extremely common. The positive counterpart 〜ようになる (come to do) is covered at N3; together they form a pair. Never say 食べないになる — attach くなる to the ない-stem.",
+    "examples": [
+      {
+        "ja": "最近、甘い物をあまり食べなくなりました。",
+        "furigana": "{最近|さいきん}、{甘|あま}い{物|もの}をあまり{食|た}べなくなりました。",
+        "zh": "最近我变得不怎么吃甜食了。",
+        "en": "Lately I've stopped eating sweets much."
+      },
+      {
+        "ja": "年を取って、小さい字が読めなくなった。",
+        "furigana": "{年|とし}を{取|と}って、{小|ちい}さい{字|じ}が{読|よ}めなくなった。",
+        "zh": "上了年纪，小字看不清了。",
+        "en": "With age, I've become unable to read small print."
+      },
+      {
+        "ja": "薬を飲んだら、頭が痛くなくなりました。",
+        "furigana": "{薬|くすり}を{飲|の}んだら、{頭|あたま}が{痛|いた}くなくなりました。",
+        "zh": "吃了药之后，头就不疼了。",
+        "en": "After taking the medicine, my headache went away."
+      }
+    ],
+    "note_zh": "「見えなくなる」「聞こえなくなる」「なくなる（丢失・用完）」都是本句型的高频组合；变化的肯定方向「〜ようになる」见N3。",
+    "note_en": "見えなくなる, 聞こえなくなる and plain なくなる (run out, go missing) are frequent; the positive 〜ようになる is at N3."
+  },
+  {
+    "id": "g-n4-44",
+    "level": "N4",
+    "track": "grammar",
+    "group": "自动词・他动词",
+    "pattern": "自動詞と他動詞の対（開く・開ける／始まる・始める）",
+    "meaning_zh": "成对的自动词（自然发生）和他动词（人为进行）",
+    "meaning_en": "paired intransitive (happens by itself) and transitive (someone does it) verbs",
+    "formation": "自动词：〜が＋V（ドアが開く、電気が消える、授業が始まる）；他动词：〜を＋V（ドアを開ける、電気を消す、授業を始める）",
+    "explain_zh": "日语有大量成对的自他动词：自动词描述事物自己发生的变化，主语用「が」；他动词描述人对事物做的动作，宾语用「を」。「開く／開ける」「閉まる／閉める」「つく／つける」「消える／消す」「始まる／始める」「止まる／止める」「壊れる／壊す」「落ちる／落とす」是必背的核心对。中文“开门”不分自他，日语必须选形：门自己开是「ドアが開いた」，有人开门是「ドアを開けた」。记对子时把助词一起背（が＋自、を＋他），错不了。",
+    "explain_en": "Japanese has many transitivity pairs: the intransitive verb describes a change occurring by itself (subject + が), while the transitive one describes a person acting on something (object + を). Core pairs include 開く/開ける, 閉まる/閉める, つく/つける, 消える/消す, 始まる/始める, 止まる/止める, 壊れる/壊す, 落ちる/落とす. Always memorise the particle with the verb: が goes with the intransitive, を with the transitive.",
+    "examples": [
+      {
+        "ja": "風で窓が開きました。",
+        "furigana": "{風|かぜ}で{窓|まど}が{開|あ}きました。",
+        "zh": "窗户被风吹开了。",
+        "en": "The window opened because of the wind."
+      },
+      {
+        "ja": "暑いので、窓を開けました。",
+        "furigana": "{暑|あつ}いので、{窓|まど}を{開|あ}けました。",
+        "zh": "因为热，我把窗户打开了。",
+        "en": "It was hot, so I opened the window."
+      },
+      {
+        "ja": "授業は九時に始まります。先生が授業を始めます。",
+        "furigana": "{授業|じゅぎょう}は{九時|くじ}に{始|はじ}まります。{先生|せんせい}が{授業|じゅぎょう}を{始|はじ}めます。",
+        "zh": "课九点开始。（是）老师来开始上课。",
+        "en": "Class starts at nine. The teacher starts the class."
+      }
+    ],
+    "note_zh": "×「窓を開きます」×「窓が開けます」——动词和助词必须配套：が開く／を開ける。",
+    "note_en": "Never mix the sets: it's 窓が開く or 窓を開ける, not 窓を開く or 窓が開ける."
+  },
+  {
+    "id": "g-n4-45",
+    "level": "N4",
+    "track": "grammar",
+    "group": "自动词・他动词",
+    "pattern": "自動詞＋ている（結果の状態）",
+    "meaning_zh": "…着（呈现某个变化之后的状态）",
+    "meaning_en": "intransitive verb + ている describing a resulting state",
+    "formation": "自动词（瞬间变化动词）て形 + いる：窓が開いている、電気がついている、時計が壊れている",
+    "explain_zh": "「開く」「つく」「壊れる」这类瞬间变化的自动词加上「ている」，表示的不是“正在开”，而是“变化完成后状态还在持续”——「窓が開いている」＝窗户开着。这是「ている」在N5“正在进行”之外最重要的用法，眼前状态的描写几乎都靠它。和「〜てある」的区别在于视角：「窓が開いている」只说状态，「窓が開けてある」暗示是有人为了某个目的开的（他动词＋てある，见N3）。",
+    "explain_en": "With instantaneous intransitive verbs like 開く, つく and 壊れる, ている expresses not an ongoing action but the state remaining after the change: 窓が開いている = the window is open. This resultative use is the most important extension beyond the N5 progressive. Compare 〜てある (N3): 窓が開けてある implies someone opened it on purpose, while 開いている just reports the state.",
+    "examples": [
+      {
+        "ja": "窓が開いていますよ。寒くないですか。",
+        "furigana": "{窓|まど}が{開|あ}いていますよ。{寒|さむ}くないですか。",
+        "zh": "窗户开着哦。你不冷吗？",
+        "en": "The window is open. Aren't you cold?"
+      },
+      {
+        "ja": "教室の電気がついています。",
+        "furigana": "{教室|きょうしつ}の{電気|でんき}がついています。",
+        "zh": "教室的灯亮着。",
+        "en": "The classroom lights are on."
+      },
+      {
+        "ja": "このコピー機は壊れています。",
+        "furigana": "このコピー{機|き}は{壊|こわ}れています。",
+        "zh": "这台复印机坏了（现在是坏的状态）。",
+        "en": "This copier is broken."
+      }
+    ],
+    "note_zh": "「結婚している」「知っている」「住んでいる」也属于状态用法；“坏了”要说「壊れている」，说「×壊れました」只是叙述过去那一瞬间。",
+    "note_en": "結婚している, 知っている and 住んでいる are also stative. To say something 'is broken' now, use 壊れている, not the simple past."
+  },
+  {
+    "id": "g-n4-46",
+    "level": "N4",
+    "track": "grammar",
+    "group": "时态・体",
+    "pattern": "〜ていた（過去の進行・状態）",
+    "meaning_zh": "（那时）正在…；（过去一段时间）一直…；（到那时）已经…了",
+    "meaning_en": "was doing; used to be in a state; had already happened (by that time)",
+    "formation": "动词て形 + いた／いました（〜ている的过去形）",
+    "explain_zh": "「ていた」是「ている」的过去形，把“正在进行”或“状态持续”搬到过去的某个时点：「昨日の八時ごろはテレビを見ていた」＝那时正在看。它也表示过去持续了一段时间的状态：「子どものとき、大阪に住んでいた」。第三个重要用法是“到某个时点已经完成”：「駅に着いたとき、電車はもう出ていた」——到站时车已经开走了，比单纯的「出た」多了“为时已晚”的状态感。",
+    "explain_en": "ていた is the past of ている, placing an ongoing action or state at a past moment: 昨日の八時ごろはテレビを見ていた (I was watching TV around eight). It also covers past extended states: 子どものとき、大阪に住んでいた. A third key use is 'already done by then': 駅に着いたとき、電車はもう出ていた — the train had already left, with a nuance of being too late that plain 出た lacks.",
+    "examples": [
+      {
+        "ja": "昨日の夜八時ごろは、テレビを見ていました。",
+        "furigana": "{昨日|きのう}の{夜|よる}{八時|はちじ}ごろは、テレビを{見|み}ていました。",
+        "zh": "昨晚八点左右，我正在看电视。",
+        "en": "Around eight last night, I was watching TV."
+      },
+      {
+        "ja": "子どものとき、大阪に住んでいました。",
+        "furigana": "{子|こ}どものとき、{大阪|おおさか}に{住|す}んでいました。",
+        "zh": "小时候我住在大阪。",
+        "en": "When I was a child, I lived in Osaka."
+      },
+      {
+        "ja": "駅に着いたとき、電車はもう出ていました。",
+        "furigana": "{駅|えき}に{着|つ}いたとき、{電車|でんしゃ}はもう{出|で}ていました。",
+        "zh": "我到车站时，电车已经开走了。",
+        "en": "When I reached the station, the train had already left."
+      }
+    ],
+    "note_zh": "「昨日映画を見た」＝叙述做了这件事；「八時にはテレビを見ていた」＝聚焦那个时点正在做，两者时间视角不同。",
+    "note_en": "見た reports that an event happened; 見ていた zooms in on a moment when it was in progress or its result held."
+  },
+  {
+    "id": "g-n4-47",
+    "level": "N4",
+    "track": "grammar",
+    "group": "经验・习惯",
+    "pattern": "〜ことがある（辞書形：ときどき起こること）",
+    "meaning_zh": "有时会…；偶尔会…（表示偶发的情况）",
+    "meaning_en": "sometimes do; there are times when ...",
+    "formation": "动词辞书形／ない形 + ことがある，常与「たまに」「時々」呼应",
+    "explain_zh": "辞书形接「ことがある」表示“有时会发生这种情况”，说的是现在的习惯中偶尔出现的例外：「たまに朝ご飯を食べないことがある」。它和た形的「〜たことがある」（经验，见N4）只差一个时态，意思完全不同，是经典陷阱。因为表示“偶尔”，不能和「よく」搭配：经常做的事直接说「よく〜します」，只有频率低时才用「〜ことがある」。",
+    "explain_en": "With the dictionary form, ことがある means 'it sometimes happens': たまに朝ご飯を食べないことがある (sometimes I skip breakfast). Only the tense separates it from 〜たことがある (life experience) — a classic trap. Because it implies low frequency, it cannot pair with よく; frequent actions are simply stated with よく〜します.",
+    "examples": [
+      {
+        "ja": "たまに朝ご飯を食べないことがあります。",
+        "furigana": "たまに{朝|あさ}ご{飯|はん}を{食|た}べないことがあります。",
+        "zh": "我偶尔会不吃早饭。",
+        "en": "Sometimes I skip breakfast."
+      },
+      {
+        "ja": "父は日曜日も会社へ行くことがあります。",
+        "furigana": "{父|ちち}は{日曜日|にちようび}も{会社|かいしゃ}へ{行|い}くことがあります。",
+        "zh": "爸爸有时星期天也去公司。",
+        "en": "My father sometimes goes to the office even on Sundays."
+      },
+      {
+        "ja": "このバスは時々遅れることがあります。",
+        "furigana": "このバスは{時々|ときどき}{遅|おく}れることがあります。",
+        "zh": "这趟公交有时会晚点。",
+        "en": "This bus is sometimes late."
+      }
+    ],
+    "note_zh": "辞书形＋ことがある＝偶尔发生；た形＋ことがある＝人生经验。×「よく遅れることがある」——高频率时不用这个句型。",
+    "note_en": "Dictionary form = 'it sometimes happens'; た-form = past experience. Do not combine it with よく."
+  },
+  {
+    "id": "g-n4-48",
+    "level": "N4",
+    "track": "grammar",
+    "group": "经验・习惯",
+    "pattern": "〜ことにしている",
+    "meaning_zh": "（自己决定后）坚持…；习惯上一直…",
+    "meaning_en": "make it a rule to; have decided to and keep doing",
+    "formation": "动词辞书形／ない形 + ことにしている（「ことにする」的ている形，表示决定后的持续实行）",
+    "explain_zh": "「ことにする」是当场做出决定（N3），加上「ている」变成「ことにしている」，表示“决定之后一直坚持执行”，即自己给自己定的规矩：「毎晩十二時前に寝ることにしています」。它和单纯的习惯描述不同，强调这是有意识的自我约束，所以健康、学习方面的个人原则最常用这个句型。否定的规矩用「〜ないことにしている」：「エレベーターを使わないことにしている」。",
+    "explain_en": "ことにする is deciding on the spot (N3); with ている it becomes a rule you set for yourself and keep following: 毎晩十二時前に寝ることにしています (I make it a rule to be in bed before midnight). Unlike a mere habit, it stresses conscious self-discipline, so it is the go-to pattern for personal policies about health or study. Negative rules take 〜ないことにしている.",
+    "examples": [
+      {
+        "ja": "毎晩十二時前に寝ることにしています。",
+        "furigana": "{毎晩|まいばん}{十二時|じゅうにじ}{前|まえ}に{寝|ね}ることにしています。",
+        "zh": "我坚持每晚十二点前睡觉。",
+        "en": "I make it a rule to go to bed before midnight."
+      },
+      {
+        "ja": "健康のために、エレベーターを使わないことにしています。",
+        "furigana": "{健康|けんこう}のために、エレベーターを{使|つか}わないことにしています。",
+        "zh": "为了健康，我坚持不坐电梯。",
+        "en": "For my health, I make it a rule not to use the elevator."
+      },
+      {
+        "ja": "日曜日は仕事のことを考えないことにしている。",
+        "furigana": "{日曜日|にちようび}は{仕事|しごと}のことを{考|かんが}えないことにしている。",
+        "zh": "星期天我坚持不去想工作的事。",
+        "en": "On Sundays I make a point of not thinking about work."
+      }
+    ],
+    "note_zh": "「ことにする」＝当场决定，「ことにしている」＝决定后持续执行；被外部决定的「ことになっている」见N4的规则用法。",
+    "note_en": "ことにする = a fresh decision; ことにしている = a standing personal rule; externally imposed rules use ことになっている."
+  },
+  {
+    "id": "g-n4-49",
+    "level": "N4",
+    "track": "grammar",
+    "group": "句子结构",
+    "pattern": "連体修飾節（普通形＋名詞）",
+    "meaning_zh": "…的＋名词（用整个句子修饰名词）",
+    "meaning_en": "noun-modifying clauses: a whole clause placed before a noun",
+    "formation": "动词・い形容词普通形 + 名词（母が作ったケーキ）；な形容词〜な + 名词；名词〜の + 名词。从句内主语用「が」或「の」",
+    "explain_zh": "日语把修饰句直接放在名词前面，不用任何“的”之类的连接词：「母が作ったケーキ」＝妈妈做的蛋糕。从句里的动词用普通形（辞书形・た形・ない形・ている形都可以），从句的主语不用「は」，要改成「が」（或「の」）。中文的“……的”结构和它语序相同，所以中国学习者上手快，但要防两个错误：一是从句里误用「は」，二是现在形名词句多余地加「だ」（×学生だ人）。这个结构是听懂长句的钥匙，务必练到能瞬间找出“哪一段在修饰哪个名词”。",
+    "explain_en": "Japanese puts a modifying clause directly before its noun with no connector: 母が作ったケーキ = the cake my mother made. The clause verb is in plain form (dictionary, た, ない or ている), and its subject takes が (or の), never は. Two pitfalls: using は inside the clause, and inserting だ after nouns/な-adjectives in the present tense. Mastering this structure is the key to parsing long sentences.",
+    "examples": [
+      {
+        "ja": "これは母が作ったケーキです。",
+        "furigana": "これは{母|はは}が{作|つく}ったケーキです。",
+        "zh": "这是妈妈做的蛋糕。",
+        "en": "This is a cake my mother made."
+      },
+      {
+        "ja": "眼鏡をかけている人が山田さんです。",
+        "furigana": "{眼鏡|めがね}をかけている{人|ひと}が{山田|やまだ}さんです。",
+        "zh": "戴眼镜的那个人是山田。",
+        "en": "The person wearing glasses is Yamada."
+      },
+      {
+        "ja": "昨日買った本をもう読んでしまいました。",
+        "furigana": "{昨日|きのう}{買|か}った{本|ほん}をもう{読|よ}んでしまいました。",
+        "zh": "昨天买的书我已经读完了。",
+        "en": "I've already finished the book I bought yesterday."
+      }
+    ],
+    "note_zh": "从句主语的「が」可换成「の」：母の作ったケーキ。×「母は作ったケーキ」——从句内不能用「は」。",
+    "note_en": "Inside the clause, が can become の (母の作ったケーキ), but never は."
+  },
+  {
+    "id": "g-n4-50",
+    "level": "N4",
+    "track": "grammar",
+    "group": "句子结构",
+    "pattern": "〜のは〜だ（強調構文）",
+    "meaning_zh": "…的是…（把想强调的部分放到句尾）",
+    "meaning_en": "cleft sentence: 'it is X that ...', spotlighting one element",
+    "formation": "普通形 + のは + 强调的名词・部分 + だ／です（な形容词〜なのは；把原句中要强调的成分移到「だ」前）",
+    "explain_zh": "把句子的一部分抽出来放到句尾强调，剩下的部分名词化后作主题：「北海道で生まれました」→「私が生まれたのは北海道です」＝我出生的地方是北海道。回答“到底是哪个”的疑问、纠正对方的误解时特别好用：「パーティーに来なかったのは田中さんです」。「の」把前面的从句变成名词，后面的「は〜だ」再做判断，本质上就是连体修饰＋名词化的组合应用。",
+    "explain_en": "A cleft sentence pulls one element to the end for emphasis and nominalises the rest as the topic: 私が生まれたのは北海道です = the place I was born is Hokkaido. It is ideal for answering 'which one exactly?' or correcting a misunderstanding: パーティーに来なかったのは田中さんです. Structurally it is just a noun-modifying clause plus の, followed by は〜だ.",
+    "examples": [
+      {
+        "ja": "私が生まれたのは北海道です。",
+        "furigana": "{私|わたし}が{生|う}まれたのは{北海道|ほっかいどう}です。",
+        "zh": "我出生的地方是北海道。",
+        "en": "It was in Hokkaido that I was born."
+      },
+      {
+        "ja": "パーティーに来なかったのは田中さんだけでした。",
+        "furigana": "パーティーに{来|こ}なかったのは{田中|たなか}さんだけでした。",
+        "zh": "没来参加派对的只有田中。",
+        "en": "The only one who didn't come to the party was Tanaka."
+      },
+      {
+        "ja": "大切なのは、毎日少しずつ続けることです。",
+        "furigana": "{大切|たいせつ}なのは、{毎日|まいにち}{少|すこ}しずつ{続|つづ}けることです。",
+        "zh": "重要的是每天一点一点地坚持。",
+        "en": "What matters is continuing little by little every day."
+      }
+    ],
+    "note_zh": "な形容词接「の」要用「な」：大切なのは。名词化的「こと／の」的一般区别见N3。",
+    "note_en": "な-adjectives take な before の (大切なのは). The general こと/の nominalising contrast is treated at N3."
+  },
+  {
+    "id": "g-n4-51",
+    "level": "N4",
+    "track": "grammar",
+    "group": "句子结构",
+    "pattern": "〜は〜が〜（主題と主語の文）",
+    "meaning_zh": "…（大主题）的…（小主语）怎么样（象は鼻が長い型句子）",
+    "meaning_en": "topic + subject sentences: as for A, its B is ...",
+    "formation": "名词A + は + 名词B + が + 形容词・动词（AとBは整体与部分、人物与属性等关系）",
+    "explain_zh": "日语常把大话题用「は」提出来，再用「が」引出真正描述的对象：「象は鼻が長い」＝大象（这个话题）鼻子长。A和B通常是整体和部分（日本は山が多い）、人和身体（今日は頭が痛い）、人和能力・好恶（私は歌が好きだ）的关系。这就是「〜が好きです」「〜が上手です」句型背后的通用结构。中文“大象鼻子长”其实语序一样，翻译时不必硬加“的”。",
+    "explain_en": "Japanese often announces a big topic with は and then uses が for the item actually described: 象は鼻が長い = as for elephants, their trunks are long. A and B are typically whole and part (日本は山が多い), person and body (今日は頭が痛い), or person and ability/preference (私は歌が好きだ). This is the general structure behind the が好きです and が上手です patterns you already know.",
+    "examples": [
+      {
+        "ja": "象は鼻が長いです。",
+        "furigana": "{象|ぞう}は{鼻|はな}が{長|なが}いです。",
+        "zh": "大象鼻子长。",
+        "en": "Elephants have long trunks."
+      },
+      {
+        "ja": "日本は山が多い国です。",
+        "furigana": "{日本|にほん}は{山|やま}が{多|おお}い{国|くに}です。",
+        "zh": "日本是个多山的国家。",
+        "en": "Japan is a country with many mountains."
+      },
+      {
+        "ja": "今日は頭が痛いので、早く帰ります。",
+        "furigana": "{今日|きょう}は{頭|あたま}が{痛|いた}いので、{早|はや}く{帰|かえ}ります。",
+        "zh": "今天我头疼，所以早点回去。",
+        "en": "I have a headache today, so I'm going home early."
+      }
+    ],
+    "note_zh": "×「私の頭が痛いです」——身体状况直接说「（私は）頭が痛い」，不用「の」连接。",
+    "note_en": "For aches and states, say (私は)頭が痛い; do not build it as 私の頭が痛い."
+  },
+  {
+    "id": "g-n4-52",
+    "level": "N4",
+    "track": "grammar",
+    "group": "文体",
+    "pattern": "普通形と丁寧形（だ体・です体）の使い分け",
+    "meaning_zh": "简体和敬体的区分使用（对谁说话用哪种文体）",
+    "meaning_en": "choosing between plain style and polite style",
+    "formation": "丁宁形：〜ます・〜です（对长辈、初次见面、正式场合）；普通形：辞书形・た形・ない形・だ（对朋友、家人、日记、从句内部）",
+    "explain_zh": "日语的每句话都要选文体：对老师、上司、初次见面的人用丁宁形（です・ます），对朋友、家人用普通形。整段话要保持同一种文体，混用会显得奇怪。普通形不只是“随便说话”：从句内部（〜と思う、〜とき、〜ので的前面）、连体修饰句、日记和文章里都必须用普通形，所以即使暂时用不到简体会话，普通形的变形也必须全部掌握。会话中由敬体转为简体，往往表示两人关系变亲近了。",
+    "explain_en": "Every Japanese sentence commits to a style: polite です/ます toward teachers, superiors and strangers; plain form with friends and family. Keep one style consistently within a passage. Crucially, the plain form is not just casual talk — subordinate clauses (before と思う, とき, ので), noun-modifying clauses, diaries and essays all require it, so its conjugations are indispensable even before you speak casually. Shifting from polite to plain in conversation signals growing closeness.",
+    "examples": [
+      {
+        "ja": "友だちには「明日行く？」、先生には「明日いらっしゃいますか」と聞きます。",
+        "furigana": "{友|とも}だちには「{明日|あした}{行|い}く？」、{先生|せんせい}には「{明日|あした}いらっしゃいますか」と{聞|き}きます。",
+        "zh": "对朋友问「明天去吗？」，对老师则问「您明天去吗？」。",
+        "en": "To a friend you ask 明日行く?, but to a teacher, 明日いらっしゃいますか."
+      },
+      {
+        "ja": "「もう昼ご飯を食べた？」「ううん、まだ。」",
+        "furigana": "「もう{昼|ひる}ご{飯|はん}を{食|た}べた？」「ううん、まだ。」",
+        "zh": "「吃过午饭了吗？」「没，还没呢。」",
+        "en": "'Eaten lunch yet?' 'Nope, not yet.'"
+      },
+      {
+        "ja": "日記は普通形で書く人が多いです。",
+        "furigana": "{日記|にっき}は{普通形|ふつうけい}で{書|か}く{人|ひと}が{多|おお}いです。",
+        "zh": "很多人用简体写日记。",
+        "en": "Many people write their diaries in the plain style."
+      }
+    ],
+    "note_zh": "简体问句常去掉「か」、靠语调上扬表疑问（行く？）；名词・な形容词问句连「だ」也去掉（元気？）。",
+    "note_en": "Plain questions usually drop か and rise in pitch (行く?); with nouns and な-adjectives even だ disappears (元気?)."
+  },
+  {
+    "id": "g-n4-53",
+    "level": "N4",
+    "track": "grammar",
+    "group": "比况・样态",
+    "pattern": "名詞＋のような／のように（例示・比喩）",
+    "meaning_zh": "像…一样的…／像…那样地…（举例或比喻）",
+    "meaning_en": "like ...; such as ... (examples and similes with nouns)",
+    "formation": "名词A + のような + 名词B（B像A／A之类的B）；名词A + のように + 动词・形容词（像A那样…）",
+    "explain_zh": "「のような」后接名词，表示“像A那样的B”或举例“A之类的B”：「東京のような大きい町」。「のように」修饰动词和形容词：「歌手のように歌が上手だ」。两者的区别就是形容词用法（な）和副词用法（に）的区别，和な形容词的活用平行。举例时A是B的一个具体例子；比喻时A和B是不同的东西，只是相似。",
+    "explain_en": "のような modifies a noun: 'a B like A' or 'B such as A' (東京のような大きい町). のように modifies verbs and adjectives: 歌手のように歌が上手だ (sings well, like a professional). The な/に alternation parallels な-adjective usage. In the example reading, A is an instance of B; in the simile reading, A merely resembles B.",
+    "examples": [
+      {
+        "ja": "東京のような大きい町に住んでみたいです。",
+        "furigana": "{東京|とうきょう}のような{大|おお}きい{町|まち}に{住|す}んでみたいです。",
+        "zh": "我想住住看像东京那样的大城市。",
+        "en": "I'd like to try living in a big city like Tokyo."
+      },
+      {
+        "ja": "姉は歌手のように歌が上手です。",
+        "furigana": "{姉|あね}は{歌手|かしゅ}のように{歌|うた}が{上手|じょうず}です。",
+        "zh": "姐姐唱歌像歌手一样好。",
+        "en": "My sister sings as well as a professional singer."
+      },
+      {
+        "ja": "今日は春のように暖かいですね。",
+        "furigana": "{今日|きょう}は{春|はる}のように{暖|あたた}かいですね。",
+        "zh": "今天像春天一样暖和啊。",
+        "en": "It's as warm as spring today, isn't it?"
+      }
+    ],
+    "note_zh": "口语中「みたいな／みたいに」意思相同、更随便；「ようだ」的推量用法（好像…）见N3。",
+    "note_en": "Casual speech prefers みたいな/みたいに. The conjectural ようだ ('it seems') is a separate N3 topic."
+  },
+  {
+    "id": "g-n4-54",
+    "level": "N4",
+    "track": "grammar",
+    "group": "比况・样态",
+    "pattern": "〜らしい（典型・接尾辞）",
+    "meaning_zh": "有…的样子；像个…样（具备该事物应有的特征）",
+    "meaning_en": "typical of; worthy of the name (having the expected qualities)",
+    "formation": "名词 + らしい（男らしい、春らしい、子どもらしい）、活用同い形容词；否定：〜らしくない",
+    "explain_zh": "接尾词「らしい」接在名词后构成い形容词，表示“充分具备这类事物应有的特点”：「春らしい天気」＝很有春天味道的天气，「男らしい」＝有男子汉气概。注意它和「〜のような」方向相反：「子どもらしい子ども」是像孩子该有的样子的孩子（本来就是孩子），「子どものような大人」是像孩子的大人（其实不是孩子）。否定形「らしくない」表示“不像平时的…、失去了本色”：「今日は君らしくないね」。",
+    "explain_en": "The suffix らしい turns a noun into an い-adjective meaning 'having exactly the qualities expected of it': 春らしい天気 = properly spring-like weather; 男らしい = manly. Note the direction: 子どもらしい子ども is a child being truly childlike (it IS a child), while 子どものような大人 is an adult resembling a child. The negative らしくない means 'not your usual self': 今日は君らしくないね.",
+    "examples": [
+      {
+        "ja": "今日は春らしい暖かい天気ですね。",
+        "furigana": "{今日|きょう}は{春|はる}らしい{暖|あたた}かい{天気|てんき}ですね。",
+        "zh": "今天是很有春天气息的暖和天气啊。",
+        "en": "It's warm, truly spring-like weather today."
+      },
+      {
+        "ja": "彼は強くて優しくて、男らしい人です。",
+        "furigana": "{彼|かれ}は{強|つよ}くて{優|やさ}しくて、{男|おとこ}らしい{人|ひと}です。",
+        "zh": "他又坚强又温柔，是个有男子汉气概的人。",
+        "en": "He is strong and kind — a truly manly person."
+      },
+      {
+        "ja": "遅刻するなんて、いつもの田中さんらしくないですね。",
+        "furigana": "{遅刻|ちこく}するなんて、いつもの{田中|たなか}さんらしくないですね。",
+        "zh": "居然迟到，真不像平时的田中啊。",
+        "en": "Being late? That's not like the usual Tanaka at all."
+      }
+    ],
+    "note_zh": "本条是接尾词用法；表示传闻・推测的「〜らしい」（雨が降るらしい）是另一个语法，见N3。",
+    "note_en": "This is the suffix use. The hearsay/inference らしい (雨が降るらしい) is a different grammar point at N3."
+  },
+  {
+    "id": "g-n4-55",
+    "level": "N4",
+    "track": "grammar",
+    "group": "比较表现",
+    "pattern": "AはBほど〜ない",
+    "meaning_zh": "A没有B那么…（达不到B的程度）",
+    "meaning_en": "A is not as ... as B",
+    "formation": "A + は + B + ほど + 形容词・动词否定形（今年は去年ほど暑くない）",
+    "explain_zh": "「AはBほど〜ない」以B为基准，说A达不到那个程度，是「AはBより〜」的否定版说法：「弟は兄ほど背が高くない」＝弟弟没有哥哥那么高（哥哥更高）。句尾必须是否定，这是和「より」句最大的形式区别。B也可以是从句：「日本語は思ったほど難しくない」＝没有想象中那么难。",
+    "explain_en": "AはBほど〜ない takes B as the yardstick and says A falls short of it — the negative counterpart of AはBより〜: 弟は兄ほど背が高くない = my younger brother isn't as tall as my older brother. The predicate must be negative; that is what formally distinguishes it from より sentences. B can also be a clause: 思ったほど難しくない = not as hard as I expected.",
+    "examples": [
+      {
+        "ja": "今年の夏は去年ほど暑くないです。",
+        "furigana": "{今年|ことし}の{夏|なつ}は{去年|きょねん}ほど{暑|あつ}くないです。",
+        "zh": "今年夏天没有去年那么热。",
+        "en": "This summer isn't as hot as last year."
+      },
+      {
+        "ja": "弟は兄ほど背が高くありません。",
+        "furigana": "{弟|おとうと}は{兄|あに}ほど{背|せ}が{高|たか}くありません。",
+        "zh": "弟弟个子没有哥哥那么高。",
+        "en": "My younger brother isn't as tall as my older brother."
+      },
+      {
+        "ja": "日本語の勉強は思ったほど難しくありませんでした。",
+        "furigana": "{日本語|にほんご}の{勉強|べんきょう}は{思|おも}ったほど{難|むずか}しくありませんでした。",
+        "zh": "学日语没有想象中那么难。",
+        "en": "Studying Japanese wasn't as hard as I had expected."
+      }
+    ],
+    "note_zh": "「BよりAのほうが〜」＝A超过B（肯定）；「AはBほど〜ない」＝A不及B（否定），两个句型互为表里。",
+    "note_en": "BよりAのほうが〜 affirms that A exceeds B; AはBほど〜ない denies that A reaches B — two sides of one comparison."
+  },
+  {
+    "id": "g-n4-56",
+    "level": "N4",
+    "track": "grammar",
+    "group": "判断・断定",
+    "pattern": "〜ではなくて／〜じゃなくて（訂正）",
+    "meaning_zh": "不是A而是B（先否定再更正）",
+    "meaning_en": "not A but B (correcting information)",
+    "formation": "名词A + ではなくて（じゃなくて）、+ B です（じゃなくて更口语）",
+    "explain_zh": "「AではなくてB」先否定错误信息A，再给出正确的B，是纠正、澄清时的标准句式：「会議は今日じゃなくて、明日ですよ」。口语里几乎都说「じゃなくて」。它其实就是「ではありません」的て形接续，因此也能连接从句：「頼んだのはコーヒーではなくて、紅茶です」（和强调构文连用）。纠正对方时前面加「すみません」等缓冲语更礼貌。",
+    "explain_en": "AではなくてB denies the wrong item A and supplies the correct B — the standard formula for corrections: 会議は今日じゃなくて、明日ですよ. Conversation almost always uses じゃなくて. It is simply the て-form of ではありません, so it also links clauses, often together with the cleft construction: 頼んだのはコーヒーではなくて、紅茶です. Soften corrections with すみません where appropriate.",
+    "examples": [
+      {
+        "ja": "あの人は学生ではなくて、先生です。",
+        "furigana": "あの{人|ひと}は{学生|がくせい}ではなくて、{先生|せんせい}です。",
+        "zh": "那个人不是学生，而是老师。",
+        "en": "That person isn't a student — she's a teacher."
+      },
+      {
+        "ja": "会議は今日じゃなくて、明日ですよ。",
+        "furigana": "{会議|かいぎ}は{今日|きょう}じゃなくて、{明日|あした}ですよ。",
+        "zh": "会议不是今天，是明天哦。",
+        "en": "The meeting isn't today — it's tomorrow."
+      },
+      {
+        "ja": "私が頼んだのはコーヒーではなくて、紅茶です。",
+        "furigana": "{私|わたし}が{頼|たの}んだのはコーヒーではなくて、{紅茶|こうちゃ}です。",
+        "zh": "我点的不是咖啡，而是红茶。",
+        "en": "What I ordered was not coffee but tea."
+      }
+    ],
+    "note_zh": "只否定不更正时用「〜ではありません」即可；要说“不是A而是B”时才用「〜ではなくて、B」。",
+    "note_en": "Plain denial uses 〜ではありません; use 〜ではなくて only when you go on to supply the correct B."
+  },
+  {
+    "id": "g-n4-57",
+    "level": "N4",
+    "track": "grammar",
+    "group": "能力・可能",
+    "pattern": "見える・聞こえる",
+    "meaning_zh": "看得见；听得见（自然而然映入眼帘、传入耳朵）",
+    "meaning_en": "be visible; be audible (perceived naturally, without effort)",
+    "formation": "对象 + が + 見える／聞こえる（山が見える、音が聞こえる）",
+    "explain_zh": "「見える」「聞こえる」表示对象自然进入视野、耳朵，不需要任何努力：「ここから富士山が見えます」。它们和可能形「見られる」「聞ける」的区别是N4重点：「見られる」＝条件允许而能看（この映画は日曜日まで見られる），「見える」＝自然看得见。对象用「が」标记。否定形「見えない」「聞こえない」表示视力・听力或环境上“看不见、听不到”。",
+    "explain_en": "見える and 聞こえる describe things naturally entering your sight or hearing with no effort: ここから富士山が見えます. Distinguishing them from the potentials 見られる/聞ける is a key N4 point: 見られる = you can watch it because circumstances allow; 見える = it is simply visible. The object takes が. The negatives 見えない/聞こえない cover both sensory limits and environmental obstacles.",
+    "examples": [
+      {
+        "ja": "ここから富士山が見えます。",
+        "furigana": "ここから{富士山|ふじさん}が{見|み}えます。",
+        "zh": "从这里能看到富士山。",
+        "en": "You can see Mt. Fuji from here."
+      },
+      {
+        "ja": "隣の部屋から音楽が聞こえます。",
+        "furigana": "{隣|となり}の{部屋|へや}から{音楽|おんがく}が{聞|き}こえます。",
+        "zh": "从隔壁房间传来音乐声。",
+        "en": "Music can be heard from the next room."
+      },
+      {
+        "ja": "声が小さくて、よく聞こえません。",
+        "furigana": "{声|こえ}が{小|ちい}さくて、よく{聞|き}こえません。",
+        "zh": "声音太小，听不清楚。",
+        "en": "Your voice is so quiet that I can't hear you well."
+      }
+    ],
+    "note_zh": "想看而能看＝見られる；自然映入眼帘＝見える。「テレビが見えない」（挡住了）≠「テレビが見られない」（没时间等原因不能看）。",
+    "note_en": "見られる = can watch (opportunity); 見える = is visible. テレビが見えない means the screen is blocked, not that you're unable to watch."
+  },
+  {
+    "id": "g-n4-58",
+    "level": "N4",
+    "track": "grammar",
+    "group": "引用・传达",
+    "pattern": "引用の「と」（〜と伝える・〜と書いてある・〜と呼ぶ）",
+    "meaning_zh": "请转告说…；上面写着…；被称为…（引用助词と的扩展动词）",
+    "meaning_en": "the quotative と with verbs beyond 言う: convey, be written, be called",
+    "formation": "引用内容（普通形或原句）+ と + 伝える・書く・書いてある・呼ぶ・読む 等",
+    "explain_zh": "引用助词「と」不只服务于「言う」「思う」，还搭配一批传达类动词：「〜と伝えてください」（请转告）、「〜と書いてあります」（上面写着）、「〜と呼ばれています」（被称作）。引用的内容用普通形，或者直接照搬原话加引号。留言、看板、说明文字都靠这个结构转述，实用性极高：「入口に『休み』と書いてあった」。",
+    "explain_en": "The quotative と works with many verbs beyond 言う and 思う: 〜と伝えてください (please pass on the message), 〜と書いてあります (it says / it is written), 〜と呼ばれています (it is called). The quoted content is in plain form, or the original words in quotation marks. Messages, signs and captions are all reported with this structure: 入口に「休み」と書いてあった.",
+    "examples": [
+      {
+        "ja": "田中さんに、会議は三時からだと伝えてください。",
+        "furigana": "{田中|たなか}さんに、{会議|かいぎ}は{三時|さんじ}からだと{伝|つた}えてください。",
+        "zh": "请转告田中，会议三点开始。",
+        "en": "Please tell Tanaka that the meeting starts at three."
+      },
+      {
+        "ja": "店の入口に「今日は休み」と書いてありました。",
+        "furigana": "{店|みせ}の{入口|いりぐち}に「{今日|きょう}は{休|やす}み」と{書|か}いてありました。",
+        "zh": "店门口写着「今天休息」。",
+        "en": "At the shop entrance it said, 'Closed today'."
+      },
+      {
+        "ja": "この花は日本語で「さくら」と呼ばれています。",
+        "furigana": "この{花|はな}は{日本語|にほんご}で「さくら」と{呼|よ}ばれています。",
+        "zh": "这种花在日语里被称为「樱花」。",
+        "en": "In Japanese, this flower is called 'sakura'."
+      }
+    ],
+    "note_zh": "转达内容是名词句时要保留「だ」：「三時からだと伝える」。「〜と言いました」「〜と聞きました」见N4其他条目。",
+    "note_en": "Keep だ when quoting noun sentences (三時からだと伝える). 〜と言いました and 〜と聞きました are separate N4 entries."
+  },
+  {
+    "id": "g-n4-59",
+    "level": "N4",
+    "track": "grammar",
+    "group": "会话表现",
+    "pattern": "〜ばいいですか／どうしたらいいですか",
+    "meaning_zh": "…就可以了吗？；该怎么…才好？（请对方给出指示、建议）",
+    "meaning_en": "how/what should I ...? (asking for instructions or advice)",
+    "formation": "疑问词 + 动词ば形 + いいですか（どう書けばいいですか）；疑问词 + 〜たらいいですか（どう行ったらいいですか）",
+    "explain_zh": "向别人请教做法时，用「疑问词＋ば形／たら＋いいですか」：「この漢字はどう読めばいいですか」＝这个字该怎么读才好。「ば」和「たら」在这里可以互换，语感几乎相同。它比直接问「どう読みますか」多了一层“请你告诉我正确做法”的委托语气，是问路、问手续、请教老师时的万能句式。回答方常用「〜ばいいですよ」「〜てください」。",
+    "explain_en": "To ask how something should be done, combine a question word with the ば- or たら-form plus いいですか: この漢字はどう読めばいいですか (how should I read this kanji?). ば and たら are interchangeable here. Compared with a plain どう読みますか, it adds the nuance of requesting guidance, making it the all-purpose formula for asking directions, procedures, or a teacher's advice. Answers often take the form 〜ばいいですよ or 〜てください.",
+    "examples": [
+      {
+        "ja": "この漢字はどう読めばいいですか。",
+        "furigana": "この{漢字|かんじ}はどう{読|よ}めばいいですか。",
+        "zh": "这个汉字该怎么读才好？",
+        "en": "How should I read this kanji?"
+      },
+      {
+        "ja": "駅へはどう行ったらいいですか。",
+        "furigana": "{駅|えき}へはどう{行|い}ったらいいですか。",
+        "zh": "去车站该怎么走？",
+        "en": "How should I get to the station?"
+      },
+      {
+        "ja": "何時までに来ればいいですか。",
+        "furigana": "{何時|なんじ}までに{来|く}ればいいですか。",
+        "zh": "我几点之前来就可以了？",
+        "en": "By what time should I come?"
+      }
+    ],
+    "note_zh": "自问自答式的「どうすればいいか分からない」（不知如何是好）也很常用；表示愿望的「〜ばいい」见N3。",
+    "note_en": "The embedded form どうすればいいか分からない (I don't know what to do) is also frequent. The wish use of ばいい belongs to N3."
+  },
+  {
+    "id": "g-n4-60",
+    "level": "N4",
+    "track": "grammar",
+    "group": "会话表现",
+    "pattern": "〜てすみません",
+    "meaning_zh": "因为…而抱歉；对不起，我…了（为具体行为道歉）",
+    "meaning_en": "sorry for doing ...; apologising for a specific act",
+    "formation": "动词て形 + すみません（でした）；常与「〜てしまって」连用加强懊悔：遅れてしまって、すみません",
+    "explain_zh": "把道歉的原因用て形放在「すみません」前面，就是“为…而道歉”：「遅れてすみません」。原因是过去的事时句尾可用「すみませんでした」更郑重。和「てしまう」连用的「〜てしまって、すみません」懊悔感更强，是最自然的道歉句式之一。对上级、客户可以升级为「申し訳ありません」，对朋友降级为「ごめん（ね）」，但结构完全一样。",
+    "explain_en": "Put the reason in the て-form before すみません to apologise for it: 遅れてすみません (sorry I'm late). For past offences, すみませんでした sounds more formal. Adding てしまう (〜てしまって、すみません) deepens the regret and is one of the most natural apology shapes. The same structure scales up to 申し訳ありません for business and down to ごめんね among friends.",
+    "examples": [
+      {
+        "ja": "お待たせしてすみません。",
+        "furigana": "お{待|ま}たせしてすみません。",
+        "zh": "让您久等了，对不起。",
+        "en": "Sorry to have kept you waiting."
+      },
+      {
+        "ja": "大切な皿を割ってしまって、すみませんでした。",
+        "furigana": "{大切|たいせつ}な{皿|さら}を{割|わ}ってしまって、すみませんでした。",
+        "zh": "把重要的盘子打碎了，真对不起。",
+        "en": "I'm very sorry I broke your precious plate."
+      },
+      {
+        "ja": "夜遅く電話してすみません。",
+        "furigana": "{夜|よる}{遅|おそ}く{電話|でんわ}してすみません。",
+        "zh": "这么晚打电话给你，不好意思。",
+        "en": "Sorry for calling you so late at night."
+      }
+    ],
+    "note_zh": "感谢别人特意做某事也用同样结构：「来ていただいて、すみません」（劳您跑一趟）——日语的すみません兼有“过意不去”的谢意。",
+    "note_en": "The same shape can thank someone for their trouble (来ていただいて、すみません), since すみません also covers grateful apology."
+  },
+  {
+    "id": "g-n4-61",
+    "level": "N4",
+    "track": "grammar",
+    "group": "会话表现",
+    "pattern": "〜てくれてありがとう",
+    "meaning_zh": "谢谢你为我…（对具体行为道谢）",
+    "meaning_en": "thank you for doing ... (for me)",
+    "formation": "动词て形 + くれて + ありがとう（ございます）；郑重：〜てくださって、ありがとうございました",
+    "explain_zh": "感谢别人做的具体事情时，把该动作接「てくれて」再加「ありがとう」：「手伝ってくれて、ありがとう」。中间的「くれて」表示“为我做”，不能省略成「×手伝ってありがとう」，这是中文直译最容易犯的错。对长辈、客人用尊敬形式「〜てくださって、ありがとうございました」。事情已经结束时句尾用「ありがとうございました」。",
+    "explain_en": "To thank someone for a specific act, attach it with てくれて before ありがとう: 手伝ってくれて、ありがとう. The くれて ('did it for me') is obligatory — 手伝ってありがとう is a classic direct-translation error. Toward superiors or guests, upgrade to 〜てくださって、ありがとうございました, and use the past ございました once the favour is complete.",
+    "examples": [
+      {
+        "ja": "引っ越しを手伝ってくれて、ありがとう。",
+        "furigana": "{引|ひ}っ{越|こ}しを{手伝|てつだ}ってくれて、ありがとう。",
+        "zh": "谢谢你帮我搬家。",
+        "en": "Thanks for helping me move."
+      },
+      {
+        "ja": "今日は来てくださって、ありがとうございました。",
+        "furigana": "{今日|きょう}は{来|き}てくださって、ありがとうございました。",
+        "zh": "今天承蒙您光临，非常感谢。",
+        "en": "Thank you very much for coming today."
+      },
+      {
+        "ja": "写真を送ってくれて、ありがとう。",
+        "furigana": "{写真|しゃしん}を{送|おく}ってくれて、ありがとう。",
+        "zh": "谢谢你把照片发给我。",
+        "en": "Thanks for sending me the photos."
+      }
+    ],
+    "note_zh": "×「手伝ってありがとう」——必须经过「くれる／くださる」再接「ありがとう」。",
+    "note_en": "Never skip くれる/くださる: the verb of favour is required before ありがとう."
+  },
+  {
+    "id": "g-n4-62",
+    "level": "N4",
+    "track": "grammar",
+    "group": "会话表现",
+    "pattern": "〜でいいです（許容・妥協）",
+    "meaning_zh": "…就行；…就可以了（表示可以接受、不苛求）",
+    "meaning_en": "... will do; ... is fine (accepting something as good enough)",
+    "formation": "名词 + でいいです（お茶でいいです）；疑问：〜でいいですか（确认对方是否接受）",
+    "explain_zh": "「名词＋でいいです」表示“这个就足够了、不必更好”，带有妥协、不挑剔的语感：「飲み物はお茶でいいです」。确认对方时说「〜でいいですか」：「説明はメールでいいですか」＝用邮件说明就行吗。要注意它和「〜がいいです」的差别：「お茶がいいです」是积极地想要茶（首选），「お茶でいいです」是“茶就凑合了”，听起来不太热情，接受别人好意时要小心选择。",
+    "explain_en": "Noun + でいいです means 'that will do; no need for anything better', with a nuance of settling: お茶でいいです. To confirm with someone, ask 〜でいいですか (メールでいいですか = is email OK?). Contrast 〜がいいです: お茶がいいです actively prefers tea, while お茶でいいです merely settles for it — the latter can sound lukewarm when responding to someone's hospitality.",
+    "examples": [
+      {
+        "ja": "飲み物はお茶でいいです。",
+        "furigana": "{飲|の}み{物|もの}はお{茶|ちゃ}でいいです。",
+        "zh": "喝的东西，茶就行了。",
+        "en": "Tea will be fine for me to drink."
+      },
+      {
+        "ja": "「ペンがないんですが。」「鉛筆でいいですよ。」",
+        "furigana": "「ペンがないんですが。」「{鉛筆|えんぴつ}でいいですよ。」",
+        "zh": "「我没有钢笔……」「铅笔就可以哦。」",
+        "en": "'I don't have a pen...' 'A pencil is fine.'"
+      },
+      {
+        "ja": "説明は明日のメールでいいですか。",
+        "furigana": "{説明|せつめい}は{明日|あした}のメールでいいですか。",
+        "zh": "说明用明天的邮件发可以吗？",
+        "en": "Is it all right if I explain by email tomorrow?"
+      }
+    ],
+    "note_zh": "「がいい」＝首选、积极想要；「でいい」＝可以接受、退而求其次。对方请客时说「水でいいです」会显得客气过头甚至失礼。",
+    "note_en": "がいい states a preference; でいい settles for something. Saying 水でいいです to a host can sound unenthusiastic."
+  },
+  {
+    "id": "g-n4-63",
+    "level": "N4",
+    "track": "grammar",
+    "group": "会话表现",
+    "pattern": "〜はちょっと…（言いさし・婉曲な断り）",
+    "meaning_zh": "…有点儿…（把话说一半，委婉拒绝）",
+    "meaning_en": "trailing off with ちょっと to decline politely",
+    "formation": "话题 + は + ちょっと…（后半句故意不说完）；常配「すみません」「その日は」等缓冲语",
+    "explain_zh": "日本人拒绝邀请时很少直说「行けません」「嫌です」，而是说「明日はちょっと…」，把“不方便”“不喜欢”留给对方去领会。这种“言いさし”（话说一半）不是含糊其辞，而是双方共知的礼貌规则：听到「ちょっと…」就应明白是拒绝，不要追问。拒绝时配上「すみません」和替代方案（また今度…）更自然。同样，「それはちょっと難しいですね」在商务日语里往往就是“不行”的意思。",
+    "explain_en": "Japanese speakers rarely refuse with a blunt 行けません; instead they say 明日はちょっと… and let the listener infer the refusal. This deliberate trailing-off is a shared politeness convention: hearing ちょっと…, you should understand it as 'no' and not press further. Pairing it with すみません and an alternative (また今度…) is most natural. Likewise, それはちょっと難しいですね in business Japanese usually simply means 'no'.",
+    "examples": [
+      {
+        "ja": "「明日、映画に行きませんか。」「すみません、明日はちょっと…。」",
+        "furigana": "「{明日|あした}、{映画|えいが}に{行|い}きませんか。」「すみません、{明日|あした}はちょっと…。」",
+        "zh": "「明天要不要去看电影？」「不好意思，明天有点儿……」",
+        "en": "'Want to see a movie tomorrow?' 'Sorry, tomorrow's a bit...'"
+      },
+      {
+        "ja": "「お酒はどうですか。」「ありがとうございます。でも、お酒はちょっと…。」",
+        "furigana": "「お{酒|さけ}はどうですか。」「ありがとうございます。でも、お{酒|さけ}はちょっと…。」",
+        "zh": "「喝点酒怎么样？」「谢谢。不过酒我有点儿……」",
+        "en": "'How about some sake?' 'Thank you, but alcohol is a bit...'"
+      },
+      {
+        "ja": "その日はちょっと都合が悪いんです。また今度お願いします。",
+        "furigana": "その{日|ひ}はちょっと{都合|つごう}が{悪|わる}いんです。また{今度|こんど}お{願|ねが}いします。",
+        "zh": "那天我有点不方便，下次再约吧。",
+        "en": "That day is a bit inconvenient for me — let's make it another time."
+      }
+    ],
+    "note_zh": "听到「ちょっと…」就是拒绝信号，不要再问「ちょっと何ですか」；自己拒绝时也别把理由说得太具体。",
+    "note_en": "ちょっと… is the refusal itself; never ask 'a bit what?'. When declining, leave the reason vague."
+  },
+  {
+    "id": "g-n4-64",
+    "level": "N4",
+    "track": "grammar",
+    "group": "会话表现",
+    "pattern": "〜ますように（願い事）",
+    "meaning_zh": "但愿…；祝愿…（许愿、祈祷的固定句式）",
+    "meaning_en": "may it be that ...; a set phrase for wishes and prayers",
+    "formation": "动词ます形 + ように。（合格しますように／早く元気になりますように）多单独成句",
+    "explain_zh": "许愿和祈祷时，把愿望说成「〜ますように。」，句子到此为止，后面的「祈っています」被省略了：「試験に合格しますように」。愿望内容多是自己不能完全控制的事，所以常用可能形、「なる」等非意志形式。写在绘马、贺卡上，或探病、送别时说，都是这个形式。为别人祈愿时也一样：「早く元気になりますように」。",
+    "explain_en": "Wishes and prayers take the form 〜ますように。 — a complete utterance with an implied 祈っています (I pray) omitted: 試験に合格しますように (may I pass the exam). Since the outcome is beyond full control, potential forms and なる are typical. This is what you write on ema plaques and greeting cards, or say when visiting the sick: 早く元気になりますように.",
+    "examples": [
+      {
+        "ja": "試験に合格しますように。",
+        "furigana": "{試験|しけん}に{合格|ごうかく}しますように。",
+        "zh": "但愿考试合格。",
+        "en": "May I pass the exam."
+      },
+      {
+        "ja": "早く元気になりますように。",
+        "furigana": "{早|はや}く{元気|げんき}になりますように。",
+        "zh": "祝你早日康复。",
+        "en": "May you get well soon."
+      },
+      {
+        "ja": "明日、いい天気になりますように。",
+        "furigana": "{明日|あした}、いい{天気|てんき}になりますように。",
+        "zh": "但愿明天是好天气。",
+        "en": "May the weather be nice tomorrow."
+      }
+    ],
+    "note_zh": "句尾就停在「ように」，不要再加「です」；表示目的的「ように」（N3）和这里的祈愿用法接续不同、功能不同。",
+    "note_en": "The sentence ends at ように — no です follows. The purposive ように (N3) is a different use."
+  },
+  {
+    "id": "g-n4-65",
+    "level": "N4",
+    "track": "grammar",
+    "group": "敬语",
+    "pattern": "お＋ます形＋です（お帰りです・お待ちです）",
+    "meaning_zh": "（尊敬）…着；正在…；要…（用名词化形式委婉表达对方的动作）",
+    "meaning_en": "honorific お + verb stem + です describing a superior's action or state",
+    "formation": "お + 动词ます形去ます + です（お帰りです、お待ちです、お持ちです、お読みです）",
+    "explain_zh": "「お＋ます形＋です」是一种简便的尊敬表达，把对方的动作名词化后用「です」收尾：「社長はもうお帰りですか」＝社长您已经要回去了吗。它可以覆盖“正在…”“将要…”“已经…”等多种时间含义，由语境决定，比「お〜になります」更轻巧，服务行业用得极多：「お客様がお待ちです」。只能用于值得尊敬的对方的动作，不能用于自己。",
+    "explain_en": "お + verb stem + です is a compact honorific that nominalises the superior's action: 社長はもうお帰りですか (Are you leaving already, President?). Context supplies the time reference — about to, currently, or already. Lighter than お〜になります, it is a staple of service language: お客様がお待ちです (a customer is waiting for you). It describes only the respected person's actions, never your own.",
+    "examples": [
+      {
+        "ja": "社長はもうお帰りですか。",
+        "furigana": "{社長|しゃちょう}はもうお{帰|かえ}りですか。",
+        "zh": "社长您这就回去了吗？",
+        "en": "Are you heading home already, President?"
+      },
+      {
+        "ja": "田中様、受付でお客様がお待ちです。",
+        "furigana": "{田中|たなか}{様|さま}、{受付|うけつけ}でお{客|きゃく}{様|さま}がお{待|ま}ちです。",
+        "zh": "田中先生，有客人在前台等您。",
+        "en": "Mr. Tanaka, a guest is waiting for you at reception."
+      },
+      {
+        "ja": "先生は毎朝この新聞をお読みです。",
+        "furigana": "{先生|せんせい}は{毎朝|まいあさ}この{新聞|しんぶん}をお{読|よ}みです。",
+        "zh": "老师每天早上都读这份报纸。",
+        "en": "The professor reads this newspaper every morning."
+      }
+    ],
+    "note_zh": "「お持ちですか」（您带了吗）「ご存知ですか」（您知道吗）是本句型的高频固定说法；对自己的动作要用谦让语「お〜する」。",
+    "note_en": "お持ちですか and ご存知ですか are set phrases of this pattern. For your own actions, switch to humble お〜する."
+  },
+  {
+    "id": "g-n4-66",
+    "level": "N4",
+    "track": "grammar",
+    "group": "敬语",
+    "pattern": "さしあげる・くださる・いただく（物の授受の敬語）",
+    "meaning_zh": "（我）献给…／…赐给（我）／（我）从…那里领受（物品授受的敬语版）",
+    "meaning_en": "honorific giving and receiving of things: humbly give / kindly give me / humbly receive",
+    "formation": "あげる→さしあげる（我方给尊长）；くれる→くださる（尊长给我方，ます形：くださいます）；もらう→いただく（我方从尊长处得到，对象用に／から）",
+    "explain_zh": "物品授受的三个动词各有敬语版：给尊长东西用「さしあげる」（谦让），尊长给我东西用「くださる」（尊敬），从尊长那里得到用「いただく」（谦让）。方向规则和「あげる・くれる・もらう」完全一致，只是提高了对对方的敬意：「先生にお土産をさしあげました」「部長がお祝いをくださいました」「先生に辞書をいただきました」。注意「くださる」的ます形是特殊的「くださいます」。",
+    "explain_en": "Each giving verb has an honorific counterpart: さしあげる (humbly give to a superior), くださる (a superior kindly gives to me; polite form くださいます), いただく (humbly receive from a superior, source marked with に/から). The direction rules are identical to あげる・くれる・もらう — only the respect level rises: 先生にお土産をさしあげました, 部長がお祝いをくださいました, 先生に辞書をいただきました.",
+    "examples": [
+      {
+        "ja": "先生に国のお土産をさしあげました。",
+        "furigana": "{先生|せんせい}に{国|くに}のお{土産|みやげ}をさしあげました。",
+        "zh": "我把家乡的特产送给了老师。",
+        "en": "I gave my teacher a souvenir from my country."
+      },
+      {
+        "ja": "部長が結婚のお祝いをくださいました。",
+        "furigana": "{部長|ぶちょう}が{結婚|けっこん}のお{祝|いわ}いをくださいました。",
+        "zh": "部长送了我结婚贺礼。",
+        "en": "The department head kindly gave me a wedding gift."
+      },
+      {
+        "ja": "先生にこの辞書をいただきました。",
+        "furigana": "{先生|せんせい}にこの{辞書|じしょ}をいただきました。",
+        "zh": "这本词典是老师送给我的。",
+        "en": "I received this dictionary from my teacher."
+      }
+    ],
+    "note_zh": "「いただきます」（开动了）就是「いただく」的固定用法——“我领受了（这份食物）”。搭配动词的「〜てさしあげる」等见N4敬语条目。",
+    "note_en": "The mealtime いただきます is this verb — 'I humbly receive (this food)'. The 〜て+auxiliary versions are separate N4 entries."
+  },
+  {
+    "id": "g-n4-67",
+    "level": "N4",
+    "track": "grammar",
+    "group": "数量・助数词",
+    "pattern": "助数詞の拡張（〜台・〜匹・〜杯・〜足・〜軒）",
+    "meaning_zh": "数机器用台、小动物用匹、杯装饮料用杯、鞋袜用足、房屋用轩（量词的扩展）",
+    "meaning_en": "more counters: 台 for machines, 匹 for small animals, 杯 for cupfuls, 足 for footwear, 軒 for houses",
+    "formation": "数字 + 台（车・机器）／匹（小动物）／杯（杯・碗）／足（鞋・袜）／軒（房屋）。注意音变：一匹いっぴき・三匹さんびき、一杯いっぱい・三杯さんばい、一足いっそく",
+    "explain_zh": "在N5的「つ・人・枚・本・冊」之外，N4要求掌握更多量词：车和电器用「台」，猫狗鱼等小动物用「匹」，杯装、碗装的饮食用「杯」，成双的鞋袜用「足」，房屋店铺用「軒」。难点在于1・3・6・8等数字处的音变，规律和「本」相同：一杯（いっぱい）、三杯（さんばい）、六匹（ろっぴき）。提问用「何台」「何匹」「何杯」。数量词的位置照旧放在动词前，不加助词。",
+    "explain_en": "Beyond the N5 counters, N4 adds 台 for vehicles and machines, 匹 for small animals, 杯 for cups and bowls, 足 for pairs of footwear, and 軒 for buildings. The difficulty is the sound changes at 1, 3, 6 and 8, following the same pattern as 本: いっぱい, さんばい, ろっぴき. Questions use 何台, 何匹, 何杯, and the counter still sits before the verb without a particle.",
+    "examples": [
+      {
+        "ja": "駐車場に車が三台止まっています。",
+        "furigana": "{駐車場|ちゅうしゃじょう}に{車|くるま}が{三台|さんだい}{止|と}まっています。",
+        "zh": "停车场里停着三辆车。",
+        "en": "Three cars are parked in the parking lot."
+      },
+      {
+        "ja": "うちには猫が二匹います。",
+        "furigana": "うちには{猫|ねこ}が{二匹|にひき}います。",
+        "zh": "我家养了两只猫。",
+        "en": "We have two cats at home."
+      },
+      {
+        "ja": "昨日はコーヒーを三杯も飲んでしまいました。",
+        "furigana": "{昨日|きのう}はコーヒーを{三杯|さんばい}も{飲|の}んでしまいました。",
+        "zh": "昨天我竟然喝了三杯咖啡。",
+        "en": "Yesterday I ended up drinking three whole cups of coffee."
+      }
+    ],
+    "note_zh": "音变三兄弟：一（いっ〜）・六（ろっ〜）・八（はっ〜）促音化，三（さん〜）后浊音化——匹・杯・本都遵守这套规律。",
+    "note_en": "1, 6 and 8 trigger a small っ (いっぴき), and 3 voices the consonant (さんびき) — the same rules as for 本."
+  },
+  {
+    "id": "g-n4-68",
+    "level": "N4",
+    "track": "grammar",
+    "group": "口语缩约",
+    "pattern": "〜て（い）る／〜て（い）た（口語縮約）",
+    "meaning_zh": "「ている」在口语中缩成「てる」（正在…；…着）",
+    "meaning_en": "colloquial contraction of ている to てる (and ていた to てた)",
+    "formation": "〜ている→〜てる、〜ていた→〜てた、〜ていない→〜てない、〜でいる→〜でる（読んでる）",
+    "explain_zh": "日常会话里「ている」的「い」几乎总被吞掉：「何してるの？」「知らない、聞いてない」。整个活用系列都会缩约：てる・てた・てない・てて（ください）。这是自然口语的标配，动漫、日剧里到处都是；但书面语和郑重场合要写全「ています」。听力时要能把「してる」还原成「している」，否则会误以为是不认识的词。自己说话时，简体会话用「てる」反而更自然。",
+    "explain_en": "In everyday speech the い of ている is almost always swallowed: 何してるの? 知らない、聞いてない. The whole paradigm contracts — てる, てた, てない, てて(ください). It is standard in casual talk, anime and dramas, but formal writing keeps the full ています. For listening, train yourself to expand してる back to している; in casual conversation, using てる yourself sounds more natural than the full form.",
+    "examples": [
+      {
+        "ja": "今、何してるの？",
+        "furigana": "{今|いま}、{何|なに}してるの？",
+        "zh": "你现在在干什么？",
+        "en": "What are you doing right now?"
+      },
+      {
+        "ja": "昨日の夜はずっとテレビを見てた。",
+        "furigana": "{昨日|きのう}の{夜|よる}はずっとテレビを{見|み}てた。",
+        "zh": "昨天晚上我一直在看电视。",
+        "en": "Last night I was watching TV the whole time."
+      },
+      {
+        "ja": "ごめん、その話はまだ聞いてない。",
+        "furigana": "ごめん、その{話|はなし}はまだ{聞|き}いてない。",
+        "zh": "抱歉，那件事我还没听说。",
+        "en": "Sorry, I haven't heard about that yet."
+      }
+    ],
+    "note_zh": "「〜ちゃう」「〜とく」「〜なきゃ」等其他缩约形见N3；考试作文里请写完整的「ている」。",
+    "note_en": "Other contractions (ちゃう, とく, なきゃ) are covered at N3. In exam writing, always use the full ている."
+  }
+]

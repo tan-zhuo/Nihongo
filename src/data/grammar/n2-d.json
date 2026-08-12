@@ -1,0 +1,1086 @@
+[
+ {
+  "id": "g-n2-117",
+  "level": "N2",
+  "track": "grammar",
+  "group": "基準・根拠",
+  "pattern": "〜に基づいて／〜に基づく",
+  "meaning_zh": "基于……；以……为依据",
+  "meaning_en": "based on, on the basis of",
+  "formation": "名词 + に基づいて／に基づき／に基づく+名词／に基づいた+名词",
+  "explain_zh": "硬い書き言葉，法律条文、合同、论文和商务文书里的高频表达，口语一般说「〜をもとに」。前项是判断或行为所依据的抽象事物（法律・規則・データ・調査・経験），后项必须忠实地按照它进行，不能随意偏离。与「〜をもとに」的区别是：をもとに只是取材料来加工创造，成品可以离原型很远；に基づいて强调以依据为准绳。中止形「に基づき」和连体形「に基づく／に基づいた」见于更正式的文体。",
+  "explain_en": "Stiff written Japanese, ubiquitous in statutes, contracts, papers and business documents; speech prefers 〜をもとに. The first element is an abstract basis such as a law, rule, data set or survey, and the action conforms to it faithfully. Unlike 〜をもとに, which takes something merely as raw material for free adaptation, に基づいて implies staying true to the basis. The clipped に基づき and attributive に基づく／に基づいた belong to still more formal prose.",
+  "examples": [
+   {
+    "ja": "調査の結果に基づいて、改善策を検討した。",
+    "furigana": "{調査|ちょうさ}の{結果|けっか}に{基|もと}づいて、{改善策|かいぜんさく}を{検討|けんとう}した。",
+    "zh": "基于调查结果，讨论了改进措施。",
+    "en": "Improvement measures were considered on the basis of the survey results."
+   },
+   {
+    "ja": "本制度は労働基準法に基づいて運用されている。",
+    "furigana": "{本制度|ほんせいど}は{労働基準法|ろうどうきじゅんほう}に{基|もと}づいて{運用|うんよう}されている。",
+    "zh": "本制度是依据《劳动基准法》运行的。",
+    "en": "This system is administered in accordance with the Labor Standards Act."
+   },
+   {
+    "ja": "事実に基づかない報道は許されない。",
+    "furigana": "{事実|じじつ}に{基|もと}づかない{報道|ほうどう}は{許|ゆる}されない。",
+    "zh": "不以事实为依据的报道是不可容许的。",
+    "en": "Reporting that is not grounded in fact cannot be tolerated."
+   }
+  ],
+  "note_zh": "前项须是抽象依据（法律、数据等），不能是具体物品；否定连体形「事実に基づかない〜」在新闻中也很常见。",
+  "note_en": "The basis must be abstract (laws, data), not a physical object. The negative attributive 事実に基づかない is common in news."
+ },
+ {
+  "id": "g-n2-118",
+  "level": "N2",
+  "track": "grammar",
+  "group": "基準・根拠",
+  "pattern": "〜をもとに（して）",
+  "meaning_zh": "以……为素材／基础（进行创作、加工）",
+  "meaning_en": "based on, drawing on ... as material",
+  "formation": "名词 + をもとに（して）／をもとにした+名词",
+  "explain_zh": "中性偏书面的表达，报道、说明文和会话里都能用。前项是创作或判断的素材、出发点（実話・経験・データ・アンケート），后项多是「作る・書く・開発する・考える」这类创造性动作，成品可以对原材料自由加工。与「〜に基づいて」的分工要记清：需要忠实遵循的规范用に基づいて，只是取材加工用をもとに，所以小说、电影的取材几乎都说「実話をもとに」。",
+  "explain_en": "Neutral, slightly written-leaning, and usable in reporting, expository prose and conversation. The first element is the material or starting point (a true story, experience, data, a survey) and the predicate is typically creative — making, writing, developing, thinking — with free adaptation allowed. Contrast with 〜に基づいて: norms to be followed faithfully take に基づいて, whereas source material freely reworked takes をもとに, which is why films are 実話をもとに.",
+  "examples": [
+   {
+    "ja": "この映画は実話をもとにして作られた。",
+    "furigana": "この{映画|えいが}は{実話|じつわ}をもとにして{作|つく}られた。",
+    "zh": "这部电影是根据真实故事改编的。",
+    "en": "This film was made based on a true story."
+   },
+   {
+    "ja": "アンケートの結果をもとに、新商品を開発した。",
+    "furigana": "アンケートの{結果|けっか}をもとに、{新商品|しんしょうひん}を{開発|かいはつ}した。",
+    "zh": "以问卷调查的结果为基础，开发了新产品。",
+    "en": "Drawing on the survey results, we developed a new product."
+   }
+  ],
+  "note_zh": "修饰名词用「をもとにした＋名词」：「実話をもとにした小説」；「をもとにする小説」不自然。",
+  "note_en": "Before a noun use をもとにした: 実話をもとにした小説. をもとにする+noun sounds unnatural."
+ },
+ {
+  "id": "g-n2-119",
+  "level": "N2",
+  "track": "grammar",
+  "group": "基準・根拠",
+  "pattern": "〜に沿って",
+  "meaning_zh": "沿着……；按照……（不偏离）",
+  "meaning_en": "along; in line with, following",
+  "formation": "名词 + に沿って／に沿い／に沿った+名词／に沿う+名词",
+  "explain_zh": "书面语色彩较强，商务文书和公告中常见。有两个用法：一是物理上「沿着」细长的事物（川・道路・海岸），二是抽象地「按照、不偏离」方针、计划、期待（方針・マニュアル・期待に沿う）。抽象用法与「〜に従って」接近，但に沿って强调贴合大方向而非服从命令，所以「命令に沿って」不自然，应说「命令に従って」。商务上「ご期待に沿えるよう努力いたします」是固定客套。",
+  "explain_en": "Fairly formal, common in business writing and notices. Two uses: physically 'along' something long and thin (a river, road, coast), and abstractly 'in line with' a policy, plan or expectations without deviating. In the abstract use it resembles 〜に従って, but に沿って means keeping to a general direction rather than obeying an order, so 命令に沿って is off — use 命令に従って. The business formula ご期待に沿えるよう努力いたします is a fixed courtesy.",
+  "examples": [
+   {
+    "ja": "川に沿って桜並木が続いている。",
+    "furigana": "{川|かわ}に{沿|そ}って{桜並木|さくらなみき}が{続|つづ}いている。",
+    "zh": "沿着河边，樱花树连绵不断。",
+    "en": "A row of cherry trees stretches along the river."
+   },
+   {
+    "ja": "会社の方針に沿って、新しい企画を立てた。",
+    "furigana": "{会社|かいしゃ}の{方針|ほうしん}に{沿|そ}って、{新|あたら}しい{企画|きかく}を{立|た}てた。",
+    "zh": "按照公司的方针，制定了新的企划。",
+    "en": "We drew up a new project in line with company policy."
+   },
+   {
+    "ja": "ご期待に沿えず、誠に申し訳ございません。",
+    "furigana": "ご{期待|きたい}に{沿|そ}えず、{誠|まこと}に{申|もう}し{訳|わけ}ございません。",
+    "zh": "未能不负您的期望，实在非常抱歉。",
+    "en": "We sincerely apologize for not being able to meet your expectations."
+   }
+  ],
+  "note_zh": "修饰名词用「に沿った＋名词」最自然：「マニュアルに沿った対応」。",
+  "note_en": "Before a noun, に沿った is most natural: マニュアルに沿った対応."
+ },
+ {
+  "id": "g-n2-120",
+  "level": "N2",
+  "track": "grammar",
+  "group": "基準・根拠",
+  "pattern": "〜に従って／〜に従い",
+  "meaning_zh": "遵照……；随着……（而相应变化）",
+  "meaning_en": "in accordance with; as ... progresses",
+  "formation": "名词／动词辞书形 + に従って／に従い",
+  "explain_zh": "偏书面的正式表达，规章说明和新闻中常见。两个用法要分开记：接名词（指示・規則・慣習）时表示「遵照、服从」；接变化类动词辞书形时表示「随着前项推进，后项也相应变化」，与「〜につれて」相近。遵照用法隐含上下关系或权威性，所以对象是指示、规定、习俗这类「该听从的东西」。中止形「に従い」更正式，多用于公告。",
+  "explain_en": "Formal and writing-leaning, frequent in regulations and news. Two uses: with a noun (instructions, rules, customs) it means to comply with or obey; with a change verb in dictionary form it means the second thing shifts in step with the first, close to 〜につれて. The compliance use implies authority — the object is something one ought to follow. The clipped に従い is more formal and typical of announcements.",
+  "examples": [
+   {
+    "ja": "係員の指示に従って行動してください。",
+    "furigana": "{係員|かかりいん}の{指示|しじ}に{従|したが}って{行動|こうどう}してください。",
+    "zh": "请按照工作人员的指示行动。",
+    "en": "Please act according to the staff's instructions."
+   },
+   {
+    "ja": "高度が上がるに従って、気温は下がっていく。",
+    "furigana": "{高度|こうど}が{上|あ}がるに{従|したが}って、{気温|きおん}は{下|さ}がっていく。",
+    "zh": "随着高度上升，气温逐渐下降。",
+    "en": "As the altitude rises, the temperature keeps falling."
+   },
+   {
+    "ja": "慣習に従い、式は神社で行われた。",
+    "furigana": "{慣習|かんしゅう}に{従|したが}い、{式|しき}は{神社|じんじゃ}で{行|おこな}われた。",
+    "zh": "遵照习俗，仪式在神社举行。",
+    "en": "Following custom, the ceremony was held at a shrine."
+   }
+  ],
+  "note_zh": "「随着」用法前项须是有渐进过程的变化动词，一次性动作不行；这一点与「〜につれて」相同。",
+  "note_en": "In the 'as ... progresses' use, the first verb must denote gradual change, never a one-off action — same restriction as 〜につれて."
+ },
+ {
+  "id": "g-n2-121",
+  "level": "N2",
+  "track": "grammar",
+  "group": "基準・根拠",
+  "pattern": "〜のもとで／〜のもとに",
+  "meaning_zh": "在……之下（指导、影响、条件）",
+  "meaning_en": "under (guidance, conditions, the name of)",
+  "formation": "名词 + のもとで／のもとに",
+  "explain_zh": "书面语，论文、报道和正式介绍中常用。「のもとで」表示在某人的指导、庇护或某种环境条件之下进行活动（先生のもとで学ぶ・厳しい環境のもとで）；「のもとに」偏向「在……的名义、前提、条件之下」（合意のもとに・法のもとに平等）。口语里说「〜の下（した）で」反而不自然，日常表达用「〜に教わって」「〜と一緒に」等改说。汉字写作「下」，读「もと」。",
+  "explain_en": "Written style, common in papers, reporting and formal introductions. のもとで marks activity under someone's guidance or protection or under certain conditions (先生のもとで学ぶ); のもとに leans toward 'under the name/premise of' (合意のもとに, 法のもとに平等). It may be written 下 but is always read もと. Everyday speech rephrases with 〜に教わって or 〜と一緒に.",
+  "examples": [
+   {
+    "ja": "田中教授のもとで研究を続けている。",
+    "furigana": "{田中教授|たなかきょうじゅ}のもとで{研究|けんきゅう}を{続|つづ}けている。",
+    "zh": "我在田中教授的指导下继续做研究。",
+    "en": "I am continuing my research under Professor Tanaka."
+   },
+   {
+    "ja": "両者の合意のもとに、契約が結ばれた。",
+    "furigana": "{両者|りょうしゃ}の{合意|ごうい}のもとに、{契約|けいやく}が{結|むす}ばれた。",
+    "zh": "在双方合意的前提下签订了合同。",
+    "en": "The contract was concluded on the basis of mutual agreement."
+   },
+   {
+    "ja": "すべての国民は法のもとに平等である。",
+    "furigana": "すべての{国民|こくみん}は{法|ほう}のもとに{平等|びょうどう}である。",
+    "zh": "所有国民在法律之下一律平等。",
+    "en": "All citizens are equal under the law."
+   }
+  ],
+  "note_zh": "「法のもとに平等」「太陽のもとで」等多为固定搭配；表示物理上的正下方时用「〜の下（した）」，不要混淆。",
+  "note_en": "Collocations like 法のもとに平等 are fixed. For literal 'underneath' use 〜の下（した）, not もと."
+ },
+ {
+  "id": "g-n2-122",
+  "level": "N2",
+  "track": "grammar",
+  "group": "基準・根拠",
+  "pattern": "〜を通じて／〜を通して",
+  "meaning_zh": "通过……（媒介、手段）；整个……期间",
+  "meaning_en": "through, via; throughout (a period)",
+  "formation": "名词 + を通じて／を通して",
+  "explain_zh": "两者意思基本相同，都有「以……为媒介、手段」和「整个期间、范围」两个用法。语体上「を通じて」更偏硬い書き言葉，新闻和论文常用；「を通して」口语书面皆可，且更强调有意识地利用该媒介。媒介用法的前项是人、组织、活动、媒体（友人・インターネット・報道・経験）；期间用法接「一年・生涯」等表示「自始至终」。日常会话更常直接说「〜で」。",
+  "explain_en": "Nearly interchangeable, each with two uses: 'through a medium or channel' and 'throughout a period or area'. を通じて is stiffer and favoured in news and academic prose; を通して also works in speech and stresses deliberate use of the channel. The medium can be a person, organization, activity or medium (a friend, the internet, reporting, experience); the durative use takes spans like 一年 or 生涯. Casual speech often just uses 〜で.",
+  "examples": [
+   {
+    "ja": "友人を通じて、彼女と知り合った。",
+    "furigana": "{友人|ゆうじん}を{通|つう}じて、{彼女|かのじょ}と{知|し}り{合|あ}った。",
+    "zh": "我通过朋友认识了她。",
+    "en": "I got to know her through a friend."
+   },
+   {
+    "ja": "この地方は一年を通して温暖だ。",
+    "furigana": "この{地方|ちほう}は{一年|いちねん}を{通|とお}して{温暖|おんだん}だ。",
+    "zh": "这个地区一年到头都很温暖。",
+    "en": "This region is mild throughout the year."
+   },
+   {
+    "ja": "報道を通じて、事件の詳細が明らかになった。",
+    "furigana": "{報道|ほうどう}を{通|つう}じて、{事件|じけん}の{詳細|しょうさい}が{明|あき}らかになった。",
+    "zh": "通过新闻报道，事件的详情得以公开。",
+    "en": "Through news coverage, the details of the incident came to light."
+   }
+  ],
+  "note_zh": "读音注意：通じて（つうじて）／通して（とおして）；「〜を通じての＋名词」「〜を通しての＋名词」都可修饰名词。",
+  "note_en": "Mind the readings: 通じて (tsūjite) vs 通して (tōshite). Both take の before a noun: 〜を通じての交流."
+ },
+ {
+  "id": "g-n2-123",
+  "level": "N2",
+  "track": "grammar",
+  "group": "基準・根拠",
+  "pattern": "〜を中心に（して）／〜を中心として",
+  "meaning_zh": "以……为中心；以……为主",
+  "meaning_en": "centering on, mainly around",
+  "formation": "名词 + を中心に（して）／を中心として／を中心とする+名词",
+  "explain_zh": "中性表达，新闻、报告和会话都常用。表示某个人、事物或地点处于范围或活动的核心位置，其余围绕它展开，前项常是地点、人物、群体或话题。「を中心として」「を中心とした＋名词」更书面，公文和论文里多见。与「〜をはじめ」不同：をはじめ是举出代表再泛指同类，を中心に强调核心与周边的主次关系。",
+  "explain_en": "Neutral and common in news, reports and conversation. It marks a person, thing or place as the core around which a range or activity is organized; the first element is often a place, person, group or topic. を中心として and attributive を中心とした are more formal, typical of official documents and papers. Unlike 〜をはじめ, which names a representative example and generalizes, を中心に stresses a core-versus-periphery relation.",
+  "examples": [
+   {
+    "ja": "駅を中心に、商業施設が広がっている。",
+    "furigana": "{駅|えき}を{中心|ちゅうしん}に、{商業施設|しょうぎょうしせつ}が{広|ひろ}がっている。",
+    "zh": "以车站为中心，商业设施向四周延伸。",
+    "en": "Commercial facilities spread out around the station."
+   },
+   {
+    "ja": "この歌は若者を中心として人気を集めている。",
+    "furigana": "この{歌|うた}は{若者|わかもの}を{中心|ちゅうしん}として{人気|にんき}を{集|あつ}めている。",
+    "zh": "这首歌主要在年轻人当中广受欢迎。",
+    "en": "This song is gaining popularity mainly among young people."
+   }
+  ],
+  "note_zh": "修饰名词说「〜を中心とする／とした＋名词」：「東京を中心とした首都圏」。",
+  "note_en": "Before a noun use 〜を中心とする／とした: 東京を中心とした首都圏."
+ },
+ {
+  "id": "g-n2-124",
+  "level": "N2",
+  "track": "grammar",
+  "group": "基準・根拠",
+  "pattern": "〜に応えて",
+  "meaning_zh": "回应……；不辜负……（期待、要求）",
+  "meaning_en": "in response to (expectations, requests)",
+  "formation": "名词 + に応えて／に応え／に応える",
+  "explain_zh": "偏正式的书面表达，新闻和商务文书常见。前项限于来自他人的期待、要求、声援（期待・要望・リクエスト・声援・アンコール），后项是主语为回应它而积极行动，含「不辜负」的正面语感。与「〜に応じて（おうじて）」形近义异：に応じて是「根据情况灵活调整」，に応えて是「回应呼声」，读音也不同（こたえて），考试常放在一起考。",
+  "explain_en": "Formal and writing-leaning, frequent in news and business documents. The first element must be expectations, demands, cheers or requests coming from others, and the subject acts positively to answer them, with a nuance of living up to them. Do not confuse it with 〜に応じて (おうじて), which means adjusting according to circumstances; this one is read こたえて and means answering a call — a favourite exam contrast.",
+  "examples": [
+   {
+    "ja": "住民の要望に応えて、図書館の開館時間が延長された。",
+    "furigana": "{住民|じゅうみん}の{要望|ようぼう}に{応|こた}えて、{図書館|としょかん}の{開館時間|かいかんじかん}が{延長|えんちょう}された。",
+    "zh": "为回应居民的要求，图书馆延长了开馆时间。",
+    "en": "In response to residents' requests, the library's opening hours were extended."
+   },
+   {
+    "ja": "ファンの声援に応え、選手は最後まで走り抜いた。",
+    "furigana": "ファンの{声援|せいえん}に{応|こた}え、{選手|せんしゅ}は{最後|さいご}まで{走|はし}り{抜|ぬ}いた。",
+    "zh": "为了不辜负粉丝的助威，选手坚持跑完了全程。",
+    "en": "Answering the fans' cheers, the athlete ran hard to the very end."
+   }
+  ],
+  "note_zh": "句末可用「〜に応える」结句：「期待に応えたい」；前项不能是规则、法律等（那要用に従って）。",
+  "note_en": "It can end a clause as 〜に応える (期待に応えたい). Rules and laws cannot fill the first slot — use に従って for those."
+ },
+ {
+  "id": "g-n2-125",
+  "level": "N2",
+  "track": "grammar",
+  "group": "基準・根拠",
+  "pattern": "〜のことだから",
+  "meaning_zh": "因为是……（基于对其了解而推测）",
+  "meaning_en": "knowing ..., given what ... is like",
+  "formation": "名词（多为人物）+ のことだから",
+  "explain_zh": "口语色彩较强，日常会话和书信里用，正式文书不用。前项几乎总是说话人和听话人都熟悉的人物，基于对其性格、习惯的了解推出后项，因此后项常带「だろう・に違いない・はずだ」等推量表达。前面常加一句点明性格的修饰语（まじめな彼・心配性の母），推测既可以是好事也可以是坏事。",
+  "explain_en": "Colloquial, used in conversation and letters but not formal documents. The noun is almost always a person both speaker and listener know well; the conclusion is inferred from that person's character or habits, so the main clause typically carries だろう, に違いない or はずだ. A character-describing modifier often precedes (まじめな彼, 心配性の母), and the inference may be positive or negative.",
+  "examples": [
+   {
+    "ja": "まじめな彼のことだから、時間どおりに来るだろう。",
+    "furigana": "まじめな{彼|かれ}のことだから、{時間|じかん}どおりに{来|く}るだろう。",
+    "zh": "他那么认真，肯定会准时来的。",
+    "en": "Knowing how conscientious he is, he will surely come on time."
+   },
+   {
+    "ja": "心配性の母のことだから、もう駅に着いているに違いない。",
+    "furigana": "{心配性|しんぱいしょう}の{母|はは}のことだから、もう{駅|えき}に{着|つ}いているに{違|ちが}いない。",
+    "zh": "我妈那么爱操心，现在肯定已经到车站了。",
+    "en": "Knowing my worrier of a mother, she must already be at the station."
+   }
+  ],
+  "note_zh": "前项基本限于人（或拟人化的组织）；对不了解的人不能用。",
+  "note_en": "The noun is basically limited to people (or personified organizations) whose character is known; it cannot describe strangers."
+ },
+ {
+  "id": "g-n2-126",
+  "level": "N2",
+  "track": "grammar",
+  "group": "基準・根拠",
+  "pattern": "〜を境に（して）",
+  "meaning_zh": "以……为分界，（前后发生明显变化）",
+  "meaning_en": "marking the turning point of, from ... on",
+  "formation": "名词（时间、事件）+ を境に（して）／を境として",
+  "explain_zh": "偏书面的表达，报道和回忆性叙述中常见。前项是时间点或事件（結婚・事故・その日・四十歳），以它为分界线，之前和之后的状态形成鲜明对比，后项必须描述变化。与「〜をきっかけに」的区别：きっかけ强调引发新行动的契机，を境に强调前后判若两然的分水岭，常用于自然而然的转变。",
+  "explain_en": "Writing-leaning, common in reporting and reminiscent narration. The first element is a point in time or an event (marriage, an accident, that day, age forty) serving as a dividing line, with a clear before-after contrast; the main clause must describe change. Unlike 〜をきっかけに, which marks a trigger for a new action, を境に marks a watershed after which things were simply different, often without deliberate action.",
+  "examples": [
+   {
+    "ja": "その事件を境に、二人の関係は変わってしまった。",
+    "furigana": "その{事件|じけん}を{境|さかい}に、{二人|ふたり}の{関係|かんけい}は{変|か}わってしまった。",
+    "zh": "以那件事为分界，两人的关系彻底变了。",
+    "en": "That incident marked the point after which their relationship changed for good."
+   },
+   {
+    "ja": "四十歳を境にして、体力の衰えを感じるようになった。",
+    "furigana": "{四十歳|よんじゅっさい}を{境|さかい}にして、{体力|たいりょく}の{衰|おとろ}えを{感|かん}じるようになった。",
+    "zh": "过了四十岁这道坎，我开始感到体力衰退。",
+    "en": "Once I crossed forty, I began to feel my strength declining."
+   }
+  ],
+  "note_zh": "后项若不是变化（如单纯的一次性动作），句子不成立；「これを境に」是常见的承接说法。",
+  "note_en": "The main clause must express change, not a one-off action. これを境に is a common connective phrase."
+ },
+ {
+  "id": "g-n2-127",
+  "level": "N2",
+  "track": "grammar",
+  "group": "話題・観点",
+  "pattern": "〜において／〜における",
+  "meaning_zh": "在……（场所、时间、领域、方面）",
+  "meaning_en": "in, at, in the field of (formal)",
+  "formation": "名词 + において／においては／における+名词",
+  "explain_zh": "典型的硬い書き言葉，论文、致辞、公告里代替「で」使用，日常会话里说「で」即可，说において会显得过于郑重。前项可以是场所、时间、领域、方面（会議室・現代・分野・点），比「で」的适用面更广，抽象领域尤其常用。连体形「における」修饰名词（現代社会における役割），这是「で」做不到的，也是它在学术写作里不可替代的原因。",
+  "explain_en": "Classic stiff written Japanese replacing で in papers, addresses and notices; in conversation plain で suffices and において sounds ceremonious. The noun can be a place, time, field or respect, a wider range than で, and abstract domains especially favour it. The attributive における modifies nouns (現代社会における役割) — something で cannot do, which makes it indispensable in academic writing.",
+  "examples": [
+   {
+    "ja": "会議は第一会議室において行われる。",
+    "furigana": "{会議|かいぎ}は{第一会議室|だいいちかいぎしつ}において{行|おこな}われる。",
+    "zh": "会议将在第一会议室举行。",
+    "en": "The meeting will be held in Conference Room 1."
+   },
+   {
+    "ja": "現代社会におけるメディアの役割について論じる。",
+    "furigana": "{現代社会|げんだいしゃかい}におけるメディアの{役割|やくわり}について{論|ろん}じる。",
+    "zh": "本文论述媒体在现代社会中的作用。",
+    "en": "This paper discusses the role of the media in modern society."
+   },
+   {
+    "ja": "彼はその分野において高い評価を得ている。",
+    "furigana": "{彼|かれ}はその{分野|ぶんや}において{高|たか}い{評価|ひょうか}を{得|え}ている。",
+    "zh": "他在该领域获得了很高的评价。",
+    "en": "He is highly regarded in that field."
+   }
+  ],
+  "note_zh": "「〜においては」加「は」表示对比强调；抽象的「方面」义（技術の点において）不能换成单纯的「で」。",
+  "note_en": "〜においては adds contrastive は. In the abstract 'in respect of' sense (技術の点において), plain で is not a substitute."
+ },
+ {
+  "id": "g-n2-128",
+  "level": "N2",
+  "track": "grammar",
+  "group": "話題・観点",
+  "pattern": "〜にわたって／〜にわたる",
+  "meaning_zh": "历时……；遍及……（范围之广）",
+  "meaning_en": "over, spanning, extending across",
+  "formation": "名词（期间、范围、次数）+ にわたって／にわたり／にわたる+名词",
+  "explain_zh": "硬い書き言葉，新闻报道的常客，口语里说「〜の間ずっと」。前项是期间、空间范围或次数（三か月・十年・全域・数回），强调「范围之大、时间之长」，因此接短小的数量会不自然，「三分間にわたって」只有在强调其异常长时才成立。中止形「にわたり」和连体形「にわたる＋名词」都常见。与「〜を通じて」的期间用法相比，にわたって带有对规模的评价色彩。",
+  "explain_en": "Stiff written Japanese, a fixture of news reporting; speech says 〜の間ずっと. The noun is a period, spatial extent or number of times, and the pattern stresses impressive scale, so small quantities sound odd — 三分間にわたって works only when three minutes is remarkably long. Both the clipped にわたり and attributive にわたる are common. Compared with the durative use of 〜を通じて, にわたって evaluates the scale as large.",
+  "examples": [
+   {
+    "ja": "改修工事は三か月にわたって行われた。",
+    "furigana": "{改修工事|かいしゅうこうじ}は{三|さん}か{月|げつ}にわたって{行|おこな}われた。",
+    "zh": "改建工程历时三个月。",
+    "en": "The renovation work went on for three whole months."
+   },
+   {
+    "ja": "十年にわたる交渉の末、両国はようやく合意に達した。",
+    "furigana": "{十年|じゅうねん}にわたる{交渉|こうしょう}の{末|すえ}、{両国|りょうこく}はようやく{合意|ごうい}に{達|たっ}した。",
+    "zh": "经过长达十年的谈判，两国终于达成了协议。",
+    "en": "After negotiations spanning ten years, the two countries finally reached an agreement."
+   }
+  ],
+  "note_zh": "前项须是有幅度的范围词，「昨日にわたって」不成立；书面还常见「詳細にわたって」（涉及到每个细节）。",
+  "note_en": "The noun must denote extent; 昨日にわたって is impossible. 詳細にわたって (down to every detail) is a common written collocation."
+ },
+ {
+  "id": "g-n2-129",
+  "level": "N2",
+  "track": "grammar",
+  "group": "話題・観点",
+  "pattern": "〜をめぐって／〜をめぐる",
+  "meaning_zh": "围绕……（争论、对立、议论）",
+  "meaning_en": "over, concerning (a dispute or debate)",
+  "formation": "名词 + をめぐって／をめぐり／をめぐる+名词",
+  "explain_zh": "书面语，新闻报道的高频表达，口语里多说「〜のことで」。前项是引起多方争议的焦点（遺産・移設・法案・解釈），后项必须是复数当事者之间的争论、对立、议论类动词（争う・対立する・議論する・もめる），单人的思考或态度不能用，「その問題をめぐって考えた」是错句，要说「について考えた」。连体形「をめぐる＋名词」在新闻标题里极常见。",
+  "explain_en": "Written style, very frequent in news; casually one says 〜のことで. The noun is a bone of contention (an inheritance, a relocation, a bill, an interpretation), and the predicate must involve multiple parties disputing, clashing or debating (争う, 対立する, 議論する). One person's private thinking does not qualify: その問題をめぐって考えた is wrong — use について. The attributive をめぐる is a staple of headlines.",
+  "examples": [
+   {
+    "ja": "遺産をめぐって、兄弟が争っている。",
+    "furigana": "{遺産|いさん}をめぐって、{兄弟|きょうだい}が{争|あらそ}っている。",
+    "zh": "兄弟几人正围绕遗产争执不下。",
+    "en": "The brothers are fighting over the inheritance."
+   },
+   {
+    "ja": "基地の移設をめぐる議論は、今も続いている。",
+    "furigana": "{基地|きち}の{移設|いせつ}をめぐる{議論|ぎろん}は、{今|いま}も{続|つづ}いている。",
+    "zh": "围绕基地搬迁的争论至今仍在继续。",
+    "en": "The debate over relocating the base continues to this day."
+   }
+  ],
+  "note_zh": "与「〜について」的区别：について是单纯的话题，をめぐって必须有多方角力的语感。",
+  "note_en": "Unlike neutral について, をめぐって requires a sense of several parties contending around the issue."
+ },
+ {
+  "id": "g-n2-130",
+  "level": "N2",
+  "track": "grammar",
+  "group": "話題・観点",
+  "pattern": "〜にかけては",
+  "meaning_zh": "在……方面（数一数二、最擅长）",
+  "meaning_en": "when it comes to (someone excels)",
+  "formation": "名词 + にかけては",
+  "explain_zh": "口语和一般书面语通用，用来限定「唯独在这个方面」并给予高度评价，后项几乎总是「誰にも負けない・一番だ・右に出る者はいない」这类褒奖。这是它和中性的「〜については」的根本区别：にかけては自带称赞语气，不能接消极评价，「料理にかけては下手だ」是错句。评价对象多是技能、本领。",
+  "explain_en": "Common in both speech and writing, it singles out one domain and pairs almost exclusively with high praise — 誰にも負けない, 一番だ, 右に出る者はいない. That built-in admiration distinguishes it from neutral 〜については: negative evaluations are ungrammatical, so 料理にかけては下手だ fails. The domain is typically a skill or forte.",
+  "examples": [
+   {
+    "ja": "暗算の速さにかけては、彼の右に出る者はいない。",
+    "furigana": "{暗算|あんざん}の{速|はや}さにかけては、{彼|かれ}の{右|みぎ}に{出|で}る{者|もの}はいない。",
+    "zh": "论心算的速度，没有人能胜过他。",
+    "en": "When it comes to speed at mental arithmetic, no one can top him."
+   },
+   {
+    "ja": "魚料理にかけては、この店は市内一だと評判だ。",
+    "furigana": "{魚料理|さかなりょうり}にかけては、この{店|みせ}は{市内一|しないいち}だと{評判|ひょうばん}だ。",
+    "zh": "说到鱼类料理，这家店号称全市第一。",
+    "en": "For fish dishes, this restaurant is reputed to be the best in the city."
+   }
+  ],
+  "note_zh": "与表示时间空间终点的「〜にかけて」（夜から朝にかけて）完全不同，注意区分。",
+  "note_en": "Completely different from temporal/spatial 〜にかけて (夜から朝にかけて); do not confuse the two."
+ },
+ {
+  "id": "g-n2-131",
+  "level": "N2",
+  "track": "grammar",
+  "group": "話題・観点",
+  "pattern": "〜というと／〜といえば",
+  "meaning_zh": "说到……；提起……（引出联想话题）",
+  "meaning_en": "speaking of, when you mention ...",
+  "formation": "名词／普通形 + というと／といえば",
+  "explain_zh": "口语和随笔中最常用的话题引出手段，正式论文里少见。听到某个词后，说话人以它为线索展开联想或接过话头，「京都というと金閣寺」这类「代表联想」是典型用法。「といえば」承接对方话题的能力更强，会话中常用来自然转换话题；「というと」还可用于向对方确认（「田中さんというと、あの営業部の？」）。",
+  "explain_en": "The standard topic-launcher of conversation and essays, rare in formal papers. Picking up a word just mentioned, the speaker develops an association or takes over the topic — the 'representative association' type (京都というと金閣寺) is typical. といえば is especially good at picking up the other person's topic to segue naturally, while というと can also seek confirmation (田中さんというと、あの営業部の？).",
+  "examples": [
+   {
+    "ja": "京都というと、多くの人が金閣寺を思い浮かべる。",
+    "furigana": "{京都|きょうと}というと、{多|おお}くの{人|ひと}が{金閣寺|きんかくじ}を{思|おも}い{浮|う}かべる。",
+    "zh": "一提到京都，很多人就会想起金阁寺。",
+    "en": "Mention Kyoto, and many people picture Kinkaku-ji."
+   },
+   {
+    "ja": "温泉といえば、やはり箱根が有名ですね。",
+    "furigana": "{温泉|おんせん}といえば、やはり{箱根|はこね}が{有名|ゆうめい}ですね。",
+    "zh": "说起温泉，还是箱根最有名啊。",
+    "en": "Speaking of hot springs, Hakone is the famous one, isn't it?"
+   }
+  ],
+  "note_zh": "「〜といったら」语气更主观激动，多用于感叹；此处两形均为中性引出话题。",
+  "note_en": "The variant 〜といったら is more emotive and exclamatory; the two forms here are neutral topic-raisers."
+ },
+ {
+  "id": "g-n2-132",
+  "level": "N2",
+  "track": "grammar",
+  "group": "話題・観点",
+  "pattern": "〜からいうと／〜からいえば／〜からいって",
+  "meaning_zh": "从……（角度）来说",
+  "meaning_en": "from the standpoint of, judging from",
+  "formation": "名词 + からいうと／からいえば／からいって",
+  "explain_zh": "口语书面均可的判断表达，从某个立场、角度出发做出评价或推断，后项多是判断句。最重要的限制：前项不能直接接人，「私からいうと」不自然，要说「私の立場からいうと」「経験からいうと」，这一点与「〜からすると」可接人不同。三个形式意思基本相同，からいって稍偏口语。",
+  "explain_en": "A judgment marker usable in speech and writing: from a certain standpoint or angle, the speaker evaluates or infers, with a judgment clause following. Key restriction: it cannot attach directly to a person — 私からいうと is unnatural; say 私の立場からいうと or 経験からいうと. This differs from 〜からすると, which does take people. The three forms are near-equivalent, からいって slightly more colloquial.",
+  "examples": [
+   {
+    "ja": "経験からいうと、この計画には無理がある。",
+    "furigana": "{経験|けいけん}からいうと、この{計画|けいかく}には{無理|むり}がある。",
+    "zh": "从经验来说，这个计划行不通。",
+    "en": "Speaking from experience, this plan is unworkable."
+   },
+   {
+    "ja": "実力からいえば、彼女が優勝してもおかしくない。",
+    "furigana": "{実力|じつりょく}からいえば、{彼女|かのじょ}が{優勝|ゆうしょう}してもおかしくない。",
+    "zh": "从实力上讲，她夺冠也不足为奇。",
+    "en": "In terms of ability, it would be no surprise if she won the title."
+   }
+  ],
+  "note_zh": "「結論からいうと」（先说结论）是商务口头报告的固定开场白。",
+  "note_en": "結論からいうと ('to give the conclusion first') is a fixed opener in business briefings."
+ },
+ {
+  "id": "g-n2-133",
+  "level": "N2",
+  "track": "grammar",
+  "group": "話題・観点",
+  "pattern": "〜からみると／〜からみれば／〜からみて",
+  "meaning_zh": "在……看来；从……判断",
+  "meaning_en": "in the eyes of, judging by",
+  "formation": "名词 + からみると／からみれば／からみて／からみたら",
+  "explain_zh": "口语书面均可，用法有二：一是站在某人的视角看事情（外国人からみれば），二是以某种迹象为线索做推断（足跡からみると），后项常带「らしい・ようだ」。与「〜からいうと」不同，它可以直接接人，表达「在某人眼里」的意思。做推断时前项是观察到的证据，语感接近「judging from」。",
+  "explain_en": "Usable in speech and writing, with two uses: seeing things from someone's viewpoint (外国人からみれば), and inferring from observed evidence (足跡からみると), the latter typically followed by らしい or ようだ. Unlike 〜からいうと, it attaches directly to people, meaning 'in X's eyes'. In the inferential use, the noun is evidence, close to English 'judging from'.",
+  "examples": [
+   {
+    "ja": "足跡からみると、犯人は窓から侵入したらしい。",
+    "furigana": "{足跡|あしあと}からみると、{犯人|はんにん}は{窓|まど}から{侵入|しんにゅう}したらしい。",
+    "zh": "从脚印来看，犯人似乎是从窗户进来的。",
+    "en": "Judging by the footprints, the culprit apparently got in through the window."
+   },
+   {
+    "ja": "外国人からみれば、日本の敬語は非常に複雑だ。",
+    "furigana": "{外国人|がいこくじん}からみれば、{日本|にほん}の{敬語|けいご}は{非常|ひじょう}に{複雑|ふくざつ}だ。",
+    "zh": "在外国人看来，日语的敬语非常复杂。",
+    "en": "To foreigners, Japanese honorifics look extremely complicated."
+   }
+  ],
+  "note_zh": "「どうみても」「〜からみても」表示「不管怎么看都……」，是常见的强调变体。",
+  "note_en": "どうみても and 〜からみても ('no matter how you look at it') are common emphatic variants."
+ },
+ {
+  "id": "g-n2-134",
+  "level": "N2",
+  "track": "grammar",
+  "group": "話題・観点",
+  "pattern": "〜からすると／〜からすれば",
+  "meaning_zh": "从……来看；据……推测",
+  "meaning_en": "from the perspective of; going by",
+  "formation": "名词 + からすると／からすれば／からしたら",
+  "explain_zh": "口语书面均可，与「からみると」高度接近，两个用法：站在某人立场推想其感受（消費者からすれば），或根据迹象推断（口ぶりからすると）。接人时含「设身处地替对方着想」的语感，比からみると更强调当事者的内心感受，所以「新人からすれば不安だろう」这类共情推测最自然。推断用法的后项多为「ようだ・らしい・だろう」。",
+  "explain_en": "Usable in speech and writing and very close to からみると, with two uses: imagining how something feels from a party's standpoint (消費者からすれば), and inferring from signs (口ぶりからすると). With a person it empathetically enters that party's mind, more strongly than からみると, so sympathetic conjectures like 新人からすれば不安だろう are its natural habitat. The inferential use usually ends in ようだ, らしい or だろう.",
+  "examples": [
+   {
+    "ja": "あの口ぶりからすると、彼は事情を知っているようだ。",
+    "furigana": "あの{口|くち}ぶりからすると、{彼|かれ}は{事情|じじょう}を{知|し}っているようだ。",
+    "zh": "从他的口气来看，他好像知道内情。",
+    "en": "Going by the way he talks, he seems to know the story."
+   },
+   {
+    "ja": "消費者からすれば、度重なる値上げは受け入れがたい。",
+    "furigana": "{消費者|しょうひしゃ}からすれば、{度重|たびかさ}なる{値上|ねあ}げは{受|う}け{入|い}れがたい。",
+    "zh": "在消费者看来，接二连三的涨价实在难以接受。",
+    "en": "From the consumers' point of view, repeated price hikes are hard to accept."
+   }
+  ],
+  "note_zh": "「からすると／からみると／からいうと」三者中，只有からいうと不能直接接人，考试常考这一点。",
+  "note_en": "Of the three (からすると/からみると/からいうと), only からいうと rejects a person directly before it — a favourite exam point."
+ },
+ {
+  "id": "g-n2-135",
+  "level": "N2",
+  "track": "grammar",
+  "group": "話題・観点",
+  "pattern": "〜からして",
+  "meaning_zh": "单从……来看就……；从……判断",
+  "meaning_en": "even judging by ... alone; starting with",
+  "formation": "名词 + からして",
+  "explain_zh": "口语和一般书面语通用，有两个用法：一是「举出最基本、最表层的例子」，言外之意是连它都如此，其他更不用说（名前からして高級そうだ）；二是与からすると相同的「据此判断」。第一个用法是它的特色，常带主观评价甚至挑剔的语气，所以在批评中很好用：「彼は挨拶からしてなっていない」。",
+  "explain_en": "Common in speech and general writing, with two uses: citing the most basic, surface-level example with the implication that if even that is so, the rest follows (名前からして高級そうだ); and plain inference like からすると. The first use is its specialty and often carries subjective, even fault-finding tone, making it handy in criticism: 彼は挨拶からしてなっていない.",
+  "examples": [
+   {
+    "ja": "あの店は名前からして高級そうだ。",
+    "furigana": "あの{店|みせ}は{名前|なまえ}からして{高級|こうきゅう}そうだ。",
+    "zh": "那家店光从名字看就显得很高档。",
+    "en": "Even the name alone makes that shop sound upscale."
+   },
+   {
+    "ja": "話し方からして、彼は関西の出身だろう。",
+    "furigana": "{話|はな}し{方|かた}からして、{彼|かれ}は{関西|かんさい}の{出身|しゅっしん}だろう。",
+    "zh": "从说话方式判断，他应该是关西人。",
+    "en": "Judging from the way he speaks, he is probably from Kansai."
+   }
+  ],
+  "note_zh": "「举例」用法的前项是整体中最基础的部分；语气比「〜からすると」更主观。",
+  "note_en": "In the example-citing use, the noun is the most elementary part of the whole; the tone is more subjective than 〜からすると."
+ },
+ {
+  "id": "g-n2-136",
+  "level": "N2",
+  "track": "grammar",
+  "group": "話題・観点",
+  "pattern": "〜にしたら／〜にすれば／〜にしてみれば",
+  "meaning_zh": "对……来说（设身处地推测其感受）",
+  "meaning_en": "from ...'s point of view (empathizing)",
+  "formation": "名词（人、组织）+ にしたら／にすれば／にしてみれば",
+  "explain_zh": "口语色彩较强，也见于随笔和报道。前项限于人或拟人化的组织，说话人钻进对方的立场推测其心情，后项因此必须是推量表达（だろう・かもしれない・に違いない），不能用断定。原则上不用于说话人自己，「私にしたら」不自然。与「〜にとって」的区别：にとって是客观评价利害，后项可用断定句；にしたら是主观代入感受。",
+  "explain_en": "Colloquial-leaning but also found in essays and reporting. The noun must be a person or personified organization; the speaker slips into that party's shoes, so the main clause must be conjectural (だろう, かもしれない, に違いない), never assertive. It is not normally used of oneself: 私にしたら is unnatural. Against 〜にとって: にとって objectively assesses benefit or harm and allows assertions, while にしたら subjectively imagines feelings.",
+  "examples": [
+   {
+    "ja": "親にしたら、子どもの一人暮らしは心配なものだろう。",
+    "furigana": "{親|おや}にしたら、{子|こ}どもの{一人暮|ひとりぐ}らしは{心配|しんぱい}なものだろう。",
+    "zh": "对父母来说，孩子独自生活总归是让人担心的吧。",
+    "en": "For parents, a child living alone must be a source of worry."
+   },
+   {
+    "ja": "新入社員にすれば、突然の異動は戸惑うに違いない。",
+    "furigana": "{新入社員|しんにゅうしゃいん}にすれば、{突然|とつぜん}の{異動|いどう}は{戸惑|とまど}うに{違|ちが}いない。",
+    "zh": "站在新员工的角度，突然的调动肯定会让人不知所措。",
+    "en": "From a new employee's standpoint, a sudden transfer must be bewildering."
+   }
+  ],
+  "note_zh": "后项用断定句会不自然：「親にしたら心配だ」应改为「心配だろう」。",
+  "note_en": "A flat assertion is unnatural: 親にしたら心配だ should be 心配だろう."
+ },
+ {
+  "id": "g-n2-138",
+  "level": "N2",
+  "track": "grammar",
+  "group": "話題・観点",
+  "pattern": "〜の上では",
+  "meaning_zh": "从……上看（表面、名义上，实际未必）",
+  "meaning_en": "on paper, according to (but reality differs)",
+  "formation": "名词 + の上（うえ）では",
+  "explain_zh": "中性表达，口语书面皆可。前项是历法、数字、书面记录等表面依据（暦・数字・データ・書類・計算），意思是「就该层面而言是如此」，并强烈暗示实际情况与之有落差，因此后句常用「が・けれど」接转折。「暦の上では春」「書類の上では夫婦」都是典型搭配。没有转折意图时不要用，以免读者期待一个并不存在的「但是」。",
+  "explain_en": "Neutral and usable anywhere. The noun is a surface-level basis — the calendar, figures, data, documents, calculations — and the pattern says 'so it stands on that level', strongly implying reality falls short, so a contrastive が or けれど usually follows. 暦の上では春 and 書類の上では夫婦 are typical. Avoid it when no contrast is intended, or readers will wait for a 'but' that never comes.",
+  "examples": [
+   {
+    "ja": "暦の上ではもう春だが、まだ寒い日が続く。",
+    "furigana": "{暦|こよみ}の{上|うえ}ではもう{春|はる}だが、まだ{寒|さむ}い{日|ひ}が{続|つづ}く。",
+    "zh": "从历法上说已经入春了，但寒冷的日子还在持续。",
+    "en": "By the calendar it is already spring, but the cold days drag on."
+   },
+   {
+    "ja": "数字の上では景気は回復しているが、実感はない。",
+    "furigana": "{数字|すうじ}の{上|うえ}では{景気|けいき}は{回復|かいふく}しているが、{実感|じっかん}はない。",
+    "zh": "从数字上看经济在复苏，但大家并没有切身感受。",
+    "en": "On paper the economy is recovering, but no one feels it."
+   }
+  ],
+  "note_zh": "与「〜上で」（在……之后／过程中）意思完全不同；此处读「うえでは」，表示表面层面。",
+  "note_en": "Entirely different from 〜上で (after doing / in the course of). Here it is read うえでは and marks the surface level."
+ },
+ {
+  "id": "g-n2-139",
+  "level": "N2",
+  "track": "grammar",
+  "group": "話題・観点",
+  "pattern": "〜上（じょう）／〜上の",
+  "meaning_zh": "从……上（来说）；在……方面（規則上、法律上）",
+  "meaning_en": "in terms of, from the standpoint of (rules, law, health)",
+  "formation": "漢語名词 + 上（じょう）／上（じょう）は／上（じょう）の+名词",
+  "explain_zh": "硬い書き言葉，公文、合同、说明书里高频出现，口语中说「〜の点で」。直接接在双字汉语名词后（規則・法律・健康・教育・安全・仕事），读「じょう」，表示「从该角度来说、就该层面而言」。常见形式有做状语的「規則上（は）」和修饰名词的「法律上の夫婦」。能接的名词基本固定，和语词不能用，「気持ち上」这类说法不成立。",
+  "explain_en": "Stiff written Japanese, dense in official documents, contracts and manuals; speech uses 〜の点で. It attaches directly to Sino-Japanese nouns (規則, 法律, 健康, 教育, 安全, 仕事), is read じょう, and means 'in terms of that dimension'. Common shapes are adverbial 規則上（は） and attributive 法律上の夫婦. The set of possible nouns is essentially fixed and native Japanese words are excluded — 気持ち上 does not exist.",
+  "examples": [
+   {
+    "ja": "規則上、社員以外の立ち入りは認められていない。",
+    "furigana": "{規則上|きそくじょう}、{社員以外|しゃいんいがい}の{立|た}ち{入|い}りは{認|みと}められていない。",
+    "zh": "按规定，员工以外的人不得入内。",
+    "en": "Under the rules, entry by anyone other than employees is not permitted."
+   },
+   {
+    "ja": "二人は法律上の夫婦ではないが、長年連れ添ってきた。",
+    "furigana": "{二人|ふたり}は{法律上|ほうりつじょう}の{夫婦|ふうふ}ではないが、{長年|ながねん}{連|つ}れ{添|そ}ってきた。",
+    "zh": "两人虽然不是法律意义上的夫妻，却相伴多年。",
+    "en": "The two are not legally married, but they have been together for many years."
+   },
+   {
+    "ja": "健康上の理由で、彼は職を退いた。",
+    "furigana": "{健康上|けんこうじょう}の{理由|りゆう}で、{彼|かれ}は{職|しょく}を{退|しりぞ}いた。",
+    "zh": "由于健康方面的原因，他辞去了职务。",
+    "en": "He stepped down from his post for health reasons."
+   }
+  ],
+  "note_zh": "「都合上・便宜上・立場上」等也属此类；与读「うえ」的「〜の上では」「〜上で」区分开。",
+  "note_en": "都合上, 便宜上 and 立場上 belong to the same family. Keep it apart from うえ-readings like 〜の上では and 〜上で."
+ },
+ {
+  "id": "g-n2-140",
+  "level": "N2",
+  "track": "grammar",
+  "group": "範囲・限定",
+  "pattern": "〜のみ",
+  "meaning_zh": "仅……；只……（书面限定）",
+  "meaning_en": "only, solely (formal)",
+  "formation": "名词／动词辞书形 + のみ",
+  "explain_zh": "「だけ」的书面替换形，告示、规章、商务文书里极常见，口语里用会显得生硬。语义上与だけ基本相同，但语感更正式、更斩钉截铁，所以「関係者のみ」「平日のみ」这类告示体几乎是固定写法。句末的「〜のみだ」表示「剩下的只有这一件事」，常与「あとは」搭配。助词搭配上多直接取代「が・を」。",
+  "explain_en": "The written counterpart of だけ, extremely common in notices, rules and business writing; in conversation it sounds stiff. Semantically like だけ but more formal and clipped, hence fixed notice-style phrases like 関係者のみ and 平日のみ. Sentence-final 〜のみだ means 'all that remains is this', often with あとは. It usually replaces the particles が and を outright.",
+  "examples": [
+   {
+    "ja": "当日は関係者のみ入場できます。",
+    "furigana": "{当日|とうじつ}は{関係者|かんけいしゃ}のみ{入場|にゅうじょう}できます。",
+    "zh": "当天仅限相关人员入场。",
+    "en": "On the day, only authorized personnel may enter."
+   },
+   {
+    "ja": "準備はすべて整った。あとは結果を待つのみだ。",
+    "furigana": "{準備|じゅんび}はすべて{整|ととの}った。あとは{結果|けっか}を{待|ま}つのみだ。",
+    "zh": "准备工作全部就绪，剩下的只有等待结果了。",
+    "en": "Everything is ready; all that remains is to await the result."
+   }
+  ],
+  "note_zh": "「〜のみならず」（不仅……）是它的派生句型，作为独立语法点另行掌握。",
+  "note_en": "〜のみならず (not only ...) is a derived pattern treated as a separate grammar point."
+ },
+ {
+  "id": "g-n2-141",
+  "level": "N2",
+  "track": "grammar",
+  "group": "範囲・限定",
+  "pattern": "〜に限って／〜に限り",
+  "meaning_zh": "偏偏在……；唯独……绝不会；仅限……",
+  "meaning_en": "of all times/people; only in the case of",
+  "formation": "名词 + に限って／に限り",
+  "explain_zh": "「に限って」有两个口语常用义：一是「偏偏在那个时候」，抱怨不巧（急いでいる日に限って電車が遅れる）；二是「唯独此人绝不会做坏事」，表达对亲近者的信任（うちの子に限って），后项必然是否定推量。「に限り」则是告示、广告里的书面限定「仅限」（本日に限り・先着百名様に限り），语感完全中性。三个意思共享「把范围收窄到唯一对象」的核心。",
+  "explain_en": "に限って has two conversational senses: 'of all days/times' lamenting bad luck (急いでいる日に限って電車が遅れる), and 'my X of all people would never', expressing trust in someone close (うちの子に限って), always with a negative conjecture following. に限り is the written notice-and-ad sense 'limited to' (本日に限り, 先着百名様に限り), completely neutral. All three share the core of narrowing the range to a single case.",
+  "examples": [
+   {
+    "ja": "急いでいる日に限って、電車が遅れる。",
+    "furigana": "{急|いそ}いでいる{日|ひ}に{限|かぎ}って、{電車|でんしゃ}が{遅|おく}れる。",
+    "zh": "偏偏在赶时间的日子，电车就晚点。",
+    "en": "It is always on the days I am in a hurry that the train runs late."
+   },
+   {
+    "ja": "うちの子に限って、人の物を盗むはずがない。",
+    "furigana": "うちの{子|こ}に{限|かぎ}って、{人|ひと}の{物|もの}を{盗|ぬす}むはずがない。",
+    "zh": "唯独我家孩子，绝不可能偷别人的东西。",
+    "en": "My child, of all children, could never steal from others."
+   },
+   {
+    "ja": "本日に限り、全品二割引きといたします。",
+    "furigana": "{本日|ほんじつ}に{限|かぎ}り、{全品|ぜんぴん}{二割引|にわりび}きといたします。",
+    "zh": "仅限今日，全场商品八折优惠。",
+    "en": "Today only, everything in the store is 20 percent off."
+   }
+  ],
+  "note_zh": "「信任」用法后项必须是「はずがない・わけがない」等否定推量；「に限り」基本只见于书面告示。",
+  "note_en": "The trust use requires a negative conjecture (はずがない, わけがない). に限り is essentially confined to written notices."
+ },
+ {
+  "id": "g-n2-142",
+  "level": "N2",
+  "track": "grammar",
+  "group": "範囲・限定",
+  "pattern": "〜に限らず",
+  "meaning_zh": "不限于……；不仅……（范围扩大）",
+  "meaning_en": "not limited to, not only",
+  "formation": "名词 + に限らず",
+  "explain_zh": "中性偏书面，报道和论说文常用。先举出一个理所当然属于该范围的典型（日本・週末・若者），再说明实际范围更广，后项常与「も・でも・すべて」呼应。与「〜だけでなく」意思接近，但に限らず更书面，且前项常是本来带有「专属」印象的类别，强调「打破这一限定」。",
+  "explain_en": "Neutral-to-written, common in reporting and argumentation. It names a typical case assumed to own the category (Japan, weekends, the young), then widens the range beyond it, with も, でも or すべて echoing in the main clause. Close to 〜だけでなく, but に限らず is more literary and its noun usually carries an 'exclusive to' image that the sentence then breaks.",
+  "examples": [
+   {
+    "ja": "この問題は日本に限らず、世界中で起きている。",
+    "furigana": "この{問題|もんだい}は{日本|にほん}に{限|かぎ}らず、{世界中|せかいじゅう}で{起|お}きている。",
+    "zh": "这个问题不仅限于日本，在全世界都在发生。",
+    "en": "This problem is not confined to Japan; it is happening all over the world."
+   },
+   {
+    "ja": "この公園は週末に限らず、平日も観光客でにぎわっている。",
+    "furigana": "この{公園|こうえん}は{週末|しゅうまつ}に{限|かぎ}らず、{平日|へいじつ}も{観光客|かんこうきゃく}でにぎわっている。",
+    "zh": "这座公园不只周末，平日也挤满了游客。",
+    "en": "This park is crowded with tourists not just on weekends but on weekdays too."
+   }
+  ],
+  "note_zh": "「老若男女に限らず」不自然——本身已是全范围的词不能用；要用「を問わず」。",
+  "note_en": "Nouns that already cover everything (老若男女) do not fit; use 〜を問わず for those."
+ },
+ {
+  "id": "g-n2-143",
+  "level": "N2",
+  "track": "grammar",
+  "group": "範囲・限定",
+  "pattern": "〜を問わず",
+  "meaning_zh": "不论……；不分……",
+  "meaning_en": "regardless of, irrespective of",
+  "formation": "名词 + を問わず／は問わず",
+  "explain_zh": "书面语，招聘启事、说明、广告里的常用套语，口语说「〜に関係なく」。前项多是本身含有对立或多样性的名词（男女・昼夜・経験の有無・国の内外・年齢・季節），表示这些差异一概不影响后项。因为要求前项自带「可选范围」，所以单一名词要加「の有無」「のいかん」才能用。「経験不問」这类「不問」的告示写法是它的压缩形式。",
+  "explain_en": "Written style, formulaic in job ads, notices and advertising; speech says 〜に関係なく. The noun usually contains built-in opposition or variety (男女, 昼夜, 経験の有無, 国の内外, age, season), and the pattern declares those differences irrelevant. Because the noun must embody a range of options, a single-value noun needs の有無 or のいかん attached. The notice abbreviation 不問, as in 経験不問, is its compressed form.",
+  "examples": [
+   {
+    "ja": "この仕事は経験の有無を問わず応募できる。",
+    "furigana": "この{仕事|しごと}は{経験|けいけん}の{有無|うむ}を{問|と}わず{応募|おうぼ}できる。",
+    "zh": "这份工作不论有无经验都可以应聘。",
+    "en": "Anyone may apply for this job, regardless of experience."
+   },
+   {
+    "ja": "当ホテルは昼夜を問わず、フロントが対応いたします。",
+    "furigana": "{当|とう}ホテルは{昼夜|ちゅうや}を{問|と}わず、フロントが{対応|たいおう}いたします。",
+    "zh": "本酒店不分昼夜，前台均可提供服务。",
+    "en": "Our front desk is at your service day and night."
+   }
+  ],
+  "note_zh": "与「〜にかかわらず」义近：を問わず更偏告示体、多接成对名词；にかかわらず还能接动词对立形式（するしない）。",
+  "note_en": "Near-synonym 〜にかかわらず is less notice-like and also takes verb pairs (するしない), which を問わず cannot."
+ },
+ {
+  "id": "g-n2-144",
+  "level": "N2",
+  "track": "grammar",
+  "group": "範囲・限定",
+  "pattern": "〜にかかわらず",
+  "meaning_zh": "无论……（差异如何）都……",
+  "meaning_en": "regardless of, whether or not",
+  "formation": "名词／动词辞书形+ない形（对立并列） + にかかわらず",
+  "explain_zh": "偏书面的中性表达，通知和规章中常见。前接含变动幅度的名词（天候・年齢・金額・性別）或肯定否定并列的形式（参加するしない・行く行かない），表示无论取哪个值，后项都照样成立。与「〜を問わず」基本同义，但接续更灵活。要与表示逆接的「〜にもかかわらず」（尽管……却）严格区分：意思和接续都不同，考试常拿两者做干扰项。",
+  "explain_en": "Writing-leaning and neutral, common in notices and regulations. It takes nouns with a range of values (weather, age, amount, gender) or affirmative-negative pairs (参加するしない, 行く行かない), asserting the outcome holds whichever value applies. Essentially synonymous with 〜を問わず but with freer attachment. Keep it strictly apart from concessive 〜にもかかわらず ('despite'), different in both meaning and formation — a classic exam distractor pair.",
+  "examples": [
+   {
+    "ja": "天候にかかわらず、試合は予定どおり行われる。",
+    "furigana": "{天候|てんこう}にかかわらず、{試合|しあい}は{予定|よてい}どおり{行|おこな}われる。",
+    "zh": "无论天气如何，比赛都将照常举行。",
+    "en": "The match will go ahead as scheduled, whatever the weather."
+   },
+   {
+    "ja": "参加するしないにかかわらず、必ず返信してください。",
+    "furigana": "{参加|さんか}するしないにかかわらず、{必|かなら}ず{返信|へんしん}してください。",
+    "zh": "无论参加与否，请务必回复。",
+    "en": "Whether you attend or not, please be sure to reply."
+   }
+  ],
+  "note_zh": "汉字可写「〜に関わらず」，但为与「にもかかわらず」区分，教材多用假名书写。",
+  "note_en": "It may be written 〜に関わらず, but textbooks prefer kana to keep it visually distinct from にもかかわらず."
+ },
+ {
+  "id": "g-n2-145",
+  "level": "N2",
+  "track": "grammar",
+  "group": "範囲・限定",
+  "pattern": "〜から〜にかけて",
+  "meaning_zh": "从……到……（时间、空间上大致的范围）",
+  "meaning_en": "from ... through ..., over the stretch from ... to ...",
+  "formation": "名词 + から + 名词 + にかけて",
+  "explain_zh": "中性表达，天气预报和新闻里极其常用。表示起点到终点之间连绵的大致范围，边界模糊，整个区间内断断续续或持续地发生某事。与「〜から〜まで」的区别是关键考点：まで的边界清晰、动作覆盖整个区间（三時から五時まで会議），にかけて则边界含糊、只说大致跨度（今夜から明日にかけて雨），所以精确的营业时间不能用にかけて。",
+  "explain_en": "Neutral and extremely common in weather forecasts and news. It sketches a rough, fuzzy-edged stretch from start to end, within which something happens continuously or on and off. The contrast with 〜から〜まで is the exam point: まで has sharp boundaries and full coverage (三時から五時まで会議), while にかけて gives only an approximate span (今夜から明日にかけて雨), so precise opening hours cannot take にかけて.",
+  "examples": [
+   {
+    "ja": "今夜から明日の朝にかけて、大雨が降るおそれがある。",
+    "furigana": "{今夜|こんや}から{明日|あす}の{朝|あさ}にかけて、{大雨|おおあめ}が{降|ふ}るおそれがある。",
+    "zh": "从今晚到明天早晨，恐怕会下大雨。",
+    "en": "Heavy rain is expected from tonight through tomorrow morning."
+   },
+   {
+    "ja": "関東から東北にかけて、強い揺れが観測された。",
+    "furigana": "{関東|かんとう}から{東北|とうほく}にかけて、{強|つよ}い{揺|ゆ}れが{観測|かんそく}された。",
+    "zh": "从关东到东北地区观测到了强烈震感。",
+    "en": "Strong tremors were observed across the area from Kanto to Tohoku."
+   }
+  ],
+  "note_zh": "「から」有时可省略：「週末にかけて台風が接近する」；此时仍表示模糊的时间跨度。",
+  "note_en": "から can be omitted: 週末にかけて台風が接近する, still marking a vague span."
+ },
+ {
+  "id": "g-n2-147",
+  "level": "N2",
+  "track": "grammar",
+  "group": "範囲・限定",
+  "pattern": "〜を除いて／〜を除き",
+  "meaning_zh": "除去……（之外）",
+  "meaning_en": "except for, excluding",
+  "formation": "名词 + を除いて（は）／を除き／を除く+名词",
+  "explain_zh": "偏书面的表达，营业通知、规章和报道里常见，口语多说「〜以外は」。把前项从整体范围中剔除，声明后项对剩余部分成立。「を除き」是更硬的中止形，公告标准写法；连体形「を除く」直接修饰名词（月曜を除く毎日）在时刻表、传单里极常见。与「〜はともかく」不同，这是客观、彻底的排除，不带「暂且不谈」的保留语气。",
+  "explain_en": "Writing-leaning, standard in business-hours notices, rules and reporting; casual speech says 〜以外は. It removes the noun from the whole and asserts the statement about the remainder. The clipped を除き is the stiffer notice form, and attributive を除く (月曜を除く毎日) is everywhere on timetables and flyers. Unlike 〜はともかく, this is objective, complete exclusion with no 'setting aside for now' reservation.",
+  "examples": [
+   {
+    "ja": "月曜日を除いて、美術館は毎日開いている。",
+    "furigana": "{月曜日|げつようび}を{除|のぞ}いて、{美術館|びじゅつかん}は{毎日|まいにち}{開|あ}いている。",
+    "zh": "除周一以外，美术馆每天都开馆。",
+    "en": "Except on Mondays, the museum is open every day."
+   },
+   {
+    "ja": "一部の地域を除き、台風の影響はほぼ収まった。",
+    "furigana": "{一部|いちぶ}の{地域|ちいき}を{除|のぞ}き、{台風|たいふう}の{影響|えいきょう}はほぼ{収|おさ}まった。",
+    "zh": "除部分地区外，台风的影响已基本平息。",
+    "en": "Except in some areas, the effects of the typhoon have largely subsided."
+   }
+  ],
+  "note_zh": "「祝日を除く平日」这类「を除く＋名词」是告示体固定格式，值得整句记忆。",
+  "note_en": "The notice formula を除く+noun (祝日を除く平日) is worth memorizing as a set phrase."
+ },
+ {
+  "id": "g-n2-149",
+  "level": "N2",
+  "track": "grammar",
+  "group": "範囲・限定",
+  "pattern": "〜はともかく（として）",
+  "meaning_zh": "……姑且不论；先不管……",
+  "meaning_en": "setting aside, leaving ... aside for now",
+  "formation": "名词／〜かどうか + はともかく（として）",
+  "explain_zh": "口语色彩较强，会议和日常商量事情时非常好用，正式文书少见。把前项暂时搁置——不是否定它，而是宣布「它不是现在的重点」，然后把话题引向更优先的后项。前项常是有争议或不理想的方面（見た目・味・費用・結果），因此常带「前项可能有问题，但先看后项」的让步语感。「〜はさておき」是更书面的近义表达。",
+  "explain_en": "Colloquial-leaning and handy in meetings and everyday planning, rare in formal documents. It shelves the first item — not denying it, just declaring it off the agenda — and steers to the higher-priority point. The shelved item is often contentious or unflattering (looks, taste, cost, results), giving a concessive flavour of 'that may be an issue, but first things first'. 〜はさておき is a more literary equivalent.",
+  "examples": [
+   {
+    "ja": "見た目はともかく、味は保証します。",
+    "furigana": "{見|み}た{目|め}はともかく、{味|あじ}は{保証|ほしょう}します。",
+    "zh": "卖相姑且不论，味道我可以保证。",
+    "en": "Looks aside, I can vouch for the taste."
+   },
+   {
+    "ja": "費用の問題はともかくとして、まず日程を決めよう。",
+    "furigana": "{費用|ひよう}の{問題|もんだい}はともかくとして、まず{日程|にってい}を{決|き}めよう。",
+    "zh": "费用问题先放一边，我们先把日程定下来吧。",
+    "en": "Setting the question of cost aside, let's fix the schedule first."
+   }
+  ],
+  "note_zh": "「冗談はともかく」「それはともかく」是把跑题拉回正轨的常用口头禅。",
+  "note_en": "冗談はともかく and それはともかく are stock phrases for steering a conversation back on track."
+ },
+ {
+  "id": "g-n2-150",
+  "level": "N2",
+  "track": "grammar",
+  "group": "範囲・限定",
+  "pattern": "〜もかまわず",
+  "meaning_zh": "不顾……；不在乎……",
+  "meaning_en": "heedless of, without minding",
+  "formation": "名词／动词普通形+の + もかまわず",
+  "explain_zh": "书面语色彩较强，小说和报道中用来描写人物不顾周围眼光或常识束缚的行为。前项是常人通常会在意的事物（人目・周囲の迷惑・服がぬれるの），后项是无视它的行为，常含「旁观者觉得惊讶或出格」的评价。惯用搭配「人目もかまわず」几乎是固定短语。多用于描写第三者，说自己时会显得自嘲。",
+  "explain_en": "Writing-flavoured, used in fiction and reporting to depict someone acting oblivious to what people normally mind — public gaze, others' inconvenience, getting soaked. The main clause ignores that concern, often with an onlooker's sense of surprise or impropriety. 人目もかまわず is practically a fixed phrase. It usually describes third parties; applied to oneself it sounds self-mocking.",
+  "examples": [
+   {
+    "ja": "彼女は人目もかまわず、大声で泣き出した。",
+    "furigana": "{彼女|かのじょ}は{人目|ひとめ}もかまわず、{大声|おおごえ}で{泣|な}き{出|だ}した。",
+    "zh": "她不顾旁人的目光，放声大哭起来。",
+    "en": "Heedless of onlookers, she burst out crying loudly."
+   },
+   {
+    "ja": "彼は服がぬれるのもかまわず、川に飛び込んだ。",
+    "furigana": "{彼|かれ}は{服|ふく}がぬれるのもかまわず、{川|かわ}に{飛|と}び{込|こ}んだ。",
+    "zh": "他不顾衣服会湿，跳进了河里。",
+    "en": "Not caring that his clothes would get soaked, he leapt into the river."
+   }
+  ],
+  "note_zh": "动词小句接续要加「の」：「ぬれるのもかまわず」；「なりふりかまわず」（不修边幅、不顾体面）是同源惯用语。",
+  "note_en": "Verb clauses need の (ぬれるのもかまわず). The idiom なりふりかまわず ('with no regard for appearances') is a cousin."
+ },
+ {
+  "id": "g-n2-151",
+  "level": "N2",
+  "track": "grammar",
+  "group": "付加・例示",
+  "pattern": "〜に加えて／〜に加え",
+  "meaning_zh": "加上……；不仅……还……",
+  "meaning_en": "in addition to, on top of",
+  "formation": "名词／动词辞书形+の + に加えて／に加え",
+  "explain_zh": "偏书面的中性表达，新闻和报告中最常见，口语说「〜のうえに」「〜だけでなく」。在前项既有事实的基础上再叠加同方向的后项，好坏两个方向都能用，但前后必须同向：「値上がりに加えて品薄」自然，好坏混搭则不成立。中止形「に加え」更紧凑，新闻标题常用。与「〜とともに」不同，重点在「累加」而非「同时」。",
+  "explain_en": "Written-leaning and neutral, most common in news and reports; speech uses 〜のうえに or 〜だけでなく. It stacks a second fact of the same polarity onto an existing one — both may be good or both bad, but mixing polarities fails. The clipped に加え is tighter and headline-friendly. Unlike 〜とともに, the point is accumulation, not simultaneity.",
+  "examples": [
+   {
+    "ja": "強風に加えて、雨も激しくなってきた。",
+    "furigana": "{強風|きょうふう}に{加|くわ}えて、{雨|あめ}も{激|はげ}しくなってきた。",
+    "zh": "在强风之外，雨也变得猛烈起来。",
+    "en": "On top of the strong wind, the rain has grown fierce as well."
+   },
+   {
+    "ja": "家賃に加え、光熱費も値上がりした。",
+    "furigana": "{家賃|やちん}に{加|くわ}え、{光熱費|こうねつひ}も{値上|ねあ}がりした。",
+    "zh": "房租之外，水电燃气费也涨价了。",
+    "en": "In addition to rent, utility costs have gone up too."
+   }
+  ],
+  "note_zh": "后项常与「も」呼应；比「〜ばかりか」中性，不带「连……都」的意外语气。",
+  "note_en": "The added clause usually echoes with も. It is more neutral than 〜ばかりか, lacking the 'even' surprise."
+ },
+ {
+  "id": "g-n2-154",
+  "level": "N2",
+  "track": "grammar",
+  "group": "付加・例示",
+  "pattern": "〜をはじめ（として）",
+  "meaning_zh": "以……为首；以……为代表（等等）",
+  "meaning_en": "starting with, led by (and others)",
+  "formation": "名词 + をはじめ（として）／をはじめとする+名词",
+  "explain_zh": "偏正式的表达，致辞、报道和介绍文中高频出现。举出同类中最有代表性、最显眼的成员（東京・校長先生・トヨタ），暗示后面还有一群同类，后项常是「多くの・さまざまな・各地の」这类复数表达。与「〜を中心に」不同：をはじめ只说「它是代表例」，不必是活动的核心。连体形「をはじめとする＋名词」是论文和新闻的标准写法。",
+  "explain_en": "Formal-leaning and frequent in speeches, reporting and introductions. It names the most representative, prominent member of a class (Tokyo, the principal, Toyota) and implies a crowd of similar items behind it, with plural expressions like 多くの or さまざまな following. Unlike 〜を中心に, it claims only representativeness, not being the hub. The attributive をはじめとする+noun is standard in papers and news.",
+  "examples": [
+   {
+    "ja": "東京をはじめ、大都市では家賃が上がり続けている。",
+    "furigana": "{東京|とうきょう}をはじめ、{大都市|だいとし}では{家賃|やちん}が{上|あ}がり{続|つづ}けている。",
+    "zh": "以东京为首，各大城市的房租持续上涨。",
+    "en": "In Tokyo and other big cities alike, rents keep climbing."
+   },
+   {
+    "ja": "校長先生をはじめとして、多くの先生方が式に出席した。",
+    "furigana": "{校長先生|こうちょうせんせい}をはじめとして、{多|おお}くの{先生方|せんせいがた}が{式|しき}に{出席|しゅっせき}した。",
+    "zh": "以校长为首，许多老师出席了典礼。",
+    "en": "Led by the principal, many teachers attended the ceremony."
+   }
+  ],
+  "note_zh": "前项应是听话人熟知的代表性成员，举无名小例会不自然。",
+  "note_en": "The named item should be a well-known representative; an obscure example sounds odd."
+ },
+ {
+  "id": "g-n2-157",
+  "level": "N2",
+  "track": "grammar",
+  "group": "立場・資格",
+  "pattern": "〜にかわって／〜にかわり",
+  "meaning_zh": "代替……；取代……",
+  "meaning_en": "in place of, replacing",
+  "formation": "名词 + にかわって／にかわり",
+  "explain_zh": "中性偏正式，致辞和新闻里常见。两个用法：一是临时代理某人做事（入院中の部長にかわって），隐含「本来该由那个人做」；二是表示时代性的更替，旧事物让位于新事物（現金にかわって電子マネーが），此时多与「〜ようになった」等变化表达配合。中止形「にかわり」更书面。口语的临时代替多说「〜の代わりに」。",
+  "explain_en": "Neutral-to-formal, common in speeches and news. Two uses: temporarily acting for someone (入院中の部長にかわって), implying the role is properly theirs; and epochal replacement, an old thing yielding to a new one (現金にかわって電子マネーが), usually with change expressions like 〜ようになった. The clipped にかわり is more literary. Everyday speech prefers 〜の代わりに for stand-ins.",
+  "examples": [
+   {
+    "ja": "入院中の部長にかわって、私が会議に出席します。",
+    "furigana": "{入院中|にゅういんちゅう}の{部長|ぶちょう}にかわって、{私|わたし}が{会議|かいぎ}に{出席|しゅっせき}します。",
+    "zh": "我将代替住院中的部长出席会议。",
+    "en": "I will attend the meeting on behalf of our hospitalized department head."
+   },
+   {
+    "ja": "近年、現金にかわり、電子マネーが広く使われるようになった。",
+    "furigana": "{近年|きんねん}、{現金|げんきん}にかわり、{電子|でんし}マネーが{広|ひろ}く{使|つか}われるようになった。",
+    "zh": "近年来，电子货币取代现金，得到了广泛使用。",
+    "en": "In recent years electronic money has come into wide use in place of cash."
+   }
+  ],
+  "note_zh": "汉字可写「に代わって」；「時代の交代」义不能换成「の代わりに」，后者只表示临时替代或补偿。",
+  "note_en": "May be written に代わって. For epochal replacement, 〜の代わりに (temporary substitution/compensation) is not a substitute."
+ },
+ {
+  "id": "g-n2-159",
+  "level": "N2",
+  "track": "grammar",
+  "group": "時・場面",
+  "pattern": "〜に際して／〜に際し",
+  "meaning_zh": "值此……之际；在……的时候（正式）",
+  "meaning_en": "on the occasion of, at the time of",
+  "formation": "名词／动词辞书形 + に際して／に際し／に際しての+名词",
+  "explain_zh": "硬い書き言葉，典礼致辞、须知、合同里的高频表达，口语说「〜とき」。前项是入学、开业、利用、离职这类有仪式感或节点感的特别事项，表示「在面临这件事之际」，后项多是致辞、注意事项或应做的准备。日常琐事不能用，「昼ご飯に際して」是笑话。与「〜にあたって」高度接近，に際して更硬，且不含にあたって那种「事前准备」的强烈语感。",
+  "explain_en": "Stiff written Japanese, dense in ceremonial addresses, guidelines and contracts; speech says 〜とき. The noun is a special juncture — matriculation, an opening, use of a service, resignation — and the main clause gives remarks, precautions or preparations for facing it. Everyday trivia is excluded: 昼ご飯に際して is comical. Very close to 〜にあたって, but stiffer and without にあたって's strong sense of advance preparation.",
+  "examples": [
+   {
+    "ja": "ご利用に際して、以下の注意事項をお読みください。",
+    "furigana": "ご{利用|りよう}に{際|さい}して、{以下|いか}の{注意事項|ちゅういじこう}をお{読|よ}みください。",
+    "zh": "使用之际，请阅读以下注意事项。",
+    "en": "Before using the service, please read the following precautions."
+   },
+   {
+    "ja": "開会に際し、一言ご挨拶を申し上げます。",
+    "furigana": "{開会|かいかい}に{際|さい}し、{一言|ひとこと}ご{挨拶|あいさつ}を{申|もう}し{上|あ}げます。",
+    "zh": "值此开幕之际，请允许我讲几句话。",
+    "en": "On the occasion of the opening, allow me to say a few words."
+   }
+  ],
+  "note_zh": "「〜に際しての＋名词」可修饰名词：「契約に際しての注意」；同义的「〜の際（は）」更常见于告示。",
+  "note_en": "Attributive 〜に際しての+noun works: 契約に際しての注意. The cousin 〜の際（は）is even commoner in notices."
+ },
+ {
+  "id": "g-n2-161",
+  "level": "N2",
+  "track": "grammar",
+  "group": "時・場面",
+  "pattern": "〜に先立って／〜に先立ち",
+  "meaning_zh": "在……之前（预先）",
+  "meaning_en": "prior to, in advance of",
+  "formation": "名词／动词辞书形 + に先立って／に先立ち／に先立つ+名词",
+  "explain_zh": "硬い書き言葉，新闻和公告的常用语，口语说「〜の前に」。前项是正式的大活动（公開・工事・開会・出発），后项是为它预先进行的准备性活动（試写会・説明会・記者会見），隐含「作为前奏、为其铺垫」的目的意识，这是它比单纯的「〜の前に」多出的语感。中止形「に先立ち」在报道里更常见；连体形「に先立つ＋名词」表示「先行的……」。",
+  "explain_en": "Stiff written Japanese, standard in news and announcements; speech says 〜の前に. The upcoming item is a formal major event (a premiere, construction, an opening, departure), and the main clause is a preparatory activity staged ahead of it — a preview, briefing, press conference — with a sense of paving the way that plain 〜の前に lacks. The clipped に先立ち dominates in reporting; attributive に先立つ+noun means 'preceding'.",
+  "examples": [
+   {
+    "ja": "映画の公開に先立って、記者向けの試写会が行われた。",
+    "furigana": "{映画|えいが}の{公開|こうかい}に{先立|さきだ}って、{記者向|きしゃむ}けの{試写会|ししゃかい}が{行|おこな}われた。",
+    "zh": "在电影公映之前，先举行了面向记者的试映会。",
+    "en": "Ahead of the film's release, a press screening was held."
+   },
+   {
+    "ja": "工事に先立ち、周辺住民への説明会が開かれた。",
+    "furigana": "{工事|こうじ}に{先立|さきだ}ち、{周辺住民|しゅうへんじゅうみん}への{説明会|せつめいかい}が{開|ひら}かれた。",
+    "zh": "开工之前，先为周边居民召开了说明会。",
+    "en": "Prior to the construction work, a briefing was held for nearby residents."
+   }
+  ],
+  "note_zh": "日常小事（食事・買い物）不能用；前项须是正式、规模较大的事项。",
+  "note_en": "Everyday actions (meals, shopping) are excluded; the upcoming event must be formal and substantial."
+ },
+ {
+  "id": "g-n2-166",
+  "level": "N2",
+  "track": "grammar",
+  "group": "様態・心情",
+  "pattern": "〜を込めて",
+  "meaning_zh": "满怀……（心情）地",
+  "meaning_en": "with (a feeling) put into it",
+  "formation": "名词（感情）+ を込めて／を込めた+名词／の込もった+名词",
+  "explain_zh": "中性表达，贺卡、书信、歌词和日常会话都常用。前项限于感情、心意类名词（愛・感謝・心・願い・祈り・皮肉），表示把这份心情倾注到后项动作中，后项多是制作、书写、赠送、演奏这类可以承载心意的行为。「心を込めて」几乎是待客和手工的固定语。修饰名词说「愛情を込めた料理」或「心の込もった贈り物」。",
+  "explain_en": "Neutral and common in greeting cards, letters, lyrics and conversation. The noun must be a feeling (love, gratitude, heart, a wish, a prayer, irony), poured into the action that follows — typically making, writing, giving or performing, acts that can carry sentiment. 心を込めて is near-formulaic in hospitality and handicraft. Before nouns use 愛情を込めた料理 or 心の込もった贈り物.",
+  "examples": [
+   {
+    "ja": "感謝の気持ちを込めて、両親に手紙を書いた。",
+    "furigana": "{感謝|かんしゃ}の{気持|きも}ちを{込|こ}めて、{両親|りょうしん}に{手紙|てがみ}を{書|か}いた。",
+    "zh": "我满怀感激之情，给父母写了一封信。",
+    "en": "Filled with gratitude, I wrote a letter to my parents."
+   },
+   {
+    "ja": "心を込めて作った料理は、味が違う。",
+    "furigana": "{心|こころ}を{込|こ}めて{作|つく}った{料理|りょうり}は、{味|あじ}が{違|ちが}う。",
+    "zh": "用心做出来的饭菜，味道就是不一样。",
+    "en": "Food made with real care simply tastes different."
+   }
+  ],
+  "note_zh": "皮肉、怒り等负面心情也能用：「皮肉を込めて言う」；前项不能是具体物品。",
+  "note_en": "Negative feelings work too: 皮肉を込めて言う. Concrete objects cannot fill the slot."
+ }
+]

@@ -1,0 +1,580 @@
+[
+  {
+    "id": "k-29",
+    "level": "N2",
+    "track": "keigo",
+    "group": "場面別実践",
+    "pattern": "依頼の敬語（〜ていただけますでしょうか）",
+    "meaning_zh": "请求的敬语阶梯：从〜てください到〜いただけますと幸いです",
+    "meaning_en": "the politeness ladder of requests",
+    "formation": "クッション言葉 + お／ご〜いただけますでしょうか ／ お願いできますでしょうか ／（書面）〜いただけますと幸いです",
+    "explain_zh": "商务请求的礼貌程度是一级级往上加的：〜てください（近乎指示）＜〜ていただけますか＜〜いただけますでしょうか＜〜いただけますと幸いです（书面最高级）。请求越麻烦、对方地位越高，就要选越靠后的形式，并且在前面加缓冲语（恐れ入りますが、お手数をおかけしますが）。把句子做成疑问形是关键——疑问形把「做不做」的决定权交还给对方，这正是日语礼貌的核心逻辑。中文母语者习惯用一个「请」解决所有场合，结果对客户也说「〜てください」，在日本人听来接近命令，务必改掉。",
+    "explain_en": "Business requests climb a ladder: 〜てください (almost an instruction), 〜ていただけますか, 〜いただけますでしょうか, and in writing 〜いただけますと幸いです. The heavier the favor and the higher the addressee, the further up the ladder you go, always with a cushion phrase in front. The question form matters most, because it hands the decision back to the other party.",
+    "examples": [
+      {
+        "ja": "恐れ入りますが、こちらの書類にご署名いただけますでしょうか。",
+        "furigana": "{恐|おそ}れ{入|い}りますが、こちらの{書類|しょるい}にご{署名|しょめい}いただけますでしょうか。",
+        "zh": "不好意思，能请您在这份文件上签名吗？",
+        "en": "I am sorry to trouble you, but could you sign this document?"
+      },
+      {
+        "ja": "お手数をおかけしますが、お見積もりをお願いできますでしょうか。",
+        "furigana": "お{手数|てすう}をおかけしますが、お{見積|みつ}もりをお{願|ねが}いできますでしょうか。",
+        "zh": "麻烦您了，能请您做一份报价吗？",
+        "en": "Sorry for the trouble, but could I ask you for an estimate?"
+      },
+      {
+        "ja": "差し支えなければ、ご連絡先を教えていただけませんでしょうか。",
+        "furigana": "{差|さ}し{支|つか}えなければ、ご{連絡先|れんらくさき}を{教|おし}えていただけませんでしょうか。",
+        "zh": "如果方便的话，能告诉我您的联系方式吗？",
+        "en": "If you don't mind, could you let me know your contact information?"
+      }
+    ],
+    "note_zh": "「〜いただけませんでしょうか」用否定疑问再退一步，比肯定疑问更委婉，适合难度大的请求。书面语首选「〜いただけますと幸いです」。",
+    "note_en": "The negative question 〜いただけませんでしょうか steps back one degree further and suits demanding requests; in writing, 〜いただけますと幸いです is the first choice."
+  },
+  {
+    "id": "k-30",
+    "level": "N2",
+    "track": "keigo",
+    "group": "場面別実践",
+    "pattern": "断りの敬語（いたしかねます／遠慮させていただきます）",
+    "meaning_zh": "拒绝的敬语：不说「できません」也能把话拒掉",
+    "meaning_en": "polite refusals without saying できません",
+    "formation": "あいにく／せっかくですが + 〜いたしかねます・遠慮させていただきます + フォロー（またの機会に等）",
+    "explain_zh": "日语商务场合几乎不直接说「できません」「無理です」，拒绝要按三段式来：先用「あいにく」「せっかくのお話ですが」表达遗憾，再用「〜いたしかねます」「遠慮させていただきます」婉转地拒绝，最后补一句「またの機会にぜひ」留住关系。「〜かねます」形式上是肯定句，意思却是「难以做到」，比否定句温和得多，是拒绝的万能后缀。「遠慮させていただきます」用于谢绝邀请或好意，字面是「请允许我退让」，实际就是明确的「不」。中文母语者容易把话说得太直接，或者反过来只说「ちょっと…」让对方摸不着头脑——日语的拒绝要委婉，但结论必须清晰。",
+    "explain_en": "Japanese business avoids a bare できません. Refusals run in three steps: express regret with あいにく or せっかくですが, decline softly with 〜いたしかねます or 遠慮させていただきます, then keep the relationship alive with またの機会に. 〜かねます is affirmative in form but means \"I am unable to,\" which is why it sounds gentle. Be indirect in tone but unmistakably clear in conclusion.",
+    "examples": [
+      {
+        "ja": "あいにくその日は先約がございまして、参加いたしかねます。",
+        "furigana": "あいにくその{日|ひ}は{先約|せんやく}がございまして、{参加|さんか}いたしかねます。",
+        "zh": "很不巧那天已有约在先，恕难参加。",
+        "en": "Unfortunately I have a prior engagement that day and am unable to attend."
+      },
+      {
+        "ja": "せっかくのお話ですが、今回は遠慮させていただきます。",
+        "furigana": "せっかくのお{話|はなし}ですが、{今回|こんかい}は{遠慮|えんりょ}させていただきます。",
+        "zh": "难得您提出，但这次请容我谢绝。",
+        "en": "I appreciate the kind offer, but I will have to pass this time."
+      },
+      {
+        "ja": "ご期待に沿いかねる結果となり、誠に申し訳ございません。",
+        "furigana": "ご{期待|きたい}に{沿|そ}いかねる{結果|けっか}となり、{誠|まこと}に{申|もう}し{訳|わけ}ございません。",
+        "zh": "结果未能达到您的期望，非常抱歉。",
+        "en": "We are very sorry that the outcome falls short of your expectations."
+      }
+    ],
+    "note_zh": "「お断りします」语气强硬，接近正式抗议，日常业务中慎用；「見送らせていただきます」是采购、录用等场合「这次不采用」的标准婉拒。",
+    "note_en": "お断りします sounds like a firm formal rejection; 見送らせていただきます is the standard soft \"we will pass this time\" in procurement and hiring."
+  },
+  {
+    "id": "k-31",
+    "level": "N2",
+    "track": "keigo",
+    "group": "場面別実践",
+    "pattern": "謝罪の敬語の程度差",
+    "meaning_zh": "道歉的分寸：失礼いたしました＜申し訳ございません＜お詫び申し上げます",
+    "meaning_en": "degrees of apology in keigo",
+    "formation": "軽い非礼 → 失礼いたしました ／ 実害・迷惑 → 申し訳ございません ／ 重大な過失（書面） → 深くお詫び申し上げます",
+    "explain_zh": "道歉的轻重必须和过失的轻重匹配。「失礼いたしました」用于小小的失礼——迟到几分钟、叫错名字、打断说话；「申し訳ございません」是给对方造成实际麻烦时的标准道歉，商务场合最常用；「（深く）お詫び申し上げます」最重，用于事故、重大失误，多见于书面道歉和正式声明。「すみません」在正式商务场合分量不够，对客户基本不用。中文母语者要注意反向的错误：小事用了最重的道歉反而显得夸张做作，比如借过一下说「深くお詫び申し上げます」就滑稽了——分寸感本身就是敬语能力的一部分。",
+    "explain_en": "The weight of the apology must match the weight of the offense. 失礼いたしました covers minor lapses like being a few minutes late; 申し訳ございません is the standard business apology when real inconvenience was caused; 深くお詫び申し上げます is the heaviest, reserved for serious failures and written statements. すみません is too light for formal business. Over-apologizing for trivia sounds theatrical, so calibration itself is part of keigo skill.",
+    "examples": [
+      {
+        "ja": "遅くなりまして、失礼いたしました。",
+        "furigana": "{遅|おそ}くなりまして、{失礼|しつれい}いたしました。",
+        "zh": "来晚了，失礼了。（轻度）",
+        "en": "My apologies for being late. (light)"
+      },
+      {
+        "ja": "納品が遅れ、誠に申し訳ございません。",
+        "furigana": "{納品|のうひん}が{遅|おく}れ、{誠|まこと}に{申|もう}し{訳|わけ}ございません。",
+        "zh": "交货延迟，非常抱歉。（标准）",
+        "en": "We sincerely apologize for the delay in delivery. (standard)"
+      },
+      {
+        "ja": "このたびの不手際、深くお詫び申し上げます。",
+        "furigana": "このたびの{不手際|ふてぎわ}、{深|ふか}くお{詫|わ}び{申|もう}し{上|あ}げます。",
+        "zh": "此次的疏失，我们深表歉意。（最重，书面）",
+        "en": "We deeply apologize for our mishandling of this matter. (heaviest, written)"
+      }
+    ],
+    "note_zh": "道歉后紧跟对策才完整：「申し訳ございません。ただちに正しいものをお送りいたします」。只道歉不给方案，在商务上等于没道歉。",
+    "note_en": "A business apology is complete only with a remedy attached: 申し訳ございません。ただちに正しいものをお送りいたします."
+  },
+  {
+    "id": "k-32",
+    "level": "N2",
+    "track": "keigo",
+    "group": "場面別実践",
+    "pattern": "感謝の敬語（恐縮です／痛み入ります）",
+    "meaning_zh": "ありがとうございます之上的感谢表达",
+    "meaning_en": "expressions of thanks beyond ありがとうございます",
+    "formation": "恐縮です／恐れ入ります（恐缩型）＋ 痛み入ります（最高级）＋ 御礼申し上げます（書面・改まった場）",
+    "explain_zh": "「ありがとうございます」万能但只有一档，商务日语的感谢还有一套「恐缩型」：受到超出身份的照顾或夸奖时说「恐縮です」「恐れ入ります」，意思是「担当不起」，比直接道谢更谦恭。「痛み入ります」是恐缩型的最高级，用于对方特别费心的场合，带书面语色彩。郑重的书面感谢用「心より御礼申し上げます」，年末给客户的问候、致辞里都是它。中文里「不敢当」「有劳您费心」正好对应这套表达，迁移过来理解并不难——难的是记住场合：同事帮个小忙说ありがとうございます就够，客户特意为你改了日程，就该说恐れ入ります。",
+    "explain_en": "ありがとうございます is universal but flat. Business Japanese adds a \"humbled\" register: 恐縮です and 恐れ入ります mean \"I don't deserve this kindness\" and outdo a plain thank-you when receiving favors or praise from above. 痛み入ります is the strongest of this family, slightly literary. Formal written thanks use 心より御礼申し上げます. Match the phrase to the size of the favor, not just the politeness of the scene.",
+    "examples": [
+      {
+        "ja": "過分なお言葉をいただき、恐縮です。",
+        "furigana": "{過分|かぶん}なお{言葉|ことば}をいただき、{恐縮|きょうしゅく}です。",
+        "zh": "承蒙过奖，实在不敢当。",
+        "en": "I am humbled by your generous words."
+      },
+      {
+        "ja": "温かいお心遣い、痛み入ります。",
+        "furigana": "{温|あたた}かいお{心遣|こころづか}い、{痛|いた}み{入|い}ります。",
+        "zh": "您的关怀体贴，令我感激不尽。",
+        "en": "I am deeply grateful for your kind consideration."
+      },
+      {
+        "ja": "日頃のご愛顧に、心より御礼申し上げます。",
+        "furigana": "{日頃|ひごろ}のご{愛顧|あいこ}に、{心|こころ}より{御礼|おんれい}{申|もう}し{上|あ}げます。",
+        "zh": "对您一直以来的惠顾，谨致以衷心的感谢。",
+        "en": "We express our heartfelt gratitude for your continued patronage."
+      }
+    ],
+    "note_zh": "「恐縮ですが」后接请求是缓冲语（第25课），「恐縮です」单独收尾才是感谢／惶恐。同一个词，位置不同功能不同。",
+    "note_en": "恐縮ですが before a request is a cushion phrase (lesson 25); 恐縮です on its own expresses humbled thanks. Same word, different function by position."
+  },
+  {
+    "id": "k-33",
+    "level": "N2",
+    "track": "keigo",
+    "group": "場面別実践",
+    "pattern": "承諾の返事（かしこまりました／承知いたしました）",
+    "meaning_zh": "接受指示时的应答：了解・承知・かしこまりました的分工",
+    "meaning_en": "acknowledging instructions: 了解 vs 承知 vs かしこまりました",
+    "formation": "お客様 → かしこまりました ／ 上司・社外 → 承知いたしました ／ 同僚・部下 → 了解です・わかりました",
+    "explain_zh": "别人交代事情，回答什么最能看出敬语功力。对客户，服务业标准答法是「かしこまりました」；对上司和社外的人，用「承知いたしました」「承知しました」；「了解しました」只能对同事、下级用——它没有谦意，对上级用被普遍认为失礼，这是日本职场新人被纠正最多的一条。「わかりました」不算错但显得平淡，正式场合撑不起来。中文的「明白了」「收到」不分对象，所以中文母语者发邮件时特别容易顺手写「了解しました」给客户，务必检查。",
+    "explain_en": "Your acknowledgment reveals your keigo skill instantly. To customers the service standard is かしこまりました; to superiors and outside contacts use 承知いたしました. 了解しました carries no humility and is for peers and juniors only — using it upward is the most-corrected rookie mistake in Japanese offices. わかりました is not wrong but too plain for formal scenes.",
+    "examples": [
+      {
+        "ja": "かしこまりました。すぐにお持ちいたします。",
+        "furigana": "かしこまりました。すぐにお{持|も}ちいたします。",
+        "zh": "好的，马上给您拿来。（对客人）",
+        "en": "Certainly. I will bring it right away. (to a customer)"
+      },
+      {
+        "ja": "承知いたしました。明日までに修正いたします。",
+        "furigana": "{承知|しょうち}いたしました。{明日|あす}までに{修正|しゅうせい}いたします。",
+        "zh": "明白了，我明天之前修改好。（对上司・社外）",
+        "en": "Understood. I will have it corrected by tomorrow. (to a superior or outside contact)"
+      },
+      {
+        "ja": "（誤）了解です →（正）承知いたしました。",
+        "furigana": "（{誤|ご}）{了解|りょうかい}です →（{正|せい}）{承知|しょうち}いたしました。",
+        "zh": "（误）对上司说「了解です」 →（正）承知いたしました。",
+        "en": "(wrong) 了解です to a superior -> (right) 承知いたしました."
+      }
+    ],
+    "note_zh": "拒绝上司的指示很难开口时，可用「申し訳ございません、あいにく本日は〜」先致歉再说明理由，不要沉默或含糊。",
+    "note_en": "If you must decline an instruction, apologize first and give the reason (申し訳ございません、あいにく本日は…) rather than staying vague."
+  },
+  {
+    "id": "k-34",
+    "level": "N2",
+    "track": "keigo",
+    "group": "場面別実践",
+    "pattern": "アポイントと日程調整の敬語",
+    "meaning_zh": "约时间、定日程的敬语说法",
+    "meaning_en": "keigo for making appointments and scheduling",
+    "formation": "伺いたいのですが + ご都合はいかがでしょうか ／ 〜でもよろしいでしょうか ／ ご都合のよい日時をお知らせください",
+    "explain_zh": "约见面的核心原则是「日程由对方定，自己去配合」。开口先说明来意「ご挨拶に伺いたいのですが」，然后把选择权交给对方：「ご都合はいかがでしょうか」。对方给出时间后，用「〜でもよろしいでしょうか」确认细节。自己提议时间时要给出多个选项并加「もしご都合が合わなければ」留余地。注意动词方向：自己去用「伺う」「参る」，请对方来用「お越しいただく」「いらっしゃる」。中文里「你哪天有空？」是中性的，直译成「いつ暇ですか」在商务日语里非常失礼——「暇」这个词本身就在暗示对方闲着。",
+    "explain_en": "The golden rule of scheduling is that the other party's convenience comes first. State your purpose with 伺いたいのですが, then hand over the choice with ご都合はいかがでしょうか. Confirm details with 〜でもよろしいでしょうか. When proposing times, offer several and leave room with もしご都合が合わなければ. Never translate \"when are you free?\" as いつ暇ですか — 暇 implies the person is idle.",
+    "examples": [
+      {
+        "ja": "来週、ご挨拶に伺いたいのですが、ご都合はいかがでしょうか。",
+        "furigana": "{来週|らいしゅう}、ご{挨拶|あいさつ}に{伺|うかが}いたいのですが、ご{都合|つごう}はいかがでしょうか。",
+        "zh": "下周想登门拜访问候，不知您时间上是否方便？",
+        "en": "I would like to visit you next week to introduce myself; would that be convenient for you?"
+      },
+      {
+        "ja": "では、十日の午後二時にお伺いしてもよろしいでしょうか。",
+        "furigana": "では、{十日|とおか}の{午後|ごご}{二時|にじ}にお{伺|うかが}いしてもよろしいでしょうか。",
+        "zh": "那么，我十号下午两点过去拜访可以吗？",
+        "en": "Then may I call on you at 2 p.m. on the tenth?"
+      },
+      {
+        "ja": "ご指定の日時で問題ございません。お待ちしております。",
+        "furigana": "ご{指定|してい}の{日時|にちじ}で{問題|もんだい}ございません。お{待|ま}ちしております。",
+        "zh": "您指定的时间没有问题，恭候您的到来。",
+        "en": "The date and time you specified are fine. We look forward to seeing you."
+      }
+    ],
+    "note_zh": "改约要先道歉再调整：「大変申し訳ございませんが、日程を変更させていただけないでしょうか」。临时取消是商务大忌，能改期就不要取消。",
+    "note_en": "To reschedule, apologize first: 大変申し訳ございませんが、日程を変更させていただけないでしょうか. Rescheduling beats cancelling."
+  },
+  {
+    "id": "k-35",
+    "level": "N1",
+    "track": "keigo",
+    "group": "場面別実践",
+    "pattern": "催促・リマインドの敬語",
+    "meaning_zh": "催对方回复、催进度时的敬语",
+    "meaning_en": "polite reminders and follow-ups",
+    "formation": "いかがでしょうか型（進捗を尋ねる）＋ 行き違いでしたら恐縮ですが（逃げ道）＋ 期限 + のほどお願い申し上げます",
+    "explain_zh": "催促是最考验敬语的场面：话说轻了没效果，说重了伤关系。日语的标准做法是「不指责、只询问」——不说「まだですか」，而问「いかがでしょうか」「ご覧いただけましたでしょうか」，把催促伪装成确认。第二个技巧是给对方留台阶：加一句「行き違いでしたら恐縮ですが」（如果邮件恰好错过请见谅），万一对方其实已经回了也不尴尬。需要明确期限时，用「〜までにご回答いただけますと幸いです」把截止日期客气地钉死。中文的「请尽快回复」直译成日语会显得强硬，商务邮件里要靠这三件套来软化。",
+    "explain_en": "Reminders are keigo on hard mode: too soft achieves nothing, too hard damages the relationship. The Japanese method is to ask, never accuse — not まだですか but いかがでしょうか or ご覧いただけましたでしょうか, disguising the nudge as a status check. Add an escape route with 行き違いでしたら恐縮ですが in case they already replied, and pin the deadline politely with 〜までにご回答いただけますと幸いです.",
+    "examples": [
+      {
+        "ja": "先日お送りした見積書は、ご覧いただけましたでしょうか。",
+        "furigana": "{先日|せんじつ}お{送|おく}りした{見積書|みつもりしょ}は、ご{覧|らん}いただけましたでしょうか。",
+        "zh": "前几天发给您的报价单，不知您是否已经过目？",
+        "en": "Have you had a chance to look at the estimate I sent the other day?"
+      },
+      {
+        "ja": "行き違いでしたら恐縮ですが、ご返信いただけますと幸いです。",
+        "furigana": "{行|い}き{違|ちが}いでしたら{恐縮|きょうしゅく}ですが、ご{返信|へんしん}いただけますと{幸|さいわ}いです。",
+        "zh": "如果邮件恰好错过还请见谅，盼您回复。",
+        "en": "My apologies if our messages have crossed, but I would appreciate your reply."
+      },
+      {
+        "ja": "お忙しいところ恐れ入りますが、今週中にご回答のほどお願い申し上げます。",
+        "furigana": "お{忙|いそが}しいところ{恐|おそ}れ{入|い}りますが、{今週中|こんしゅうちゅう}にご{回答|かいとう}のほどお{願|ねが}い{申|もう}し{上|あ}げます。",
+        "zh": "百忙之中打扰您，请在本周内给予答复。",
+        "en": "I am sorry to press you when you are busy, but we would ask for your answer within this week."
+      }
+    ],
+    "note_zh": "「のほど」是缓和断定的商务惯用语：ご確認のほど・ご対応のほど・ご回答のほど，后面固定接「よろしくお願いいたします／申し上げます」。",
+    "note_en": "のほど softens the demand and pairs with よろしくお願いいたします: ご確認のほど, ご対応のほど, ご回答のほど."
+  },
+  {
+    "id": "k-36",
+    "level": "N2",
+    "track": "keigo",
+    "group": "誤用と注意",
+    "pattern": "バイト敬語（〜になります／〜のほう）",
+    "meaning_zh": "打工敬语：服务业泛滥的错误敬语",
+    "meaning_en": "baito keigo: widespread incorrect service-industry keigo",
+    "formation": "誤：〜になります・〜のほう・〜からお預かりします・よろしかったでしょうか → 正：〜でございます・〜を・よろしいでしょうか",
+    "explain_zh": "便利店和餐厅里天天听到的「こちらがコーヒーになります」其实是错的：「になる」表示变化，咖啡没有变成什么，正确说法是「でございます」。同类错误还有：「〜のほう」（ご注文のほう——多余的缓冲词）、「〜からお預かりします」（千円から——から无意义）、「よろしかったでしょうか」（刚发生的事却用过去形）。这套「バイト敬語」在打工场合泛滥，听多了会以为是标准敬语，这正是它对学习者最危险的地方。面试、商务场合用出来会被认为敬语没学好，所以要能听懂它、但不模仿它。",
+    "explain_en": "The こちらがコーヒーになります heard daily in shops is wrong: になる means change of state, and the coffee has not become anything — the correct form is でございます. The same family includes filler のほう (ご注文のほう), meaningless から in 千円からお預かりします, and past-tense よろしかったでしょうか about a present matter. This \"baito keigo\" is so pervasive that learners absorb it as standard; recognize it, but do not imitate it in interviews or business.",
+    "examples": [
+      {
+        "ja": "（誤）こちらがコーヒーになります →（正）こちらがコーヒーでございます。",
+        "furigana": "（{誤|ご}）こちらがコーヒーになります →（{正|せい}）こちらがコーヒーでございます。",
+        "zh": "（误）「变成咖啡」 →（正）用でございます。",
+        "en": "(wrong) になります implies change -> (right) でございます."
+      },
+      {
+        "ja": "（誤）ご注文のほう、よろしかったでしょうか →（正）ご注文は以上でよろしいでしょうか。",
+        "furigana": "（{誤|ご}）ご{注文|ちゅうもん}のほう、よろしかったでしょうか →（{正|せい}）ご{注文|ちゅうもん}は{以上|いじょう}でよろしいでしょうか。",
+        "zh": "（误）多余的のほう＋无理由的过去形 →（正）现在形よろしいでしょうか。",
+        "en": "(wrong) filler のほう plus unmotivated past tense -> (right) present-tense よろしいでしょうか."
+      },
+      {
+        "ja": "（誤）千円からお預かりします →（正）千円をお預かりします。",
+        "furigana": "（{誤|ご}）{千円|せんえん}からお{預|あず}かりします →（{正|せい}）{千円|せんえん}をお{預|あず}かりします。",
+        "zh": "（误）から没有语法功能 →（正）用を。",
+        "en": "(wrong) から serves no function -> (right) use を."
+      }
+    ],
+    "note_zh": "「お会計は千円ちょうどお預かりします」在收整数时也别扭——不找零就直接说「千円、頂戴いたします」。",
+    "note_en": "When no change is due, say 千円、頂戴いたします instead of お預かりします, since nothing is being held for return."
+  },
+  {
+    "id": "k-37",
+    "level": "N2",
+    "track": "keigo",
+    "group": "誤用と注意",
+    "pattern": "目上に使えない言葉（ご苦労様・なるほど）",
+    "meaning_zh": "对上级不能用的高频词",
+    "meaning_en": "everyday phrases you must not use to superiors",
+    "formation": "ご苦労様 → お疲れ様です ／ なるほど（ですね） → おっしゃる通りです ／ 参考になりました → 勉強になりました",
+    "explain_zh": "有一批词本身很客气，方向却是「上对下」，对上级用就踩雷。「ご苦労様」是上位者慰劳下位者的话，对上司、客户要说「お疲れ様です」。「なるほど」是平辈之间的附和，对上级显得在「评审」对方的话，改说「おっしゃる通りです」「さようでございますか」；口语泛滥的「なるほどですね」更是错上加错。「参考になりました」隐含「仅供参考」，对指导自己的人要说「勉強になりました」。这些词的共同点是：字面客气、姿态居高，中文里没有对应的方向限制（「辛苦了」谁对谁都能说），所以只能逐个记住。",
+    "explain_en": "Some polite-looking phrases point downward and misfire when aimed upward. ご苦労様 is what a superior says to reward a subordinate's effort — to bosses and clients say お疲れ様です. なるほど is peer-level backchannel that sounds like you are grading the speaker; use おっしゃる通りです or さようでございますか instead, and avoid the doubly wrong なるほどですね. 参考になりました implies \"noted for reference\"; toward a mentor say 勉強になりました. Chinese has no such directionality (辛苦了 works both ways), so these must be memorized item by item.",
+    "examples": [
+      {
+        "ja": "（誤）ご苦労様です →（正）お疲れ様です。",
+        "furigana": "（{誤|ご}）ご{苦労様|くろうさま}です →（{正|せい}）お{疲|つか}れ{様|さま}です。",
+        "zh": "（误）对上司说ご苦労様 →（正）お疲れ様です。",
+        "en": "(wrong) ご苦労様 to a superior -> (right) お疲れ様です."
+      },
+      {
+        "ja": "（誤）なるほどですね →（正）おっしゃる通りです。",
+        "furigana": "（{誤|ご}）なるほどですね →（{正|せい}）おっしゃる{通|とお}りです。",
+        "zh": "（误）なるほどですね →（正）おっしゃる通りです。",
+        "en": "(wrong) なるほどですね -> (right) おっしゃる通りです."
+      },
+      {
+        "ja": "（誤）大変参考になりました →（正）大変勉強になりました。",
+        "furigana": "（{誤|ご}）{大変|たいへん}{参考|さんこう}になりました →（{正|せい}）{大変|たいへん}{勉強|べんきょう}になりました。",
+        "zh": "（误）参考になりました显得居高临下 →（正）勉強になりました。",
+        "en": "(wrong) 参考になりました sounds condescending -> (right) 勉強になりました."
+      }
+    ],
+    "note_zh": "同类雷区：「了解しました」（第33课）、「お世話様です」、问上司「できますか」（改问「お願いできますでしょうか」）。",
+    "note_en": "Same minefield: 了解しました (lesson 33), お世話様です, and asking a superior できますか instead of お願いできますでしょうか."
+  },
+  {
+    "id": "k-38",
+    "level": "N1",
+    "track": "keigo",
+    "group": "誤用と注意",
+    "pattern": "「させていただく」の乱用",
+    "meaning_zh": "「させていただく」的滥用问题",
+    "meaning_en": "the overuse of させていただく",
+    "formation": "使う条件：①相手（または第三者）の許可・恩恵がある ②自分がその恩恵を受ける ／ 条件を満たさない → いたします・しております",
+    "explain_zh": "「させていただく」本义是「得到您的允许而做」（第22课），但当代日语里它被当成万能谦让语滥用，文化庁也专门发文提醒。判断标准就两条：这件事需要对方（或相关方）的许可吗？自己因此受益吗？两条都不沾就不该用——「弊社で販売させていただいております」里卖东西不需要客户许可，直接说「販売しております」；「拝見させていただきました」更是谦上叠谦，说「拝見しました」即可。合理的用例是确实动了对方利益的场合：占用店铺休息（休業させていただきます）、提前离席（帰らせていただきます）。滥用的后果不是「更礼貌」，而是句子冗长、显得卑屈，在敬语考试和文书审校中都算错。",
+    "explain_en": "させていただく properly means \"do with your permission\" (lesson 22), but modern Japanese overuses it as an all-purpose humilifier — enough that the Agency for Cultural Affairs issued guidance. Two tests: does the act require someone's permission, and do you benefit? If neither, drop it: 販売しております, not 販売させていただいております; 拝見しました, not the doubly humble 拝見させていただきました. Legitimate uses genuinely affect the other party, like 休業させていただきます. Overuse reads as wordy and servile, not politer.",
+    "examples": [
+      {
+        "ja": "（誤）拝見させていただきました →（正）拝見しました。",
+        "furigana": "（{誤|ご}）{拝見|はいけん}させていただきました →（{正|せい}）{拝見|はいけん}しました。",
+        "zh": "（误）拝見已是谦让语，再叠させていただく →（正）拝見しました。",
+        "en": "(wrong) 拝見 is already humble; stacking させていただく -> (right) 拝見しました."
+      },
+      {
+        "ja": "（誤）弊社で販売させていただいております →（正）弊社で販売しております。",
+        "furigana": "（{誤|ご}）{弊社|へいしゃ}で{販売|はんばい}させていただいております →（{正|せい}）{弊社|へいしゃ}で{販売|はんばい}しております。",
+        "zh": "（误）卖自家商品不需要对方许可 →（正）販売しております。",
+        "en": "(wrong) selling your own goods needs no one's permission -> (right) 販売しております."
+      },
+      {
+        "ja": "誠に勝手ながら、本日は休業させていただきます。",
+        "furigana": "{誠|まこと}に{勝手|かって}ながら、{本日|ほんじつ}は{休業|きゅうぎょう}させていただきます。",
+        "zh": "非常抱歉，本店今日停业。（影响到客人利益，用法正确）",
+        "en": "We apologize for the inconvenience, but we are closed today. (affects customers, correct use)"
+      }
+    ],
+    "note_zh": "快速自检：把「させていただきます」换成「いたします」后意思不变、也没人需要点头，就用「いたします」。",
+    "note_en": "Quick self-check: if swapping in いたします changes nothing and nobody's permission is involved, use いたします."
+  },
+  {
+    "id": "k-39",
+    "level": "N1",
+    "track": "keigo",
+    "group": "誤用と注意",
+    "pattern": "尊敬語と謙譲語の混同誤用",
+    "meaning_zh": "把谦让语用在对方身上的典型错句",
+    "meaning_en": "classic errors of applying humble forms to the other party",
+    "formation": "誤：謙譲語＋れる（申される）／ 謙譲語＋てください（伺ってください・拝見してください） → 正：尊敬語に差し替える",
+    "explain_zh": "最隐蔽的敬语错误，是给谦让语披上尊敬语的外衣。「お客様が申されました」——申す是谦让语，加了れる也变不成尊敬语，反而把客户压低了，正确说法是「おっしゃいました」。同理，「伺ってください」「拝見してください」是把「我去问」「我拜读」硬塞给对方，应说「お尋ねください」「ご覧ください」。这类错误比完全不用敬语更糟，因为句子听起来很郑重、方向却是反的，等于恭恭敬敬地贬低了对方。自检方法回到第一课的铁律：先问「这个动作是谁做的」，对方做的就绝不能出现申す・伺う・拝見・いただく这些谦让词根。",
+    "explain_en": "The sneakiest keigo errors dress humble verbs up as honorifics. お客様が申されました fails because 申す is humble and adding れる cannot flip its direction — it politely demotes the customer; say おっしゃいました. Likewise 伺ってください and 拝見してください push your own humble actions onto the other party; the correct forms are お尋ねください and ご覧ください. These errors are worse than plain speech because they sound formal while pointing the wrong way. The fix is lesson one's iron rule: ask who performs the action, and never let humble roots describe the other party's acts.",
+    "examples": [
+      {
+        "ja": "（誤）お客様が申されました →（正）お客様がおっしゃいました。",
+        "furigana": "（{誤|ご}）お{客様|きゃくさま}が{申|もう}されました →（{正|せい}）お{客様|きゃくさま}がおっしゃいました。",
+        "zh": "（误）谦让语申す＋れる仍是谦让 →（正）おっしゃいました。",
+        "en": "(wrong) humble 申す plus れる stays humble -> (right) おっしゃいました."
+      },
+      {
+        "ja": "（誤）詳細は受付で伺ってください →（正）詳細は受付でお尋ねください。",
+        "furigana": "（{誤|ご}）{詳細|しょうさい}は{受付|うけつけ}で{伺|うかが}ってください →（{正|せい}）{詳細|しょうさい}は{受付|うけつけ}でお{尋|たず}ねください。",
+        "zh": "（误）让对方「伺う」是把对方压低 →（正）お尋ねください。",
+        "en": "(wrong) telling the other party to 伺う lowers them -> (right) お尋ねください."
+      },
+      {
+        "ja": "（誤）こちらの資料を拝見してください →（正）こちらの資料をご覧ください。",
+        "furigana": "（{誤|ご}）こちらの{資料|しりょう}を{拝見|はいけん}してください →（{正|せい}）こちらの{資料|しりょう}をご{覧|らん}ください。",
+        "zh": "（误）拝見是「我拜读」 →（正）ご覧ください。",
+        "en": "(wrong) 拝見 means I humbly look -> (right) ご覧ください."
+      }
+    ],
+    "note_zh": "「いただいてください」也属此类：いただく是自己领受，请对方吃要说「召し上がってください」。",
+    "note_en": "いただいてください belongs to the same family: いただく is your own receiving, so offer food with 召し上がってください."
+  },
+  {
+    "id": "k-40",
+    "level": "N2",
+    "track": "keigo",
+    "group": "書き言葉・格式",
+    "pattern": "敬称の使い分け（様・さん・殿・御中・各位）",
+    "meaning_zh": "称呼后缀的正确用法",
+    "meaning_en": "choosing the right honorific title",
+    "formation": "個人 → 様（最も安全）／ 会社・部署宛て → 御中 ／ 複数人一斉 → 各位 ／ 役職名は敬称そのもの（部長様は誤り）",
+    "explain_zh": "写邮件和信封时，敬称选错第一眼就露馅。规则如下：对个人一律用「様」最安全（客户、不认识的人、邮件抬头）；「さん」限于社内和熟人；「殿」是公文里上对下的用法，现代商务基本不用；寄给公司或部门（不指定个人）用「御中」；同时发给多人用「各位」。两条高频陷阱：一是职务名本身就是敬称，「田中部長様」双重敬称是错的，要么「田中部長」要么「部長の田中様」；二是「御中」和「様」不能并用，写了具体人名就只用「様」。中文的「先生／女士」不区分个人和单位，所以「御中」这个概念要专门记。",
+    "explain_en": "Titles are the first thing a Japanese reader checks on an envelope or e-mail. 様 is the safe default for individuals; さん is for colleagues and acquaintances; 殿 is top-down officialese, best avoided; 御中 addresses a company or department with no named person; 各位 addresses a group. Two traps: job titles are themselves honorific, so 田中部長様 double-decorates — write 田中部長 or 部長の田中様; and 御中 never combines with 様 — once a person is named, use 様 alone.",
+    "examples": [
+      {
+        "ja": "（誤）田中部長様 →（正）田中部長、または部長の田中様。",
+        "furigana": "（{誤|ご}）{田中部長様|たなかぶちょうさま} →（{正|せい}）{田中部長|たなかぶちょう}、または{部長|ぶちょう}の{田中様|たなかさま}。",
+        "zh": "（误）职务＋様是双重敬称 →（正）二选一。",
+        "en": "(wrong) job title plus 様 doubles the honorific -> (right) pick one."
+      },
+      {
+        "ja": "封筒の宛名は「株式会社山田商事 営業部御中」と書きます。",
+        "furigana": "{封筒|ふうとう}の{宛名|あてな}は「{株式会社|かぶしきがいしゃ}{山田商事|やまだしょうじ} {営業部|えいぎょうぶ}{御中|おんちゅう}」と{書|か}きます。",
+        "zh": "信封收件人写「株式会社山田商事 营业部御中」。",
+        "en": "Address the envelope to the sales department of Yamada Trading with 御中."
+      },
+      {
+        "ja": "社員各位　来週の会議についてお知らせいたします。",
+        "furigana": "{社員|しゃいん}{各位|かくい}　{来週|らいしゅう}の{会議|かいぎ}についてお{知|し}らせいたします。",
+        "zh": "各位员工：现将下周会议事项通知如下。",
+        "en": "To all staff: this is to inform you about next week's meeting."
+      }
+    ],
+    "note_zh": "「各位」本身已含敬意，「各位様」「各位殿」都是错的。回信时把对方写的「行」（自谦）划掉改成「御中」或「様」是固定礼仪。",
+    "note_en": "各位 is already honorific, so 各位様 is wrong. When replying, cross out the humble 行 after your address and write 御中 or 様 — a fixed courtesy."
+  },
+  {
+    "id": "k-41",
+    "level": "N2",
+    "track": "keigo",
+    "group": "書き言葉・格式",
+    "pattern": "改まり語（本日・先ほど・のちほど）",
+    "meaning_zh": "郑重词汇：把日常词换成正式版",
+    "meaning_en": "formal vocabulary swaps for polished speech",
+    "formation": "今日→本日 ／ さっき→先ほど ／ あとで→のちほど ／ ちょっと→少々 ／ どう→いかが ／ すぐに→ただちに ／ 誰→どなた",
+    "explain_zh": "敬语不只看动词，名词和副词也要整体换挡，这套正式词汇叫「改まり語」。高频对照：今日→本日、明日（あした）→明日（あす・みょうにち）、さっき→先ほど、あとで→のちほど、ちょっと→少々、どう→いかが、誰→どなた、すぐに→ただちに、こっち→こちら。动词全用了敬语、副词却冒出「ちょっと」「さっき」，整句的档次立刻掉下来，就像西装配了拖鞋。中文母语者的省力技巧：这些替换是一对一的机械替换，不涉及主语方向判断，背熟对照表就能让口语和邮件立刻显得专业。",
+    "explain_en": "Keigo is not only verbs: nouns and adverbs must shift register too, a vocabulary set called aratamari-go. Key swaps: 今日→本日, さっき→先ほど, あとで→のちほど, ちょっと→少々, どう→いかが, 誰→どなた, すぐに→ただちに, こっち→こちら. Honorific verbs paired with casual adverbs like さっき are a suit worn with slippers. Unlike verb keigo these are mechanical one-for-one substitutions, so memorizing the table yields instant polish.",
+    "examples": [
+      {
+        "ja": "本日はお集まりいただき、誠にありがとうございます。",
+        "furigana": "{本日|ほんじつ}はお{集|あつ}まりいただき、{誠|まこと}にありがとうございます。",
+        "zh": "今天承蒙各位拨冗出席，非常感谢。",
+        "en": "Thank you very much for gathering here today."
+      },
+      {
+        "ja": "先ほどの件、のちほど改めてご連絡いたします。",
+        "furigana": "{先|さき}ほどの{件|けん}、のちほど{改|あらた}めてご{連絡|れんらく}いたします。",
+        "zh": "刚才那件事，稍后我再和您联系。",
+        "en": "Regarding the matter just now, I will contact you again later."
+      },
+      {
+        "ja": "少々確認いたしますので、そのままお待ちいただけますか。",
+        "furigana": "{少々|しょうしょう}{確認|かくにん}いたしますので、そのままお{待|ま}ちいただけますか。",
+        "zh": "我稍微确认一下，请您稍候。",
+        "en": "Let me check for a moment; could you please hold on?"
+      }
+    ],
+    "note_zh": "「明日」在郑重口语里读「あす」，最正式的书面语读「みょうにち」；同理「昨日」→「さくじつ」、「今年」→「本年」。",
+    "note_en": "明日 reads あす in formal speech and みょうにち at the highest register; likewise 昨日→さくじつ and 今年→本年."
+  },
+  {
+    "id": "k-42",
+    "level": "N1",
+    "track": "keigo",
+    "group": "書き言葉・格式",
+    "pattern": "手紙・文書の格式（拝啓・敬具・時候の挨拶）",
+    "meaning_zh": "正式书信的框架：头语、时令问候、结语",
+    "meaning_en": "the frame of formal letters: opening, seasonal greeting, closing",
+    "formation": "拝啓 → 時候の挨拶 → 安否・繁栄の挨拶 → 本文 → 結びの挨拶 → 敬具（丁寧版：謹啓〜謹白）",
+    "explain_zh": "正式信函和公文有一套固定骨架：开头写头语「拝啓」，接时令问候（「初春の候」「盛夏の候」按月份换），再接一句祝对方兴旺的寒暄（対公司用「ご清栄」「ご隆盛」，対个人用「ご健勝」），然后才进入正文；结尾用「まずは書中にてご挨拶申し上げます」收束，最后落「敬具」——拝啓和敬具必须成对出现，只写一个是错的。更郑重一档用「謹啓〜謹白」。不想按月份背时令语时，「時下ますます〜」四季通用，是商务实务的万能开头。如今日常联络都用邮件，但请柬、正式通知、道歉信、感谢状仍然遵守这套格式，会写是加分项。",
+    "explain_en": "Formal letters follow a fixed skeleton: the opener 拝啓, a seasonal greeting that rotates monthly (初春の候, 盛夏の候), a line wishing the reader prosperity (ご清栄 for companies, ご健勝 for individuals), then the body, a closing line such as まずは書中にてご挨拶申し上げます, and finally 敬具 — 拝啓 and 敬具 must appear as a pair. The politer set is 謹啓〜謹白. The season-free 時下ますます〜 works year-round. E-mail has replaced letters for daily contact, but invitations, formal notices, and letters of apology still keep this frame.",
+    "examples": [
+      {
+        "ja": "拝啓　初春の候、貴社ますますご清栄のこととお慶び申し上げます。",
+        "furigana": "{拝啓|はいけい}　{初春|しょしゅん}の{候|こう}、{貴社|きしゃ}ますますご{清栄|せいえい}のこととお{慶|よろこ}び{申|もう}し{上|あ}げます。",
+        "zh": "敬启者：初春时节，谨贺贵公司日益繁荣昌盛。",
+        "en": "Dear Sirs: In this early spring season, we are delighted that your company continues to prosper."
+      },
+      {
+        "ja": "時下ますますご隆盛のこととお喜び申し上げます。",
+        "furigana": "{時下|じか}ますますご{隆盛|りゅうせい}のこととお{喜|よろこ}び{申|もう}し{上|あ}げます。",
+        "zh": "谨贺贵方近来愈发兴隆。（不分季节的万能写法）",
+        "en": "We are pleased that you are flourishing more than ever. (season-free formula)"
+      },
+      {
+        "ja": "まずは書中にてご挨拶申し上げます。敬具",
+        "furigana": "まずは{書中|しょちゅう}にてご{挨拶|あいさつ}{申|もう}し{上|あ}げます。{敬具|けいぐ}",
+        "zh": "谨先以此函致意。敬上",
+        "en": "For now, we send our greetings by letter. Respectfully yours."
+      }
+    ],
+    "note_zh": "书信中对方公司写「貴社」，口头说「御社」（第28课）。女性专用结语「かしこ」可对应任何头语，但商务文书中一般仍用敬具。",
+    "note_en": "Write 貴社 in letters and say 御社 in speech (lesson 28). The feminine closer かしこ pairs with any opener but business documents keep 敬具."
+  },
+  {
+    "id": "k-43",
+    "level": "N1",
+    "track": "keigo",
+    "group": "書き言葉・格式",
+    "pattern": "慣用的な謙譲表現（弊社・粗品・心ばかり）",
+    "meaning_zh": "固化的自谦词汇：称自己的东西要往低里说",
+    "meaning_en": "conventional self-deprecating vocabulary",
+    "formation": "自分側 → 弊社・愚見・拙著・粗品・心ばかりの品 ／ 相手側 → 御社（貴社）・ご高見・ご著書・結構なお品",
+    "explain_zh": "日语把「压低自己」做进了词汇本身：自己公司是「弊社」，自己的意见是「愚見」「私見」，自己写的书是「拙著」，送人的礼物是「粗品」「心ばかりの品」（粗陋之物、小小心意）。对应地，对方的一切都要抬高：御社（貴社）、ご高見、ご著書、結構なお品。这和中文的「敝公司、拙作、薄礼」逻辑完全一致，理解毫无障碍，难点只在记住日语的固定形。两条注意：第一，谦称只用于自己一方，把「弊社」用在对方公司是重大失礼；第二，收到「粗品」时不能顺着说「本当に粗品ですね」，要说「結構なお品をいただきまして」——对方的自谦是客套，接话时必须换回敬意。",
+    "explain_en": "Japanese bakes humility into nouns themselves: your company is 弊社, your opinion 愚見, your book 拙著, your gift 粗品 or 心ばかりの品. Everything on the other side is raised: 御社, ご高見, ご著書, 結構なお品. The logic maps perfectly onto Chinese 敝公司 and 拙作, so only the fixed Japanese forms need memorizing. Two cautions: humble terms never apply to the other party — calling their firm 弊社 is a serious blunder — and when receiving a 粗品, respond with 結構なお品をいただきまして, never by agreeing it is humble.",
+    "examples": [
+      {
+        "ja": "弊社の粗品でございますが、どうぞお納めください。",
+        "furigana": "{弊社|へいしゃ}の{粗品|そしな}でございますが、どうぞお{納|おさ}めください。",
+        "zh": "这是敝公司的一点薄礼，请您笑纳。",
+        "en": "This is a small token from our company; please accept it."
+      },
+      {
+        "ja": "心ばかりの品ですが、みなさまで召し上がってください。",
+        "furigana": "{心|こころ}ばかりの{品|しな}ですが、みなさまで{召|め}し{上|あ}がってください。",
+        "zh": "小小心意，请大家一起品尝。",
+        "en": "It is just a little something; please enjoy it together."
+      },
+      {
+        "ja": "拙著をお送りしますので、ご笑覧いただければ幸いです。",
+        "furigana": "{拙著|せっちょ}をお{送|おく}りしますので、ご{笑覧|しょうらん}いただければ{幸|さいわ}いです。",
+        "zh": "谨奉上拙作，若蒙一哂将不胜荣幸。",
+        "en": "I am sending you my humble book; I would be honored if you would take a look."
+      }
+    ],
+    "note_zh": "「弊社」对外用，社内会议说「当社」；「小社」比弊社更低，多见于出版社自称。",
+    "note_en": "弊社 is for outsiders; internally companies say 当社. 小社 is even humbler and typical of publishers."
+  },
+  {
+    "id": "k-44",
+    "level": "N1",
+    "track": "keigo",
+    "group": "敬語の仕上げ",
+    "pattern": "敬語のレベル調整（過剰敬語は逆効果）",
+    "meaning_zh": "按对象和场面调整敬语档位",
+    "meaning_en": "tuning keigo to the person and the scene",
+    "formation": "社外・初対面・式典 → 最上級 ／ 上司 → 中級（〜れる・お〜になる＋ます） ／ 同僚 → です・ます／タメ口",
+    "explain_zh": "敬语的最后一课不是学新形式，而是学会换挡。对初次见面的客户、典礼场合用最高档（お〜申し上げます、〜いただけますと幸いです）；对天天见面的直属上司，中档就好（ます体＋轻度尊敬语〜れる）；对同期同事全程最高敬语反而是在拉开距离，显得冷淡见外。过剩敬语还有第二种害处：一句话里叠满「させていただく」「お／ご」会显得卑屈甚至像讽刺，第14课的二重敬语也属此类。原则是：敬语表达的是恰当的距离感，不是越多越好——先判断关系远近，再决定档位，该升能升、该降敢降，才算真正掌握了敬语。",
+    "explain_en": "The final skill is shifting gears, not learning new forms. First-time clients and ceremonies take the top register; a boss you see daily takes the middle one (ます plus light 〜れる honorifics); showering a close colleague with maximum keigo creates distance and reads as cold. Excess keigo also backfires — sentences stuffed with させていただく and お／ご sound servile or sarcastic, and double honorifics (lesson 14) belong to the same disease. Keigo expresses appropriate distance, not maximum politeness: judge the relationship first, then pick the gear.",
+    "examples": [
+      {
+        "ja": "（過剰）お読みになっていただけますでしょうか →（適切）お読みいただけますか。",
+        "furigana": "（{過剰|かじょう}）お{読|よ}みになっていただけますでしょうか →（{適切|てきせつ}）お{読|よ}みいただけますか。",
+        "zh": "（过剩）尊敬＋谦让叠床架屋 →（适度）お読みいただけますか。",
+        "en": "(excessive) honorific stacked on humble -> (appropriate) お読みいただけますか."
+      },
+      {
+        "ja": "隣の席の同僚には「これ、確認してもらえる？」で十分です。",
+        "furigana": "{隣|となり}の{席|せき}の{同僚|どうりょう}には「これ、{確認|かくにん}してもらえる？」で{十分|じゅうぶん}です。",
+        "zh": "对邻座的同事，说「这个能帮我确认下吗」就足够了。",
+        "en": "To the colleague next to you, a casual \"can you check this?\" is plenty."
+      },
+      {
+        "ja": "初対面のお客様には「ご確認のほど、よろしくお願い申し上げます」と丁寧に伝えます。",
+        "furigana": "{初対面|しょたいめん}のお{客様|きゃくさま}には「ご{確認|かくにん}のほど、よろしくお{願|ねが}い{申|もう}し{上|あ}げます」と{丁寧|ていねい}に{伝|つた}えます。",
+        "zh": "对初次见面的客户，则用最郑重的「ご確認のほど、よろしくお願い申し上げます」。",
+        "en": "To a first-time client, use the fully formal ご確認のほど、よろしくお願い申し上げます."
+      }
+    ],
+    "note_zh": "同一个对象也要随场面换挡：和上司私下喝酒可以放松些，第二天的正式会议上要升回去。日本人把这种切换视为社会性成熟的标志。",
+    "note_en": "Register shifts with the scene even for the same person: drinks with the boss allow relaxation, but the next morning's meeting restores formality."
+  },
+  {
+    "id": "k-45",
+    "level": "N1",
+    "track": "keigo",
+    "group": "敬語の仕上げ",
+    "pattern": "謙譲語Ⅰと謙譲語Ⅱ（丁重語）",
+    "meaning_zh": "谦让语的两个亚种：抬高对象 vs 单纯郑重",
+    "meaning_en": "kenjougo I versus kenjougo II (courteous language)",
+    "formation": "謙譲語Ⅰ（相手を高める）：伺う・申し上げる・拝見する・お〜する ／ 謙譲語Ⅱ（聞き手に丁重）：参る・申す・いたす・おる",
+    "explain_zh": "文化庁的《敬語の指針》把谦让语细分为两类，这是理解「参る／伺う」「申す／申し上げる」差别的钥匙。谦让语Ⅰ抬高动作的「对象」：伺う（去拜访某位尊长）、申し上げる（向某位尊长说）、拝見する，句子里必须存在一个被抬高的人。谦让语Ⅱ（丁重语）没有这个对象，只是对「听话人」把话说得郑重：参る、申す、いたす、おる——所以「弟のところに参ります」成立（弟弟不需要抬高，郑重的是对听众的语气），而「弟のところに伺います」就错了。丁重语甚至可以用于无生物：车站广播「電車が参ります」正是因为参る不需要尊敬对象。分清这两层，第17、18、19课那些近义词的选择就有了统一的判断标准。",
+    "explain_en": "The Agency for Cultural Affairs splits humble language in two, and this split explains the 参る／伺う and 申す／申し上げる pairs. Kenjougo I elevates the target of the action — 伺う, 申し上げる, 拝見する require a respected person in the sentence. Kenjougo II (teichougo) has no such target and is simply courteous toward the listener: 参る, 申す, いたす, おる. Hence 弟のところに参ります is fine while 伺います there is wrong, and station announcements can say 電車が参ります because 参る needs no one to respect. This distinction gives lessons 17-19 a single unified rule.",
+    "examples": [
+      {
+        "ja": "ご説明は私から申し上げます。",
+        "furigana": "ご{説明|せつめい}は{私|わたくし}から{申|もう}し{上|あ}げます。",
+        "zh": "说明由我来向您做。（谦让语Ⅰ：抬高听话的对象）",
+        "en": "I will give you the explanation myself. (kenjougo I: elevates the addressee)"
+      },
+      {
+        "ja": "週末は実家に参ります。",
+        "furigana": "{週末|しゅうまつ}は{実家|じっか}に{参|まい}ります。",
+        "zh": "周末我回老家。（谦让语Ⅱ：老家无需抬高，只是对听话人郑重）",
+        "en": "I am going to my parents' home this weekend. (kenjougo II: courteous to the listener only)"
+      },
+      {
+        "ja": "まもなく三番線に電車が参ります。",
+        "furigana": "まもなく{三番線|さんばんせん}に{電車|でんしゃ}が{参|まい}ります。",
+        "zh": "三号站台电车即将进站。（丁重语可用于无生物主语）",
+        "en": "The train is now arriving at track three. (teichougo works even with inanimate subjects)"
+      }
+    ],
+    "note_zh": "判断口诀：句中有没有值得尊敬的「对象」？有→谦让语Ⅰ（伺う・申し上げる），没有→谦让语Ⅱ（参る・申す）。丁重语原则上要接ます使用。",
+    "note_en": "Test: is there a respected target in the sentence? Yes -> kenjougo I (伺う, 申し上げる); no -> kenjougo II (参る, 申す), which in principle always takes ます."
+  }
+]

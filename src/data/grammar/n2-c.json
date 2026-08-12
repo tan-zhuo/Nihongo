@@ -1,0 +1,1294 @@
+[
+ {
+  "id": "g-n2-68",
+  "level": "N2",
+  "track": "grammar",
+  "group": "可能性・推量",
+  "pattern": "〜かねない",
+  "meaning_zh": "很可能（发生坏事）；说不定会……",
+  "meaning_en": "might well (do something bad), is liable to",
+  "formation": "动词ます形去ます + かねない",
+  "explain_zh": "书面语和郑重口语通用，新闻评论和商务警告中常见。铁则是只用于说话人不希望发生的坏结果：事故、误解、生病、丢信用等，说「合格しかねない」是典型错句。语感是「照这样下去，就有那种危险」，因此常与「このままでは・下手をすると」呼应，用来提出警告或担忧。",
+  "explain_en": "Shared by writing and formal speech, common in news commentary and business warnings. The iron rule: it applies only to undesirable outcomes — accidents, misunderstandings, illness, lost trust — so 合格しかねない is a classic error. The nuance is 'at this rate, that danger is real', so it pairs with このままでは or 下手をすると to voice warnings and worries.",
+  "examples": [
+   {
+    "ja": "そんな乱暴な運転では、事故を起こしかねない。",
+    "furigana": "そんな{乱暴|らんぼう}な{運転|うんてん}では、{事故|じこ}を{起|お}こしかねない。",
+    "zh": "开车那么野蛮，很可能会出事故。",
+    "en": "Driving that recklessly, you could well cause an accident."
+   },
+   {
+    "ja": "徹夜続きでは、体を壊しかねませんよ。",
+    "furigana": "{徹夜続|てつやつづ}きでは、{体|からだ}を{壊|こわ}しかねませんよ。",
+    "zh": "连着熬夜的话，很可能会搞垮身体的。",
+    "en": "If you keep pulling all-nighters, you may well ruin your health."
+   },
+   {
+    "ja": "その発言は相手の誤解を招きかねない。",
+    "furigana": "その{発言|はつげん}は{相手|あいて}の{誤解|ごかい}を{招|まね}きかねない。",
+    "zh": "那种发言很可能招致对方的误解。",
+    "en": "A remark like that is liable to invite misunderstanding."
+   }
+  ],
+  "note_zh": "「〜かねない」＝「〜する可能性・危険がある」，只接坏结果；好结果的可能性用「〜かもしれない」「〜得る」。",
+  "note_en": "〜かねない marks only bad possibilities; for neutral or good ones use 〜かもしれない or 〜得る."
+ },
+ {
+  "id": "g-n2-69",
+  "level": "N2",
+  "track": "grammar",
+  "group": "可能性・推量",
+  "pattern": "〜かねる",
+  "meaning_zh": "难以……；（因情理、立场）无法……",
+  "meaning_en": "cannot (bring oneself to), find it difficult to",
+  "formation": "动词ます形去ます + かねる（〜かねます）",
+  "explain_zh": "郑重的书面语和服务业敬语套路，商务邮件、客服答复里是拒绝的标准缓冲说法，日常闲聊不用。语感不是能力上做不到，而是「因立场、情理或心情上有障碍而难以做」，所以「お答えいたしかねます」比「答えられません」礼貌得多。肯定形式表示否定意义，这一点最容易误读。",
+  "explain_en": "Formal written and service-register Japanese, the standard softener for refusals in business email and customer support; absent from casual talk. It does not mean lacking the ability but being unable to do something because of one's position, propriety or feelings, which is why お答えいたしかねます is far politer than 答えられません. Note that the affirmative form carries negative meaning, the biggest reading trap.",
+  "examples": [
+   {
+    "ja": "個人情報につきましては、お答えいたしかねます。",
+    "furigana": "{個人情報|こじんじょうほう}につきましては、お{答|こた}えいたしかねます。",
+    "zh": "关于个人信息，我们难以奉告。",
+    "en": "Regarding personal information, we are unable to answer."
+   },
+   {
+    "ja": "その条件では、こちらとしては賛成しかねる。",
+    "furigana": "その{条件|じょうけん}では、こちらとしては{賛成|さんせい}しかねる。",
+    "zh": "按那样的条件，我方难以赞成。",
+    "en": "On those terms, we find it hard to agree."
+   },
+   {
+    "ja": "ご要望にはお応えしかねますので、ご了承ください。",
+    "furigana": "ご{要望|ようぼう}にはお{応|こた}えしかねますので、ご{了承|りょうしょう}ください。",
+    "zh": "恕难满足您的要求，敬请谅解。",
+    "en": "We regret that we cannot accommodate your request; we ask for your understanding."
+   }
+  ],
+  "note_zh": "「見るに見かねて」「決めかねている」是常见搭配；「わかりかねます」是客服固定句。与表示危险的「〜かねない」方向相反，勿混。",
+  "note_en": "Collocations include 見るに見かねて and 決めかねている; わかりかねます is a set customer-service phrase. Do not confuse with 〜かねない, which points the opposite way."
+ },
+ {
+  "id": "g-n2-70",
+  "level": "N2",
+  "track": "grammar",
+  "group": "可能性・推量",
+  "pattern": "〜得る／〜得ない",
+  "meaning_zh": "有可能……／不可能……",
+  "meaning_en": "can possibly / cannot possibly",
+  "formation": "动词ます形去ます + 得る（うる・える）／得ない（えない）",
+  "explain_zh": "书面语，论文、报告和新闻里用来客观讨论可能性，口语多说「〜かもしれない」「あり得ない」除外——「ありえない」在会话里已经完全日常化。表示的是事态发生的可能性，而不是人的能力，所以「私は泳ぎ得る」是错句，能力要用可能形。读音要注意：辞书形多读「うる」（起こりうる），否定只读「えない」，ます形读「えます」。",
+  "explain_en": "Written style for discussing possibility objectively in papers, reports and news; speech prefers 〜かもしれない, except ありえない, which is fully colloquial. It expresses the possibility of an event, never personal ability, so 私は泳ぎ得る is wrong — use the potential form for ability. Readings matter: the dictionary form is usually うる (起こりうる), the negative only えない, the polite form えます.",
+  "examples": [
+   {
+    "ja": "その計画は、条件さえ整えば十分実現し得る。",
+    "furigana": "その{計画|けいかく}は、{条件|じょうけん}さえ{整|ととの}えば{十分|じゅうぶん}{実現|じつげん}し{得|う}る。",
+    "zh": "只要条件齐备，那个计划完全有可能实现。",
+    "en": "Given the right conditions, that plan is entirely feasible."
+   },
+   {
+    "ja": "これは誰にでも起こり得る問題だ。",
+    "furigana": "これは{誰|だれ}にでも{起|お}こり{得|う}る{問題|もんだい}だ。",
+    "zh": "这是任何人身上都有可能发生的问题。",
+    "en": "This is a problem that could happen to anyone."
+   },
+   {
+    "ja": "あの誠実な彼が嘘をつくなんて、あり得ない。",
+    "furigana": "あの{誠実|せいじつ}な{彼|かれ}が{嘘|うそ}をつくなんて、あり{得|え}ない。",
+    "zh": "那么诚实的他居然会说谎，不可能。",
+    "en": "That honest man telling a lie? Impossible."
+   }
+  ],
+  "note_zh": "常见搭配：起こり得る・考え得る・あり得る・成し得る；连体形「〜うる+名词」（起こりうる事態）。",
+  "note_en": "Common with 起こる, 考える, ある and 成す; the attributive form is 〜うる + noun, as in 起こりうる事態."
+ },
+ {
+  "id": "g-n2-73",
+  "level": "N2",
+  "track": "grammar",
+  "group": "可能性・推量",
+  "pattern": "〜のではないだろうか",
+  "meaning_zh": "恐怕是……吧；难道不是……吗（委婉主张）",
+  "meaning_en": "isn't it perhaps the case that ..., I would suggest that",
+  "formation": "动词・イ形容词普通形／ナ形容词・名词+なの + ではないだろうか（ではないでしょうか）",
+  "explain_zh": "议论文和正式发言中缓和主张的头号工具：形式上是疑问，实际是委婉地提出自己的判断。比直接断定「〜だ」谦逊，又比「〜かもしれない」更有主张性，所以论文结论、会议提案里大量使用。礼貌体是「〜のではないでしょうか」，更硬的书面语写「〜のではあるまいか」。",
+  "explain_en": "The number-one hedge in essays and formal statements: framed as a question, it actually advances the speaker's judgement. It is humbler than flat assertion yet more committed than 〜かもしれない, hence its density in paper conclusions and meeting proposals. The polite form is 〜のではないでしょうか; stiff prose writes 〜のではあるまいか.",
+  "examples": [
+   {
+    "ja": "この計画には、そもそも無理があるのではないだろうか。",
+    "furigana": "この{計画|けいかく}には、そもそも{無理|むり}があるのではないだろうか。",
+    "zh": "这个计划恐怕本来就有些勉强吧。",
+    "en": "Isn't this plan perhaps unreasonable to begin with?"
+   },
+   {
+    "ja": "若者の読書離れは、スマートフォンの普及が原因なのではないだろうか。",
+    "furigana": "{若者|わかもの}の{読書離|どくしょばな}れは、スマートフォンの{普及|ふきゅう}が{原因|げんいん}なのではないだろうか。",
+    "zh": "年轻人远离读书，恐怕原因就在于智能手机的普及吧。",
+    "en": "Young people's drift away from reading may well stem from the spread of smartphones."
+   },
+   {
+    "ja": "もっと早く対策を取るべきだったのではないでしょうか。",
+    "furigana": "もっと{早|はや}く{対策|たいさく}を{取|と}るべきだったのではないでしょうか。",
+    "zh": "难道不是应该更早采取对策吗？",
+    "en": "Should measures not have been taken sooner?"
+   }
+  ],
+  "note_zh": "名词、ナ形容词后要加「なの」：「原因なのではないだろうか」；口语缩略为「〜んじゃないだろうか」。",
+  "note_en": "Nouns and na-adjectives need なの: 原因なのではないだろうか. Casual speech contracts it to 〜んじゃないだろうか."
+ },
+ {
+  "id": "g-n2-74",
+  "level": "N2",
+  "track": "grammar",
+  "group": "可能性・推量",
+  "pattern": "〜に相違ない",
+  "meaning_zh": "定是……无疑（书面的确信）",
+  "meaning_en": "must certainly be, without doubt (formal)",
+  "formation": "名词／动词・形容词普通形 + に相違ない",
+  "explain_zh": "「〜に違いない」的硬い書き言葉版本，见于推理小说、评论、司法文书，口语中完全不用。确信的强度与「に違いない」相同，只是文体更庄重、更陈旧，所以日常会话里说出来会显得像在演戏。公文里「上記のとおり相違ありません」是确认内容无误的固定套语，与推量用法要分开记。",
+  "explain_en": "The stiff written counterpart of 〜に違いない, found in detective fiction, commentary and legal documents, never in conversation. The degree of certainty matches に違いない; only the register is more solemn and old-fashioned, so saying it aloud sounds theatrical. In official forms, 上記のとおり相違ありません is a set formula certifying correctness — keep it separate from the conjectural use.",
+  "examples": [
+   {
+    "ja": "この筆跡は本人のものに相違ない。",
+    "furigana": "この{筆跡|ひっせき}は{本人|ほんにん}のものに{相違|そうい}ない。",
+    "zh": "这笔迹定是本人的无疑。",
+    "en": "This handwriting is without doubt his own."
+   },
+   {
+    "ja": "犯人は内部の事情に詳しい人物に相違ない。",
+    "furigana": "{犯人|はんにん}は{内部|ないぶ}の{事情|じじょう}に{詳|くわ}しい{人物|じんぶつ}に{相違|そうい}ない。",
+    "zh": "罪犯定是熟悉内部情况的人无疑。",
+    "en": "The culprit must certainly be someone familiar with internal affairs."
+   },
+   {
+    "ja": "彼の証言は事実に相違ないと判断された。",
+    "furigana": "{彼|かれ}の{証言|しょうげん}は{事実|じじつ}に{相違|そうい}ないと{判断|はんだん}された。",
+    "zh": "他的证言被认定与事实相符无误。",
+    "en": "His testimony was judged to be consistent with the facts."
+   }
+  ],
+  "note_zh": "文体等级：に決まっている（口语）＜に違いない（中性）＜に相違ない（书面）；申请表的「相違ありません」是确认套语。",
+  "note_en": "Register scale: に決まっている (colloquial) < に違いない (neutral) < に相違ない (written). On forms, 相違ありません is a fixed attestation."
+ },
+ {
+  "id": "g-n2-75",
+  "level": "N2",
+  "track": "grammar",
+  "group": "可能性・推量",
+  "pattern": "〜まい",
+  "meaning_zh": "不会……吧（否定推量）；决不……（否定意志）",
+  "meaning_en": "probably not; will never (negative volition)",
+  "formation": "五段动词辞书形＋まい；一段动词ます形去ます＋まい；する→するまい・すまい；来る→来るまい・来まい",
+  "explain_zh": "书面语，带文语色彩，见于小说、社论和内心独白，口语分别说「〜ないだろう」和「絶対〜ない」。两个意思要分清：否定推量「大概不会」（主语多为第三者），否定意志「决不做」（主语只能是说话人自己），后者常与「二度と」「〜と誓う・〜と心に決める」搭配。派生句式「〜（よ）うか〜まいか」表示「做还是不做」的犹豫。",
+  "explain_en": "Literary-flavoured written Japanese found in fiction, editorials and inner monologue; speech uses 〜ないだろう or 絶対〜ない instead. Distinguish the two senses: negative conjecture 'probably won't' (usually third-person subject) and negative volition 'I will never' (first person only), the latter pairing with 二度と and 〜と誓う. The derived pattern 〜(よ)うか〜まいか expresses wavering over whether to act.",
+  "examples": [
+   {
+    "ja": "同じ過ちは二度と犯すまいと心に誓った。",
+    "furigana": "{同|おな}じ{過|あやま}ちは{二度|にど}と{犯|おか}すまいと{心|こころ}に{誓|ちか}った。",
+    "zh": "我在心中发誓，决不再犯同样的错误。",
+    "en": "I swore to myself never to make the same mistake again."
+   },
+   {
+    "ja": "明日の会議に、彼が来ることはあるまい。",
+    "furigana": "{明日|あす}の{会議|かいぎ}に、{彼|かれ}が{来|く}ることはあるまい。",
+    "zh": "明天的会议，他大概是不会来的吧。",
+    "en": "He is unlikely to show up at tomorrow's meeting."
+   },
+   {
+    "ja": "留学しようかしまいか、まだ迷っている。",
+    "furigana": "{留学|りゅうがく}しようかしまいか、まだ{迷|まよ}っている。",
+    "zh": "去不去留学，我还在犹豫。",
+    "en": "I am still torn over whether or not to study abroad."
+   }
+  ],
+  "note_zh": "「〜ではあるまいか」＝书面的「〜ではないだろうか」；否定意志用法只限第一人称，写「彼は行くまいと決めた」需改为引用他人内心。",
+  "note_en": "〜ではあるまいか is the bookish 〜ではないだろうか. The volitional sense is first-person only, unless quoting someone's inner resolve."
+ },
+ {
+  "id": "g-n2-76",
+  "level": "N2",
+  "track": "grammar",
+  "group": "義務・必然",
+  "pattern": "〜ねばならない",
+  "meaning_zh": "必须……（书面的义务表达）",
+  "meaning_en": "must, have to (formal written)",
+  "formation": "动词ない形去ない + ねばならない（する→せねばならない）",
+  "explain_zh": "「〜なければならない」的硬い書き言葉版本，社论、演讲、公文和小说里常见，日常会话用会显得夸张老派。语感庄重，多用于社会性、道义性的义务和决意，而不是日常琐事，「牛乳を買わねばならない」听起来滑稽。する的形式是「せねばならない」，与「ざるを得ない」的「せざるを得ない」一样属于文语残留，考试爱考。",
+  "explain_en": "The stiff written version of 〜なければならない, common in editorials, speeches, official prose and fiction; in daily talk it sounds theatrical and antiquated. Its solemn tone suits social and moral obligations rather than errands — 牛乳を買わねばならない sounds comical. する becomes せねばならない, a classical remnant parallel to せざるを得ない and a favourite exam point.",
+  "examples": [
+   {
+    "ja": "環境問題には、国全体で取り組まねばならない。",
+    "furigana": "{環境問題|かんきょうもんだい}には、{国全体|くにぜんたい}で{取|と}り{組|く}まねばならない。",
+    "zh": "环境问题必须举全国之力加以应对。",
+    "en": "Environmental problems must be tackled by the nation as a whole."
+   },
+   {
+    "ja": "約束したからには、守らねばならない。",
+    "furigana": "{約束|やくそく}したからには、{守|まも}らねばならない。",
+    "zh": "既然许下承诺，就必须遵守。",
+    "en": "Having made a promise, one must keep it."
+   },
+   {
+    "ja": "事故の真の原因を明らかにせねばならない。",
+    "furigana": "{事故|じこ}の{真|しん}の{原因|げんいん}を{明|あき}らかにせねばならない。",
+    "zh": "必须查明事故的真正原因。",
+    "en": "The true cause of the accident must be brought to light."
+   }
+  ],
+  "note_zh": "更古的形式是「〜ねばならぬ」；「〜なければならない」中性通用，「〜なきゃ／なくちゃ」是口语缩略。",
+  "note_en": "The archaic variant is 〜ねばならぬ. Neutral usage is 〜なければならない; 〜なきゃ / なくちゃ are its colloquial contractions."
+ },
+ {
+  "id": "g-n2-77",
+  "level": "N2",
+  "track": "grammar",
+  "group": "義務・必然",
+  "pattern": "〜ないわけにはいかない",
+  "meaning_zh": "不能不……；不……不行（社会情理上必须）",
+  "meaning_en": "cannot get away with not doing, have no choice but to",
+  "formation": "动词ない形 + わけにはいかない",
+  "explain_zh": "口语和一般书面语通用。双重否定表示义务：因为社会常识、人情或立场的约束，「不做说不过去」，所以理由多是人际关系或职责（受过关照、身为负责人等）。与「〜なければならない」的区别是它强调「心里可能不情愿，但情理上躲不掉」这层无奈，与「〜ざるを得ない」相近，但更口语、更偏人情压力。",
+  "explain_en": "Common to speech and general writing. The double negative expresses obligation: social norms, personal debts or one's position make not doing it indefensible, so the reason is typically interpersonal or role-based. Unlike 〜なければならない, it foregrounds reluctant compliance with social expectation — close to 〜ざるを得ない but more colloquial and more about human obligation.",
+  "examples": [
+   {
+    "ja": "大事な会議だから、熱があっても出席しないわけにはいかない。",
+    "furigana": "{大事|だいじ}な{会議|かいぎ}だから、{熱|ねつ}があっても{出席|しゅっせき}しないわけにはいかない。",
+    "zh": "这是重要会议，就算发烧也不能不出席。",
+    "en": "It is an important meeting, so even with a fever I cannot afford to miss it."
+   },
+   {
+    "ja": "お世話になった先輩の頼みだから、引き受けないわけにはいかない。",
+    "furigana": "お{世話|せわ}になった{先輩|せんぱい}の{頼|たの}みだから、{引|ひ}き{受|う}けないわけにはいかない。",
+    "zh": "是曾经关照过我的前辈拜托的事，不能不接。",
+    "en": "It is a favour asked by a senior who has helped me, so I cannot refuse."
+   },
+   {
+    "ja": "明日は締め切りなので、今夜は仕事をしないわけにはいかない。",
+    "furigana": "{明日|あした}は{締|し}め{切|き}りなので、{今夜|こんや}は{仕事|しごと}をしないわけにはいかない。",
+    "zh": "明天就是截止日期，今晚不能不工作。",
+    "en": "The deadline is tomorrow, so tonight I simply have to work."
+   }
+  ],
+  "note_zh": "肯定形「〜わけにはいかない」（不能做）表示因情理不能做某事；两个方向都常考，注意否定的位置决定意思。",
+  "note_en": "The affirmative 〜わけにはいかない means 'cannot (permissibly) do'; both directions are tested, and the meaning flips with the position of the negative."
+ },
+ {
+  "id": "g-n2-78",
+  "level": "N2",
+  "track": "grammar",
+  "group": "義務・必然",
+  "pattern": "〜よりほかない／〜ほかない",
+  "meaning_zh": "只有……；除……之外别无他法",
+  "meaning_en": "have no choice but to, there is nothing for it but to",
+  "formation": "动词辞书形 + よりほかない／ほか（は）ない／よりほかしかたがない",
+  "explain_zh": "偏书面的中性表达，说明文和商务文书都常见，口语更常说「〜しかない」。语感是客观地陈述「其他选项都已排除，只剩这一条路」，比「〜ざるを得ない」少一层不情愿的情绪色彩，比「〜しかない」正式。常与「以上・となっては・こうなったら」等交代局面的表达搭配。",
+  "explain_en": "A writing-leaning neutral expression common in expository and business prose; speech prefers 〜しかない. It objectively states that all other options are exhausted and one path remains — less emotionally reluctant than 〜ざるを得ない, more formal than 〜しかない. It often follows scene-setting phrases like 以上, となっては or こうなったら.",
+  "examples": [
+   {
+    "ja": "終電を逃したので、歩いて帰るよりほかない。",
+    "furigana": "{終電|しゅうでん}を{逃|のが}したので、{歩|ある}いて{帰|かえ}るよりほかない。",
+    "zh": "末班车没赶上，只能走路回家了。",
+    "en": "I missed the last train, so there is nothing for it but to walk home."
+   },
+   {
+    "ja": "部品が手に入らない以上、生産を中止するほかない。",
+    "furigana": "{部品|ぶひん}が{手|て}に{入|はい}らない{以上|いじょう}、{生産|せいさん}を{中止|ちゅうし}するほかない。",
+    "zh": "既然零件无法到手，只能停止生产。",
+    "en": "Since the parts cannot be obtained, we have no choice but to halt production."
+   },
+   {
+    "ja": "ここまで来たら、最後までやり遂げるよりほかはない。",
+    "furigana": "ここまで{来|き}たら、{最後|さいご}までやり{遂|と}げるよりほかはない。",
+    "zh": "事已至此，只有坚持做到最后了。",
+    "en": "Having come this far, all we can do is see it through to the end."
+   }
+  ],
+  "note_zh": "同类表达还有「〜より仕方がない」；「〜ざるを得ない」含被迫的不情愿，「〜よりほかない」偏客观陈述唯一选项。",
+  "note_en": "〜より仕方がない is a close variant. 〜ざるを得ない adds reluctance under pressure, while 〜よりほかない neutrally states the only remaining option."
+ },
+ {
+  "id": "g-n2-79",
+  "level": "N2",
+  "track": "grammar",
+  "group": "義務・必然",
+  "pattern": "〜て済む／〜ずに済む",
+  "meaning_zh": "……就能解决；不用……就过去了",
+  "meaning_en": "get by with ...; get off without doing",
+  "formation": "动词て形＋済む；动词ない形去ない＋ずに済む（する→せずに済む）；名词＋で済む",
+  "explain_zh": "口语和一般书面语通用的实用句型。「〜で済む」表示「用较小的代价就了结」，隐含「本来可能更严重」的比较；「〜ずに済む」表示「幸而免去了本来必须做的麻烦事」，所以常与「おかげで・幸い」搭配，带松一口气的语感。想说「没能避免」时不能用它，要说「〜ないでは済まなかった」或改用别的说法。",
+  "explain_en": "A practical pattern shared by speech and writing. 〜で済む means settling a matter at a smaller cost than feared, with an implicit comparison to worse outcomes; 〜ずに済む means being spared a burden one expected to bear, hence the frequent partners おかげで and 幸い and the tone of relief. It cannot describe failing to avoid something.",
+  "examples": [
+   {
+    "ja": "事故は起きたが、幸いけがをせずに済んだ。",
+    "furigana": "{事故|じこ}は{起|お}きたが、{幸|さいわ}いけがをせずに{済|す}んだ。",
+    "zh": "虽然发生了事故，所幸没有受伤。",
+    "en": "There was an accident, but fortunately we escaped without injury."
+   },
+   {
+    "ja": "修理は思ったより安く、五千円で済んだ。",
+    "furigana": "{修理|しゅうり}は{思|おも}ったより{安|やす}く、{五千円|ごせんえん}で{済|す}んだ。",
+    "zh": "修理比想象的便宜，五千日元就解决了。",
+    "en": "The repair was cheaper than expected and cost only five thousand yen."
+   },
+   {
+    "ja": "早めに謝ったおかげで、大事にならずに済んだ。",
+    "furigana": "{早|はや}めに{謝|あやま}ったおかげで、{大事|おおごと}にならずに{済|す}んだ。",
+    "zh": "多亏及早道了歉，事情才没有闹大。",
+    "en": "Thanks to apologising early, the matter never blew up."
+   }
+  ],
+  "note_zh": "「〜ないで済む」是「〜ずに済む」的口语形；他动形式「〜で済ませる／済ます」表示「用……凑合解决」。",
+  "note_en": "〜ないで済む is the colloquial variant of 〜ずに済む. The transitive 〜で済ませる / 済ます means deliberately making do with something."
+ },
+ {
+  "id": "g-n2-80",
+  "level": "N2",
+  "track": "grammar",
+  "group": "義務・必然",
+  "pattern": "〜ても差し支えない",
+  "meaning_zh": "即使……也无妨；可以……（郑重的许可）",
+  "meaning_en": "there is no objection to doing, may (formal permission)",
+  "formation": "动词て形＋も差し支えない；イ形容词くて／名词・ナ形容词で＋も差し支えない",
+  "explain_zh": "郑重的书面语和正式口语，医疗说明、公文指示、商务确认中很常见，是「〜てもいい」的礼貌升级版。语感是「不会造成妨碍或不便」，比てもいい客观、含蓄，适合对上级或客户表示许可或征求许可。前置词「差し支えなければ」是委婉请求的固定开场白，服务行业必备。",
+  "explain_en": "Formal written and spoken style, common in medical guidance, official instructions and business confirmations — a polite upgrade of 〜てもいい. The nuance is 'it causes no hindrance', more objective and reserved than てもいい, suitable for granting or seeking permission with superiors or clients. The opener 差し支えなければ is a fixed courteous preamble in service settings.",
+  "examples": [
+   {
+    "ja": "この書類はコピーで提出しても差し支えない。",
+    "furigana": "この{書類|しょるい}はコピーで{提出|ていしゅつ}しても{差|さ}し{支|つか}えない。",
+    "zh": "这份材料用复印件提交也无妨。",
+    "en": "It is acceptable to submit a photocopy of this document."
+   },
+   {
+    "ja": "経過は良好ですので、明日から入浴しても差し支えありません。",
+    "furigana": "{経過|けいか}は{良好|りょうこう}ですので、{明日|あした}から{入浴|にゅうよく}しても{差|さ}し{支|つか}えありません。",
+    "zh": "恢复情况良好，从明天起洗澡也没有问题。",
+    "en": "Your recovery is going well, so you may bathe from tomorrow."
+   },
+   {
+    "ja": "差し支えなければ、ご連絡先を教えていただけますか。",
+    "furigana": "{差|さ}し{支|つか}えなければ、ご{連絡先|れんらくさき}を{教|おし}えていただけますか。",
+    "zh": "如果方便的话，能告诉我您的联系方式吗？",
+    "en": "If it is no trouble, could you tell me your contact details?"
+   }
+  ],
+  "note_zh": "名词「差し支え」＝妨碍、不便；「差し支えがある」表示不方便。礼貌度：てもいい＜ても構わない＜ても差し支えない。",
+  "note_en": "The noun 差し支え means hindrance; 差し支えがある signals inconvenience. Politeness scale: てもいい < ても構わない < ても差し支えない."
+ },
+ {
+  "id": "g-n2-81",
+  "level": "N2",
+  "track": "grammar",
+  "group": "義務・必然",
+  "pattern": "〜までもない",
+  "meaning_zh": "无需特意……；用不着……",
+  "meaning_en": "there is no need to go so far as to",
+  "formation": "动词辞书形 + までもない／までもなく",
+  "explain_zh": "中性偏书面的表达，说明文和商务对话都能用。语感是「事情太简单、太明显，还没到需要做那一步的程度」，所以常与「わざわざ・改めて」搭配，前项多是说明、确认、见面这类费事的动作。与「〜ことはない」（不必）意思相近，但までもない更强调「程度上够不着」，且「言うまでもなく」（自不必说）已成惯用语。",
+  "explain_en": "Neutral, slightly bookish, at home in expository prose and business talk. The nuance: the matter is so simple or obvious that it does not reach the level requiring that action, hence partners like わざわざ and 改めて, with effortful actions (explaining, confirming, meeting) as the verb. It resembles 〜ことはない but stresses falling short of the threshold; 言うまでもなく 'needless to say' is a fixed idiom.",
+  "examples": [
+   {
+    "ja": "そんな簡単なことは、わざわざ説明するまでもない。",
+    "furigana": "そんな{簡単|かんたん}なことは、わざわざ{説明|せつめい}するまでもない。",
+    "zh": "那么简单的事，用不着特意解释。",
+    "en": "Something that simple needs no special explanation."
+   },
+   {
+    "ja": "言うまでもなく、健康は何より大切だ。",
+    "furigana": "{言|い}うまでもなく、{健康|けんこう}は{何|なに}より{大切|たいせつ}だ。",
+    "zh": "自不必说，健康比什么都重要。",
+    "en": "Needless to say, health matters more than anything."
+   },
+   {
+    "ja": "電話で済む用件なら、直接会うまでもないだろう。",
+    "furigana": "{電話|でんわ}で{済|す}む{用件|ようけん}なら、{直接会|ちょくせつあ}うまでもないだろう。",
+    "zh": "打个电话就能解决的事，就不必特意见面了吧。",
+    "en": "If a phone call will do, there is hardly any need to meet in person."
+   }
+  ],
+  "note_zh": "中顿形「〜までもなく」修饰后句；比较：〜ことはない（劝告「不必」）、〜までもない（客观「够不上那一步」）。",
+  "note_en": "The medial form 〜までもなく modifies the following clause. Compare 〜ことはない, an advisory 'no need', with までもない, 'it does not rise to that level'."
+ },
+ {
+  "id": "g-n2-82",
+  "level": "N2",
+  "track": "grammar",
+  "group": "意志・勧誘",
+  "pattern": "〜（よ）うとしない",
+  "meaning_zh": "（明明该做却）不肯……；不愿尝试……",
+  "meaning_en": "will not even try to, refuses to",
+  "formation": "动词意向形 + としない",
+  "explain_zh": "口语书面语通用。「意向形＋とする」本表示「试图做」，否定后专门描述第三者「有条件做却没有做的意愿」，因此带责备、不满或无奈的语气。主语原则上是别人，说自己时不自然；劝了也不听、催了也不动的场景最典型。与单纯的「〜ない」相比，多了「连试都不试」的主观评价。",
+  "explain_en": "Common to speech and writing. 意向形＋とする means to attempt, and its negation specifically portrays a third party who could act but shows no intention of doing so, carrying reproach, frustration or resignation. The subject is normally someone else; typical scenes involve advice ignored and urging refused. Compared with plain 〜ない, it adds the judgement 'won't even try'.",
+  "examples": [
+   {
+    "ja": "息子は何度言っても野菜を食べようとしない。",
+    "furigana": "{息子|むすこ}は{何度言|なんどい}っても{野菜|やさい}を{食|た}べようとしない。",
+    "zh": "儿子说了多少遍也不肯吃蔬菜。",
+    "en": "No matter how often I tell him, my son will not touch vegetables."
+   },
+   {
+    "ja": "彼は自分の非をなかなか認めようとしない。",
+    "furigana": "{彼|かれ}は{自分|じぶん}の{非|ひ}をなかなか{認|みと}めようとしない。",
+    "zh": "他怎么也不肯承认自己的错。",
+    "en": "He simply refuses to admit his own fault."
+   },
+   {
+    "ja": "部長は若手の意見を聞こうとしなかった。",
+    "furigana": "{部長|ぶちょう}は{若手|わかて}の{意見|いけん}を{聞|き}こうとしなかった。",
+    "zh": "部长根本不愿听年轻人的意见。",
+    "en": "The manager would not even listen to the younger staff's opinions."
+   }
+  ],
+  "note_zh": "「〜（よ）うとする」的肯定形表示「正要／试图做」；「食べようとしない」（不肯吃）与「食べられない」（吃不了）方向完全不同。",
+  "note_en": "Affirmative 〜(よ)うとする means to be about to or to attempt. 食べようとしない (won't eat) differs entirely from 食べられない (can't eat)."
+ },
+ {
+  "id": "g-n2-83",
+  "level": "N2",
+  "track": "grammar",
+  "group": "意志・勧誘",
+  "pattern": "〜てみせる",
+  "meaning_zh": "（做给你看）一定要……；做……给人看",
+  "meaning_en": "will do ... just watch me; demonstrate by doing",
+  "formation": "动词て形 + みせる",
+  "explain_zh": "口语为主。两个用法：一是第一人称的强烈决心，「必ず・きっと・今度こそ」搭配，含「说到做到、证明给你看」的好胜语气，常出现在受挫后的宣言里；二是字面义「实际做一遍给别人看」，用于示范教学。决心用法主语只能是说话人，且句末多为辞书形直接收尾，显得斩钉截铁。",
+  "explain_en": "Mainly spoken. Two uses: first-person fierce determination, with 必ず, きっと or 今度こそ, meaning 'I'll prove it, just watch', typical of declarations after a setback; and the literal sense of physically demonstrating something for someone. In the determination sense the subject must be the speaker, and the sentence usually ends in the plain dictionary form for a decisive ring.",
+  "examples": [
+   {
+    "ja": "来年こそ、必ず合格してみせる。",
+    "furigana": "{来年|らいねん}こそ、{必|かなら}ず{合格|ごうかく}してみせる。",
+    "zh": "明年我一定考上给你们看。",
+    "en": "Next year I will pass for sure — just watch me."
+   },
+   {
+    "ja": "誰にも頼らず、自分の力で成功してみせる。",
+    "furigana": "{誰|だれ}にも{頼|たよ}らず、{自分|じぶん}の{力|ちから}で{成功|せいこう}してみせる。",
+    "zh": "我不靠任何人，一定凭自己的力量成功给大家看。",
+    "en": "Without relying on anyone, I will succeed on my own — I'll show them."
+   },
+   {
+    "ja": "コーチは正しいフォームを実際にやってみせた。",
+    "furigana": "コーチは{正|ただ}しいフォームを{実際|じっさい}にやってみせた。",
+    "zh": "教练实际示范了一遍正确的动作。",
+    "en": "The coach actually demonstrated the correct form."
+   }
+  ],
+  "note_zh": "决心用法与「〜てみる」（尝试）完全不同；示范义读轻，决心义重音在句末、语气强烈。",
+  "note_en": "Do not confuse with 〜てみる (try doing). The demonstration sense is matter-of-fact; the determination sense is emphatic and final."
+ },
+ {
+  "id": "g-n2-84",
+  "level": "N2",
+  "track": "grammar",
+  "group": "意志・勧誘",
+  "pattern": "〜てはいられない",
+  "meaning_zh": "不能一直……；顾不上……",
+  "meaning_en": "cannot afford to keep doing, this is no time to be doing",
+  "formation": "动词て形 + はいられない（口语：〜ちゃいられない）",
+  "explain_zh": "口语和一般书面语通用。语感是「因时间紧迫或形势严峻，没有余裕继续维持眼下的状态」，前项多是悠闲、消极的状态动词（のんびりする・泣く・休む・待つ），并暗示「必须马上行动」。与「〜どころではない」相近，但てはいられない着眼于「不能再持续下去」，主语是自己的场合居多。派生形「〜てばかりはいられない」表示「不能光是……」。",
+  "explain_en": "Shared by speech and general writing. It means circumstances leave no room to stay in the current state — the verb is typically leisurely or passive (relaxing, crying, resting, waiting) — and implies one must act now. It resembles 〜どころではない, but focuses on being unable to continue a state, usually with the speaker as subject. The variant 〜てばかりはいられない means 'can't just keep on ...ing'.",
+  "examples": [
+   {
+    "ja": "締め切りが近いので、のんびりしてはいられない。",
+    "furigana": "{締|し}め{切|き}りが{近|ちか}いので、のんびりしてはいられない。",
+    "zh": "截止日期临近，不能再悠闲下去了。",
+    "en": "With the deadline near, I can't afford to take it easy."
+   },
+   {
+    "ja": "こんなところで泣いてはいられない。やるべきことがある。",
+    "furigana": "こんなところで{泣|な}いてはいられない。やるべきことがある。",
+    "zh": "现在不是哭的时候，还有该做的事。",
+    "en": "This is no time to be crying — there are things I must do."
+   },
+   {
+    "ja": "合格したからといって、喜んでばかりはいられない。",
+    "furigana": "{合格|ごうかく}したからといって、{喜|よろこ}んでばかりはいられない。",
+    "zh": "虽说考上了，也不能光顾着高兴。",
+    "en": "I passed, but I cannot just sit around celebrating."
+   }
+  ],
+  "note_zh": "口语缩略「〜ちゃいられない」；「〜どころではない」否定的是做某事的余裕，「〜てはいられない」否定的是继续当前状态。",
+  "note_en": "Casual speech contracts it to 〜ちゃいられない. 〜どころではない denies leeway for an activity; 〜てはいられない denies continuing the present state."
+ },
+ {
+  "id": "g-n2-85",
+  "level": "N2",
+  "track": "grammar",
+  "group": "意志・勧誘",
+  "pattern": "〜ものか",
+  "meaning_zh": "绝不……；哪能……（强烈否定）",
+  "meaning_en": "as if I would ever ..., absolutely not",
+  "formation": "动词・イ形容词連体形／ナ形容词な + ものか（もんか）",
+  "explain_zh": "感情色彩浓烈的口语，用反问的形式表达强烈的否定意志或全盘否定，常出现在赌气、反驳、下决心的场合。「二度と行くものか」＝「绝不再去」。语气相当冲，对上级不能用；女性和郑重场合用「ものですか」，随意口语是「もんか」。它否定的是整个命题，还常顺带贬低对方的说法。",
+  "explain_en": "Emotionally charged colloquial speech: a rhetorical question expressing fierce refusal or total denial, typical of pique, rebuttal and resolve — 二度と行くものか means 'I'll never go again'. The tone is combative and unusable toward superiors; ものですか is the softer or feminine variant and もんか the casual one. It denies the whole proposition, often belittling the other person's claim as well.",
+  "examples": [
+   {
+    "ja": "あんな失礼な店、二度と行くものか。",
+    "furigana": "あんな{失礼|しつれい}な{店|みせ}、{二度|にど}と{行|い}くものか。",
+    "zh": "那么无礼的店，我绝不会再去第二次。",
+    "en": "A rude shop like that? As if I would ever go again."
+   },
+   {
+    "ja": "彼の言い訳なんか、信じるものか。",
+    "furigana": "{彼|かれ}の{言|い}い{訳|わけ}なんか、{信|しん}じるものか。",
+    "zh": "他的辩解，我才不信呢。",
+    "en": "His excuses? As if I would believe them."
+   },
+   {
+    "ja": "こんなところで負けるものですか。",
+    "furigana": "こんなところで{負|ま}けるものですか。",
+    "zh": "在这种地方我怎么可能认输。",
+    "en": "Lose here? Not a chance."
+   }
+  ],
+  "note_zh": "常与「なんか・あんな・こんな」等贬义词呼应；注意与感叹的「〜ことか」区分，ものか是否定，ことか是感叹。",
+  "note_en": "It pairs with dismissive words like なんか and あんな. Distinguish it from exclamatory 〜ことか: ものか denies, ことか exclaims."
+ },
+ {
+  "id": "g-n2-86",
+  "level": "N2",
+  "track": "grammar",
+  "group": "意志・勧誘",
+  "pattern": "〜（よ）うではないか",
+  "meaning_zh": "让我们……吧（郑重的倡议）",
+  "meaning_en": "let us ... (formal exhortation)",
+  "formation": "动词意向形 + ではないか／じゃないか",
+  "explain_zh": "演讲体，政治家致辞、开幕词、社论结尾的标志性句式，用来向听众发出庄重的共同行动倡议，日常约朋友说「〜（よ）うよ」即可，用这个会显得滑稽夸张。语感是把「〜ましょう」放大到面向群体、诉诸大义的高度，因此后项多是「乗り越える・守る・考え直す」这类有分量的动词。口语化一点的形式是「〜（よ）うじゃないか」。",
+  "explain_en": "Oratorical style — the signature cadence of political speeches, opening addresses and editorial closings, issuing a solemn call to collective action. Inviting friends requires only 〜(よ)うよ; this pattern would sound comically grand. It scales 〜ましょう up to a group appeal to higher purpose, so the verbs are weighty ones like overcoming, protecting or rethinking. 〜(よ)うじゃないか is the slightly more casual variant.",
+  "examples": [
+   {
+    "ja": "環境を守るために、今こそ行動しようではないか。",
+    "furigana": "{環境|かんきょう}を{守|まも}るために、{今|いま}こそ{行動|こうどう}しようではないか。",
+    "zh": "为了保护环境，让我们现在就行动起来吧。",
+    "en": "To protect the environment, let us act now."
+   },
+   {
+    "ja": "困難があっても、皆で力を合わせて乗り越えようではないか。",
+    "furigana": "{困難|こんなん}があっても、{皆|みんな}で{力|ちから}を{合|あ}わせて{乗|の}り{越|こ}えようではないか。",
+    "zh": "即使有困难，让我们齐心协力共同克服吧。",
+    "en": "Whatever difficulties arise, let us join forces and overcome them."
+   },
+   {
+    "ja": "一度原点に戻って、じっくり考え直してみようじゃないか。",
+    "furigana": "{一度原点|いちどげんてん}に{戻|もど}って、じっくり{考|かんが}え{直|なお}してみようじゃないか。",
+    "zh": "让我们回到原点，好好重新想一想吧。",
+    "en": "Let us go back to square one and think it over carefully."
+   }
+  ],
+  "note_zh": "带号召性质，多为男性或正式场合使用；对个人的日常邀请用「〜ませんか／〜（よ）う」更自然。",
+  "note_en": "It is a public rallying form, mostly male or formal. For everyday personal invitations, 〜ませんか or 〜(よ)う is natural."
+ },
+ {
+  "id": "g-n2-88",
+  "level": "N2",
+  "track": "grammar",
+  "group": "感情・評価",
+  "pattern": "〜でならない",
+  "meaning_zh": "……得不得了（书面的抑制不住的感情）",
+  "meaning_en": "cannot help feeling (formal, with na-adjectives)",
+  "formation": "感情类ナ形容词 + でならない（残念でならない・心配でならない・不思議でならない）",
+  "explain_zh": "偏书面的感情强调，接在「残念・心配・不思議・気の毒」等表示感情的ナ形容词后，表示这种心情自然涌起、无法抑制。比口语的「〜でしょうがない」郑重，常见于书信、随笔和郑重的发言。主语是说话人自己；写第三者时要加「〜ようだ」或改用「〜がっている」系统。",
+  "explain_en": "A writing-leaning intensifier attached to emotion na-adjectives such as 残念, 心配, 不思議 and 気の毒, meaning the feeling arises of itself and cannot be held down. It is more formal than colloquial 〜でしょうがない and appears in letters, essays and solemn statements. The experiencer is the speaker; for third parties add ようだ or switch to the 〜がっている family.",
+  "examples": [
+   {
+    "ja": "あと一歩で優勝を逃したことが残念でならない。",
+    "furigana": "あと{一歩|いっぽ}で{優勝|ゆうしょう}を{逃|のが}したことが{残念|ざんねん}でならない。",
+    "zh": "只差一步就能夺冠却失之交臂，让我遗憾得不得了。",
+    "en": "Missing the championship by a single step leaves me unbearably disappointed."
+   },
+   {
+    "ja": "一人で海外へ行った娘のことが心配でならなかった。",
+    "furigana": "{一人|ひとり}で{海外|かいがい}へ{行|い}った{娘|むすめ}のことが{心配|しんぱい}でならなかった。",
+    "zh": "女儿独自去了国外，我担心得不得了。",
+    "en": "I could not stop worrying about my daughter, who had gone abroad alone."
+   },
+   {
+    "ja": "彼がなぜ突然会社を辞めたのか、不思議でならない。",
+    "furigana": "{彼|かれ}がなぜ{突然会社|とつぜんかいしゃ}を{辞|や}めたのか、{不思議|ふしぎ}でならない。",
+    "zh": "他为什么突然辞职，让我百思不得其解。",
+    "en": "Why he suddenly quit the company puzzles me no end."
+   }
+  ],
+  "note_zh": "动词・イ形容词接「〜てならない」，ナ形容词接「〜でならない」，是同一句型的接续变体；口语替换形是「〜でしょうがない」。",
+  "note_en": "Verbs and i-adjectives take 〜てならない; na-adjectives take 〜でならない — the same pattern in different attachments. The colloquial substitute is 〜でしょうがない."
+ },
+ {
+  "id": "g-n2-89",
+  "level": "N2",
+  "track": "grammar",
+  "group": "感情・評価",
+  "pattern": "〜ことか",
+  "meaning_zh": "多么……啊（感叹）",
+  "meaning_en": "how ...! (exclamation)",
+  "formation": "疑问词（どんなに・どれほど・何度）+ 动词・形容词普通形 + ことか",
+  "explain_zh": "感叹句式，口语书面语都用，回忆录、感言里尤其常见。必须与「どんなに・どれほど・何度」等疑问词呼应，表示程度之深难以言表，句子形式是疑问、实际是强烈的感叹，句末不升调。常用过去时追述长期的辛苦或期盼，如「どれほど待ったことか」。更礼貌的形式是「〜ことでしょう」。",
+  "explain_en": "An exclamatory pattern used in both speech and writing, especially memoirs and emotional speeches. It requires an interrogative partner such as どんなに, どれほど or 何度, conveying a degree beyond words; the sentence looks like a question but is a heartfelt exclamation with no rising intonation. Past tense often reviews long hardship or longing, as in どれほど待ったことか. The politer form is 〜ことでしょう.",
+  "examples": [
+   {
+    "ja": "合格の知らせを聞いて、どんなに嬉しかったことか。",
+    "furigana": "{合格|ごうかく}の{知|し}らせを{聞|き}いて、どんなに{嬉|うれ}しかったことか。",
+    "zh": "听到录取的消息时，我是多么高兴啊。",
+    "en": "How happy I was to hear the news that I had passed!"
+   },
+   {
+    "ja": "この日をどれほど待っていたことか。",
+    "furigana": "この{日|ひ}をどれほど{待|ま}っていたことか。",
+    "zh": "这一天我等了多久啊。",
+    "en": "How long I have waited for this day!"
+   },
+   {
+    "ja": "留学中、何度国の家族に会いたいと思ったことか。",
+    "furigana": "{留学中|りゅうがくちゅう}、{何度国|なんどくに}の{家族|かぞく}に{会|あ}いたいと{思|おも}ったことか。",
+    "zh": "留学期间，我多少次想见国内的家人啊。",
+    "en": "How many times during my study abroad did I long to see my family back home!"
+   }
+  ],
+  "note_zh": "没有疑问词就不成立；与表示强烈否定的「〜ものか」形近义远，注意区分。",
+  "note_en": "Without an interrogative word the pattern fails. Do not confuse it with 〜ものか, which expresses vehement denial."
+ },
+ {
+  "id": "g-n2-91",
+  "level": "N2",
+  "track": "grammar",
+  "group": "感情・評価",
+  "pattern": "〜ものがある",
+  "meaning_zh": "确实有……之处；颇有……的感觉",
+  "meaning_en": "there is something ... about it, truly has a quality of",
+  "formation": "动词辞书形・イ形容词い／ナ形容词な + ものがある",
+  "explain_zh": "书面语和郑重口语，用于评论、推荐信、感想文。语感是说话人接触到某事物后由衷感到「其中确有打动人的东西」，是带感情的高度评价（偶尔也用于负面感慨）。前项常是「心を打つ・目を見張る・胸に迫る・寂しい」这类感受性表达。它评价的是事物给人的整体印象，不用于客观数据陈述。",
+  "explain_en": "Formal spoken and written style for reviews, references and reflective essays. The speaker, having experienced something, feels there is genuinely something striking in it — an emotive high evaluation, occasionally negative. Typical predicates are impressionistic: 心を打つ, 目を見張る, 胸に迫る, 寂しい. It appraises an overall impression and does not suit objective data statements.",
+  "examples": [
+   {
+    "ja": "彼の演奏には、人の心を打つものがある。",
+    "furigana": "{彼|かれ}の{演奏|えんそう}には、{人|ひと}の{心|こころ}を{打|う}つものがある。",
+    "zh": "他的演奏确实有打动人心之处。",
+    "en": "There is something in his playing that moves the heart."
+   },
+   {
+    "ja": "わずか一年でこれほど上達するとは、目を見張るものがある。",
+    "furigana": "わずか{一年|いちねん}でこれほど{上達|じょうたつ}するとは、{目|め}を{見張|みは}るものがある。",
+    "zh": "仅仅一年就进步到这种程度，实在令人瞠目。",
+    "en": "Improving this much in only a year is truly remarkable."
+   },
+   {
+    "ja": "長年住んだ家を手放すのは、寂しいものがある。",
+    "furigana": "{長年住|ながねんす}んだ{家|いえ}を{手放|てばな}すのは、{寂|さび}しいものがある。",
+    "zh": "卖掉住了多年的房子，心里确实有些不舍。",
+    "en": "There is something lonely about letting go of a house you lived in for years."
+   }
+  ],
+  "note_zh": "常与「には」搭配点出评价对象；比直接说「感動的だ」含蓄、有余韵。",
+  "note_en": "It often follows には marking the thing evaluated, and sounds more reserved and resonant than a blunt 感動的だ."
+ },
+ {
+  "id": "g-n2-92",
+  "level": "N2",
+  "track": "grammar",
+  "group": "感情・評価",
+  "pattern": "〜というものだ",
+  "meaning_zh": "这才叫……；那简直是……（断定评价）",
+  "meaning_en": "that is what ... really is; that is simply ...",
+  "formation": "动词・形容词普通形／名词 + というものだ",
+  "explain_zh": "口语书面语通用的断定句式，说话人以常识、社会通念为后盾，对某事下「这就叫做……」的总评，既可正面（这才是真正的友情）也可负面（那简直是强人所难）。因为是诉诸公理的断言，语气相当有底气，句中不能再加「たぶん」之类的模糊词。前接部分保持普通形，というものだ自身不变形、不接过去否定。",
+  "explain_en": "An assertive pattern in both speech and writing: backed by common sense or social consensus, the speaker pronounces 'that is precisely what X is', either approvingly (that is true friendship) or critically (that is simply asking too much). As an appeal to shared axioms it sounds confident, and hedges like たぶん cannot co-occur. The preceding clause stays in plain form, and というものだ itself does not inflect into past or negative.",
+  "examples": [
+   {
+    "ja": "困った時に助け合うのが、本当の友情というものだ。",
+    "furigana": "{困|こま}った{時|とき}に{助|たす}け{合|あ}うのが、{本当|ほんとう}の{友情|ゆうじょう}というものだ。",
+    "zh": "困难时互相帮助，这才叫真正的友情。",
+    "en": "Helping each other in hard times — that is what true friendship is."
+   },
+   {
+    "ja": "給料も上げずに残業ばかりさせるのは、無理というものだ。",
+    "furigana": "{給料|きゅうりょう}も{上|あ}げずに{残業|ざんぎょう}ばかりさせるのは、{無理|むり}というものだ。",
+    "zh": "不涨工资却光让人加班，这简直是强人所难。",
+    "en": "Piling on overtime without raising pay is simply unreasonable."
+   },
+   {
+    "ja": "相手の立場を考えないのは、自分勝手というものだ。",
+    "furigana": "{相手|あいて}の{立場|たちば}を{考|かんが}えないのは、{自分勝手|じぶんかって}というものだ。",
+    "zh": "不为对方的处境着想，这就叫自私自利。",
+    "en": "Ignoring the other person's position — that is what selfishness is."
+   }
+  ],
+  "note_zh": "口语缩略「〜ってものだ／〜ってもんだ」；否定判断用下一条「〜というものではない」。",
+  "note_en": "Casual speech contracts it to 〜ってものだ / 〜ってもんだ. For the negative judgement, use 〜というものではない."
+ },
+ {
+  "id": "g-n2-93",
+  "level": "N2",
+  "track": "grammar",
+  "group": "感情・評価",
+  "pattern": "〜というものではない",
+  "meaning_zh": "并非……就行；不见得……（委婉否定通念）",
+  "meaning_en": "it is not the case that ..., not necessarily so",
+  "formation": "动词・形容词普通形（／名词だ） + というものではない／というものでもない",
+  "explain_zh": "议论文和郑重谈话中反驳流行看法的句式：先摆出「一般人以为的道理」，再温和地整体否定，说「事情并不是这么简单」。常否定「〜ば……」「〜さえすれば……」形式的条件命题，如「謝れば済むというものではない」。语气比「〜わけではない」更针对社会通念，「でもない」版本更缓和。",
+  "explain_en": "A device of essays and measured speech for rebutting received wisdom: state the commonly assumed logic, then gently deny it wholesale — things are not that simple. It typically negates conditional propositions of the form 〜ば or 〜さえすれば, as in 謝れば済むというものではない. It targets popular assumptions more than 〜わけではない does, and the でもない version is softer still.",
+  "examples": [
+   {
+    "ja": "値段が高ければ品質がいいというものではない。",
+    "furigana": "{値段|ねだん}が{高|たか}ければ{品質|ひんしつ}がいいというものではない。",
+    "zh": "并不是价格贵质量就一定好。",
+    "en": "A high price does not automatically mean high quality."
+   },
+   {
+    "ja": "謝れば済むというものではない。誠意を行動で示すべきだ。",
+    "furigana": "{謝|あやま}れば{済|す}むというものではない。{誠意|せいい}を{行動|こうどう}で{示|しめ}すべきだ。",
+    "zh": "并不是道个歉就完事了，应该用行动来表示诚意。",
+    "en": "An apology alone does not settle it; sincerity should be shown through action."
+   },
+   {
+    "ja": "練習時間が長ければ上達するというものでもない。",
+    "furigana": "{練習時間|れんしゅうじかん}が{長|なが}ければ{上達|じょうたつ}するというものでもない。",
+    "zh": "也不见得练习时间越长就进步越大。",
+    "en": "Longer practice hours do not necessarily bring greater progress."
+   }
+  ],
+  "note_zh": "与「〜とは限らない」相比，本句型否定的是一条「道理」而非个别情况；口语说「〜ってものじゃない」。",
+  "note_en": "Unlike 〜とは限らない, which admits exceptions to a statement, this denies the underlying rule itself. Colloquially 〜ってものじゃない."
+ },
+ {
+  "id": "g-n2-94",
+  "level": "N2",
+  "track": "grammar",
+  "group": "感情・評価",
+  "pattern": "〜にほかならない",
+  "meaning_zh": "正是……；无非是……（强烈断定）",
+  "meaning_en": "is nothing other than, is precisely",
+  "formation": "名词 + にほかならない",
+  "explain_zh": "硬い書き言葉，论文结论、社论、致辞里用来把某事物的本质一锤定音：「除此之外不可能是别的」。多用于点明原因、本质、意义，前接名词（或「から」句），如「成功は努力の結果にほかならない」。语气斩钉截铁，是强调正面判断的手段，日常会话不用。连体形式「ほかならぬ＋名词」表示「不是别人／别的，正是……」。",
+  "explain_en": "Stiff written Japanese used in paper conclusions, editorials and addresses to nail down an essence: it can be nothing else. It typically identifies a cause, essence or significance, following a noun (or a から clause), as in 成功は努力の結果にほかならない. The tone is categorical, a device for emphatic affirmative judgement, absent from casual talk. Prenominal ほかならぬ＋noun means 'none other than'.",
+  "examples": [
+   {
+    "ja": "彼の成功は、日々の努力の結果にほかならない。",
+    "furigana": "{彼|かれ}の{成功|せいこう}は、{日々|ひび}の{努力|どりょく}の{結果|けっか}にほかならない。",
+    "zh": "他的成功，正是日复一日努力的结果。",
+    "en": "His success is nothing other than the fruit of daily effort."
+   },
+   {
+    "ja": "教育とは、未来への投資にほかならない。",
+    "furigana": "{教育|きょういく}とは、{未来|みらい}への{投資|とうし}にほかならない。",
+    "zh": "教育无非就是对未来的投资。",
+    "en": "Education is precisely an investment in the future."
+   },
+   {
+    "ja": "今回の失敗の原因は、準備不足にほかならない。",
+    "furigana": "{今回|こんかい}の{失敗|しっぱい}の{原因|げんいん}は、{準備不足|じゅんびぶそく}にほかならない。",
+    "zh": "这次失败的原因，无非是准备不足。",
+    "en": "The cause of this failure is nothing but insufficient preparation."
+   }
+  ],
+  "note_zh": "「ほかならぬ君の頼みだから」＝「正因为是你的请求」；与「〜に過ぎない」（贬低）方向相反，本句型是强调、抬高。",
+  "note_en": "ほかならぬ君の頼みだから means 'precisely because it is your request'. Unlike belittling 〜に過ぎない, this pattern elevates and affirms."
+ },
+ {
+  "id": "g-n2-95",
+  "level": "N2",
+  "track": "grammar",
+  "group": "感情・評価",
+  "pattern": "〜て当然だ",
+  "meaning_zh": "……是理所当然的",
+  "meaning_en": "it is only natural that",
+  "formation": "动词て形／イ形容词くて／ナ形容词で + 当然だ／当たり前だ",
+  "explain_zh": "口语书面语通用的评价句式，表示「根据情理，出现这种结果毫不奇怪」。既可用于替人开脱（第一次当然会紧张），也可用于批评（那样偷懒当然会输），语气取决于语境。名词化时说「〜のは当然だ」，更书面的说法是「〜のも当然だ／当然のことだ」。与下一条「〜のも無理はない」相比，当然だ更冷静客观，無理はない更带体谅同情。",
+  "explain_en": "An evaluative pattern in speech and writing: given how things stand, the outcome is no surprise. It can excuse (of course you were nervous the first time) or criticise (slack off like that and naturally you lose), depending on context. Nominalised it becomes 〜のは当然だ, more formally 〜のも当然だ. Compared with 〜のも無理はない, 当然だ is cooler and more objective, while 無理はない conveys sympathy.",
+  "examples": [
+   {
+    "ja": "あれだけ練習をさぼれば、試合に負けて当然だ。",
+    "furigana": "あれだけ{練習|れんしゅう}をさぼれば、{試合|しあい}に{負|ま}けて{当然|とうぜん}だ。",
+    "zh": "训练偷懒到那种程度，比赛输了也是理所当然。",
+    "en": "Skipping that much practice, it is only natural to lose the match."
+   },
+   {
+    "ja": "お客様をあんなに待たせたのだから、怒られて当然だ。",
+    "furigana": "お{客様|きゃくさま}をあんなに{待|ま}たせたのだから、{怒|おこ}られて{当然|とうぜん}だ。",
+    "zh": "让客人等了那么久，挨批评是应该的。",
+    "en": "Having kept the customer waiting that long, being told off is only to be expected."
+   },
+   {
+    "ja": "初めての発表なのだから、緊張して当然ですよ。",
+    "furigana": "{初|はじ}めての{発表|はっぴょう}なのだから、{緊張|きんちょう}して{当然|とうぜん}ですよ。",
+    "zh": "第一次发表，紧张是很正常的。",
+    "en": "It is your first presentation, so of course you are nervous."
+   }
+  ],
+  "note_zh": "「当たり前だ」更口语；「〜て当然だ」与「〜のは当然だ」可互换，前者更紧凑。",
+  "note_en": "当たり前だ is the more colloquial word. 〜て当然だ and 〜のは当然だ are interchangeable, the former being tighter."
+ },
+ {
+  "id": "g-n2-96",
+  "level": "N2",
+  "track": "grammar",
+  "group": "感情・評価",
+  "pattern": "〜のも無理はない",
+  "meaning_zh": "难怪……；……也情有可原",
+  "meaning_en": "no wonder that, it is quite understandable that",
+  "formation": "动词・イ形容词普通形／ナ形容词な + のも無理はない（のは無理もない）",
+  "explain_zh": "口语书面语通用，带同情、体谅色彩的评价：了解了原委之后表示「换谁都会这样，不能责怪」。句子结构通常是先摆事实原因（〜のだから・〜のでは），再下「のも無理はない」的结论，所以理由部分不可省略，否则「难怪」无从谈起。与「〜て当然だ」相比多一层「为当事人开脱」的温情，批评场合不用。",
+  "explain_en": "Used in speech and writing with a sympathetic tone: once the circumstances are known, anyone would react that way, so no blame attaches. The sentence normally states the cause first (〜のだから, 〜のでは) and then concludes with のも無理はない, so the reason cannot be omitted. Compared with 〜て当然だ, it adds warmth that excuses the person, and it is not used for criticism.",
+  "examples": [
+   {
+    "ja": "三日も徹夜が続いたのだから、疲れるのも無理はない。",
+    "furigana": "{三日|みっか}も{徹夜|てつや}が{続|つづ}いたのだから、{疲|つか}れるのも{無理|むり}はない。",
+    "zh": "连着熬了三天夜，难怪会疲惫不堪。",
+    "en": "After three straight all-nighters, no wonder you are exhausted."
+   },
+   {
+    "ja": "初対面の人ばかりの場では、緊張するのも無理はない。",
+    "furigana": "{初対面|しょたいめん}の{人|ひと}ばかりの{場|ば}では、{緊張|きんちょう}するのも{無理|むり}はない。",
+    "zh": "满场都是初次见面的人，紧张也是情有可原的。",
+    "en": "In a room full of strangers, feeling nervous is entirely understandable."
+   },
+   {
+    "ja": "約束を三回も破られたのだから、彼女が怒るのも無理はない。",
+    "furigana": "{約束|やくそく}を{三回|さんかい}も{破|やぶ}られたのだから、{彼女|かのじょ}が{怒|おこ}るのも{無理|むり}はない。",
+    "zh": "约定被打破了三次，难怪她会生气。",
+    "en": "With promises broken three times, small wonder she is angry."
+   }
+  ],
+  "note_zh": "变体「〜のは無理もない」「無理もない話だ」；表达同情理解时比「当然だ」更委婉得体。",
+  "note_en": "Variants include 〜のは無理もない and 無理もない話だ. For expressing sympathy it is gentler and more tactful than 当然だ."
+ },
+ {
+  "id": "g-n2-97",
+  "level": "N2",
+  "track": "grammar",
+  "group": "感情・評価",
+  "pattern": "〜だけのことはある",
+  "meaning_zh": "不愧是……；没白……",
+  "meaning_en": "lives up to, is worthy of, not for nothing",
+  "formation": "动词・形容词普通形／名词 + だけのことはある／だけあって",
+  "explain_zh": "口语书面语通用的赞叹句式：看到出色的结果后，承认它与其来历、身份、付出相称，「不愧是」「没白费」。几乎总与「さすが（に）」呼应，前项是头衔、经历或代价（プロ・十年住んだ・高かった）。中顿形「〜だけあって」把评价放到后句：「プロだけあって、仕上がりが違う」。用于讽刺以外基本是褒义。",
+  "explain_en": "An admiring pattern in speech and writing: seeing an impressive result, the speaker acknowledges it matches the person's title, history or the price paid — 'no wonder', 'it wasn't for nothing'. It almost always pairs with さすが(に), and the antecedent is a credential, experience or cost. The medial form 〜だけあって pushes the evaluation into the following clause. Outside sarcasm it is essentially praise.",
+  "examples": [
+   {
+    "ja": "さすがプロだけのことはある。仕上がりが全然違う。",
+    "furigana": "さすがプロだけのことはある。{仕上|しあ}がりが{全然違|ぜんぜんちが}う。",
+    "zh": "不愧是专业人士，成品完全不一样。",
+    "en": "He truly lives up to being a pro — the finish is on another level."
+   },
+   {
+    "ja": "十年も日本に住んでいただけのことはあって、彼女の日本語は自然だ。",
+    "furigana": "{十年|じゅうねん}も{日本|にほん}に{住|す}んでいただけのことはあって、{彼女|かのじょ}の{日本語|にほんご}は{自然|しぜん}だ。",
+    "zh": "不愧在日本住了十年，她的日语很地道。",
+    "en": "Not for nothing did she live in Japan for ten years — her Japanese is natural."
+   },
+   {
+    "ja": "値段が高かっただけのことはあって、この鞄は十年使っても壊れない。",
+    "furigana": "{値段|ねだん}が{高|たか}かっただけのことはあって、この{鞄|かばん}は{十年使|じゅうねんつか}っても{壊|こわ}れない。",
+    "zh": "到底是贵有贵的道理，这个包用了十年也没坏。",
+    "en": "It was expensive, and it shows: this bag has lasted ten years without breaking."
+   }
+  ],
+  "note_zh": "口语可省作「さすが〜だけある」；评价与来历不相称时用「〜わりに（は）」表达落差。",
+  "note_en": "Speech may clip it to さすが〜だけある. When result and pedigree do not match, 〜わりに(は) expresses the gap instead."
+ },
+ {
+  "id": "g-n2-98",
+  "level": "N2",
+  "track": "grammar",
+  "group": "感情・評価",
+  "pattern": "〜がい（がある）",
+  "meaning_zh": "值得……；有……的价值（做起来有意义）",
+  "meaning_en": "worth doing, rewarding to do",
+  "formation": "动词ます形去ます + がい（やりがい・働きがい・教えがい）；名词形：生きがい",
+  "explain_zh": "口语书面语通用。接在动词连用形后构成名词，表示「做这件事能得到充实感和回报」，最常见的是「やりがい・働きがい・生きがい」这几个已经词汇化的形式，求职和人生话题的高频词。句型上多说「〜がいがある／のある＋名词」「〜がいを感じる」。与「〜甲斐があって」（没白费，努力得到了回报）同源，后者接动词た形，表示付出见效。",
+  "explain_en": "Common to speech and writing. Attached to a verb stem it forms a noun meaning the act brings fulfilment and reward; the lexicalised trio やりがい, 働きがい and 生きがい dominates job-hunting and life-purpose talk. Typical frames are 〜がいがある, 〜がいのある＋noun and 〜がいを感じる. It shares its root with 〜甲斐があって after a た-form, meaning the effort paid off.",
+  "examples": [
+   {
+    "ja": "この仕事は大変だが、その分やりがいがある。",
+    "furigana": "この{仕事|しごと}は{大変|たいへん}だが、その{分|ぶん}やりがいがある。",
+    "zh": "这份工作虽然辛苦，但也因此很有干头。",
+    "en": "This job is demanding, but all the more rewarding for it."
+   },
+   {
+    "ja": "熱心に質問してくれるので、教えがいのある学生たちだ。",
+    "furigana": "{熱心|ねっしん}に{質問|しつもん}してくれるので、{教|おし}えがいのある{学生|がくせい}たちだ。",
+    "zh": "他们提问很积极，是一群值得用心去教的学生。",
+    "en": "They ask questions so eagerly that they are students worth teaching."
+   },
+   {
+    "ja": "毎日練習した甲斐があって、大会で優勝できた。",
+    "furigana": "{毎日練習|まいにちれんしゅう}した{甲斐|かい}があって、{大会|たいかい}で{優勝|ゆうしょう}できた。",
+    "zh": "每天的练习没有白费，我在比赛中夺冠了。",
+    "en": "The daily practice paid off: I won the tournament."
+   }
+  ],
+  "note_zh": "接动词连用形时读浊音「がい」，独立名词读「かい」（甲斐がある）；反义说法是「〜がいがない」（不值得做）。",
+  "note_en": "After a verb stem it voices to がい; as an independent noun it is かい (甲斐がある). The negative 〜がいがない means not worth the effort."
+ },
+ {
+  "id": "g-n2-99",
+  "level": "N2",
+  "track": "grammar",
+  "group": "感情・評価",
+  "pattern": "〜に越したことはない",
+  "meaning_zh": "最好还是……；莫过于……",
+  "meaning_en": "nothing beats ..., it is best to",
+  "formation": "动词辞书形・ない形／イ形容词／名词・ナ形容词（である） + に越したことはない",
+  "explain_zh": "口语书面语通用的稳妥建议句式：承认别的选择也行，但「要论保险、理想，还是这样最好」。多用于常识性忠告——早做准备、健康、小心谨慎等，常与「もちろん・何事も」搭配，语气比「〜ほうがいい」缓和且留有余地。因为隐含「按理想来说」，多接表示有利条件的词，不用于明显奇怪的主张。",
+  "explain_en": "A prudent-advice pattern in speech and writing: other options exist, but to be safe or ideal, this is best. It suits common-sense counsel — preparing early, staying healthy, being careful — often with もちろん or 何事も, and sounds milder and more open-ended than 〜ほうがいい. Since it implies 'ideally speaking', it attaches to plainly advantageous conditions.",
+  "examples": [
+   {
+    "ja": "何事も、早めに準備するに越したことはない。",
+    "furigana": "{何事|なにごと}も、{早|はや}めに{準備|じゅんび}するに{越|こ}したことはない。",
+    "zh": "无论什么事，最好还是尽早准备。",
+    "en": "In everything, nothing beats preparing early."
+   },
+   {
+    "ja": "体は丈夫であるに越したことはない。",
+    "furigana": "{体|からだ}は{丈夫|じょうぶ}であるに{越|こ}したことはない。",
+    "zh": "身体自然是结实最好。",
+    "en": "As for health, the sturdier the better."
+   },
+   {
+    "ja": "用心するに越したことはないが、心配しすぎるのもよくない。",
+    "furigana": "{用心|ようじん}するに{越|こ}したことはないが、{心配|しんぱい}しすぎるのもよくない。",
+    "zh": "小心为上，但过度担心也不好。",
+    "en": "It is best to be careful, though worrying too much is not good either."
+   }
+  ],
+  "note_zh": "常构成「もちろん〜に越したことはないが、…」的让步句式；语气比命令、劝告都轻，是「按理想说」的建议。",
+  "note_en": "It often opens a concession: もちろん〜に越したことはないが…. Weaker than commands or advice, it states the ideal case."
+ },
+ {
+  "id": "g-n2-100",
+  "level": "N2",
+  "track": "grammar",
+  "group": "感情・評価",
+  "pattern": "〜も同然だ",
+  "meaning_zh": "和……没两样；等于……",
+  "meaning_en": "as good as, practically the same as",
+  "formation": "动词た形・ない形／名词 + も同然だ",
+  "explain_zh": "口语书面语通用。表示虽然严格说来还不是，但实质上已经和那个状态没有区别：「勝ったも同然」＝胜局已定。接动词た形表示「等于已经……」，接ない形表示「等于没有……」（知らないも同然），接名词表示身份上的等同（家族も同然）。是主观的夸张判断，所以正式文书中要慎用，数据说明时不能拿它替代事实。",
+  "explain_en": "Common to speech and writing: strictly speaking not yet so, but in substance indistinguishable from that state — 勝ったも同然 means the win is effectively sealed. With a た-form it means 'as good as done', with a ない-form 'as good as not' (知らないも同然), and with a noun it equates status (家族も同然). It is a subjective exaggeration, so use it cautiously in formal documents and never in place of factual data.",
+  "examples": [
+   {
+    "ja": "ここまで来れば、優勝したも同然だ。",
+    "furigana": "ここまで{来|く}れば、{優勝|ゆうしょう}したも{同然|どうぜん}だ。",
+    "zh": "走到这一步，等于已经夺冠了。",
+    "en": "Having come this far, we have as good as won."
+   },
+   {
+    "ja": "長年一緒に暮らしてきた彼は、家族も同然の存在だ。",
+    "furigana": "{長年一緒|ながねんいっしょ}に{暮|く}らしてきた{彼|かれ}は、{家族|かぞく}も{同然|どうぜん}の{存在|そんざい}だ。",
+    "zh": "一起生活了多年的他，已经和家人没什么两样了。",
+    "en": "After all these years living together, he is practically family."
+   },
+   {
+    "ja": "名前を聞いただけでは、その人を知らないも同然だ。",
+    "furigana": "{名前|なまえ}を{聞|き}いただけでは、その{人|ひと}を{知|し}らないも{同然|どうぜん}だ。",
+    "zh": "只听过名字，等于根本不认识那个人。",
+    "en": "Knowing only the name is as good as not knowing the person at all."
+   }
+  ],
+  "note_zh": "名词修饰形「〜も同然の＋名词」；「新品同然」「ただ同然」是常见的复合说法。",
+  "note_en": "Attributively 〜も同然の＋noun. Set compounds include 新品同然 (like new) and ただ同然 (next to free)."
+ },
+ {
+  "id": "g-n2-101",
+  "level": "N2",
+  "track": "grammar",
+  "group": "感情・評価",
+  "pattern": "〜に限る",
+  "meaning_zh": "……最好；最好莫过于……",
+  "meaning_en": "nothing beats ..., the best thing is to",
+  "formation": "动词辞书形・ない形／名词 + に限る",
+  "explain_zh": "口语色彩较强的主观推荐：说话人凭个人体验断言「要论这种场合，……最好」，常见于生活趣味话题（疲れた時は温泉に限る）。它不是客观比较的结论，而是带感叹的个人信条，所以论文里不用。接ない形可以表示「最好别做／不接近为妙」。与「〜に越したことはない」相比，に限る更斩钉截铁、更口语。",
+  "explain_en": "A colloquial-leaning subjective recommendation: from personal experience the speaker declares that in such situations nothing beats X, typical of lifestyle talk (疲れた時は温泉に限る). It is a personal credo with an exclamatory flavour, not an objective conclusion, so it stays out of academic prose. With a ない-form it means the best policy is not to. Compared with 〜に越したことはない it is more categorical and more spoken.",
+  "examples": [
+   {
+    "ja": "疲れた時は、ゆっくり風呂に入って早く寝るに限る。",
+    "furigana": "{疲|つか}れた{時|とき}は、ゆっくり{風呂|ふろ}に{入|はい}って{早|はや}く{寝|ね}るに{限|かぎ}る。",
+    "zh": "累了的时候，最好就是好好泡个澡早点睡。",
+    "en": "When you are tired, nothing beats a long bath and an early night."
+   },
+   {
+    "ja": "夏はやっぱり冷たいビールに限る。",
+    "furigana": "{夏|なつ}はやっぱり{冷|つめ}たいビールに{限|かぎ}る。",
+    "zh": "夏天果然还是冰啤酒最棒。",
+    "en": "In summer, nothing beats a cold beer."
+   },
+   {
+    "ja": "危ない場所には、近づかないに限る。",
+    "furigana": "{危|あぶ}ない{場所|ばしょ}には、{近|ちか}づかないに{限|かぎ}る。",
+    "zh": "危险的地方，最好离得远远的。",
+    "en": "As for dangerous places, the best policy is to stay away."
+   }
+  ],
+  "note_zh": "此为句末断定用法；注意与名词功能语「〜に限り（仅限）」「〜に限らず（不限于）」形同义异，勿混。",
+  "note_en": "This is the sentence-final evaluative use. Do not confuse it with the noun-marking 〜に限り (only for) or 〜に限らず (not limited to)."
+ },
+ {
+  "id": "g-n2-104",
+  "level": "N2",
+  "track": "grammar",
+  "group": "程度・比況",
+  "pattern": "〜ほど〜はない／〜くらい〜はない",
+  "meaning_zh": "没有比……更……的了（主观最高级）",
+  "meaning_en": "there is nothing so ... as, nothing beats",
+  "formation": "名词 + ほど（くらい）+ 形容词・动词連体形 + 名词 + はない／はいない",
+  "explain_zh": "口语书面语通用的主观最高级：通过否定「有能与之相比的东西」来把前项抬到顶点，「今年ほど暑い夏はない」。因为是说话人的感受性断言而非客观统计，所以常用于抒发感慨、推荐和抱怨。表示人时用「〜はいない」。与客观的「いちばん」不同，用了这个句式就带上了强烈的个人情绪。",
+  "explain_en": "A subjective superlative in both registers: by denying that anything comparable exists, it lifts the item to the top — 今年ほど暑い夏はない. Being an impressionistic assertion rather than a statistic, it suits heartfelt comment, recommendation and complaint. For people use 〜はいない. Unlike objective いちばん, this frame is charged with personal feeling.",
+  "examples": [
+   {
+    "ja": "今年の夏ほど暑い夏はなかった。",
+    "furigana": "{今年|ことし}の{夏|なつ}ほど{暑|あつ}い{夏|なつ}はなかった。",
+    "zh": "没有比今年更热的夏天了。",
+    "en": "There has never been a summer as hot as this one."
+   },
+   {
+    "ja": "彼ほど仕事に熱心な人はいない。",
+    "furigana": "{彼|かれ}ほど{仕事|しごと}に{熱心|ねっしん}な{人|ひと}はいない。",
+    "zh": "没有人比他对工作更热心了。",
+    "en": "No one is as devoted to the job as he is."
+   },
+   {
+    "ja": "自分の家くらい落ち着く場所はない。",
+    "furigana": "{自分|じぶん}の{家|いえ}くらい{落|お}ち{着|つ}く{場所|ばしょ}はない。",
+    "zh": "没有比自己家更让人安心的地方了。",
+    "en": "There is no place as relaxing as your own home."
+   }
+  ],
+  "note_zh": "「AほどのBはない」形式亦可；同型的「〜ば〜ほど」（越……越……）是N3句型，勿混。",
+  "note_en": "The variant AほどのBはない also occurs. Do not confuse with N3's 〜ば〜ほど (the more ... the more ...)."
+ },
+ {
+  "id": "g-n2-105",
+  "level": "N2",
+  "track": "grammar",
+  "group": "程度・比況",
+  "pattern": "〜かのようだ",
+  "meaning_zh": "宛如……；简直像……（实际并非如此）",
+  "meaning_en": "as if, as though (contrary to fact)",
+  "formation": "动词・形容词普通形（／名词である） + かのようだ／かのように／かのような+名词",
+  "explain_zh": "书面语色彩较强的比喻表达，小说、随笔和报道里常见。要点是「实际上不是，却让人感觉像是」的反事实比喻，所以常与「まるで・あたかも」呼应：「何も知らなかったかのような顔」暗含他其实知道。与单纯的「〜ようだ」不同，ようだ既可表推测也可表相似，かのようだ专表与事实相反的比况，推测义没有。",
+  "explain_en": "A rather literary simile found in fiction, essays and reportage. The point is counterfactuality — it is not so, yet it feels as if it were — hence the frequent partners まるで and あたかも: 何も知らなかったかのような顔 implies he actually knew. Unlike plain 〜ようだ, which covers both conjecture and resemblance, かのようだ marks only contrary-to-fact comparison and never conjecture.",
+  "examples": [
+   {
+    "ja": "彼は何も知らなかったかのような顔をしている。",
+    "furigana": "{彼|かれ}は{何|なに}も{知|し}らなかったかのような{顔|かお}をしている。",
+    "zh": "他摆出一副仿佛什么都不知道的表情。",
+    "en": "He wears a look as though he knew nothing at all."
+   },
+   {
+    "ja": "四月なのに、まるで真冬に戻ったかのような寒さだ。",
+    "furigana": "{四月|しがつ}なのに、まるで{真冬|まふゆ}に{戻|もど}ったかのような{寒|さむ}さだ。",
+    "zh": "明明是四月，却冷得仿佛回到了隆冬。",
+    "en": "Though it is April, the cold feels as if midwinter had returned."
+   },
+   {
+    "ja": "彼女はまるでその場にいたかのように詳しく語った。",
+    "furigana": "{彼女|かのじょ}はまるでその{場|ば}にいたかのように{詳|くわ}しく{語|かた}った。",
+    "zh": "她讲得绘声绘色，简直像亲临现场一样。",
+    "en": "She described it in such detail, as if she had been there herself."
+   }
+  ],
+  "note_zh": "名词直接接时用「名词＋であるかのようだ」；口语里多半简化为「まるで〜みたいだ」。",
+  "note_en": "A noun needs である: 名词＋であるかのようだ. Casual speech usually simplifies to まるで〜みたいだ."
+ },
+ {
+  "id": "g-n2-107",
+  "level": "N2",
+  "track": "grammar",
+  "group": "状態・傾向",
+  "pattern": "〜まみれ",
+  "meaning_zh": "沾满……；浑身是……",
+  "meaning_en": "smeared all over with, covered in",
+  "formation": "名词（汗・血・泥・ほこり・油） + まみれ（＋だ／の+名词・になる）",
+  "explain_zh": "口语书面语通用，但比だらけ书面色彩略强。只能表示液体、粉尘等脏东西粘附在整个表面：汗、血、泥、灰尘、油是几乎全部的搭配范围。因此「間違いまみれ」不成立——抽象的充斥只能用だらけ；反之「汗まみれ」比「汗だらけ」更能突出「整个表面湿透粘满」的画面感。「借金まみれ」是引申的惯用说法。",
+  "explain_en": "Usable in both registers, slightly more written than だらけ. It only describes liquids, dust or grime clinging over an entire surface: sweat, blood, mud, dust and oil cover nearly its whole range. Hence 間違いまみれ is impossible — abstract saturation needs だらけ — while 汗まみれ paints the drenched-all-over image more vividly than 汗だらけ. 借金まみれ is an extended idiom.",
+  "examples": [
+   {
+    "ja": "彼は汗まみれになって荷物を運んだ。",
+    "furigana": "{彼|かれ}は{汗|あせ}まみれになって{荷物|にもつ}を{運|はこ}んだ。",
+    "zh": "他浑身是汗地搬运行李。",
+    "en": "Drenched in sweat, he carried the luggage."
+   },
+   {
+    "ja": "倉庫から出てきた古い本は、ほこりまみれだった。",
+    "furigana": "{倉庫|そうこ}から{出|で}てきた{古|ふる}い{本|ほん}は、ほこりまみれだった。",
+    "zh": "从仓库里翻出来的旧书上沾满了灰尘。",
+    "en": "The old books brought out of the warehouse were coated in dust."
+   },
+   {
+    "ja": "その会社は借金まみれで、倒産寸前だという。",
+    "furigana": "その{会社|かいしゃ}は{借金|しゃっきん}まみれで、{倒産寸前|とうさんすんぜん}だという。",
+    "zh": "据说那家公司债台高筑，濒临破产。",
+    "en": "The company is said to be drowning in debt, on the verge of bankruptcy."
+   }
+  ],
+  "note_zh": "だらけ：散布或抽象充斥皆可；まみれ：仅限表面沾满脏污。「傷まみれ」不自然，应说「傷だらけ」。",
+  "note_en": "だらけ allows scattering and abstraction; まみれ only surface grime. 傷まみれ is unnatural — say 傷だらけ."
+ },
+ {
+  "id": "g-n2-110",
+  "level": "N2",
+  "track": "grammar",
+  "group": "状態・傾向",
+  "pattern": "〜放題",
+  "meaning_zh": "随便……；……个够；放任不管",
+  "meaning_en": "as much as one likes; left to run wild",
+  "formation": "动词ます形去ます + 放題（食べ放題）；动词たい形去い + 放題（言いたい放題）",
+  "explain_zh": "口语和广告用语常见。两个方向：一是服务业的「不限量」（食べ放題・飲み放題・使い放題），中性偏褒义，是菜单和套餐说明的固定用词；二是「放任不管、为所欲为」的贬义（伸び放題・散らかし放題・言いたい放題），批评缺乏管束的状态。判断褒贬要看搭配：收费服务类是前者，描述荒废、放纵的场景是后者。",
+  "explain_en": "Frequent in speech and advertising. Two directions: the service-industry 'all you can' (食べ放題, 飲み放題, 使い放題), neutral-to-positive and standard on menus and plans; and the pejorative 'left unchecked, doing as one pleases' (伸び放題, 散らかし放題, 言いたい放題), criticising an unrestrained state. The collocation decides which: paid services are the former, scenes of neglect or licence the latter.",
+  "examples": [
+   {
+    "ja": "この店は九十分三千円で食べ放題だ。",
+    "furigana": "この{店|みせ}は{九十分三千円|きゅうじゅっぷんさんぜんえん}で{食|た}べ{放題|ほうだい}だ。",
+    "zh": "这家店九十分钟三千日元，随便吃。",
+    "en": "This restaurant offers all-you-can-eat for ninety minutes at three thousand yen."
+   },
+   {
+    "ja": "留守の間に、庭の草が伸び放題になっていた。",
+    "furigana": "{留守|るす}の{間|あいだ}に、{庭|にわ}の{草|くさ}が{伸|の}び{放題|ほうだい}になっていた。",
+    "zh": "不在家的这段时间，院子里的草长得没人管了。",
+    "en": "While we were away, the garden weeds grew completely unchecked."
+   },
+   {
+    "ja": "彼は会議で言いたい放題言って、先に帰ってしまった。",
+    "furigana": "{彼|かれ}は{会議|かいぎ}で{言|い}いたい{放題言|ほうだいい}って、{先|さき}に{帰|かえ}ってしまった。",
+    "zh": "他在会上想说什么说什么，说完就先走了。",
+    "en": "At the meeting he said whatever he pleased and then left early."
+   }
+  ],
+  "note_zh": "「やりたい放題」（为所欲为）是常见贬义搭配；服务用语已完全词汇化，直接当名词用。",
+  "note_en": "やりたい放題 (doing whatever one wants) is a common pejorative. The service uses are fully lexicalised nouns."
+ },
+ {
+  "id": "g-n2-111",
+  "level": "N2",
+  "track": "grammar",
+  "group": "完了・困難",
+  "pattern": "〜抜く",
+  "meaning_zh": "（历尽艰难）坚持……到底；彻底……",
+  "meaning_en": "carry through to the very end (despite hardship); thoroughly",
+  "formation": "动词ます形去ます + 抜く（走り抜く・考え抜く・やり抜く）",
+  "explain_zh": "口语书面语通用，励志语境高频。两个语义：一是「克服困难坚持到最后」（走り抜く・戦い抜く），必含艰辛的过程；二是「彻底地……」（考え抜く・知り抜く），表示程度穷尽。与「〜切る」的区别是考点：切る只表示「完成、用尽」，不含艰苦；抜く强调咬牙撑过困难的过程，所以「全部食べ切った」自然，而「食べ抜いた」不说。",
+  "explain_en": "Common to both registers, frequent in motivational contexts. Two senses: pushing through hardship to the end (走り抜く, 戦い抜く), always implying a grueling process; and exhaustive thoroughness (考え抜く, 知り抜く). The contrast with 〜切る is the exam point: 切る means mere completion or exhaustion without hardship, while 抜く stresses gritting through difficulty — 全部食べ切った is fine, 食べ抜いた is not said.",
+  "examples": [
+   {
+    "ja": "苦しかったが、最後までマラソンを走り抜いた。",
+    "furigana": "{苦|くる}しかったが、{最後|さいご}までマラソンを{走|はし}り{抜|ぬ}いた。",
+    "zh": "虽然很痛苦，但我还是坚持跑完了马拉松。",
+    "en": "It was agonising, but I ran the marathon through to the finish."
+   },
+   {
+    "ja": "考え抜いた末に、会社を辞める決心をした。",
+    "furigana": "{考|かんが}え{抜|ぬ}いた{末|すえ}に、{会社|かいしゃ}を{辞|や}める{決心|けっしん}をした。",
+    "zh": "深思熟虑之后，我下定决心辞职。",
+    "en": "After thinking it through exhaustively, I resolved to leave the company."
+   },
+   {
+    "ja": "一度引き受けた以上、最後までやり抜くつもりだ。",
+    "furigana": "{一度引|いちどひ}き{受|う}けた{以上|いじょう}、{最後|さいご}までやり{抜|ぬ}くつもりだ。",
+    "zh": "既然接下了，我就打算坚持做到底。",
+    "en": "Having once taken it on, I intend to see it through to the end."
+   }
+  ],
+  "note_zh": "「勝ち抜く」（连胜过关）「生き抜く」（顽强活下去）是高频搭配；N3已学的「〜切る／〜切れない」表完成・不可能，语感不同。",
+  "note_en": "勝ち抜く (win through) and 生き抜く (survive against odds) are frequent. N3's 〜切る / 〜切れない covers completion, a different nuance."
+ },
+ {
+  "id": "g-n2-112",
+  "level": "N2",
+  "track": "grammar",
+  "group": "完了・困難",
+  "pattern": "〜っこない",
+  "meaning_zh": "绝不可能……（口语的强烈否定）",
+  "meaning_en": "there is no way that (very casual)",
+  "formation": "动词ます形去ます + っこない（多接可能形：できっこない・解けっこない）",
+  "explain_zh": "相当随便的口语，只用于关系亲近的人之间，书面语和正式场合绝对不用，要改说「〜はずがない・〜わけがない」。语感是斩钉截铁地断定「怎么可能做得到／发生」，常接在可能形后（できっこない・受かりっこない），带把对方的期待一口否定的冲劲。因为过于直接，容易显得泼冷水，使用场景要注意。",
+  "explain_en": "Very casual speech confined to close relationships; in writing or formal settings switch to 〜はずがない or 〜わけがない. It flatly declares something impossible, usually after a potential form (できっこない, 受かりっこない), with a force that shoots down the other person's hopes. Being so blunt, it easily sounds dismissive, so watch the setting.",
+  "examples": [
+   {
+    "ja": "こんなに難しい問題、私に解けっこないよ。",
+    "furigana": "こんなに{難|むずか}しい{問題|もんだい}、{私|わたし}に{解|と}けっこないよ。",
+    "zh": "这么难的题，我绝不可能解得出来。",
+    "en": "A problem this hard? There is no way I can solve it."
+   },
+   {
+    "ja": "宝くじなんて、どうせ当たりっこない。",
+    "furigana": "{宝|たから}くじなんて、どうせ{当|あ}たりっこない。",
+    "zh": "彩票那种东西，反正绝不可能中。",
+    "en": "The lottery? No chance of winning anyway."
+   },
+   {
+    "ja": "一日でこの仕事が終わりっこないと、みんな分かっていた。",
+    "furigana": "{一日|いちにち}でこの{仕事|しごと}が{終|お}わりっこないと、みんな{分|わ}かっていた。",
+    "zh": "大家都清楚，这项工作一天之内绝不可能完成。",
+    "en": "Everyone knew there was no way this job could be finished in a day."
+   }
+  ],
+  "note_zh": "常与「どうせ・そんなの」搭配；礼貌场合说「〜はずがありません」。",
+  "note_en": "It pairs with どうせ and そんなの. In polite settings say 〜はずがありません instead."
+ },
+ {
+  "id": "g-n2-113",
+  "level": "N2",
+  "track": "grammar",
+  "group": "完了・困難",
+  "pattern": "〜がたい",
+  "meaning_zh": "难以……（心理上几乎不可能）",
+  "meaning_en": "hard to (psychologically all but impossible)",
+  "formation": "动词ます形去ます + がたい（信じがたい・理解しがたい・許しがたい・忘れがたい）",
+  "explain_zh": "书面语，评论和郑重发言常用。表示心理上、情理上「几乎无法做到」，而不是技术上的困难，所以搭配范围很窄，基本限于「信じる・理解する・許す・受け入れる・忘れる・言う」等心理动词：「信じがたい話」＝难以置信。体力或技术上的困难用「〜にくい」「〜づらい」。「動かしがたい事実」（不可动摇的事实）是惯用表达。",
+  "explain_en": "Written style, common in commentary and formal statements. It marks psychological or moral near-impossibility, not technical difficulty, so its range is narrow: mental verbs like 信じる, 理解する, 許す, 受け入れる, 忘れる and 言う — 信じがたい話 is a barely believable story. Physical or practical difficulty takes 〜にくい or 〜づらい. 動かしがたい事実 (an immovable fact) is idiomatic.",
+  "examples": [
+   {
+    "ja": "あの真面目な彼が裏切ったとは、信じがたい。",
+    "furigana": "あの{真面目|まじめ}な{彼|かれ}が{裏切|うらぎ}ったとは、{信|しん}じがたい。",
+    "zh": "那么认真的他竟然背叛了，实在难以置信。",
+    "en": "That such an earnest man betrayed us is hard to believe."
+   },
+   {
+    "ja": "彼の行為は理解しがたいが、何か事情があったのだろう。",
+    "furigana": "{彼|かれ}の{行為|こうい}は{理解|りかい}しがたいが、{何|なに}か{事情|じじょう}があったのだろう。",
+    "zh": "他的行为令人费解，但想必有什么隐情吧。",
+    "en": "His conduct is hard to fathom, though there must have been circumstances."
+   },
+   {
+    "ja": "あの夏の経験は、忘れがたい思い出となった。",
+    "furigana": "あの{夏|なつ}の{経験|けいけん}は、{忘|わす}れがたい{思|おも}い{出|で}となった。",
+    "zh": "那个夏天的经历，成了难以忘怀的回忆。",
+    "en": "That summer's experience became an unforgettable memory."
+   }
+  ],
+  "note_zh": "「得がたい人材」（难得的人才）也常见；三者比较：がたい（心理不可能・书面）、にくい（客观困难）、づらい（做起来难受）。",
+  "note_en": "得がたい人材 (a rare talent) is common. Compare: がたい (mentally impossible, written), にくい (objectively hard), づらい (uncomfortable to do)."
+ },
+ {
+  "id": "g-n2-114",
+  "level": "N2",
+  "track": "grammar",
+  "group": "完了・困難",
+  "pattern": "〜づらい",
+  "meaning_zh": "（因心理或身体不适）不便……；难以……",
+  "meaning_en": "hard to do (because it is uncomfortable or painful)",
+  "formation": "动词ます形去ます + づらい",
+  "explain_zh": "口语为主，一般书面语也可用。表示做该动作会给动作者带来心理负担或身体痛苦，因而「不好做」：对人难以启齿（言いづらい・頼みづらい）、身体不适（食べづらい・歩きづらい）。与「〜にくい」的区别是重点：にくい是对象本身的客观属性（如字体难认），づらい是动作者的主观不适，所以「上司には相談しづらい」不能换成中性的にくい而不失语感。",
+  "explain_en": "Mainly spoken but fine in general writing. The action imposes psychological strain or physical discomfort on the doer, making it hard: awkward to broach (言いづらい, 頼みづらい) or physically trying (食べづらい, 歩きづらい). Against 〜にくい the focus differs: にくい is an objective property of the object, づらい the doer's subjective discomfort, so the unease in 上司には相談しづらい is lost if replaced with neutral にくい.",
+  "examples": [
+   {
+    "ja": "彼には本当のことが言いづらい。",
+    "furigana": "{彼|かれ}には{本当|ほんとう}のことが{言|い}いづらい。",
+    "zh": "跟他实在不好开口说实话。",
+    "en": "It is hard to bring myself to tell him the truth."
+   },
+   {
+    "ja": "この魚は小骨が多くて食べづらい。",
+    "furigana": "この{魚|さかな}は{小骨|こぼね}が{多|おお}くて{食|た}べづらい。",
+    "zh": "这条鱼小刺很多，吃起来很费劲。",
+    "en": "This fish has so many small bones that it is a chore to eat."
+   },
+   {
+    "ja": "上司がいつも不機嫌なので、相談しづらい雰囲気だ。",
+    "furigana": "{上司|じょうし}がいつも{不機嫌|ふきげん}なので、{相談|そうだん}しづらい{雰囲気|ふんいき}だ。",
+    "zh": "上司总是一脸不高兴，让人很难开口商量事情。",
+    "en": "With the boss always in a bad mood, the atmosphere makes it hard to consult him."
+   }
+  ],
+  "note_zh": "汉字写「〜辛い」；「見づらい・聞きづらい」兼有生理不适义。与づらい相比，にくい可用于无生命主语。",
+  "note_en": "Written 〜辛い in kanji. 見づらい and 聞きづらい carry physical-discomfort senses. Unlike づらい, にくい also takes inanimate subjects."
+ }
+]

@@ -10,6 +10,7 @@ export default function Home() {
     { to: '/kana', mark: '音', title: t('home.kanaTitle'), desc: t('home.kanaDesc') },
     { to: '/articles', mark: '文', title: t('home.articleTitle'), desc: t('home.articleDesc') },
     { to: '/vocab', mark: '語', title: t('home.vocabTitle'), desc: t('home.vocabDesc') },
+    { to: '/grammar', mark: '法', title: t('home.grammarTitle'), desc: t('home.grammarDesc') },
     { to: '/quiz', mark: '験', title: t('home.quizTitle'), desc: t('home.quizDesc') },
   ]
 

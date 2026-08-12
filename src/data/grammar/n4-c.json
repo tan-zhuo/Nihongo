@@ -1,0 +1,1492 @@
+[
+ {
+  "id": "g-n4-69",
+  "level": "N4",
+  "track": "grammar",
+  "group": "推量表现",
+  "pattern": "〜かもしれない",
+  "meaning_zh": "也许…；说不定…（可能性不高的推测）",
+  "meaning_en": "may; might; perhaps",
+  "formation": "动词・い形容词简体 + かもしれない；な形容词・名词（不加だ）+ かもしれない。礼貌形：〜かもしれません",
+  "explain_zh": "「かもしれない」表示说话人对某事的把握不大，可能性大概只有一半以下，“也许是这样，也许不是”。它直接接在简体后面，但な形容词和名词后面不加「だ」：「暇かもしれない」「学生かもしれない」，加了「だ」是最常见的错误。和「でしょう」相比，「かもしれない」的把握更低：「雨が降るでしょう」是相当有把握的预测，「雨が降るかもしれない」只是提出一种可能性。口语里常缩成「〜かも」。",
+  "explain_en": "〜かもしれない expresses a guess the speaker is not confident about — the chance feels like fifty-fifty or less. It attaches to plain forms, but drop だ after na-adjectives and nouns: 暇かもしれない, 学生かもしれない. Compared with でしょう it signals much weaker certainty. In casual speech it shortens to 〜かも.",
+  "examples": [
+   {
+    "ja": "午後から雨が降るかもしれません。",
+    "furigana": "{午後|ごご}から{雨|あめ}が{降|ふ}るかもしれません。",
+    "zh": "下午也许会下雨。",
+    "en": "It might rain in the afternoon."
+   },
+   {
+    "ja": "彼はもう家に帰ったかもしれない。",
+    "furigana": "{彼|かれ}はもう{家|いえ}に{帰|かえ}ったかもしれない。",
+    "zh": "他说不定已经回家了。",
+    "en": "He may have already gone home."
+   },
+   {
+    "ja": "来週は暇かもしれません。",
+    "furigana": "{来週|らいしゅう}は{暇|ひま}かもしれません。",
+    "zh": "下周我也许有空。",
+    "en": "I might be free next week."
+   }
+  ],
+  "note_zh": "×「学生だかもしれない」——名词・な形容词直接接，不加だ；过去的事用「〜たかもしれない」。",
+  "note_en": "Never insert だ before かもしれない; for past events use 〜たかもしれない."
+ },
+ {
+  "id": "g-n4-71",
+  "level": "N4",
+  "track": "grammar",
+  "group": "推量表现",
+  "pattern": "〜だろう（と思う）",
+  "meaning_zh": "大概…吧（でしょう的简体）；我想大概…",
+  "meaning_en": "probably (plain form of でしょう); I think it's probably the case",
+  "formation": "动词・い形容词简体 + だろう；な形容词・名词 + だろう；常用「〜だろうと思う」缓和语气",
+  "explain_zh": "「だろう」是「でしょう」的简体，多见于男性口语、自言自语和书面文章。直接说「〜だろう」断定味较强，加上「と思う」变成「〜だろうと思う」，明确表示“这是我个人的推测”，语气柔和，也是作文里表达推测的常用形。女性口语中单独的「だろう」较少用，一般说「でしょう」或「〜だろうと思います」。",
+  "explain_en": "だろう is the plain equivalent of でしょう, common in male casual speech, self-directed muttering and writing. Bare 〜だろう can sound assertive; adding と思う softens it into 'I suppose that...', which is also the standard way to hedge a prediction in essays. In polite conversation, use でしょう or 〜だろうと思います.",
+  "examples": [
+   {
+    "ja": "彼は今日も忙しいだろう。",
+    "furigana": "{彼|かれ}は{今日|きょう}も{忙|いそが}しいだろう。",
+    "zh": "他今天大概也很忙吧。",
+    "en": "He's probably busy today as well."
+   },
+   {
+    "ja": "明日は雪が降るだろうと思います。",
+    "furigana": "{明日|あした}は{雪|ゆき}が{降|ふ}るだろうと{思|おも}います。",
+    "zh": "我想明天大概会下雪。",
+    "en": "I think it will probably snow tomorrow."
+   },
+   {
+    "ja": "このチームが勝つだろうと思う。",
+    "furigana": "このチームが{勝|か}つだろうと{思|おも}う。",
+    "zh": "我想大概是这个队会赢吧。",
+    "en": "I think this team will probably win."
+   }
+  ],
+  "note_zh": "「〜だろうと思う」比「〜と思う」多了一层“不确定”的推测味，比单独「だろう」又柔和，是三者中最稳妥的说法。",
+  "note_en": "〜だろうと思う adds an explicit layer of conjecture to 〜と思う while sounding softer than bare だろう."
+ },
+ {
+  "id": "g-n4-72",
+  "level": "N4",
+  "track": "grammar",
+  "group": "推量表现",
+  "pattern": "〜かな（あ）",
+  "meaning_zh": "…呢？…吧？（自言自语的疑问）；要是…就好了（〜ないかな）",
+  "meaning_en": "I wonder...; sentence-final self-questioning particle",
+  "formation": "简体句 + かな／かなあ（な形容词・名词不加だ）；愿望：〜ないかな（あ）",
+  "explain_zh": "「かな」是自言自语式的疑问，相当于“…呢？”“不知道…”，语气随意，主要用于简体会话或心里嘀咕，不用于郑重场合。对象是自己也可以是对方，问对方时比直接问句委婉：「明日、来るかな」。「〜ないかな（あ）」表示盼望某事发生：「早く週末にならないかなあ」＝“真希望周末快点到”。郑重场合的“不知道…”要说「〜でしょうか」。",
+  "explain_en": "かな turns a plain sentence into a soft self-directed question — 'I wonder...'. It is casual, common in inner monologue and relaxed conversation, and gentler than a direct question when aimed at the listener. 〜ないかな(あ) expresses a wish that something would happen. In formal speech use 〜でしょうか instead.",
+  "examples": [
+   {
+    "ja": "明日は晴れるかな。",
+    "furigana": "{明日|あした}は{晴|は}れるかな。",
+    "zh": "明天会放晴吗（我想知道）。",
+    "en": "I wonder if it will be sunny tomorrow."
+   },
+   {
+    "ja": "この答えで大丈夫かな。",
+    "furigana": "この{答|こた}えで{大丈夫|だいじょうぶ}かな。",
+    "zh": "这个答案行不行呢。",
+    "en": "I wonder if this answer is all right."
+   },
+   {
+    "ja": "早く夏休みにならないかなあ。",
+    "furigana": "{早|はや}く{夏休|なつやす}みにならないかなあ。",
+    "zh": "真希望暑假快点到啊。",
+    "en": "I wish summer vacation would come soon."
+   }
+  ],
+  "note_zh": "「かな」是简体表达，对上级或郑重场合要改用「〜でしょうか」。",
+  "note_en": "かな is casual; switch to 〜でしょうか in polite situations."
+ },
+ {
+  "id": "g-n4-73",
+  "level": "N4",
+  "track": "grammar",
+  "group": "引用・传达",
+  "pattern": "〜と思います（意見・感想）",
+  "meaning_zh": "我觉得…；我认为…（陈述意见和判断）",
+  "meaning_en": "I think that... (stating opinions and judgements)",
+  "formation": "简体句 + と思う／と思います（名词・な形容词要加だ：便利だと思う）",
+  "explain_zh": "「と思う」用来陈述说话人的意见、感想和判断，是日语中最重要的“缓冲”表达之一——直接说「この店は高いです」显得武断，加上「と思います」就成了个人看法，语气柔和得多。引用的内容一律用简体，名词和な形容词要保留「だ」：「便利だと思う」「学生だと思う」，这一点和「かもしれない」正好相反。表示“我不这么认为”时，日语更常否定「思う」本身：「おいしくないと思う」（我觉得不好吃）与「おいしいとは思わない」（我不觉得好吃）语气有别，后者否定得更明确。",
+  "explain_en": "〜と思います states the speaker's opinion and is one of Japanese's key softening devices: adding it turns a blunt claim into a personal view. The quoted clause is always plain form, and unlike かもしれない you must keep だ after nouns and na-adjectives: 便利だと思う. To disagree, Japanese often negates inside the quote (おいしくないと思う) or negates 思う itself for a stronger denial (おいしいとは思わない).",
+  "examples": [
+   {
+    "ja": "日本の食べ物はおいしいと思います。",
+    "furigana": "{日本|にほん}の{食|た}べ{物|もの}はおいしいと{思|おも}います。",
+    "zh": "我觉得日本的食物很好吃。",
+    "en": "I think Japanese food is delicious."
+   },
+   {
+    "ja": "私は彼の意見が正しいと思う。",
+    "furigana": "{私|わたし}は{彼|かれ}の{意見|いけん}が{正|ただ}しいと{思|おも}う。",
+    "zh": "我认为他的意见是对的。",
+    "en": "I think his opinion is correct."
+   },
+   {
+    "ja": "会議は三時に終わると思います。",
+    "furigana": "{会議|かいぎ}は{三時|さんじ}に{終|お}わると{思|おも}います。",
+    "zh": "我想会议三点就会结束。",
+    "en": "I think the meeting will end at three."
+   }
+  ],
+  "note_zh": "「と」前面必须是简体：×「おいしいですと思います」；名词・な形容词要加だ：○「静かだと思う」。",
+  "note_en": "The clause before と must be plain form, and nouns/na-adjectives keep だ: 静かだと思う."
+ },
+ {
+  "id": "g-n4-74",
+  "level": "N4",
+  "track": "grammar",
+  "group": "引用・传达",
+  "pattern": "〜と言いました／〜と言っていました",
+  "meaning_zh": "（某人）说了…；（某人）说过…（转述别人的话）",
+  "meaning_en": "said that...; was saying that... (reporting speech)",
+  "formation": "直接引用：「原话」+ と言いました；间接引用：简体句 + と言いました／と言っていました",
+  "explain_zh": "转述别人的话有直接引用和间接引用两种：直接引用把原话放进「」里，原封不动；间接引用把内容改成简体再接「と」。转述第三者对某人说过的话时，日语更常用「〜と言っていました」——它含有“我听到他这么说，现在传达给你”的语感，比「と言いました」自然，传话、转告几乎都用这个形。请求别人转告时说「〜と伝えてください」。",
+  "explain_en": "Speech can be reported directly, quoting the exact words in 「」, or indirectly, converting the content to plain form before と. When passing along what someone said, 〜と言っていました is usually more natural than 〜と言いました, because it frames the utterance as information you heard and are now relaying. To ask someone to pass a message on, use 〜と伝えてください.",
+  "examples": [
+   {
+    "ja": "田中さんは明日休むと言っていました。",
+    "furigana": "{田中|たなか}さんは{明日|あした}{休|やす}むと{言|い}っていました。",
+    "zh": "田中说他明天要请假。",
+    "en": "Tanaka said he is taking tomorrow off."
+   },
+   {
+    "ja": "母は「早く寝なさい」と言いました。",
+    "furigana": "{母|はは}は「{早|はや}く{寝|ね}なさい」と{言|い}いました。",
+    "zh": "妈妈说：“快点睡觉。”",
+    "en": "My mother said, 'Go to bed early.'"
+   },
+   {
+    "ja": "天気予報では午後から晴れると言っていました。",
+    "furigana": "{天気予報|てんきよほう}では{午後|ごご}から{晴|は}れると{言|い}っていました。",
+    "zh": "天气预报说下午会放晴。",
+    "en": "The weather forecast said it would clear up in the afternoon."
+   }
+  ],
+  "note_zh": "间接引用时人称和指示词要换成说话人自己的视角：他说「私が行く」→「彼が行くと言っていました」。",
+  "note_en": "In indirect quotes, shift pronouns and demonstratives to the reporter's viewpoint."
+ },
+ {
+  "id": "g-n4-75",
+  "level": "N4",
+  "track": "grammar",
+  "group": "引用・传达",
+  "pattern": "〜と聞きました",
+  "meaning_zh": "听说…（从别人那里得到的信息）",
+  "meaning_en": "I heard that...",
+  "formation": "简体句 + と聞きました（信息来源用「〜から」「〜に」表示）",
+  "explain_zh": "「〜と聞きました」表示信息是从别人那里听来的，不是自己亲眼确认的，相当于中文的“听说”。信息来源可以用「〜から」或「〜に」标出：「山田さんから聞きました」。它比N3的传闻「〜そうだ」更具体地点明了“听”这个动作，初学阶段先用这个形转述听来的消息最稳妥。注意引用内容仍是简体句。",
+  "explain_en": "〜と聞きました reports information you obtained by hearing it from someone, like 'I heard that...'. Mark the source with 〜から or 〜に. It is a straightforward alternative to the hearsay 〜そうだ taught at N3, explicitly naming the act of hearing. The quoted clause stays in plain form.",
+  "examples": [
+   {
+    "ja": "山田さんは来月結婚すると聞きました。",
+    "furigana": "{山田|やまだ}さんは{来月|らいげつ}{結婚|けっこん}すると{聞|き}きました。",
+    "zh": "听说山田下个月要结婚。",
+    "en": "I heard that Yamada is getting married next month."
+   },
+   {
+    "ja": "この店のラーメンはおいしいと聞いた。",
+    "furigana": "この{店|みせ}のラーメンはおいしいと{聞|き}いた。",
+    "zh": "听说这家店的拉面很好吃。",
+    "en": "I heard the ramen at this shop is good."
+   },
+   {
+    "ja": "先生から、来週テストがあると聞きました。",
+    "furigana": "{先生|せんせい}から、{来週|らいしゅう}テストがあると{聞|き}きました。",
+    "zh": "我从老师那里听说下周有考试。",
+    "en": "I heard from the teacher that there is a test next week."
+   }
+  ],
+  "note_zh": "「〜に聞きました」也可表示“向…询问”：「駅員に聞きました」，注意歧义靠上下文区分。",
+  "note_en": "〜に聞きました can also mean 'asked someone'; context disambiguates."
+ },
+ {
+  "id": "g-n4-76",
+  "level": "N4",
+  "track": "grammar",
+  "group": "引用・传达",
+  "pattern": "〜という＋名詞",
+  "meaning_zh": "叫做…的…（介绍名称）",
+  "meaning_en": "a ... called ...; named ...",
+  "formation": "名称 + という + 名词（人・店・地名・作品等）",
+  "explain_zh": "「AというB」用于介绍对方可能不知道名字的人或事物，相当于“叫A的B”：「『ポチ』という犬」「『さくら』というレストラン」。当说话人认为对方不熟悉这个名称时用它引入话题，非常高频。询问名称时说「何という〜ですか」：「これは何という花ですか」。名称部分不论是什么词，都直接加「という」，不需要变形。",
+  "explain_en": "A という B introduces something by name when the listener may not know it: 'a dog called Pochi', 'a restaurant called Sakura'. Use it to bring up unfamiliar names, and ask names with 何という〜ですか. The name slot attaches directly to という with no conjugation.",
+  "examples": [
+   {
+    "ja": "駅の前に「さくら」というレストランがあります。",
+    "furigana": "{駅|えき}の{前|まえ}に「さくら」というレストランがあります。",
+    "zh": "车站前面有一家叫“樱”的餐厅。",
+    "en": "There is a restaurant called 'Sakura' in front of the station."
+   },
+   {
+    "ja": "「ポチ」という犬を飼っています。",
+    "furigana": "「ポチ」という{犬|いぬ}を{飼|か}っています。",
+    "zh": "我养了一只叫“波奇”的狗。",
+    "en": "I have a dog called 'Pochi'."
+   },
+   {
+    "ja": "これは何という花ですか。",
+    "furigana": "これは{何|なん}という{花|はな}ですか。",
+    "zh": "这是叫什么名字的花？",
+    "en": "What is this flower called?"
+   }
+  ],
+  "note_zh": "双方都熟知的名称不必用「という」：○「東京に住んでいます」／△「東京という町に住んでいます」（除非强调对方不知道）。",
+  "note_en": "Skip という for names both parties already know, unless you assume the listener doesn't."
+ },
+ {
+  "id": "g-n4-77",
+  "level": "N4",
+  "track": "grammar",
+  "group": "引用・传达",
+  "pattern": "〜という意味",
+  "meaning_zh": "是…的意思（解释词语、标志的含义）",
+  "meaning_en": "it means that...; the meaning is...",
+  "formation": "简体句・词语 + という意味です；提问：どういう意味ですか",
+  "explain_zh": "解释一个词、一个汉字或一个标志的含义时，用「〜という意味です」。提问用「どういう意味ですか」（是什么意思？），这是课堂和日常生活中问词义的标准句子。解释的内容用简体接「という」：「『禁煙』はたばこを吸ってはいけないという意味です」。它和「という＋名词」结构相同，只是后面的名词固定为「意味」。",
+  "explain_en": "To explain what a word, kanji or sign means, use 〜という意味です; to ask, どういう意味ですか is the standard question. The explanation goes in plain form before という. Structurally this is the same as という + noun, with the noun fixed as 意味.",
+  "examples": [
+   {
+    "ja": "この漢字はどういう意味ですか。",
+    "furigana": "この{漢字|かんじ}はどういう{意味|いみ}ですか。",
+    "zh": "这个汉字是什么意思？",
+    "en": "What does this kanji mean?"
+   },
+   {
+    "ja": "「禁煙」はたばこを吸ってはいけないという意味です。",
+    "furigana": "「{禁煙|きんえん}」はたばこを{吸|す}ってはいけないという{意味|いみ}です。",
+    "zh": "“禁烟”是不许吸烟的意思。",
+    "en": "禁煙 means that you must not smoke."
+   },
+   {
+    "ja": "このマークは、ここでは泳げないという意味です。",
+    "furigana": "このマークは、ここでは{泳|およ}げないという{意味|いみ}です。",
+    "zh": "这个标志的意思是这里不能游泳。",
+    "en": "This sign means you cannot swim here."
+   }
+  ],
+  "note_zh": "问人名・物名用「何という〜」，问含义用「どういう意味」，两个疑问词不要用混。",
+  "note_en": "Ask names with 何という and meanings with どういう意味 — don't swap them."
+ },
+ {
+  "id": "g-n4-78",
+  "level": "N4",
+  "track": "grammar",
+  "group": "引用・传达",
+  "pattern": "〜ように言う（指示の引用）",
+  "meaning_zh": "叫（某人）做…；被叮嘱要…（转述指示、请求）",
+  "meaning_en": "tell someone to do; be told to do (reporting instructions)",
+  "formation": "动词辞书形／ない形 + ように言う・言われる・頼む・注意する",
+  "explain_zh": "转述命令、请求和叮嘱时，不必引用原话，而是用「〜ように言う」把内容概括进去：「医者に毎日運動するように言われました」＝医生叮嘱我每天运动。原话可能是「運動してください」「運動しなさい」等各种形式，用「ように」统一转述最方便。禁止的内容用ない形：「遅れないように言ってください」。同类动词还有「頼む」「注意する」「伝える」。这里的「ように」表示指示的内容，和表示目的的「ように」不同。",
+  "explain_en": "To report commands and requests, wrap the content with 〜ように言う instead of quoting the exact words: 医者に毎日運動するように言われました 'the doctor told me to exercise daily'. Prohibitions use the ない-form before ように. The same frame works with 頼む, 注意する and 伝える. This ように marks the content of an instruction, distinct from purpose ように.",
+  "examples": [
+   {
+    "ja": "医者に毎日運動するように言われました。",
+    "furigana": "{医者|いしゃ}に{毎日|まいにち}{運動|うんどう}するように{言|い}われました。",
+    "zh": "医生叮嘱我每天要运动。",
+    "en": "The doctor told me to exercise every day."
+   },
+   {
+    "ja": "学生に遅れないように言ってください。",
+    "furigana": "{学生|がくせい}に{遅|おく}れないように{言|い}ってください。",
+    "zh": "请告诉学生们不要迟到。",
+    "en": "Please tell the students not to be late."
+   },
+   {
+    "ja": "母に部屋を片付けるように言われた。",
+    "furigana": "{母|はは}に{部屋|へや}を{片付|かたづ}けるように{言|い}われた。",
+    "zh": "妈妈叫我收拾房间。",
+    "en": "My mother told me to tidy my room."
+   }
+  ],
+  "note_zh": "直接引用原话时用「と」：「『走るな』と言われた」；概括转述指示时用「ように」。",
+  "note_en": "Quote exact words with と; summarise instructions with ように."
+ },
+ {
+  "id": "g-n4-80",
+  "level": "N4",
+  "track": "grammar",
+  "group": "说明语气",
+  "pattern": "〜んですが、（前置き）",
+  "meaning_zh": "我…，（所以想请您…）——引出请求、商量的开场白",
+  "meaning_en": "the thing is..., (so could you...) — softening preamble",
+  "formation": "简体句 + んですが、+ 请求・疑问句（后半也常省略）",
+  "explain_zh": "「〜んですが」把「んです」的说明语气和表示缓冲的「が」组合起来，先交代自己的情况，再引出请求或问题，是日语会话最重要的开场白之一：「道が分からないんですが、教えていただけませんか」。这里的「が」不是转折，而是“话没说完”的信号，起软化作用。日本人常常只说前半句「予約をしたいんですが……」，把请求留给对方去领会，这种“说半句”正是礼貌所在。",
+  "explain_en": "〜んですが combines the explanatory んです with a softening が: first state your situation, then lead into a request or question. The が does not mean 'but'; it signals the sentence is handing over to the listener. Japanese speakers often stop after the first half (予約をしたいんですが…), letting the other person infer the request — trailing off like this is itself politeness.",
+  "examples": [
+   {
+    "ja": "道が分からないんですが、教えていただけませんか。",
+    "furigana": "{道|みち}が{分|わ}からないんですが、{教|おし}えていただけませんか。",
+    "zh": "我不认识路，能请您告诉我吗？",
+    "en": "I'm afraid I don't know the way — could you tell me?"
+   },
+   {
+    "ja": "パソコンを買いたいんですが、どれがいいですか。",
+    "furigana": "パソコンを{買|か}いたいんですが、どれがいいですか。",
+    "zh": "我想买台电脑，哪种好呢？",
+    "en": "I'd like to buy a computer — which one is good?"
+   },
+   {
+    "ja": "予約をしたいんですが。",
+    "furigana": "{予約|よやく}をしたいんですが。",
+    "zh": "我想预约……（可以吗？）",
+    "en": "I'd like to make a reservation... (would that be possible?)"
+   }
+  ],
+  "note_zh": "打电话、去窗口办事，第一句几乎都是「〜んですが」：先说明来意，再提出请求，比开门见山礼貌得多。",
+  "note_en": "On the phone or at a counter, open with 〜んですが to state your business before making the request."
+ },
+ {
+  "id": "g-n4-81",
+  "level": "N4",
+  "track": "grammar",
+  "group": "打算・预定",
+  "pattern": "〜つもりだ",
+  "meaning_zh": "打算…（已经决定的个人计划）",
+  "meaning_en": "intend to; plan to",
+  "formation": "动词辞书形 + つもりだ；否定：ない形 + つもりだ／〜つもりはない",
+  "explain_zh": "「つもりだ」表示说话人早就下定的决心和计划，比「〜ようと思う」（当场或近来的念头）更坚定。否定有两种：「行かないつもりだ」＝打算不去，「行くつもりはない」＝根本没有去的打算，后者否定得更强硬。询问别人（尤其是上级）的打算时，「〜つもりですか」可能显得逼问，最好换成「〜予定ですか」或「どうなさいますか」。",
+  "explain_en": "〜つもりだ expresses a firmly decided intention, stronger than 〜ようと思う which suggests a recent idea. Two negatives exist: 行かないつもりだ 'I plan not to go' and the stronger 行くつもりはない 'I have no intention of going'. Asking a superior 〜つもりですか can sound interrogating; prefer 〜予定ですか.",
+  "examples": [
+   {
+    "ja": "夏休みに国へ帰るつもりです。",
+    "furigana": "{夏休|なつやす}みに{国|くに}へ{帰|かえ}るつもりです。",
+    "zh": "我打算暑假回国。",
+    "en": "I plan to go back to my country during summer vacation."
+   },
+   {
+    "ja": "卒業しても、日本で働くつもりです。",
+    "furigana": "{卒業|そつぎょう}しても、{日本|にほん}で{働|はたら}くつもりです。",
+    "zh": "毕业之后我也打算在日本工作。",
+    "en": "Even after graduating, I intend to work in Japan."
+   },
+   {
+    "ja": "たばこはもう吸わないつもりです。",
+    "furigana": "たばこはもう{吸|す}わないつもりです。",
+    "zh": "我打算再也不抽烟了。",
+    "en": "I intend never to smoke again."
+   }
+  ],
+  "note_zh": "「〜つもりだった」表示“原本打算…（结果没做成）”：「行くつもりだったが、風邪をひいた」。",
+  "note_en": "〜つもりだった means 'was planning to (but didn't)': 行くつもりだったが、風邪をひいた."
+ },
+ {
+  "id": "g-n4-82",
+  "level": "N4",
+  "track": "grammar",
+  "group": "打算・预定",
+  "pattern": "〜予定だ",
+  "meaning_zh": "预定…；按计划要…（客观的安排）",
+  "meaning_en": "be scheduled to; be planned",
+  "formation": "动词辞书形 + 予定だ；名词 + の + 予定だ",
+  "explain_zh": "「予定だ」表示已经排进日程的客观安排，如时刻表、日程表上写好的事情，主语可以是人也可以是电车、会议等事物。它和「つもりだ」的区别在于：「つもり」是主观决心，只能用于人的意志；「予定」是客观计划，不带个人感情色彩，所以说别人的安排、公司的日程时用「予定」最合适。名词直接用「名词＋の予定です」：「会議は水曜日の予定です」。",
+  "explain_en": "〜予定だ states an objective arrangement already on a schedule; its subject can be a person, a train or a meeting. Unlike つもり, which is a subjective personal resolve, 予定 is neutral and factual, making it the right choice for other people's or an organisation's plans. With nouns, use 名词＋の予定です.",
+  "examples": [
+   {
+    "ja": "電車は九時に着く予定です。",
+    "furigana": "{電車|でんしゃ}は{九時|くじ}に{着|つ}く{予定|よてい}です。",
+    "zh": "电车预定九点到达。",
+    "en": "The train is scheduled to arrive at nine."
+   },
+   {
+    "ja": "来月、大阪へ出張する予定です。",
+    "furigana": "{来月|らいげつ}、{大阪|おおさか}へ{出張|しゅっちょう}する{予定|よてい}です。",
+    "zh": "我预定下个月去大阪出差。",
+    "en": "I am scheduled to go on a business trip to Osaka next month."
+   },
+   {
+    "ja": "会議は水曜日の予定です。",
+    "furigana": "{会議|かいぎ}は{水曜日|すいようび}の{予定|よてい}です。",
+    "zh": "会议预定在星期三举行。",
+    "en": "The meeting is planned for Wednesday."
+   }
+  ],
+  "note_zh": "「つもり」只用于自己或关系近的人的主观打算；电车、会议等无意志主语只能用「予定」。",
+  "note_en": "つもり needs a human will; for trains, meetings and other scheduled events use 予定."
+ },
+ {
+  "id": "g-n4-83",
+  "level": "N4",
+  "track": "grammar",
+  "group": "打算・预定",
+  "pattern": "〜ようにする",
+  "meaning_zh": "尽量做到…；坚持…（有意识的努力）",
+  "meaning_en": "make an effort to; make it a habit to",
+  "formation": "动词辞书形／ない形 + ようにする（习惯性努力多用「〜ようにしている」）",
+  "explain_zh": "「ようにする」表示有意识地努力去做（或不做）某事，重点在“留心、坚持”这一态度上。说自己平时坚持的习惯时用「〜ようにしている」：「毎日野菜を食べるようにしています」——不是每天一定做到，但一直在有意识地努力。它和「〜ようになる」是一对：「する」是人为的努力，「なる」是自然的变化。下决心从今往后要做时说「これから〜ようにします」。",
+  "explain_en": "〜ようにする means consciously trying to do (or avoid) something; the focus is the sustained effort. For ongoing habits use 〜ようにしている: 'I make a point of eating vegetables daily'. It pairs with 〜ようになる — する is deliberate effort, なる is natural change. これから〜ようにします announces a resolution.",
+  "examples": [
+   {
+    "ja": "毎日、野菜を食べるようにしています。",
+    "furigana": "{毎日|まいにち}、{野菜|やさい}を{食|た}べるようにしています。",
+    "zh": "我坚持每天吃蔬菜。",
+    "en": "I make a point of eating vegetables every day."
+   },
+   {
+    "ja": "甘い物を食べすぎないようにしている。",
+    "furigana": "{甘|あま}い{物|もの}を{食|た}べすぎないようにしている。",
+    "zh": "我注意不吃太多甜食。",
+    "en": "I try not to eat too many sweets."
+   },
+   {
+    "ja": "これからは遅刻しないようにします。",
+    "furigana": "これからは{遅刻|ちこく}しないようにします。",
+    "zh": "今后我会注意不再迟到。",
+    "en": "From now on I will make sure not to be late."
+   }
+  ],
+  "note_zh": "「〜ようにする」强调努力的过程，不保证结果；已经变得能做到用「〜ようになった」（N3）。",
+  "note_en": "〜ようにする stresses the effort, not the achieved result; the resulting change is 〜ようになる."
+ },
+ {
+  "id": "g-n4-84",
+  "level": "N4",
+  "track": "grammar",
+  "group": "打算・预定",
+  "pattern": "〜ようにしてください",
+  "meaning_zh": "请（注意）做到…；请尽量…（委婉的指示）",
+  "meaning_en": "please make sure to; please try to",
+  "formation": "动词辞书形／ない形 + ようにしてください",
+  "explain_zh": "「〜ようにしてください」请求对方在今后持续注意做到某事，语气比「〜てください」间接、柔和。「てください」针对眼前的一次动作（「窓を開けてください」＝现在开窗），「ようにしてください」针对长期的心态和习惯（「授業に遅れないようにしてください」＝以后都别迟到）。医生的嘱咐、老师的提醒多用这个形。眼前的具体动作不要用它：请人现在关门只说「閉めてください」。",
+  "explain_en": "〜ようにしてください asks the listener to keep something in mind from now on, softer and more indirect than 〜てください. Use てください for a one-time action right now, and ようにしてください for ongoing habits — doctors' and teachers' advice typically takes this form. Don't use it for an immediate action.",
+  "examples": [
+   {
+    "ja": "授業に遅れないようにしてください。",
+    "furigana": "{授業|じゅぎょう}に{遅|おく}れないようにしてください。",
+    "zh": "请注意上课不要迟到。",
+    "en": "Please make sure you are not late for class."
+   },
+   {
+    "ja": "必ず鍵をかけるようにしてください。",
+    "furigana": "{必|かなら}ず{鍵|かぎ}をかけるようにしてください。",
+    "zh": "请一定养成锁门的习惯。",
+    "en": "Please make sure to always lock the door."
+   },
+   {
+    "ja": "寝る前は、コーヒーを飲まないようにしてください。",
+    "furigana": "{寝|ね}る{前|まえ}は、コーヒーを{飲|の}まないようにしてください。",
+    "zh": "睡前请尽量不要喝咖啡。",
+    "en": "Please try not to drink coffee before going to bed."
+   }
+  ],
+  "note_zh": "×「ちょっとペンを貸すようにしてください」——眼前的一次性请求要用「貸してください」。",
+  "note_en": "For an immediate one-off request, plain 〜てください is correct, not 〜ようにしてください."
+ },
+ {
+  "id": "g-n4-85",
+  "level": "N4",
+  "track": "grammar",
+  "group": "打算・预定",
+  "pattern": "〜ようになっている",
+  "meaning_zh": "（构造、系统上）设计成…；会自动…",
+  "meaning_en": "be set up so that; be designed to",
+  "formation": "动词辞书形／ない形 + ようになっている（多为无意志动词・可能形）",
+  "explain_zh": "「〜ようになっている」描述机器、建筑、制度在构造上“被设计成会这样”，主语是物或系统，不是人：「ボタンを押すと、お湯が出るようになっています」。它是「〜ようになる」的状态持续形，但意思偏向“装置、规则本来如此”，说明书、设施介绍里最常见。和表示个人习惯的「〜ようにしている」（人主语、有意识努力）形态相近，务必分清主语是人还是物。",
+  "explain_en": "〜ようになっている describes how a machine, building or system is designed to behave: 'when you press the button, hot water comes out'. The subject is a thing or a system, not a person. Though formally the continuing state of 〜ようになる, it reads as 'it is built/arranged that way', common in manuals and facility guides. Don't confuse it with 〜ようにしている, whose subject is a person making an effort.",
+  "examples": [
+   {
+    "ja": "このドアは自動で開くようになっています。",
+    "furigana": "このドアは{自動|じどう}で{開|あ}くようになっています。",
+    "zh": "这扇门是自动开的。",
+    "en": "This door is designed to open automatically."
+   },
+   {
+    "ja": "ボタンを押すと、お湯が出るようになっています。",
+    "furigana": "ボタンを{押|お}すと、お{湯|ゆ}が{出|で}るようになっています。",
+    "zh": "一按按钮就会出热水。",
+    "en": "It is set up so that hot water comes out when you press the button."
+   },
+   {
+    "ja": "このビルは、夜十時に電気が消えるようになっている。",
+    "furigana": "このビルは、{夜|よる}{十時|じゅうじ}に{電気|でんき}が{消|き}えるようになっている。",
+    "zh": "这栋楼晚上十点会自动熄灯。",
+    "en": "In this building the lights are set to go off at ten at night."
+   }
+  ],
+  "note_zh": "主语是人＋有意识努力→「ようにしている」；主语是物・系统→「ようになっている」。",
+  "note_en": "Person + effort → ようにしている; thing/system + built-in behaviour → ようになっている."
+ },
+ {
+  "id": "g-n4-86",
+  "level": "N4",
+  "track": "grammar",
+  "group": "规则・目的",
+  "pattern": "〜こと（規則・指示）",
+  "meaning_zh": "要…；不得…（书面的规则、注意事项）",
+  "meaning_en": "sentence-final こと for written rules: 'do...' / 'do not...'",
+  "formation": "动词辞书形 + こと；禁止：动词ない形 + こと（句尾）",
+  "explain_zh": "布告栏、宿舍规则、作业要求等书面指示常以「こと」结尾：「名前は大きく書くこと」＝名字要写大。它把命令变成客观的条文，不带口气的强弱，只用于书面，口头不说。禁止事项用ない形：「教室ではたばこを吸わないこと」。看到句尾的「こと」就知道这是规定、要求，翻译成“要…／不得…”即可。",
+  "explain_en": "Written rules — notice boards, dorm regulations, homework instructions — often end in こと: 名前は大きく書くこと 'write your name large'. It turns a command into an impersonal clause of regulation and is not used in speech. Prohibitions take the ない-form. Sentence-final こと signals 'this is a rule'.",
+  "examples": [
+   {
+    "ja": "教室ではたばこを吸わないこと。",
+    "furigana": "{教室|きょうしつ}ではたばこを{吸|す}わないこと。",
+    "zh": "教室内不得吸烟。",
+    "en": "Do not smoke in the classroom."
+   },
+   {
+    "ja": "名前は大きく書くこと。",
+    "furigana": "{名前|なまえ}は{大|おお}きく{書|か}くこと。",
+    "zh": "名字要写大。",
+    "en": "Write your name in large letters."
+   },
+   {
+    "ja": "使った後は、電気を消すこと。",
+    "furigana": "{使|つか}った{後|あと}は、{電気|でんき}を{消|け}すこと。",
+    "zh": "使用后要关灯。",
+    "en": "Turn off the lights after use."
+   }
+  ],
+  "note_zh": "这是书面语，口头指示用「〜てください」「〜ないでください」。",
+  "note_en": "Written style only; spoken instructions use 〜てください / 〜ないでください."
+ },
+ {
+  "id": "g-n4-87",
+  "level": "N4",
+  "track": "grammar",
+  "group": "规则・目的",
+  "pattern": "〜ことになっている",
+  "meaning_zh": "按规定要…；惯例上…（既定的规则、安排）",
+  "meaning_en": "it is a rule/custom that...; be supposed to",
+  "formation": "动词辞书形／ない形 + ことになっている",
+  "explain_zh": "「ことになっている」表示某个规则、惯例或安排已经定下来并一直有效：「日本では、家に入る時、靴を脱ぐことになっています」。说话人只是转述既定的规矩，不是自己的决定，因此常用来向别人说明制度、习俗，语气客观。它是「ことになる」（被决定）的状态持续形；禁止的规定用ない形：「ここに車を止めてはいけないことになっている」。",
+  "explain_en": "〜ことになっている reports a standing rule, custom or arrangement: in Japan, it is the custom to take off your shoes when entering a house. The speaker merely relays what has been decided, which makes it the natural way to explain institutions and customs. It is the continuing state of ことになる 'it was decided'.",
+  "examples": [
+   {
+    "ja": "日本では、家に入る時、靴を脱ぐことになっています。",
+    "furigana": "{日本|にほん}では、{家|いえ}に{入|はい}る{時|とき}、{靴|くつ}を{脱|ぬ}ぐことになっています。",
+    "zh": "在日本，进屋时按惯例要脱鞋。",
+    "en": "In Japan, you are supposed to take off your shoes when entering a house."
+   },
+   {
+    "ja": "会議は毎週月曜日に開くことになっている。",
+    "furigana": "{会議|かいぎ}は{毎週|まいしゅう}{月曜日|げつようび}に{開|ひら}くことになっている。",
+    "zh": "按规定会议每周一召开。",
+    "en": "It has been arranged that the meeting is held every Monday."
+   },
+   {
+    "ja": "この学校では、制服を着ることになっています。",
+    "furigana": "この{学校|がっこう}では、{制服|せいふく}を{着|き}ることになっています。",
+    "zh": "这所学校规定要穿制服。",
+    "en": "At this school, students are required to wear uniforms."
+   }
+  ],
+  "note_zh": "「ようになっている」说的是装置・构造，「ことになっている」说的是规则・惯例，主语和内容不同。",
+  "note_en": "ようになっている describes built-in mechanisms; ことになっている describes rules and customs."
+ },
+ {
+  "id": "g-n4-88",
+  "level": "N4",
+  "track": "grammar",
+  "group": "规则・目的",
+  "pattern": "〜ために（目的）",
+  "meaning_zh": "为了…（有意识的目的）",
+  "meaning_en": "in order to; for the sake of",
+  "formation": "动词辞书形 + ために；名词 + の + ために（前后主语相同，前项须是意志动词）",
+  "explain_zh": "「ために」表示为了实现某个目的而做后项的动作，前面必须是意志动词的辞书形或名词＋の：「家を買うために」「健康のために」。它要求前后主语一致，且目的是靠自己努力去实现的事。这一点和「ように」不同：「ように」前面接无意志动词或可能形（「聞こえるように大きい声で話す」），表示希望自然达到的状态。先记住：能控制的目的用「ために」，不能直接控制的状态用「ように」。",
+  "explain_en": "〜ために expresses a purpose you actively pursue: the preceding verb must be volitional (dictionary form) or a noun with の. Subject of both clauses must match. Contrast with ように, which takes non-volitional verbs or potentials and expresses a state you hope will come about. Rule of thumb: controllable goal → ために, uncontrollable state → ように.",
+  "examples": [
+   {
+    "ja": "家を買うために、お金をためています。",
+    "furigana": "{家|いえ}を{買|か}うために、お{金|かね}をためています。",
+    "zh": "为了买房子，我正在攒钱。",
+    "en": "I am saving money in order to buy a house."
+   },
+   {
+    "ja": "日本の大学に入るために、日本語を勉強しています。",
+    "furigana": "{日本|にほん}の{大学|だいがく}に{入|はい}るために、{日本語|にほんご}を{勉強|べんきょう}しています。",
+    "zh": "为了考上日本的大学，我正在学习日语。",
+    "en": "I am studying Japanese in order to enter a Japanese university."
+   },
+   {
+    "ja": "健康のために、毎朝走っています。",
+    "furigana": "{健康|けんこう}のために、{毎朝|まいあさ}{走|はし}っています。",
+    "zh": "为了健康，我每天早上跑步。",
+    "en": "I run every morning for my health."
+   }
+  ],
+  "note_zh": "「ために」前接意志动词，「ように」前接无意志动词・可能形・ない形：「忘れないように、メモする」。",
+  "note_en": "ために takes volitional verbs; ように takes non-volitional, potential or negative verbs (忘れないように、メモする)."
+ },
+ {
+  "id": "g-n4-89",
+  "level": "N4",
+  "track": "grammar",
+  "group": "规则・目的",
+  "pattern": "〜ため（に）（原因・理由）",
+  "meaning_zh": "因为…（所以）…（书面的原因说明）",
+  "meaning_en": "because of; due to (formal reason)",
+  "formation": "动词・い形容词简体 + ため（に）；名词 + の + ため（に）；な形容词 + な + ため（に）",
+  "explain_zh": "「ため（に）」除了表示目的，还表示原因，相当于书面的“由于”：「事故のために、電車が遅れています」。车站广播、新闻、通知里表示原因几乎都用它，比「から」「ので」正式。区分目的和原因看前项：前项是辞书形（还没发生的事）多为目的，前项是た形、名词或状态（已发生的事实）多为原因。日常会话中说原因还是用「から」「ので」自然。",
+  "explain_en": "Besides purpose, ため(に) states a cause in formal style — 'due to the accident, trains are delayed'. Station announcements, news and notices prefer it over から/ので. To tell the two senses apart, look at what precedes: a dictionary-form action (not yet realised) is usually purpose, while a past form, noun or state (already true) is usually cause. In conversation, から/ので remain the natural choice.",
+  "examples": [
+   {
+    "ja": "事故のために、電車が遅れています。",
+    "furigana": "{事故|じこ}のために、{電車|でんしゃ}が{遅|おく}れています。",
+    "zh": "由于事故，电车晚点了。",
+    "en": "The trains are delayed because of an accident."
+   },
+   {
+    "ja": "台風が来たため、学校が休みになった。",
+    "furigana": "{台風|たいふう}が{来|き}たため、{学校|がっこう}が{休|やす}みになった。",
+    "zh": "因为台风来了，学校停课了。",
+    "en": "School was cancelled because a typhoon came."
+   },
+   {
+    "ja": "雪のため、飛行機が飛びませんでした。",
+    "furigana": "{雪|ゆき}のため、{飛行機|ひこうき}が{飛|と}びませんでした。",
+    "zh": "由于下雪，飞机停飞了。",
+    "en": "Due to snow, the planes did not fly."
+   }
+  ],
+  "note_zh": "原因用法多见于广播・通知等正式场合；口语原因用「から／ので」更自然。",
+  "note_en": "The causal ため belongs to formal announcements; use から/ので in everyday speech."
+ },
+ {
+  "id": "g-n4-90",
+  "level": "N4",
+  "track": "grammar",
+  "group": "规则・目的",
+  "pattern": "〜のに（使う・便利だ・かかる）",
+  "meaning_zh": "用于…；对…来说（用途、评价、所需）",
+  "meaning_en": "for the purpose of (use, convenience, cost/time)",
+  "formation": "动词辞书形 + のに + 使う／便利だ／役に立つ／（时间・费用が）かかる",
+  "explain_zh": "这个「のに」由名词化的「の」加助词「に」构成，表示用途和评价的对象，后面常接「使う」「便利だ」「役に立つ」「かかる」等有限的几个词：「このはさみは紙を切るのに使います」「駅まで行くのに三十分かかります」。它和逆接的接续助词「のに」（居然、却）完全是两回事，靠后面的动词判断：后面是“使う・便利・かかる”类就是用途，后面是意外的结果就是逆接。",
+  "explain_en": "This のに is the nominaliser の plus particle に, marking what an action is used for or measured against; it pairs with a small set of predicates like 使う, 便利だ, 役に立つ and かかる: 'these scissors are used for cutting paper', 'it takes thirty minutes to get to the station'. It is entirely different from the concessive conjunction のに ('even though') — the following predicate tells you which one you have.",
+  "examples": [
+   {
+    "ja": "このはさみは紙を切るのに使います。",
+    "furigana": "このはさみは{紙|かみ}を{切|き}るのに{使|つか}います。",
+    "zh": "这把剪刀是用来剪纸的。",
+    "en": "These scissors are used for cutting paper."
+   },
+   {
+    "ja": "この辞書は漢字を調べるのに便利です。",
+    "furigana": "この{辞書|じしょ}は{漢字|かんじ}を{調|しら}べるのに{便利|べんり}です。",
+    "zh": "这本词典查汉字很方便。",
+    "en": "This dictionary is handy for looking up kanji."
+   },
+   {
+    "ja": "駅まで行くのに三十分かかります。",
+    "furigana": "{駅|えき}まで{行|い}くのに{三十分|さんじゅっぷん}かかります。",
+    "zh": "到车站要花三十分钟。",
+    "en": "It takes thirty minutes to get to the station."
+   }
+  ],
+  "note_zh": "后面是「使う・便利だ・かかる」等→用途的「のに」；后面是出乎意料的结果→逆接的「のに」。",
+  "note_en": "Followed by 使う/便利だ/かかる → purpose のに; followed by an unexpected outcome → concessive のに."
+ },
+ {
+  "id": "g-n4-91",
+  "level": "N4",
+  "track": "grammar",
+  "group": "愿望・感觉",
+  "pattern": "〜てほしい",
+  "meaning_zh": "希望（别人）做…；希望（事情）变成…",
+  "meaning_en": "want someone to do; hope something happens",
+  "formation": "动词て形 + ほしい（动作主用「に」）；否定：〜ないでほしい",
+  "explain_zh": "「〜たい」是自己想做，「〜てほしい」是希望别人做或希望某事发生，动作的主体用「に」标记：「父にたばこをやめてほしい」。希望别人不做用「〜ないでほしい」：「ここに車を止めないでほしい」。它表达的是愿望本身，直接对本人说时带有请求甚至不满的语气，比「〜てください」更主观，对上级不宜直说，应改用「〜ていただきたいんですが」。",
+  "explain_en": "While 〜たい is 'I want to do', 〜てほしい is 'I want someone else to do' or 'I hope it happens', with the doer marked by に. The negative is 〜ないでほしい. Said directly to the person, it can carry a tone of demand or complaint; toward superiors soften it to 〜ていただきたいんですが.",
+  "examples": [
+   {
+    "ja": "父にたばこをやめてほしいです。",
+    "furigana": "{父|ちち}にたばこをやめてほしいです。",
+    "zh": "我希望爸爸戒烟。",
+    "en": "I want my father to quit smoking."
+   },
+   {
+    "ja": "もっとゆっくり話してほしい。",
+    "furigana": "もっとゆっくり{話|はな}してほしい。",
+    "zh": "希望你说得再慢一点。",
+    "en": "I'd like you to speak more slowly."
+   },
+   {
+    "ja": "明日は晴れてほしいですね。",
+    "furigana": "{明日|あした}は{晴|は}れてほしいですね。",
+    "zh": "真希望明天是晴天啊。",
+    "en": "I hope it will be sunny tomorrow."
+   }
+  ],
+  "note_zh": "「ほしい」直接接名词是“想要东西”（水がほしい），接て形才是“希望别人做”。",
+  "note_en": "Noun + がほしい means wanting a thing; て-form + ほしい means wanting an action done."
+ },
+ {
+  "id": "g-n4-92",
+  "level": "N4",
+  "track": "grammar",
+  "group": "愿望・感觉",
+  "pattern": "〜がする（音・におい・味・気）",
+  "meaning_zh": "有…的声音／气味／味道；感觉…",
+  "meaning_en": "there is a sound/smell/taste of; have a feeling",
+  "formation": "音・声・におい・味・気 + がする（感觉自然传来）",
+  "explain_zh": "「がする」和感觉类名词搭配，表示声音、气味、味道等自然传到自己的感官：「変な音がする」「カレーのにおいがする」。主体是感觉本身，所以用「が」，动词固定用「する」，是一条固定搭配。「気がする」表示模糊的直觉“总觉得…”：「どこかで会った気がする」。这些都是自发的感受，不是有意识的动作，注意别和「〜をする」混淆。",
+  "explain_en": "がする pairs with sensory nouns — 音, 声, におい, 味, 気 — to say a sensation reaches you on its own: 'there's a strange noise', 'it smells of curry'. The sensation is the subject, hence が, and the verb is always する. 気がする expresses a vague hunch: 'I feel like I've met him somewhere'. These are involuntary perceptions, not deliberate actions.",
+  "examples": [
+   {
+    "ja": "隣の部屋から変な音がします。",
+    "furigana": "{隣|となり}の{部屋|へや}から{変|へん}な{音|おと}がします。",
+    "zh": "隔壁房间传来奇怪的声音。",
+    "en": "There is a strange noise coming from the next room."
+   },
+   {
+    "ja": "このスープは魚の味がする。",
+    "furigana": "このスープは{魚|さかな}の{味|あじ}がする。",
+    "zh": "这个汤有鱼的味道。",
+    "en": "This soup tastes of fish."
+   },
+   {
+    "ja": "どこかで会った気がします。",
+    "furigana": "どこかで{会|あ}った{気|き}がします。",
+    "zh": "我总觉得在哪里见过你。",
+    "en": "I have a feeling we've met somewhere before."
+   }
+  ],
+  "note_zh": "助词固定用「が」：×「においをする」；「気がする」＝总觉得，是高频口语。",
+  "note_en": "The particle is always が (never においをする); 気がする 'I have a feeling' is very common."
+ },
+ {
+  "id": "g-n4-93",
+  "level": "N4",
+  "track": "grammar",
+  "group": "建议・申し出",
+  "pattern": "〜たらどうですか",
+  "meaning_zh": "…怎么样？（给对方提建议）",
+  "meaning_en": "how about doing...? (suggestion)",
+  "formation": "动词た形 + らどうですか（口语：〜たらどう？／〜たら？）",
+  "explain_zh": "「〜たらどうですか」向对方提出一个具体的做法，“做…怎么样？”，是关心对方时的常用建议句。语气比直接的「〜てください」委婉，因为最终决定权留给对方。更随意的说法依次是「〜たらどう？」「〜たら？」。注意：它只用于建议对方，不用于自己；对方正在烦恼时用它最自然，随便对上级用有指手画脚之嫌，这时改用「〜てはいかがですか」更礼貌。",
+  "explain_en": "〜たらどうですか offers a concrete suggestion — 'why not do...?'. It is softer than a request because the decision stays with the listener. Casual versions shorten to 〜たらどう? or just 〜たら?. It targets the listener's action only, fits best when they are troubled, and toward superiors the politer 〜てはいかがですか is preferred.",
+  "examples": [
+   {
+    "ja": "疲れているなら、早く寝たらどうですか。",
+    "furigana": "{疲|つか}れているなら、{早|はや}く{寝|ね}たらどうですか。",
+    "zh": "要是累了的话，早点睡怎么样？",
+    "en": "If you're tired, how about going to bed early?"
+   },
+   {
+    "ja": "先生に相談したらどうですか。",
+    "furigana": "{先生|せんせい}に{相談|そうだん}したらどうですか。",
+    "zh": "去和老师商量一下怎么样？",
+    "en": "How about talking it over with your teacher?"
+   },
+   {
+    "ja": "薬を飲んだらどう？",
+    "furigana": "{薬|くすり}を{飲|の}んだらどう？",
+    "zh": "吃点药怎么样？",
+    "en": "Why not take some medicine?"
+   }
+  ],
+  "note_zh": "语调要柔和，说得生硬会带“你怎么还不做”的责备味；对上级用「〜てはいかがですか」。",
+  "note_en": "Said flatly it can sound reproachful ('why haven't you...'); use 〜てはいかがですか with superiors."
+ },
+ {
+  "id": "g-n4-95",
+  "level": "N4",
+  "track": "grammar",
+  "group": "建议・申し出",
+  "pattern": "〜はいかがですか",
+  "meaning_zh": "…怎么样？（礼貌地劝对方吃、用、参加）",
+  "meaning_en": "how about...? would you care for...? (polite offer)",
+  "formation": "名词 + はいかがですか；建议做法：动词て形 + はいかがですか",
+  "explain_zh": "「いかがですか」是「どうですか」的敬语版，招待客人吃东西、店员推荐商品、礼貌征求意见都用它：「お茶はいかがですか」＝“来杯茶怎么样？”。对长辈、客人提建议时用「〜てはいかがですか」代替「〜たらどうですか」，语气恭敬得多。回答时接受说「いただきます／お願いします」，谢绝说「けっこうです」或「ありがとうございます。でも…」。",
+  "explain_en": "いかがですか is the honorific counterpart of どうですか, standard for offering food or drink, recommending goods, and politely asking opinions: お茶はいかがですか 'Would you care for some tea?'. For suggestions to superiors or guests, 〜てはいかがですか replaces 〜たらどうですか. Accept with いただきます; decline gently with けっこうです or a softened refusal.",
+  "examples": [
+   {
+    "ja": "お茶はいかがですか。",
+    "furigana": "お{茶|ちゃ}はいかがですか。",
+    "zh": "来杯茶怎么样？",
+    "en": "Would you care for some tea?"
+   },
+   {
+    "ja": "もう一杯いかがですか。",
+    "furigana": "もう{一杯|いっぱい}いかがですか。",
+    "zh": "再来一杯怎么样？",
+    "en": "How about another cup?"
+   },
+   {
+    "ja": "少し休んではいかがですか。",
+    "furigana": "{少|すこ}し{休|やす}んではいかがですか。",
+    "zh": "稍微休息一下如何？",
+    "en": "How about taking a short rest?"
+   }
+  ],
+  "note_zh": "「けっこうです」既能表示“很好”也能表示“不用了”，谢绝时最好加上感谢：「ありがとうございます。でもけっこうです」。",
+  "note_en": "けっこうです can mean both 'fine' and 'no thank you'; pair it with thanks when declining."
+ },
+ {
+  "id": "g-n4-96",
+  "level": "N4",
+  "track": "grammar",
+  "group": "郑重请求",
+  "pattern": "〜てくださいませんか",
+  "meaning_zh": "能请您…吗？（比〜てください更客气的请求）",
+  "meaning_en": "would you please...? (politer than 〜てください)",
+  "formation": "动词て形 + くださいませんか",
+  "explain_zh": "「〜てください」虽然带「ください」，但本质上仍是指示，对上级或生人显得生硬。把它变成否定疑问「〜てくださいませんか」，就成了“能不能请您…？”——用疑问把决定权交给对方，礼貌程度明显提高。这是日语请求表达的一条通则：疑问形比命令形客气，否定疑问又比肯定疑问客气。再往上一级是「〜ていただけませんか」。",
+  "explain_en": "〜てください is still fundamentally an instruction, so it can sound blunt to superiors or strangers. Recasting it as the negative question 〜てくださいませんか — 'won't you kindly...?' — hands the decision to the listener and raises the politeness clearly. General rule: questions beat commands, and negative questions beat positive ones. One step politer again is 〜ていただけませんか.",
+  "examples": [
+   {
+    "ja": "もう一度説明してくださいませんか。",
+    "furigana": "もう{一度|いちど}{説明|せつめい}してくださいませんか。",
+    "zh": "能请您再解释一遍吗？",
+    "en": "Would you please explain it once more?"
+   },
+   {
+    "ja": "写真を撮ってくださいませんか。",
+    "furigana": "{写真|しゃしん}を{撮|と}ってくださいませんか。",
+    "zh": "能请您帮我们拍张照吗？",
+    "en": "Would you please take a photo for us?"
+   },
+   {
+    "ja": "少し待ってくださいませんか。",
+    "furigana": "{少|すこ}し{待|ま}ってくださいませんか。",
+    "zh": "能请您稍等一下吗？",
+    "en": "Would you please wait a moment?"
+   }
+  ],
+  "note_zh": "礼貌度排序：〜てください＜〜てくださいませんか＜〜ていただけませんか。",
+  "note_en": "Politeness scale: 〜てください < 〜てくださいませんか < 〜ていただけませんか."
+ },
+ {
+  "id": "g-n4-97",
+  "level": "N4",
+  "track": "grammar",
+  "group": "郑重请求",
+  "pattern": "〜てもらえませんか／〜てもらえますか",
+  "meaning_zh": "能帮我…吗？（用可能形提出请求）",
+  "meaning_en": "could you do... for me? (request via potential form)",
+  "formation": "动词て形 + もらえますか／もらえませんか（更随意：〜てもらえる？）",
+  "explain_zh": "把授受动词「もらう」变成可能形再提问，字面是“我能从你那里得到…吗？”，实际就是“能帮我…吗？”。「もらえませんか」比「もらえますか」更客气，因为否定疑问留了更多退路。它比「〜てくださいませんか」随便一些，朋友、同事之间用得最多；对上级则用敬语版「〜ていただけませんか」。同一层级的说法记成两组：もらう系（もらえますか→いただけますか）和くれる系（くれませんか→くださいませんか）。",
+  "explain_en": "Making もらう potential and interrogative literally asks 'can I receive your doing...?', i.e. 'could you...?'. The negative もらえませんか is politer than もらえますか. This family is a bit more casual than 〜てくださいませんか and is the everyday choice among friends and colleagues; its honorific counterpart is 〜ていただけませんか. Two parallel series exist: もらう→いただく and くれる→くださる.",
+  "examples": [
+   {
+    "ja": "ちょっと手伝ってもらえませんか。",
+    "furigana": "ちょっと{手伝|てつだ}ってもらえませんか。",
+    "zh": "能帮我搭把手吗？",
+    "en": "Could you give me a hand?"
+   },
+   {
+    "ja": "もう少し安くしてもらえますか。",
+    "furigana": "もう{少|すこ}し{安|やす}くしてもらえますか。",
+    "zh": "能再便宜一点吗？",
+    "en": "Could you make it a little cheaper?"
+   },
+   {
+    "ja": "ここに名前を書いてもらえますか。",
+    "furigana": "ここに{名前|なまえ}を{書|か}いてもらえますか。",
+    "zh": "能请你把名字写在这里吗？",
+    "en": "Could you write your name here?"
+   }
+  ],
+  "note_zh": "朋友之间常说「〜てもらえる？」「〜てくれる？」，句尾上扬即可，是最口语的请求形。",
+  "note_en": "Among friends, rising-intonation 〜てもらえる? / 〜てくれる? are the most casual request forms."
+ },
+ {
+  "id": "g-n4-98",
+  "level": "N4",
+  "track": "grammar",
+  "group": "郑重请求",
+  "pattern": "〜ていただけませんか",
+  "meaning_zh": "能否请您…？（最常用的高礼貌度请求）",
+  "meaning_en": "would you be so kind as to...? (high politeness)",
+  "formation": "动词て形 + いただけませんか（更郑重：〜ていただけないでしょうか）",
+  "explain_zh": "「いただく」是「もらう」的谦让语，变成可能形否定疑问「〜ていただけませんか」，就是对上级、客户、生人提出请求的标准形，商务邮件和窗口对话的高频句。再加一层缓冲可以说「〜ていただけないでしょうか」，几乎是口语里最恭敬的请求。开口前先加「すみませんが」「お忙しいところ申し訳ありませんが」等前置语，整句就非常得体了。",
+  "explain_en": "いただく is the humble form of もらう; its potential negative question 〜ていただけませんか is the standard high-politeness request toward superiors, clients and strangers, ubiquitous in business email and at service counters. 〜ていただけないでしょうか adds yet another cushion, about the most deferential spoken request. Preface it with すみませんが or similar for a fully polished sentence.",
+  "examples": [
+   {
+    "ja": "先生、作文を見ていただけませんか。",
+    "furigana": "{先生|せんせい}、{作文|さくぶん}を{見|み}ていただけませんか。",
+    "zh": "老师，能否请您帮我看看作文？",
+    "en": "Professor, could you possibly look over my essay?"
+   },
+   {
+    "ja": "もう少しゆっくり話していただけませんか。",
+    "furigana": "もう{少|すこ}しゆっくり{話|はな}していただけませんか。",
+    "zh": "能否请您说得再慢一点？",
+    "en": "Could you please speak a little more slowly?"
+   },
+   {
+    "ja": "道を教えていただけませんか。",
+    "furigana": "{道|みち}を{教|おし}えていただけませんか。",
+    "zh": "能否请您告诉我路怎么走？",
+    "en": "Could you kindly tell me the way?"
+   }
+  ],
+  "note_zh": "「いただけませんか」（可能形）不要写成「いただきませんか」——后者变成“您不领取吗”的怪句。",
+  "note_en": "It must be the potential いただけませんか, not いただきませんか."
+ },
+ {
+  "id": "g-n4-99",
+  "level": "N4",
+  "track": "grammar",
+  "group": "郑重请求",
+  "pattern": "〜でしょうか（丁寧な質問）",
+  "meaning_zh": "…吗？（比〜ですか更柔和郑重的疑问）",
+  "meaning_en": "would it be...? (softened polite question)",
+  "formation": "简体句・名词 + でしょうか（常与「〜んですが」「すみませんが」连用）",
+  "explain_zh": "把问句的「ですか」换成「でしょうか」，疑问的口气立刻变得柔和恭敬：「駅はどちらでしょうか」比「駅はどこですか」礼貌得多。它源于推量的「でしょう」，字面是“大概是…呢？”，把断定往后退了一步，所以显得客气，向上级、客人、窗口提问时最常用。请求许可时说「〜てもよろしいでしょうか」，是「〜てもいいですか」的高礼貌版。",
+  "explain_en": "Replacing ですか with でしょうか instantly softens a question: 駅はどちらでしょうか is far politer than 駅はどこですか. Built on conjectural でしょう, it steps back from assertion, which is exactly what makes it courteous — ideal toward superiors, customers and staff. For permission, 〜てもよろしいでしょうか is the deferential version of 〜てもいいですか.",
+  "examples": [
+   {
+    "ja": "この電車は新宿に止まるでしょうか。",
+    "furigana": "この{電車|でんしゃ}は{新宿|しんじゅく}に{止|と}まるでしょうか。",
+    "zh": "请问这趟电车在新宿停吗？",
+    "en": "Might this train stop at Shinjuku?"
+   },
+   {
+    "ja": "すみませんが、お手洗いはどちらでしょうか。",
+    "furigana": "すみませんが、お{手洗|てあら}いはどちらでしょうか。",
+    "zh": "不好意思，请问洗手间在哪里？",
+    "en": "Excuse me, where might the restroom be?"
+   },
+   {
+    "ja": "明日、伺ってもよろしいでしょうか。",
+    "furigana": "{明日|あした}、{伺|うかが}ってもよろしいでしょうか。",
+    "zh": "明天我可以拜访您吗？",
+    "en": "Would it be all right if I visited you tomorrow?"
+   }
+  ],
+  "note_zh": "疑问词问句也适用：「どこですか」→「どちらでしょうか」，连疑问词都换成礼貌形更佳。",
+  "note_en": "Upgrade the question word too: どこですか → どちらでしょうか."
+ },
+ {
+  "id": "g-n4-100",
+  "level": "N4",
+  "track": "grammar",
+  "group": "郑重请求",
+  "pattern": "すみませんが／失礼ですが（前置き表現）",
+  "meaning_zh": "不好意思，…；冒昧问一下，…（请求前的缓冲语）",
+  "meaning_en": "excuse me, but...; pardon me, but... (cushion words)",
+  "formation": "すみませんが／失礼ですが／恐れ入りますが + 请求・疑问句",
+  "explain_zh": "日语在麻烦别人之前，习惯先放一句“缓冲语”（クッション言葉）：「すみませんが」用于一般的请求和搭话；「失礼ですが」用于询问名字、年龄等涉及对方私事的问题；「恐れ入りますが」最郑重，多见于接待和商务场合。这些话本身没有实义，作用是提前表达歉意、给对方心理准备，直接省掉会显得唐突。和「〜んですが」一样，都是日语礼貌交际的润滑剂。",
+  "explain_en": "Before troubling someone, Japanese inserts a cushion phrase: すみませんが for ordinary requests and approaches; 失礼ですが before personal questions like names or age; 恐れ入りますが as the most formal, typical of reception desks and business. These phrases carry no content — they apologise in advance and prepare the listener; omitting them feels abrupt. Together with 〜んですが they are the lubricant of polite conversation.",
+  "examples": [
+   {
+    "ja": "すみませんが、少し静かにしてください。",
+    "furigana": "すみませんが、{少|すこ}し{静|しず}かにしてください。",
+    "zh": "不好意思，请稍微安静一点。",
+    "en": "Excuse me, but please keep it down a little."
+   },
+   {
+    "ja": "失礼ですが、お名前は何とおっしゃいますか。",
+    "furigana": "{失礼|しつれい}ですが、お{名前|なまえ}は{何|なん}とおっしゃいますか。",
+    "zh": "冒昧问一下，请问您贵姓？",
+    "en": "Pardon me, but may I ask your name?"
+   },
+   {
+    "ja": "恐れ入りますが、こちらにお名前を書いてください。",
+    "furigana": "{恐|おそ}れ{入|い}りますが、こちらにお{名前|なまえ}を{書|か}いてください。",
+    "zh": "劳驾，请把您的名字写在这里。",
+    "en": "I'm terribly sorry to trouble you, but please write your name here."
+   }
+  ],
+  "note_zh": "这里的「が」和「〜んですが」的「が」一样，不是转折，只是把话轻轻递给对方的缓冲。",
+  "note_en": "The が here is a soft connector, not 'but' in the adversative sense."
+ },
+ {
+  "id": "g-n4-101",
+  "level": "N4",
+  "track": "grammar",
+  "group": "授受敬语",
+  "pattern": "〜てくださる",
+  "meaning_zh": "（尊长）为我做…（てくれる的尊敬语）",
+  "meaning_en": "a superior kindly does... for me (honorific of てくれる)",
+  "formation": "动词て形 + くださる（ます形：くださいます；过去：くださいました）",
+  "explain_zh": "当“为我做事”的人是老师、上司等值得尊敬的对象时，「てくれる」要升级为尊敬语「てくださる」：「先生が漢字を教えてくださいました」。主语是对方（施恩者），说话人心怀感谢。「くださる」是特殊五段动词，ます形是「くださいます」而不是「くださります」。日常道谢时的「〜てくださって、ありがとうございます」也是这个形。",
+  "explain_en": "When the person doing you the favour is someone you respect — a teacher, a boss — てくれる upgrades to the honorific てくださる: 先生が教えてくださいました. The subject is the benefactor. くださる conjugates irregularly: its ます form is くださいます. It also appears in thanks: 〜てくださって、ありがとうございます.",
+  "examples": [
+   {
+    "ja": "先生が漢字を教えてくださいました。",
+    "furigana": "{先生|せんせい}が{漢字|かんじ}を{教|おし}えてくださいました。",
+    "zh": "老师教了我汉字。",
+    "en": "My teacher kindly taught me kanji."
+   },
+   {
+    "ja": "部長が駅まで送ってくださった。",
+    "furigana": "{部長|ぶちょう}が{駅|えき}まで{送|おく}ってくださった。",
+    "zh": "部长送我到了车站。",
+    "en": "The department head kindly saw me to the station."
+   },
+   {
+    "ja": "来てくださって、ありがとうございます。",
+    "furigana": "{来|き}てくださって、ありがとうございます。",
+    "zh": "感谢您特意前来。",
+    "en": "Thank you so much for coming."
+   }
+  ],
+  "note_zh": "主语是施恩的对方用「くださる」；主语是受益的自己用「いただく」，两者叙述同一件事。",
+  "note_en": "くださる takes the benefactor as subject; いただく takes the receiver — two views of the same event."
+ },
+ {
+  "id": "g-n4-102",
+  "level": "N4",
+  "track": "grammar",
+  "group": "授受敬语",
+  "pattern": "〜ていただく",
+  "meaning_zh": "承蒙（尊长）为我做…（てもらう的谦让语）",
+  "meaning_en": "humbly receive the favour of someone doing... (humble of てもらう)",
+  "formation": "动词て形 + いただく（动作主用「に」；常用：〜ていただきました）",
+  "explain_zh": "「てもらう」的谦让版：自己是主语，从尊长那里“领受”了动作的恩惠，动作主用「に」标记：「課長に仕事を教えていただきました」。和「てくださる」描述的是同一件事，只是视角不同——「くださる」以对方为主语，「いただく」以自己为主语。它也是「〜ていただけませんか」等高礼貌请求形的基础，先把这个陈述形用熟，请求形就自然了。",
+  "explain_en": "The humble version of てもらう: you are the subject, gratefully receiving the action from a respected person marked by に — 課長に教えていただきました. It narrates the same event as てくださる from the receiver's viewpoint. It also underlies polite request forms like 〜ていただけませんか, so mastering the plain statement first pays off.",
+  "examples": [
+   {
+    "ja": "課長に仕事を教えていただきました。",
+    "furigana": "{課長|かちょう}に{仕事|しごと}を{教|おし}えていただきました。",
+    "zh": "承蒙课长教了我工作。",
+    "en": "The section chief kindly taught me the job."
+   },
+   {
+    "ja": "隣の方に荷物を持っていただきました。",
+    "furigana": "{隣|となり}の{方|かた}に{荷物|にもつ}を{持|も}っていただきました。",
+    "zh": "旁边的先生帮我拿了行李。",
+    "en": "The gentleman next to me kindly carried my luggage."
+   },
+   {
+    "ja": "先生に作文を直していただいた。",
+    "furigana": "{先生|せんせい}に{作文|さくぶん}を{直|なお}していただいた。",
+    "zh": "承蒙老师帮我改了作文。",
+    "en": "I had my essay corrected by my teacher."
+   }
+  ],
+  "note_zh": "「先生が直してくださった」＝「（私は）先生に直していただいた」，主语和助词整套一起换。",
+  "note_en": "先生が直してくださった equals 先生に直していただいた; subject and particles switch as a set."
+ },
+ {
+  "id": "g-n4-103",
+  "level": "N4",
+  "track": "grammar",
+  "group": "授受敬语",
+  "pattern": "〜てさしあげる",
+  "meaning_zh": "为（尊长）做…（てあげる的谦让语，慎用）",
+  "meaning_en": "do... for a superior (humble of てあげる; use with care)",
+  "formation": "动词て形 + さしあげる",
+  "explain_zh": "「てあげる」的谦让版，表示为尊长做事：「お客様を駅まで案内してさしあげた」。但要特别注意：当着本人的面说「〜てさしあげます」，仍然带着“我施恩于您”的味道，反而失礼，所以它多用于向第三者叙述，或者干脆回避——当面提出帮忙时，正确的说法是谦让语「お持ちします」「ご案内します」或「お〜しましょうか」。可以说这是一个“知道但少用”的形。",
+  "explain_en": "The humble counterpart of てあげる, for doing something for a superior: お客様を案内してさしあげた. Caution: saying 〜てさしあげます to the person's face still frames you as bestowing a favour and can offend. It is mostly used when telling a third party, and when actually offering help you should switch to humble forms like お持ちします or お〜しましょうか. A pattern to recognise more than to use.",
+  "examples": [
+   {
+    "ja": "おばあさんに道を教えてさしあげました。",
+    "furigana": "おばあさんに{道|みち}を{教|おし}えてさしあげました。",
+    "zh": "我给老奶奶指了路。",
+    "en": "I showed the elderly lady the way."
+   },
+   {
+    "ja": "お客様を駅まで案内してさしあげた。",
+    "furigana": "お{客様|きゃくさま}を{駅|えき}まで{案内|あんない}してさしあげた。",
+    "zh": "我把客人送到了车站。",
+    "en": "I guided the customer to the station."
+   }
+  ],
+  "note_zh": "当面帮忙不说「〜てさしあげましょうか」，要说「お持ちしましょうか」等谦让形，避免施恩语气。",
+  "note_en": "When offering help face to face, use お〜しましょうか, not 〜てさしあげましょうか."
+ },
+ {
+  "id": "g-n4-104",
+  "level": "N4",
+  "track": "grammar",
+  "group": "敬语",
+  "pattern": "お／ご＋名詞（美化語・尊敬）",
+  "meaning_zh": "（词头）您的…；表示郑重、美化的お/ご",
+  "meaning_en": "honorific/beautifying prefixes お and ご",
+  "formation": "和语词 + お（お名前・お仕事・お茶）；汉语词 + ご（ご家族・ご住所・ご連絡）",
+  "explain_zh": "词头「お・ご」有两个作用：一是尊敬，指对方的事物（お名前＝您的名字、ご家族＝您的家人）；二是美化，让整体语言显得文雅（お茶、お金、ご飯——这些已经固定，几乎不能去掉）。分工的大原则：和语词（训读）配「お」，汉语词（音读）配「ご」，但有例外如「お電話」「お料理」。注意不要给自己的事物加尊敬的お/ご：说自己时是「家族」，说对方才是「ご家族」。",
+  "explain_en": "The prefixes お/ご serve two roles: honorific, marking things belonging to the other person (お名前 your name, ご家族 your family), and beautifying, simply making speech refined (お茶, お金, ご飯 — now fixed expressions). Rule of thumb: native-Japanese words take お, Sino-Japanese words take ご, with exceptions like お電話. Do not attach honorific お/ご to your own things: 家族 for mine, ご家族 for yours.",
+  "examples": [
+   {
+    "ja": "お名前とご住所をここに書いてください。",
+    "furigana": "お{名前|なまえ}とご{住所|じゅうしょ}をここに{書|か}いてください。",
+    "zh": "请把您的姓名和住址写在这里。",
+    "en": "Please write your name and address here."
+   },
+   {
+    "ja": "ご家族はお元気ですか。",
+    "furigana": "ご{家族|かぞく}はお{元気|げんき}ですか。",
+    "zh": "您的家人都好吗？",
+    "en": "Is your family doing well?"
+   },
+   {
+    "ja": "お飲み物は何になさいますか。",
+    "furigana": "お{飲|の}み{物|もの}は{何|なに}になさいますか。",
+    "zh": "您的饮料要点什么？",
+    "en": "What would you like to drink?"
+   }
+  ],
+  "note_zh": "外来语一般不加（×おコーヒー）；自己的动作名词化后可加お/ご构成谦让（お電話します）。",
+  "note_en": "Loanwords rarely take the prefix (×おコーヒー); お/ご on your own action can be humble (お電話します)."
+ },
+ {
+  "id": "g-n4-105",
+  "level": "N4",
+  "track": "grammar",
+  "group": "敬语",
+  "pattern": "お〜になる（尊敬語）",
+  "meaning_zh": "（尊长）做…（一般动词的尊敬形）",
+  "meaning_en": "honorific pattern: (a superior) does...",
+  "formation": "お + 动词ます形去ます + になる（お帰りになる・お読みになる）；汉语动词：ご + 词干 + になる",
+  "explain_zh": "「お〜になる」把普通动词变成尊敬语，主语必须是值得尊敬的对方，绝不能用于自己：「社長はもうお帰りになりました」。构成是「お＋ます形去ます＋になる」，两拍以下的动词（見る、寝る等）和する动词不用这个形，而用特殊尊敬动词或「（ら）れる」。尊敬程度上，「お〜になる」比「（ら）れる」形更高，商务接待中最常听到。",
+  "explain_en": "お〜になる converts an ordinary verb into an honorific whose subject must be the respected person, never yourself: 社長はもうお帰りになりました. Form: お + masu-stem + になる. One-mora stems (見る, 寝る) and する verbs avoid this pattern, using special honorific verbs or the (ら)れる form instead. お〜になる ranks above (ら)れる in deference and is standard in business hospitality.",
+  "examples": [
+   {
+    "ja": "社長はもうお帰りになりました。",
+    "furigana": "{社長|しゃちょう}はもうお{帰|かえ}りになりました。",
+    "zh": "总经理已经回去了。",
+    "en": "The president has already gone home."
+   },
+   {
+    "ja": "先生は何時ごろお出かけになりますか。",
+    "furigana": "{先生|せんせい}は{何時|なんじ}ごろお{出|で}かけになりますか。",
+    "zh": "老师您几点左右出门？",
+    "en": "About what time will you be going out, Professor?"
+   },
+   {
+    "ja": "この本はもうお読みになりましたか。",
+    "furigana": "この{本|ほん}はもうお{読|よ}みになりましたか。",
+    "zh": "这本书您已经读过了吗？",
+    "en": "Have you already read this book?"
+   }
+  ],
+  "note_zh": "尊敬语的主语是对方；自己做的动作要用谦让语「お〜する」，方向不能弄反。",
+  "note_en": "Honorifics take the other person as subject; your own actions need the humble お〜する."
+ },
+ {
+  "id": "g-n4-106",
+  "level": "N4",
+  "track": "grammar",
+  "group": "敬语",
+  "pattern": "尊敬の〜（ら）れる",
+  "meaning_zh": "（尊长）做…（用受身形表示的轻度尊敬）",
+  "meaning_en": "light honorific using the passive form",
+  "formation": "与受身形同形：Ⅰ类あ段+れる（行かれる）；Ⅱ类る→られる（出られる）；する→される、来る→来られる",
+  "explain_zh": "受身形还有一个完全不同的用法：表示对主语的尊敬，「部長は明日大阪へ行かれます」＝部长明天去大阪。它的尊敬程度比「お〜になる」和特殊尊敬动词低，但构成简单，口头和公司内部使用频率很高。是受身还是尊敬，靠句子结构判断：尊敬用法里主语自己在做动作，没有“被谁怎么样”的关系。注意「先生が来られる」（尊敬）和可能形同形的情况也要靠语境分辨。",
+  "explain_en": "The passive form doubles as a light honorific: 部長は明日大阪へ行かれます 'the manager is going to Osaka tomorrow'. It ranks below お〜になる and the special honorific verbs but is easy to form and very common in workplace speech. Whether a given (ら)れる is passive or honorific depends on structure: in the honorific reading the subject performs the action, with no agent acting on them.",
+  "examples": [
+   {
+    "ja": "部長は明日大阪へ行かれます。",
+    "furigana": "{部長|ぶちょう}は{明日|あした}{大阪|おおさか}へ{行|い}かれます。",
+    "zh": "部长明天去大阪。",
+    "en": "The department head is going to Osaka tomorrow."
+   },
+   {
+    "ja": "先生は毎朝新聞を読まれます。",
+    "furigana": "{先生|せんせい}は{毎朝|まいあさ}{新聞|しんぶん}を{読|よ}まれます。",
+    "zh": "老师每天早上读报纸。",
+    "en": "The professor reads the newspaper every morning."
+   },
+   {
+    "ja": "社長は何時に来られますか。",
+    "furigana": "{社長|しゃちょう}は{何時|なんじ}に{来|こ}られますか。",
+    "zh": "总经理几点来？",
+    "en": "What time will the president arrive?"
+   }
+  ],
+  "note_zh": "同一个「行かれる」可能是受身・可能・尊敬三种意思，考试常考，看主语和助词定夺。",
+  "note_en": "行かれる can be passive, potential or honorific — subject and particles decide, a favourite exam point."
+ },
+ {
+  "id": "g-n4-107",
+  "level": "N4",
+  "track": "grammar",
+  "group": "敬语",
+  "pattern": "特別な尊敬語動詞（いらっしゃる・召し上がる など）",
+  "meaning_zh": "特殊尊敬动词：在／去／来、吃喝、说、做、看等",
+  "meaning_en": "special honorific verbs: いらっしゃる, 召し上がる, おっしゃる, なさる, ご覧になる",
+  "formation": "いる・行く・来る→いらっしゃる；食べる・飲む→召し上がる；言う→おっしゃる；する→なさる；見る→ご覧になる；くれる→くださる",
+  "explain_zh": "最常用的几个动词不用「お〜になる」，而有专门的尊敬动词，必须整个替换：いる・行く・来る三个词共用「いらっしゃる」，食べる・飲む共用「召し上がる」，言う→「おっしゃる」，する→「なさる」，見る→「ご覧になる」。这些词数量不多但覆盖了日常对话的大半，需要逐个背熟。「いらっしゃる」「おっしゃる」「なさる」「くださる」都是特殊五段动词，ます形分别是「いらっしゃいます」「おっしゃいます」「なさいます」「くださいます」。",
+  "explain_en": "The most frequent verbs replace themselves wholesale with special honorifics instead of お〜になる: いる/行く/来る all become いらっしゃる, 食べる/飲む become 召し上がる, 言う→おっしゃる, する→なさる, 見る→ご覧になる. Few in number, they cover most daily conversation and must be memorised. Note the irregular ます forms: いらっしゃいます, おっしゃいます, なさいます, くださいます.",
+  "examples": [
+   {
+    "ja": "先生は今、教室にいらっしゃいます。",
+    "furigana": "{先生|せんせい}は{今|いま}、{教室|きょうしつ}にいらっしゃいます。",
+    "zh": "老师现在在教室里。",
+    "en": "The teacher is in the classroom now."
+   },
+   {
+    "ja": "どうぞ、召し上がってください。",
+    "furigana": "どうぞ、{召|め}し{上|あ}がってください。",
+    "zh": "请用餐（请吃吧）。",
+    "en": "Please go ahead and eat."
+   },
+   {
+    "ja": "週末は何をなさいますか。",
+    "furigana": "{週末|しゅうまつ}は{何|なに}をなさいますか。",
+    "zh": "您周末做什么？",
+    "en": "What will you be doing over the weekend?"
+   }
+  ],
+  "note_zh": "×「いらっしゃります」→○「いらっしゃいます」；这些特殊五段动词的ます形都要变「い」。",
+  "note_en": "Not いらっしゃります but いらっしゃいます — these verbs change り to い before ます."
+ },
+ {
+  "id": "g-n4-108",
+  "level": "N4",
+  "track": "grammar",
+  "group": "敬语",
+  "pattern": "お〜ください",
+  "meaning_zh": "请您…（比〜てください更恭敬的指示・招呼）",
+  "meaning_en": "please do... (more deferential than 〜てください)",
+  "formation": "お + 动词ます形去ます + ください（汉语动词：ご + 词干 + ください）",
+  "explain_zh": "「お〜ください」是「〜てください」的敬语版，车站广播、商店接待、公司待客时的标准指示语：「こちらで少々お待ちください」「どうぞお入りください」。汉语动词用「ご〜ください」：「ご確認ください」「ご自由にお取りください」。它虽然恭敬，但仍是指示，真正“请求帮忙”时还是要用「〜ていただけませんか」系统，两套不要混用场合。",
+  "explain_en": "お〜ください is the honorific counterpart of 〜てください, the standard wording of station announcements and customer service: お待ちください, お入りください. Sino-Japanese verbs take ご〜ください (ご確認ください). Deferential as it is, it remains an instruction; for genuine requests for a favour, the 〜ていただけませんか family is the right register.",
+  "examples": [
+   {
+    "ja": "こちらで少々お待ちください。",
+    "furigana": "こちらで{少々|しょうしょう}お{待|ま}ちください。",
+    "zh": "请您在这里稍候。",
+    "en": "Please wait here a moment."
+   },
+   {
+    "ja": "どうぞお入りください。",
+    "furigana": "どうぞお{入|はい}りください。",
+    "zh": "请进。",
+    "en": "Please come in."
+   },
+   {
+    "ja": "ご自由にお取りください。",
+    "furigana": "ご{自由|じゆう}にお{取|と}りください。",
+    "zh": "请随意取用。",
+    "en": "Please help yourself."
+   }
+  ],
+  "note_zh": "见る・来る等特殊动词说「ご覧ください」「お越しください」，不能机械套「お〜ください」。",
+  "note_en": "Special verbs have set forms: ご覧ください 'please look', お越しください 'please come'."
+ },
+ {
+  "id": "g-n4-109",
+  "level": "N4",
+  "track": "grammar",
+  "group": "敬语",
+  "pattern": "お〜する／ご〜する（謙譲語）",
+  "meaning_zh": "我（为您）做…（一般动词的谦让形）",
+  "meaning_en": "humble pattern: I (humbly) do... for you",
+  "formation": "お + 动词ます形去ます + する（お持ちする・お送りする）；汉语动词：ご + 词干 + する（ご案内する・ご連絡する）",
+  "explain_zh": "「お〜する」压低自己的动作来抬高对方，是谦让语的基本形：「荷物をお持ちします」＝我来帮您拿行李。使用条件是动作要和对方有关（为对方做、涉及对方），单纯自己的事不用：×「私は毎晩お風呂にお入りします」。汉语动词配「ご」：「ご案内します」「ご連絡します」。更郑重时把「する」换成「いたす」：「お持ちいたします」。主动提出帮忙就说「お持ちしましょうか」。",
+  "explain_en": "お〜する lowers your own action to elevate the other person — the basic humble pattern: 荷物をお持ちします 'let me carry your bags'. It requires that the action involve or benefit the other person; purely private actions don't take it. Sino-Japanese verbs pair with ご (ご案内します). Replacing する with いたす adds formality (お持ちいたします), and お持ちしましょうか makes a courteous offer.",
+  "examples": [
+   {
+    "ja": "荷物をお持ちします。",
+    "furigana": "{荷物|にもつ}をお{持|も}ちします。",
+    "zh": "我来帮您拿行李。",
+    "en": "Let me carry your luggage."
+   },
+   {
+    "ja": "後で結果をご連絡します。",
+    "furigana": "{後|あと}で{結果|けっか}をご{連絡|れんらく}します。",
+    "zh": "稍后我把结果联系告知您。",
+    "en": "I will contact you later with the results."
+   },
+   {
+    "ja": "駅までお送りしましょうか。",
+    "furigana": "{駅|えき}までお{送|おく}りしましょうか。",
+    "zh": "我送您到车站吧？",
+    "en": "Shall I see you to the station?"
+   }
+  ],
+  "note_zh": "谦让语的主语是自己，尊敬语的主语是对方——「お読みになる」（您读）vs「お持ちする」（我拿），千万别用反。",
+  "note_en": "Humble = my action, honorific = their action: お読みになる (you read) vs お持ちする (I carry)."
+ },
+ {
+  "id": "g-n4-110",
+  "level": "N4",
+  "track": "grammar",
+  "group": "敬语",
+  "pattern": "特別な謙譲語動詞（参る・伺う・申す など）",
+  "meaning_zh": "特殊谦让动词：去／来、拜访・请教、说、做、吃、看等",
+  "meaning_en": "special humble verbs: 参る, 伺う, 申す, いたす, いただく, 拝見する",
+  "formation": "行く・来る→参る；訪ねる・聞く→伺う；言う→申す（申し上げる）；する→いたす；食べる・飲む・もらう→いただく；見る→拝見する；いる→おる；会う→お目にかかる",
+  "explain_zh": "和尊敬动词相对，常用动词也有整套谦让动词，用来压低自己：行く・来る→「参る」，拜访、请教→「伺う」，言う→「申す」，する→「いたす」，食べる・もらう→「いただく」，見る→「拝見する」，いる→「おる」。自我介绍的「〜と申します」、拜访前的「明日伺います」都是最高频的用例。「参る」和「伺う」的区别：目的地是尊长处、含有敬意时用「伺う」，单纯郑重地说自己去哪里用「参る」。",
+  "explain_en": "Mirroring the honorific set, common verbs have humble replacements that lower the speaker: 行く/来る→参る, visiting/asking→伺う, 言う→申す, する→いたす, 食べる/もらう→いただく, 見る→拝見する, いる→おる. Self-introductions (〜と申します) and 明日伺います are everyday staples. 参る vs 伺う: use 伺う when the destination is the respected person themselves; 参る is simply formal 'go/come'.",
+  "examples": [
+   {
+    "ja": "私は王と申します。",
+    "furigana": "{私|わたし}は{王|おう}と{申|もう}します。",
+    "zh": "我姓王（谦称）。",
+    "en": "My name is Wang."
+   },
+   {
+    "ja": "明日、こちらから伺います。",
+    "furigana": "{明日|あした}、こちらから{伺|うかが}います。",
+    "zh": "明天由我登门拜访您。",
+    "en": "I will call on you tomorrow."
+   },
+   {
+    "ja": "先生の絵を拝見しました。",
+    "furigana": "{先生|せんせい}の{絵|え}を{拝見|はいけん}しました。",
+    "zh": "我拜读（看）了老师的画。",
+    "en": "I had the honour of seeing your painting."
+   }
+  ],
+  "note_zh": "谦让动词只能以自己（或自己一方的人）为主语：×「先生が参ります」是严重错误。",
+  "note_en": "Humble verbs take only the speaker's side as subject; 先生が参ります is a serious error."
+ },
+ {
+  "id": "g-n4-111",
+  "level": "N4",
+  "track": "grammar",
+  "group": "敬语",
+  "pattern": "〜でございます",
+  "meaning_zh": "是…（です的郑重语）",
+  "meaning_en": "polite copula: the formal equivalent of です",
+  "formation": "名词・な形容词 + でございます（あります→ございます；です→でございます）",
+  "explain_zh": "「でございます」是「です」的郑重语（丁重語），店员、车站广播、电话应对、司仪等服务和商务场合的标准语体：「こちらが会議室でございます」。「あります」对应的郑重形是「ございます」：「お手洗いは二階にございます」。它抬高的是整个场面的郑重程度而不是某个人，所以说自己、说物都可以用。接电话报公司名「はい、〜でございます」是固定开场白。",
+  "explain_en": "でございます is the formal counterpart of です, the default register of shop staff, station announcements, phone answering and ceremonies: こちらが会議室でございます. The formal version of あります is ございます: お手洗いは二階にございます. It elevates the occasion's formality rather than honouring a particular person, so it works for yourself and for things alike. Answering the phone with はい、〜でございます is a fixed business opener.",
+  "examples": [
+   {
+    "ja": "こちらが会議室でございます。",
+    "furigana": "こちらが{会議室|かいぎしつ}でございます。",
+    "zh": "这里是会议室。",
+    "en": "This is the meeting room."
+   },
+   {
+    "ja": "お手洗いは二階にございます。",
+    "furigana": "お{手洗|てあら}いは{二階|にかい}にございます。",
+    "zh": "洗手间在二楼。",
+    "en": "The restroom is on the second floor."
+   },
+   {
+    "ja": "はい、さくら旅行でございます。",
+    "furigana": "はい、さくら{旅行|りょこう}でございます。",
+    "zh": "您好，这里是樱花旅行社。",
+    "en": "Hello, this is Sakura Travel."
+   }
+  ],
+  "note_zh": "「ございます」是丁重语，不含对特定人物的尊敬；对人表示尊敬用「〜でいらっしゃいます」：「田中様でいらっしゃいますか」。",
+  "note_en": "For respecting a person directly, use 〜でいらっしゃいます (田中様でいらっしゃいますか), not でございます."
+ },
+ {
+  "id": "g-n4-112",
+  "level": "N4",
+  "track": "grammar",
+  "group": "强调・数量",
+  "pattern": "数量詞＋も（強調）",
+  "meaning_zh": "竟有…之多（强调数量大、超出预期）",
+  "meaning_en": "as many/much as... (emphasising a surprisingly large amount)",
+  "formation": "数量词 + も + 动词（五本も・二時間も・百人も）",
+  "explain_zh": "数量词后面加「も」，表示说话人觉得这个数量“多得出乎意料”：「ビールを五本も飲みました」——竟然喝了五瓶之多。没有「も」只是客观报数，加上「も」就带上了惊讶、感叹的主观色彩。相反，强调数量少用「しか〜ない」。疑问词加「も」再加否定则是全面否定：「何もない」「誰も来ない」，这一族也一起记住。",
+  "explain_en": "も after a quantity says the speaker finds the amount surprisingly large: ビールを五本も飲みました 'drank no fewer than five bottles'. Without も you are just reporting a number; with it you add astonishment. The mirror image, emphasising smallness, is しか〜ない. Question word + も + negative gives total negation: 何もない, 誰も来ない.",
+  "examples": [
+   {
+    "ja": "昨日はビールを五本も飲みました。",
+    "furigana": "{昨日|きのう}はビールを{五本|ごほん}も{飲|の}みました。",
+    "zh": "昨天我竟喝了五瓶啤酒。",
+    "en": "Yesterday I drank as many as five bottles of beer."
+   },
+   {
+    "ja": "駅まで二時間もかかった。",
+    "furigana": "{駅|えき}まで{二時間|にじかん}もかかった。",
+    "zh": "到车站竟花了两个小时。",
+    "en": "It took a full two hours to get to the station."
+   },
+   {
+    "ja": "パーティーには百人も来ました。",
+    "furigana": "パーティーには{百人|ひゃくにん}も{来|き}ました。",
+    "zh": "派对上竟来了一百个人。",
+    "en": "As many as a hundred people came to the party."
+   }
+  ],
+  "note_zh": "「何度も」「いくつも」＝好多次、好多个；数量多用「も」，数量少用「しか〜ない」，一对记。",
+  "note_en": "何度も 'many times', いくつも 'plenty'; pair 数量+も (large) with しか〜ない (small)."
+ },
+ {
+  "id": "g-n4-115",
+  "level": "N4",
+  "track": "grammar",
+  "group": "强调・数量",
+  "pattern": "〜など／〜なんか",
+  "meaning_zh": "…之类；（轻视・谦逊）…什么的",
+  "meaning_en": "and so on; things like (also belittling/humble 'the likes of')",
+  "formation": "名词（列举）+ など；名词 + なんか（口语，兼表轻视・谦逊）",
+  "explain_zh": "「など」接在列举的名词后表示“…之类，等等”，暗示还有别的：「掃除や買い物などをします」。口语形「なんか」除了列举还常带评价色彩：贬低事物（「テレビなんか見ない」＝电视那种东西我不看）或自谦（「私なんか、まだまだです」＝像我这种人还差得远）。书面郑重体用「など」，随意会话用「なんか」，更强的轻蔑说法是「なんて」。",
+  "explain_en": "など after listed nouns means 'and the like', implying more: 掃除や買い物などをします. The colloquial なんか adds an evaluative flavour: dismissing something (テレビなんか見ない 'I don't watch TV or anything like that') or humbling oneself (私なんか 'someone like me'). Use など in writing and polite speech, なんか casually; なんて is stronger still.",
+  "examples": [
+   {
+    "ja": "休みの日は掃除や買い物などをします。",
+    "furigana": "{休|やす}みの{日|ひ}は{掃除|そうじ}や{買|か}い{物|もの}などをします。",
+    "zh": "休息日我会打扫、购物等等。",
+    "en": "On my days off I do cleaning, shopping and so on."
+   },
+   {
+    "ja": "甘い物なんか、あまり食べません。",
+    "furigana": "{甘|あま}い{物|もの}なんか、あまり{食|た}べません。",
+    "zh": "甜食什么的，我不太吃。",
+    "en": "I don't really eat sweets or anything like that."
+   },
+   {
+    "ja": "私なんか、まだまだ下手です。",
+    "furigana": "{私|わたし}なんか、まだまだ{下手|へた}です。",
+    "zh": "像我这种水平，还差得远呢。",
+    "en": "Someone like me is still far from good."
+   }
+  ],
+  "note_zh": "「私なんか」是自谦；说别人「あなたなんか」则是明显的贬低，要小心使用。",
+  "note_en": "私なんか is humble, but あなたなんか openly belittles the other person — handle with care."
+ },
+ {
+  "id": "g-n4-116",
+  "level": "N4",
+  "track": "grammar",
+  "group": "强调・数量",
+  "pattern": "〜でも(例示）",
+  "meaning_zh": "…之类的（举个例子，委婉提议）",
+  "meaning_en": "... or something (softening suggestion by example)",
+  "formation": "名词 + でも + 劝诱・提议句（お茶でも飲みませんか）",
+  "explain_zh": "提议时在名词后加「でも」，意思是“比如…之类的”，把选择留给对方：「お茶でも飲みませんか」——不一定非喝茶，咖啡果汁都行，只是举个例子。直接说「お茶を飲みませんか」聚焦在茶本身，加了「でも」显得随意、不强加于人，是日语邀约的标准软化手段。同样的用法还有「映画でも見に行こう」「先生にでも聞いてみたら」。",
+  "explain_en": "Adding でも to a noun in a proposal means 'for instance ... or something', leaving the choice open: お茶でも飲みませんか suggests tea as merely one possibility. Without でも the invitation fixes on tea itself; with it, the offer sounds casual and unimposing — the standard softener in Japanese invitations. Similarly 映画でも見に行こう, 先生にでも聞いてみたら.",
+  "examples": [
+   {
+    "ja": "お茶でも飲みませんか。",
+    "furigana": "お{茶|ちゃ}でも{飲|の}みませんか。",
+    "zh": "要不要喝杯茶什么的？",
+    "en": "How about a cup of tea or something?"
+   },
+   {
+    "ja": "暇なら、映画でも見に行こう。",
+    "furigana": "{暇|ひま}なら、{映画|えいが}でも{見|み}に{行|い}こう。",
+    "zh": "有空的话，去看场电影什么的吧。",
+    "en": "If you're free, let's go see a movie or something."
+   },
+   {
+    "ja": "分からなかったら、先生にでも聞いてください。",
+    "furigana": "{分|わ}からなかったら、{先生|せんせい}にでも{聞|き}いてください。",
+    "zh": "不明白的话，可以问问老师之类的。",
+    "en": "If you don't understand, ask your teacher or someone."
+   }
+  ],
+  "note_zh": "这里的「でも」是例示，和“即使…也”（雨でも行く）的「でも」不同，靠语境区分。",
+  "note_en": "This exemplifying でも differs from concessive でも 'even if' (雨でも行く); context tells them apart."
+ },
+ {
+  "id": "g-n4-117",
+  "level": "N4",
+  "track": "grammar",
+  "group": "强调・数量",
+  "pattern": "〜とか〜とか",
+  "meaning_zh": "…啦…啦（口语的举例列举）",
+  "meaning_en": "things like A and B (casual listing)",
+  "formation": "名词・动词辞书形 + とか + 名词・动词辞书形 + とか",
+  "explain_zh": "「とか」是口语中举例列举的助词，和「や〜など」意思相近但更随意，而且不仅能接名词，还能直接接动词辞书形：「テニスをするとか、映画を見るとか」。言外之意同样是“还有别的”。单独用一个「とか」可以让说法变模糊：「来週とか、どうですか」＝“比如下周之类的怎么样？”。书面文章里避免用「とか」，要换成「や〜など」。",
+  "explain_en": "とか lists examples casually, like や〜など but more conversational, and unlike や it attaches to dictionary-form verbs too: テニスをするとか、映画を見るとか. It implies other unstated items. A single とか vaguens a suggestion: 来週とか、どうですか 'how about, say, next week?'. In formal writing prefer や〜など.",
+  "examples": [
+   {
+    "ja": "朝はパンとか果物とかを食べます。",
+    "furigana": "{朝|あさ}はパンとか{果物|くだもの}とかを{食|た}べます。",
+    "zh": "早上我吃面包啦水果啦之类的。",
+    "en": "In the morning I eat things like bread and fruit."
+   },
+   {
+    "ja": "休みの日は、テニスをするとか、映画を見るとかしています。",
+    "furigana": "{休|やす}みの{日|ひ}は、テニスをするとか、{映画|えいが}を{見|み}るとかしています。",
+    "zh": "休息日我会打打网球啦、看看电影啦。",
+    "en": "On days off I do things like playing tennis and watching movies."
+   },
+   {
+    "ja": "来週とか、どうですか。",
+    "furigana": "{来週|らいしゅう}とか、どうですか。",
+    "zh": "比如下周之类的，怎么样？",
+    "en": "How about sometime like next week?"
+   }
+  ],
+  "note_zh": "「とか」是口语；作文里用「や〜など」。动词列举时句尾常加「する」：「〜とか〜とかする」。",
+  "note_en": "とか is colloquial — write や〜など instead; verb lists often end with する."
+ }
+]
