@@ -4,8 +4,10 @@ import { vocab } from '../data/vocab'
 import LevelFilter from '../components/LevelFilter'
 import { KANA_ROWS, rowOfReading, meaningMatches, type RowKey } from '../lib/kana'
 import { addVocabRecord } from '../lib/storage'
-import { speak } from '../lib/tts'
+import { speakWord } from '../lib/tts'
 import VocabBrowser from '../components/VocabBrowser'
+import PitchAccent from '../components/PitchAccent'
+import accents from '../data/vocab/accents.json'
 import { usePageMeta } from '../hooks/usePageMeta'
 import type { Level, VocabWord } from '../types'
 
@@ -87,7 +89,7 @@ export default function Vocab() {
     }
     if (ok) setCorrectCount((c) => c + 1)
     setFeedback(ok ? 'ok' : 'ng')
-    speak(word.reading)
+    speakWord(word.id, word.reading)
   }
 
   const advance = () => {
@@ -196,7 +198,7 @@ export default function Vocab() {
               <>
                 <button
                   className="mb-2 font-serif text-3xl font-bold transition-colors hover:text-accent-deep sm:text-4xl"
-                  onClick={() => speak(word.reading)}
+                  onClick={() => speakWord(word.id, word.reading)}
                   title={t('vocab.playAudio')}
                 >
                   {word.word}
@@ -221,7 +223,13 @@ export default function Vocab() {
                 {feedback === 'ok' ? t('vocab.correct') : t('vocab.incorrect')}
               </span>
               {'　'}
-              {t('vocab.answer')}: {word.word}（{word.reading}）
+              {t('vocab.answer')}: {word.word}（
+              {(accents as Record<string, number>)[word.id] !== undefined ? (
+                <PitchAccent reading={word.reading} accent={(accents as Record<string, number>)[word.id]} />
+              ) : (
+                word.reading
+              )}
+              ）
               {mode === 'toMeaning' && ` — ${zhFirst ? word.meaning_zh : word.meaning_en}`}
             </div>
           )}

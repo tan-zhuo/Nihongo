@@ -91,6 +91,31 @@ export function playKanaSequence(
   }
 }
 
+// Word ids whose pre-generated clip failed to load (missing/older deploy) —
+// go straight to speech synthesis next time instead of erroring again.
+const badWordClips = new Set<string>()
+
+/**
+ * Play a vocab word: pre-generated neural clip (public/audio/words/{id}.mp3)
+ * when available, else browser speech synthesis of the reading.
+ */
+export function speakWord(id: string, reading: string) {
+  if (badWordClips.has(id)) {
+    speak(reading)
+    return
+  }
+  cancelSpeech()
+  const el = new Audio(`/audio/words/${id}.mp3`)
+  el.onerror = () => {
+    badWordClips.add(id)
+    speak(reading)
+  }
+  el.play().catch(() => {
+    badWordClips.add(id)
+    speak(reading)
+  })
+}
+
 export function speak(text: string, opts: { rate?: number; onEnd?: () => void } = {}) {
   if (typeof speechSynthesis === 'undefined') return
   try {

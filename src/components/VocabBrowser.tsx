@@ -1,6 +1,8 @@
 import { useEffect, useRef, useState } from 'react'
 import { useTranslation } from 'react-i18next'
-import { speak } from '../lib/tts'
+import { speakWord } from '../lib/tts'
+import PitchAccent from './PitchAccent'
+import accents from '../data/vocab/accents.json'
 import type { VocabWord } from '../types'
 
 const POS_KEY = 'nihongotype.vocab.browse.pos.v1'
@@ -71,7 +73,7 @@ export default function VocabBrowser({ pool, poolKey, zhFirst }: Props) {
 
   useEffect(() => {
     if (!done) savePosition(poolKey, index)
-    if (word && soundRef.current) speak(word.reading)
+    if (word && soundRef.current) speakWord(word.id, word.reading)
   }, [index, poolKey, done, word])
 
   useEffect(() => {
@@ -152,22 +154,39 @@ export default function VocabBrowser({ pool, poolKey, zhFirst }: Props) {
         </div>
 
         <div className="text-center">
-          {img && (
-            <img
-              src={img}
-              alt={word!.word}
-              loading="lazy"
-              className="mx-auto mb-5 h-40 rounded-xl object-cover shadow-sm sm:h-48"
-            />
-          )}
+          <div className="mx-auto mb-5 flex h-40 items-center justify-center sm:h-48">
+            {img ? (
+              <img
+                src={img}
+                alt={word!.word}
+                loading="lazy"
+                className="h-full rounded-xl object-cover shadow-sm"
+              />
+            ) : (
+              <a
+                href={`https://www.google.com/search?udm=2&q=${encodeURIComponent(word!.word)}`}
+                target="_blank"
+                rel="noopener noreferrer"
+                className="flex h-full w-56 items-center justify-center rounded-xl border border-dashed border-stone-200 bg-stone-50 text-xs text-stone-300 transition-colors hover:border-accent hover:text-accent-dark"
+              >
+                {t('vocab.googleImages')} ↗
+              </a>
+            )}
+          </div>
           <button
             className="font-serif text-4xl font-bold transition-colors hover:text-accent-deep sm:text-5xl"
-            onClick={() => speak(word!.reading)}
+            onClick={() => speakWord(word!.id, word!.reading)}
             title={t('vocab.playAudio')}
           >
             {word!.word}
           </button>
-          <div className="mt-2 text-lg text-stone-500">{word!.reading}</div>
+          <div className="mt-2 text-lg text-stone-500">
+            {(accents as Record<string, number>)[word!.id] !== undefined ? (
+              <PitchAccent reading={word!.reading} accent={(accents as Record<string, number>)[word!.id]} />
+            ) : (
+              word!.reading
+            )}
+          </div>
           <div className="mt-3 text-xl font-medium">
             {zhFirst ? word!.meaning_zh : word!.meaning_en}
           </div>
