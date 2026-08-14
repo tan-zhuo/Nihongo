@@ -5,12 +5,13 @@ import LevelFilter from '../components/LevelFilter'
 import { KANA_ROWS, rowOfReading, meaningMatches, type RowKey } from '../lib/kana'
 import { addVocabRecord } from '../lib/storage'
 import { speak } from '../lib/tts'
+import VocabBrowser from '../components/VocabBrowser'
 import { usePageMeta } from '../hooks/usePageMeta'
 import type { Level, VocabWord } from '../types'
 
 const SESSION_SIZE = 20
 
-type Mode = 'toJa' | 'toMeaning'
+type Mode = 'toJa' | 'toMeaning' | 'browse'
 
 function shuffle<T>(arr: T[]): T[] {
   const a = [...arr]
@@ -69,7 +70,7 @@ export default function Vocab() {
 
   // Persist the session result once when it completes.
   useEffect(() => {
-    if (!done || savedRef.current) return
+    if (!done || savedRef.current || mode === 'browse') return
     savedRef.current = true
     addVocabRecord({ ts: Date.now(), mode, level, correct: correctCount, total: session.length })
   }, [done, mode, level, correctCount, session.length])
@@ -123,13 +124,13 @@ export default function Vocab() {
 
       {/* Mode toggle */}
       <div className="mb-5 flex gap-2">
-        {(['toJa', 'toMeaning'] as Mode[]).map((m) => (
+        {(['toJa', 'toMeaning', 'browse'] as Mode[]).map((m) => (
           <button
             key={m}
             className={`${mode === m ? 'chip-on' : 'chip-off'} flex-1 justify-center whitespace-nowrap sm:flex-none`}
             onClick={() => setMode(m)}
           >
-            {t(m === 'toJa' ? 'vocab.modeToJa' : 'vocab.modeToMeaning')}
+            {t(m === 'toJa' ? 'vocab.modeToJa' : m === 'toMeaning' ? 'vocab.modeToMeaning' : 'vocab.modeBrowse')}
           </button>
         ))}
       </div>
@@ -153,7 +154,9 @@ export default function Vocab() {
         </div>
       </div>
 
-      {session.length === 0 ? (
+      {mode === 'browse' ? (
+        <VocabBrowser pool={pool} poolKey={`${level}|${row}`} zhFirst={zhFirst} />
+      ) : session.length === 0 ? (
         <p className="py-12 text-center text-stone-400">{t('vocab.empty')}</p>
       ) : done ? (
         <div className="card p-8 text-center">
