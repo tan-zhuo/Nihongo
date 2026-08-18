@@ -28,6 +28,10 @@ export const PAGE_META: Record<string, PageMeta> = {
     title: 'Hiragana & Katakana Typing Practice (五十音) — nihongo.ink',
     desc: 'Learn to type the Japanese kana. Hiragana and katakana drills across the 五十音 gojūon rows, with native audio for every character.',
   },
+  '/kana/convert': {
+    title: 'Hiragana → Katakana Practice (ひらがな⇄カタカナ) — nihongo.ink',
+    desc: 'Drill kana conversion both ways: see a hiragana and pick or hand-write the katakana, and back again. Look-alike distractors (シ/ツ, ソ/ン), a writing pad, and native audio for every character.',
+  },
   '/grammar': {
     title: 'Japanese Grammar Typing Practice (JLPT N5–N1 + Keigo) — nihongo.ink',
     desc: 'Type example sentences for JLPT N5–N1 grammar points and keigo (honorific Japanese), with furigana, translations and audio.',

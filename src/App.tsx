@@ -6,6 +6,7 @@ import Home from './pages/Home'
 const pageLoaders = {
   articles: () => import('./pages/Articles'),
   kana: () => import('./pages/Kana'),
+  kanaConvert: () => import('./pages/KanaConvert'),
   grammar: () => import('./pages/Grammar'),
   practice: () => import('./pages/Practice'),
   vocab: () => import('./pages/Vocab'),
@@ -19,6 +20,7 @@ export const preloadAllPages = () =>
 
 const Articles = lazy(pageLoaders.articles)
 const Kana = lazy(pageLoaders.kana)
+const KanaConvert = lazy(pageLoaders.kanaConvert)
 const Grammar = lazy(pageLoaders.grammar)
 const Practice = lazy(pageLoaders.practice)
 const Vocab = lazy(pageLoaders.vocab)
@@ -45,6 +47,10 @@ export default function App() {
         <Route
           path="/kana"
           element={<Suspense fallback={null}><Kana /></Suspense>}
+        />
+        <Route
+          path="/kana/convert"
+          element={<Suspense fallback={null}><KanaConvert /></Suspense>}
         />
         <Route
           path="/grammar"

@@ -63,3 +63,78 @@ export function allCells(sections: KanaSection[] = ['seion', 'dakuon', 'yoon']):
     .flatMap((r) => r.cells)
     .filter((cell): cell is KanaCell => cell !== null)
 }
+
+// ---------------------------------------------------------------------------
+// Conversion drill support (hiragana ⇄ katakana)
+// ---------------------------------------------------------------------------
+
+/**
+ * Glyphs learners genuinely mix up. Used to pick distractors that are worth
+ * getting wrong — a random option set makes the drill trivially easy.
+ */
+const LOOKALIKE_K = [
+  'シツソンノ', 'クタケワ', 'スヌエ', 'ネホオ', 'チテナ', 'マムアヤ',
+  'コユヨ', 'ロワウ', 'ハヘ', 'レルリ', 'ラウフワ', 'ミヨ', 'セサ',
+  'ヒトレ', 'メヌナ', 'モセ', 'イハ', 'カワ', 'キサ', 'ニコ', 'ムモ',
+]
+const LOOKALIKE_H = [
+  'あお', 'ぬめ', 'れわね', 'るろ', 'はほま', 'きさち', 'しつそ',
+  'いり', 'こに', 'まも', 'なた', 'ふら', 'すむ', 'けは', 'ぬね',
+  'うつ', 'をお', 'やゆ', 'みめ', 'てへ',
+]
+
+function lookalikesOf(glyph: string, script: 'hiragana' | 'katakana'): Set<string> {
+  const out = new Set<string>()
+  for (const group of script === 'katakana' ? LOOKALIKE_K : LOOKALIKE_H) {
+    if (group.includes(glyph)) for (const ch of group) out.add(ch)
+  }
+  out.delete(glyph)
+  return out
+}
+
+function shuffled<T>(arr: T[]): T[] {
+  const a = [...arr]
+  for (let i = a.length - 1; i > 0; i--) {
+    const j = Math.floor(Math.random() * (i + 1))
+    ;[a[i], a[j]] = [a[j], a[i]]
+  }
+  return a
+}
+
+/**
+ * Answer options for one conversion question: the answer plus `count - 1`
+ * distractors, preferring look-alike glyphs, then same-consonant / same-vowel
+ * kana, then anything. Returned already shuffled.
+ */
+export function conversionOptions(
+  answer: KanaCell,
+  pool: KanaCell[],
+  target: 'hiragana' | 'katakana',
+  count = 6,
+): KanaCell[] {
+  const glyph = (c: KanaCell) => (target === 'hiragana' ? c.h : c.k)
+  const look = lookalikesOf(glyph(answer), target)
+  const [ac, av] = [answer.r[0].slice(0, -1), answer.r[0].slice(-1)]
+
+  const score = (c: KanaCell) => {
+    if (look.has(glyph(c))) return 3
+    const r = c.r[0]
+    if (r.slice(0, -1) === ac) return 2 // same consonant (か行, voicing pairs…)
+    if (r.slice(-1) === av) return 1 // same vowel
+    return 0
+  }
+
+  const candidates = shuffled(pool.filter((c) => glyph(c) !== glyph(answer)))
+    .map((c) => ({ c, s: score(c) }))
+    .sort((a, b) => b.s - a.s)
+
+  const picked: KanaCell[] = []
+  const seen = new Set([glyph(answer)])
+  for (const { c } of candidates) {
+    if (picked.length >= count - 1) break
+    if (seen.has(glyph(c))) continue
+    seen.add(glyph(c))
+    picked.push(c)
+  }
+  return shuffled([answer, ...picked])
+}

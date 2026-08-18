@@ -24,6 +24,8 @@ export interface KanaRecord {
   set: string
   correct: number
   total: number
+  /** Absent on records written before the conversion drill existed. */
+  mode?: 'romaji' | 'convert'
 }
 
 export interface QuizRecord {

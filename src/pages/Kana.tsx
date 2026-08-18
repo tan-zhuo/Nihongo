@@ -1,4 +1,5 @@
 import { useEffect, useMemo, useRef, useState } from 'react'
+import { Link } from 'react-router-dom'
 import { useTranslation } from 'react-i18next'
 import { SECTIONS, allCells, type KanaCell, type KanaSection } from '../data/kana'
 import { addKanaRecord } from '../lib/storage'
@@ -134,9 +135,14 @@ export default function Kana() {
       <div className="mx-auto max-w-2xl">
         <div className="mb-5 flex items-center justify-between">
           <h1 className="font-serif text-2xl font-bold">{t('kana.practice')}</h1>
-          <button className="btn-ghost text-xs" onClick={() => setPracticing(false)}>
-            {t('kana.backToChart')}
-          </button>
+          <div className="flex gap-2">
+            <Link to="/kana/convert" className="btn-ghost text-xs">
+              {t('kana.convertEntry')}
+            </Link>
+            <button className="btn-ghost text-xs" onClick={() => setPracticing(false)}>
+              {t('kana.backToChart')}
+            </button>
+          </div>
         </div>
         <div className="mb-3">{scriptToggle}</div>
         <div className="mb-6 flex flex-wrap gap-2">
@@ -230,9 +236,14 @@ export default function Kana() {
     <div className="mx-auto max-w-3xl">
       <div className="mb-5 flex flex-wrap items-center justify-between gap-3">
         <h1 className="font-serif text-2xl font-bold">{t('kana.title')}</h1>
-        <button className="btn-primary text-sm" onClick={() => setPracticing(true)}>
-          {t('kana.practice')}
-        </button>
+        <div className="flex gap-2">
+          <Link to="/kana/convert" className="btn-ghost text-sm">
+            {t('kana.convertEntry')}
+          </Link>
+          <button className="btn-primary text-sm" onClick={() => setPracticing(true)}>
+            {t('kana.practice')}
+          </button>
+        </div>
       </div>
       <div className="mb-2">{scriptToggle}</div>
       <p className="mb-8 text-xs text-stone-400">{t('kana.tapHint')}</p>
