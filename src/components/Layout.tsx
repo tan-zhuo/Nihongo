@@ -58,6 +58,17 @@ const NAV_ITEMS = [
   { to: '/stats', key: 'stats', icon: 'stats' },
 ]
 
+const FOOTER_LINKS = [
+  { to: '/kana', key: 'nav.kana' },
+  { to: '/kana/convert', key: 'home.convertTitle' },
+  { to: '/grammar', key: 'nav.grammar' },
+  { to: '/articles', key: 'nav.articles' },
+  { to: '/vocab', key: 'nav.vocab' },
+  { to: '/quiz', key: 'nav.quiz' },
+]
+
+const YEAR = new Date().getFullYear()
+
 // The bottom tab bar drops Home — the logo already goes there — to stay legible at 375px.
 const TAB_ITEMS = NAV_ITEMS.filter((i) => i.key !== 'home')
 
@@ -131,47 +142,102 @@ export default function Layout() {
         <Outlet />
       </main>
 
-      <footer className="border-t border-stone-200/70 px-4 pb-20 pt-6 text-center text-xs tracking-wide text-stone-400 sm:pb-6">
-        <p className="mb-2">nihongo.ink · {t('app.tagline')}</p>
-        <p className="flex items-center justify-center gap-4">
-          <a
-            href="https://tanzhuo.xyz"
-            target="_blank"
-            rel="noopener noreferrer"
-            className="transition-colors hover:text-accent-dark"
-          >
-            {t('footer.blog')}
-          </a>
-          <span className="text-stone-300">·</span>
-          <a
-            href="https://github.com/tan-zhuo/Nihongo"
-            target="_blank"
-            rel="noopener noreferrer"
-            className="transition-colors hover:text-accent-dark"
-          >
-            {t('footer.source')} (GitHub)
-          </a>
-          <span className="text-stone-300">·</span>
-          <button
-            onClick={() => setFeedbackOpen(true)}
-            className="transition-colors hover:text-accent-dark"
-          >
-            {t('feedback.title')}
-          </button>
-        </p>
-        {/* Article audio credit required by the VOICEVOX terms; kana audio is CC BY-SA. */}
-        <p className="mt-2 text-[11px] text-stone-300">
-          音声: VOICEVOX:四国めたん · 五十音音声:{' '}
-          <a
-            href="https://www.guidetojapanese.org/"
-            target="_blank"
-            rel="noopener noreferrer"
-            className="underline decoration-stone-200 hover:text-stone-400"
-          >
-            Tae Kim&apos;s Guide to Japanese
-          </a>{' '}
-          (CC BY-SA 3.0)
-        </p>
+      <footer className="border-t border-stone-200/70 bg-white/50">
+        <div className="mx-auto max-w-5xl px-4 pb-24 pt-10 sm:px-6 sm:pb-10">
+          <div className="grid gap-9 sm:grid-cols-12 sm:gap-8">
+            <div className="sm:col-span-5">
+              <Link to="/" className="mb-3 inline-flex items-center gap-2.5">
+                <span className="flex h-8 w-8 items-center justify-center rounded-lg bg-accent-dark font-serif text-lg font-bold text-white">
+                  日
+                </span>
+                <span className="font-serif text-lg font-semibold tracking-tight">
+                  nihongo.ink
+                </span>
+              </Link>
+              <p className="max-w-sm text-xs leading-relaxed text-stone-400">
+                {t('footer.blurb')}
+              </p>
+              <p className="mt-3 text-[11px] leading-relaxed text-stone-300">
+                {t('footer.localOnly')}
+              </p>
+            </div>
+
+            <nav className="sm:col-span-4" aria-label={t('footer.headingPractice')}>
+              <h2 className="mb-3 text-[11px] font-semibold uppercase tracking-[0.18em] text-stone-400">
+                {t('footer.headingPractice')}
+              </h2>
+              <ul className="grid grid-cols-2 gap-x-4 gap-y-2 text-xs text-stone-500">
+                {FOOTER_LINKS.map((l) => (
+                  <li key={l.to}>
+                    <Link to={l.to} className="transition-colors hover:text-accent-dark">
+                      {t(l.key)}
+                    </Link>
+                  </li>
+                ))}
+              </ul>
+            </nav>
+
+            <nav className="sm:col-span-3" aria-label={t('footer.headingAbout')}>
+              <h2 className="mb-3 text-[11px] font-semibold uppercase tracking-[0.18em] text-stone-400">
+                {t('footer.headingAbout')}
+              </h2>
+              <ul className="space-y-2 text-xs text-stone-500">
+                <li>
+                  <Link to="/stats" className="transition-colors hover:text-accent-dark">
+                    {t('nav.stats')}
+                  </Link>
+                </li>
+                <li>
+                  <a
+                    href="https://tanzhuo.xyz"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    className="transition-colors hover:text-accent-dark"
+                  >
+                    {t('footer.blog')}
+                  </a>
+                </li>
+                <li>
+                  <a
+                    href="https://github.com/tan-zhuo/Nihongo"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    className="transition-colors hover:text-accent-dark"
+                  >
+                    {t('footer.source')}
+                  </a>
+                </li>
+                <li>
+                  <button
+                    onClick={() => setFeedbackOpen(true)}
+                    className="transition-colors hover:text-accent-dark"
+                  >
+                    {t('feedback.title')}
+                  </button>
+                </li>
+              </ul>
+            </nav>
+          </div>
+
+          <div className="mt-9 flex flex-col gap-2 border-t border-stone-200/70 pt-5 text-[11px] leading-relaxed text-stone-300 sm:flex-row sm:items-baseline sm:justify-between sm:gap-8">
+            <p suppressHydrationWarning>
+              © {YEAR} nihongo.ink · {t('app.tagline')}
+            </p>
+            {/* Attribution required by the VOICEVOX terms and the CC BY-SA kana audio. */}
+            <p className="sm:text-right">
+              音声: VOICEVOX:四国めたん · 五十音音声:{' '}
+              <a
+                href="https://www.guidetojapanese.org/"
+                target="_blank"
+                rel="noopener noreferrer"
+                className="underline decoration-stone-200 underline-offset-2 transition-colors hover:text-stone-400"
+              >
+                Tae Kim&apos;s Guide to Japanese
+              </a>{' '}
+              (CC BY-SA 3.0)
+            </p>
+          </div>
+        </div>
       </footer>
 
       {feedbackOpen && (

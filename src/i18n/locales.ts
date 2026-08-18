@@ -181,7 +181,14 @@ export const zh = {
     empty: '该筛选条件下暂无题目。',
   },
   result: { close: '关闭' },
-  footer: { blog: '作者博客', source: '开源代码' },
+  footer: {
+    blog: '作者博客',
+    source: '开源代码 (GitHub)',
+    headingPractice: '练习',
+    headingAbout: '关于本站',
+    blurb: '免费的日语练习站：五十音与假名转换、N5–N1 分级文章、4200 词汇、全考纲语法与敬语、JLPT 模拟刷题，全部配发音。',
+    localOnly: '无需注册，练习记录只保存在你自己的浏览器里。',
+  },
   feedback: {
     title: '留言反馈',
     note: '提交后会跳转到 GitHub 新建 Issue（需要 GitHub 账号），你的反馈对改进本站很有帮助！',
@@ -374,7 +381,14 @@ export const ja: typeof zh = {
     empty: 'この条件の問題はまだありません。',
   },
   result: { close: '閉じる' },
-  footer: { blog: '作者ブログ', source: 'ソースコード' },
+  footer: {
+    blog: '作者ブログ',
+    source: 'ソースコード (GitHub)',
+    headingPractice: '練習',
+    headingAbout: 'このサイト',
+    blurb: '無料の日本語練習サイト。五十音とかな変換、N5〜N1の文章、4200語の単語、文法・敬語、JLPT模擬問題。すべて音声つき。',
+    localOnly: '登録不要。練習記録はお使いのブラウザにのみ保存されます。',
+  },
   feedback: {
     title: 'フィードバック',
     note: '送信すると GitHub の Issue 作成ページに移動します（GitHub アカウントが必要）。ご意見をお待ちしています！',
@@ -567,7 +581,14 @@ export const en: typeof zh = {
     empty: 'No questions match this filter yet.',
   },
   result: { close: 'Close' },
-  footer: { blog: 'Author blog', source: 'Source code' },
+  footer: {
+    blog: 'Author blog',
+    source: 'Source code (GitHub)',
+    headingPractice: 'Practice',
+    headingAbout: 'About',
+    blurb: 'A free Japanese practice site: kana and kana conversion, JLPT N5–N1 articles, 4,200 words, full grammar and keigo, and mock exam questions — all with audio.',
+    localOnly: 'No sign-up. Your practice records stay in your own browser.',
+  },
   feedback: {
     title: 'Feedback',
     note: 'Submitting opens a prefilled GitHub issue (GitHub account required). Your feedback helps improve the site!',
