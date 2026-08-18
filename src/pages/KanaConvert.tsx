@@ -15,6 +15,7 @@ type SetKey = KanaSection | 'all'
 
 const SESSION_SIZE = 20
 const OPTION_COUNT = 6
+const AUTO_NEXT_MS = 550
 const DIR_KEY = 'nihongotype.kana.convert.dir'
 const MODE_KEY = 'nihongotype.kana.convert.mode'
 
@@ -187,6 +188,7 @@ export default function KanaConvert() {
   const savedRef = useRef(false)
 
   useEffect(() => {
+    cancelAutoNext()
     setIndex(0)
     setPicked(null)
     setRevealed(false)
@@ -227,7 +229,18 @@ export default function KanaConvert() {
     }
   }
 
+  // A correct pick moves on by itself; only a miss waits for the reader.
+  const autoNext = useRef<number | null>(null)
+  const cancelAutoNext = () => {
+    if (autoNext.current !== null) {
+      clearTimeout(autoNext.current)
+      autoNext.current = null
+    }
+  }
+  useEffect(() => cancelAutoNext, [])
+
   const advance = useCallback(() => {
+    cancelAutoNext()
     setIndex((i) => i + 1)
     setPicked(null)
     setRevealed(false)
@@ -244,10 +257,13 @@ export default function KanaConvert() {
 
   const choose = (option: KanaCell) => {
     if (!cell || picked) return
+    const ok = answer(option) === answer(cell)
     setPicked(option)
     setRevealed(true)
-    grade(answer(option) === answer(cell))
+    grade(ok)
     speakKana(answer(cell), cell.r[0], KANA_AUDIO)
+    // Long enough to register the green flash, short enough to stay in flow.
+    if (ok) autoNext.current = window.setTimeout(advance, AUTO_NEXT_MS)
   }
 
   const reveal = useCallback(() => {
@@ -450,7 +466,7 @@ export default function KanaConvert() {
               <p className="mt-4 text-center text-[11px] text-stone-300">
                 {t('kana.convert.hintChoice')}
               </p>
-              {revealed && (
+              {revealed && picked && answer(picked) !== answer(cell) && (
                 <div className="mt-4 flex justify-center">
                   <button className="btn-primary" onClick={advance}>
                     {t('vocab.nextWord')}
