@@ -53,6 +53,8 @@ export default function VocabBrowser({ pool, poolKey, zhFirst }: Props) {
   const [intervalMs, setIntervalMs] = useState<number>(3000)
   const [sound, setSound] = useState(true)
   const [images, setImages] = useState<Record<string, string>>({})
+  // Wikimedia URLs rot; a word whose image fails falls back to the search link.
+  const [broken, setBroken] = useState<Record<string, boolean>>({})
   const soundRef = useRef(sound)
   soundRef.current = sound
 
@@ -131,7 +133,7 @@ export default function VocabBrowser({ pool, poolKey, zhFirst }: Props) {
     )
   }
 
-  const img = word ? images[word.word] : undefined
+  const img = word && !broken[word.word] ? images[word.word] : undefined
 
   return (
     <div className="card overflow-hidden">
@@ -160,6 +162,7 @@ export default function VocabBrowser({ pool, poolKey, zhFirst }: Props) {
                 src={img}
                 alt={word!.word}
                 loading="lazy"
+                onError={() => setBroken((b) => ({ ...b, [word!.word]: true }))}
                 className="h-full rounded-xl object-cover shadow-sm"
               />
             ) : (
