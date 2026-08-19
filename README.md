@@ -6,6 +6,7 @@
 
 - **文章打字练习**：52 篇 N5–N1 分级文章（40 篇原创短文 + 12 篇日本经典昔话：桃太郎、浦島太郎、かぐや姫等），一行原文一行输入逐字实时比对，汉字带假名注音（可开关），IME 变换未确认的假名不计错。完成后显示正确率、速度（字/分钟）、用时、错误次数。
 - **单词练习**：4200 个 N5–N1 常用词汇（N5:700 / N4:800 / N3–N1:各900），两种模式（看意思打日语 / 看日语打意思），可按 JLPT 等级和五十音行筛选。
+- **标日分课单词**：《新版中日交流标准日本语》初级上下册、中级上下册、高级上下册共 6 册 104 课、3988 个单词，按课分组。三种记法：**卡片**（翻面看答案，「记住了 / 没记住」分级，日→中与中→日双向）、**选择题**（四选一，看日语选意思 / 看意思选日语 / 看汉字选读音，答对自动进入下一题）、**词表**（整课浏览，可朗读）。答题结果写入 5 级记忆盒（Leitner），到期的词会在册页提示复习。全程不需要输入日语。
 - **语法・敬语**：608 个 N5–N1 语法点（接续 + 中英讲解 + 注音例句 + 易错提示），另有 45 课敬语专项（入門 → 尊敬語 → 謙譲語 → 商务实践 → 误用警示）。
 - **JLPT 刷题**：325 道 N5–N1 真题风格原创模拟题（每级 65 题），覆盖汉字读音、表记、文脉规定、近义替换、用法、文法形式、句子排序（★）、读解八种题型，每题附中/英文解析，按等级和部分筛选，本地记录各级正确率。
 - **三语界面**：中文 / 日本語 / English，根据浏览器语言自动选择，可手动切换（记忆在 localStorage）。
@@ -53,6 +54,34 @@ vercel --prod   # 生产部署
 - `content` 为连续的一段日文（不含换行），字数在列表页自动统计。
 - 新增文章：往对应等级的 JSON 数组里追加对象即可（`id` 不要重复）；新增等级文件需在 `src/data/articles/index.ts` 中 import。
 
+### 标日单词 `src/data/textbook/elementary-1.json` … `advanced-2.json`
+
+```json
+{
+  "id": "elementary-1",
+  "series": "elementary",
+  "volume": 1,
+  "title": "初級 上", "title_zh": "初级 上册", "title_en": "Elementary I",
+  "themed": false,
+  "lessons": [
+    {
+      "n": 1,
+      "title": "李さんは中国人です",
+      "title_zh": "小李是中国人",
+      "words": [
+        { "id": "elementary-1-01-01", "w": "私", "r": "わたし", "p": "pron", "zh": "我", "en": "I; me" },
+        { "id": "elementary-1-01-14", "w": "違います", "r": "ちがいます", "p": "verb", "g": 1, "zh": "不是", "en": "that's wrong" }
+      ]
+    }
+  ]
+}
+```
+
+- `w` 表记 / `r` 假名读音（纯假名词与 `w` 相同）/ `p` 词性（同下方 vocab 的取值）/ `g` 动词类别（動1・動2・動3，仅动词有）。
+- `themed`：初级两册用教材本身的课题（`false`）；中级、高级按教材主题顺序分课，课题为自拟主题名（`true`），界面会注明。
+- 新增一册或一课：改对应 JSON 后无需其他改动，`/textbook` 列表、SEO 元信息和 `sitemap.xml` 都由 `src/data/textbook/index.ts` 与 `scripts/prerender.mjs` 自动生成。
+- 学习进度存在 localStorage 的 `nihongo.textbook.srs.v1`（每词一个 1–5 级记忆盒 + 上次作答时间），间隔为 1/2/4/8/16 天。
+
 ### 单词 `src/data/vocab/n5.json` … `n1.json`
 
 ```json
@@ -80,9 +109,12 @@ src/
 ├── types.ts                  # Level / Article / VocabWord 类型
 ├── data/
 │   ├── articles/  n5~n1.json + index.ts
+│   ├── textbook/  标日六册 json + index.ts
 │   └── vocab/     n5~n1.json + index.ts
 ├── hooks/useTyping.ts        # IME 感知的打字判定核心逻辑
 ├── lib/kana.ts               # 五十音行归类、释义模糊匹配
+├── lib/srs.ts                # 标日单词的 Leitner 记忆盒
+├── lib/wordquiz.ts           # 选择题生成（干扰项按词性挑选，错误读音由正确读音变形而来）
 ├── components/               # Layout(语言切换) / LevelFilter / ResultModal
 └── pages/                    # Home / Articles / Practice / Vocab
 ```

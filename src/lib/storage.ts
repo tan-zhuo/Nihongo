@@ -28,6 +28,16 @@ export interface KanaRecord {
   mode?: 'romaji' | 'convert'
 }
 
+export interface TextbookRecord {
+  ts: number
+  book: string
+  /** lesson number, or 0 for a whole-book review session */
+  lesson: number
+  mode: 'card' | 'choice'
+  correct: number
+  total: number
+}
+
 export interface QuizRecord {
   ts: number
   level: Level | 'all'
@@ -41,6 +51,7 @@ interface Records {
   vocab: VocabRecord[]
   kana: KanaRecord[]
   quiz: QuizRecord[]
+  textbook: TextbookRecord[]
 }
 
 const KEY = 'nihongotype.records.v1'
@@ -56,12 +67,13 @@ export function loadRecords(): Records {
         vocab: Array.isArray(parsed.vocab) ? parsed.vocab : [],
         kana: Array.isArray(parsed.kana) ? parsed.kana : [],
         quiz: Array.isArray(parsed.quiz) ? parsed.quiz : [],
+        textbook: Array.isArray(parsed.textbook) ? parsed.textbook : [],
       }
     }
   } catch {
     // corrupted or unavailable storage → start fresh
   }
-  return { articles: [], vocab: [], kana: [], quiz: [] }
+  return { articles: [], vocab: [], kana: [], quiz: [], textbook: [] }
 }
 
 function save(records: Records) {
@@ -104,6 +116,15 @@ export function addQuizRecord(record: QuizRecord) {
   records.quiz.push(record)
   if (records.quiz.length > MAX_ENTRIES) {
     records.quiz = records.quiz.slice(-MAX_ENTRIES)
+  }
+  save(records)
+}
+
+export function addTextbookRecord(record: TextbookRecord) {
+  const records = loadRecords()
+  records.textbook.push(record)
+  if (records.textbook.length > MAX_ENTRIES) {
+    records.textbook = records.textbook.slice(-MAX_ENTRIES)
   }
   save(records)
 }

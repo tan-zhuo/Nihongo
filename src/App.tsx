@@ -10,6 +10,7 @@ const pageLoaders = {
   grammar: () => import('./pages/Grammar'),
   practice: () => import('./pages/Practice'),
   vocab: () => import('./pages/Vocab'),
+  textbook: () => import('./pages/Textbook'),
   quiz: () => import('./pages/Quiz'),
   stats: () => import('./pages/Stats'),
 }
@@ -24,6 +25,7 @@ const KanaConvert = lazy(pageLoaders.kanaConvert)
 const Grammar = lazy(pageLoaders.grammar)
 const Practice = lazy(pageLoaders.practice)
 const Vocab = lazy(pageLoaders.vocab)
+const Textbook = lazy(pageLoaders.textbook)
 const Quiz = lazy(pageLoaders.quiz)
 const Stats = lazy(pageLoaders.stats)
 
@@ -43,6 +45,18 @@ export default function App() {
         <Route
           path="/vocab"
           element={<Suspense fallback={null}><Vocab /></Suspense>}
+        />
+        <Route
+          path="/textbook"
+          element={<Suspense fallback={null}><Textbook /></Suspense>}
+        />
+        <Route
+          path="/textbook/:book"
+          element={<Suspense fallback={null}><Textbook /></Suspense>}
+        />
+        <Route
+          path="/textbook/:book/:lesson"
+          element={<Suspense fallback={null}><Textbook /></Suspense>}
         />
         <Route
           path="/kana"

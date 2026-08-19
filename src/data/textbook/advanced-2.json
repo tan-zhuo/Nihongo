@@ -1,0 +1,4012 @@
+{
+ "id": "advanced-2",
+ "series": "advanced",
+ "volume": 2,
+ "title": "上級 下",
+ "title_zh": "高级 下册",
+ "title_en": "Advanced II",
+ "themed": true,
+ "lessons": [
+  {
+   "n": 13,
+   "title": "芸術と美",
+   "title_zh": "艺术与美",
+   "words": [
+    {
+     "id": "advanced-2-13-01",
+     "w": "芸術",
+     "r": "げいじゅつ",
+     "p": "noun",
+     "zh": "艺术",
+     "en": "art"
+    },
+    {
+     "id": "advanced-2-13-02",
+     "w": "美学",
+     "r": "びがく",
+     "p": "noun",
+     "zh": "美学",
+     "en": "aesthetics"
+    },
+    {
+     "id": "advanced-2-13-03",
+     "w": "審美眼",
+     "r": "しんびがん",
+     "p": "noun",
+     "zh": "审美眼光",
+     "en": "eye for beauty"
+    },
+    {
+     "id": "advanced-2-13-04",
+     "w": "創作",
+     "r": "そうさく",
+     "p": "noun",
+     "zh": "创作",
+     "en": "creation"
+    },
+    {
+     "id": "advanced-2-13-05",
+     "w": "表現手法",
+     "r": "ひょうげんしゅほう",
+     "p": "noun",
+     "zh": "表现手法",
+     "en": "means of expression"
+    },
+    {
+     "id": "advanced-2-13-06",
+     "w": "抽象画",
+     "r": "ちゅうしょうが",
+     "p": "noun",
+     "zh": "抽象画",
+     "en": "abstract painting"
+    },
+    {
+     "id": "advanced-2-13-07",
+     "w": "具象",
+     "r": "ぐしょう",
+     "p": "noun",
+     "zh": "具象",
+     "en": "figurative art"
+    },
+    {
+     "id": "advanced-2-13-08",
+     "w": "彫刻",
+     "r": "ちょうこく",
+     "p": "noun",
+     "zh": "雕刻",
+     "en": "sculpture"
+    },
+    {
+     "id": "advanced-2-13-09",
+     "w": "版画",
+     "r": "はんが",
+     "p": "noun",
+     "zh": "版画",
+     "en": "print"
+    },
+    {
+     "id": "advanced-2-13-10",
+     "w": "工芸",
+     "r": "こうげい",
+     "p": "noun",
+     "zh": "工艺",
+     "en": "craft"
+    },
+    {
+     "id": "advanced-2-13-11",
+     "w": "意匠",
+     "r": "いしょう",
+     "p": "noun",
+     "zh": "设计，意匠",
+     "en": "design"
+    },
+    {
+     "id": "advanced-2-13-12",
+     "w": "構図",
+     "r": "こうず",
+     "p": "noun",
+     "zh": "构图",
+     "en": "composition"
+    },
+    {
+     "id": "advanced-2-13-13",
+     "w": "色彩",
+     "r": "しきさい",
+     "p": "noun",
+     "zh": "色彩",
+     "en": "color"
+    },
+    {
+     "id": "advanced-2-13-14",
+     "w": "質感",
+     "r": "しつかん",
+     "p": "noun",
+     "zh": "质感",
+     "en": "texture"
+    },
+    {
+     "id": "advanced-2-13-15",
+     "w": "陰影",
+     "r": "いんえい",
+     "p": "noun",
+     "zh": "阴影",
+     "en": "shading"
+    },
+    {
+     "id": "advanced-2-13-16",
+     "w": "様式",
+     "r": "ようしき",
+     "p": "noun",
+     "zh": "样式，风格",
+     "en": "style"
+    },
+    {
+     "id": "advanced-2-13-17",
+     "w": "流派",
+     "r": "りゅうは",
+     "p": "noun",
+     "zh": "流派",
+     "en": "school (of art)"
+    },
+    {
+     "id": "advanced-2-13-18",
+     "w": "前衛",
+     "r": "ぜんえい",
+     "p": "noun",
+     "zh": "前卫",
+     "en": "avant-garde"
+    },
+    {
+     "id": "advanced-2-13-19",
+     "w": "個展",
+     "r": "こてん",
+     "p": "noun",
+     "zh": "个展",
+     "en": "solo exhibition"
+    },
+    {
+     "id": "advanced-2-13-20",
+     "w": "展覧会",
+     "r": "てんらんかい",
+     "p": "noun",
+     "zh": "展览会",
+     "en": "exhibition"
+    },
+    {
+     "id": "advanced-2-13-21",
+     "w": "所蔵",
+     "r": "しょぞう",
+     "p": "noun",
+     "zh": "收藏",
+     "en": "in the collection of"
+    },
+    {
+     "id": "advanced-2-13-22",
+     "w": "鑑賞",
+     "r": "かんしょう",
+     "p": "noun",
+     "zh": "鉴赏",
+     "en": "appreciation"
+    },
+    {
+     "id": "advanced-2-13-23",
+     "w": "感性",
+     "r": "かんせい",
+     "p": "noun",
+     "zh": "感性",
+     "en": "sensibility"
+    },
+    {
+     "id": "advanced-2-13-24",
+     "w": "独創性",
+     "r": "どくそうせい",
+     "p": "noun",
+     "zh": "独创性",
+     "en": "originality"
+    },
+    {
+     "id": "advanced-2-13-25",
+     "w": "模倣",
+     "r": "もほう",
+     "p": "noun",
+     "zh": "模仿",
+     "en": "imitation"
+    },
+    {
+     "id": "advanced-2-13-26",
+     "w": "評価される",
+     "r": "ひょうかされる",
+     "p": "verb",
+     "zh": "受到好评",
+     "en": "to be highly regarded",
+     "g": 2
+    },
+    {
+     "id": "advanced-2-13-27",
+     "w": "手掛ける",
+     "r": "てがける",
+     "p": "verb",
+     "zh": "经手，创作",
+     "en": "to work on",
+     "g": 2
+    },
+    {
+     "id": "advanced-2-13-28",
+     "w": "仕上げる",
+     "r": "しあげる",
+     "p": "verb",
+     "zh": "完成，收尾",
+     "en": "to finish",
+     "g": 2
+    },
+    {
+     "id": "advanced-2-13-29",
+     "w": "魅せる",
+     "r": "みせる",
+     "p": "verb",
+     "zh": "使着迷",
+     "en": "to captivate",
+     "g": 2
+    },
+    {
+     "id": "advanced-2-13-30",
+     "w": "引き立てる",
+     "r": "ひきたてる",
+     "p": "verb",
+     "zh": "衬托",
+     "en": "to set off; to enhance",
+     "g": 2
+    },
+    {
+     "id": "advanced-2-13-31",
+     "w": "追求する",
+     "r": "ついきゅうする",
+     "p": "verb",
+     "zh": "追求",
+     "en": "to pursue",
+     "g": 3
+    },
+    {
+     "id": "advanced-2-13-32",
+     "w": "体現する",
+     "r": "たいげんする",
+     "p": "verb",
+     "zh": "体现",
+     "en": "to embody",
+     "g": 3
+    },
+    {
+     "id": "advanced-2-13-33",
+     "w": "洗練",
+     "r": "せんれん",
+     "p": "noun",
+     "zh": "洗练，精致",
+     "en": "refinement"
+    },
+    {
+     "id": "advanced-2-13-34",
+     "w": "繊細",
+     "r": "せんさい",
+     "p": "na-adj",
+     "zh": "细腻的",
+     "en": "delicate"
+    },
+    {
+     "id": "advanced-2-13-35",
+     "w": "荘厳",
+     "r": "そうごん",
+     "p": "na-adj",
+     "zh": "庄严的",
+     "en": "majestic"
+    },
+    {
+     "id": "advanced-2-13-36",
+     "w": "優美",
+     "r": "ゆうび",
+     "p": "na-adj",
+     "zh": "优美的",
+     "en": "graceful"
+    },
+    {
+     "id": "advanced-2-13-37",
+     "w": "奇抜",
+     "r": "きばつ",
+     "p": "na-adj",
+     "zh": "新奇的，出人意料的",
+     "en": "eccentric; novel"
+    },
+    {
+     "id": "advanced-2-13-38",
+     "w": "大胆",
+     "r": "だいたん",
+     "p": "na-adj",
+     "zh": "大胆的",
+     "en": "bold"
+    },
+    {
+     "id": "advanced-2-13-39",
+     "w": "味わい深い",
+     "r": "あじわいぶかい",
+     "p": "i-adj",
+     "zh": "耐人寻味的",
+     "en": "deeply evocative"
+    },
+    {
+     "id": "advanced-2-13-40",
+     "w": "言わば",
+     "r": "いわば",
+     "p": "adv",
+     "zh": "可谓",
+     "en": "so to speak"
+    }
+   ]
+  },
+  {
+   "n": 14,
+   "title": "建築と都市計画",
+   "title_zh": "建筑与城市规划",
+   "words": [
+    {
+     "id": "advanced-2-14-01",
+     "w": "建築",
+     "r": "けんちく",
+     "p": "noun",
+     "zh": "建筑",
+     "en": "architecture"
+    },
+    {
+     "id": "advanced-2-14-02",
+     "w": "設計",
+     "r": "せっけい",
+     "p": "noun",
+     "zh": "设计",
+     "en": "design"
+    },
+    {
+     "id": "advanced-2-14-03",
+     "w": "構造",
+     "r": "こうぞう",
+     "p": "noun",
+     "zh": "结构",
+     "en": "structure"
+    },
+    {
+     "id": "advanced-2-14-04",
+     "w": "耐震",
+     "r": "たいしん",
+     "p": "noun",
+     "zh": "抗震",
+     "en": "earthquake resistance"
+    },
+    {
+     "id": "advanced-2-14-05",
+     "w": "免震",
+     "r": "めんしん",
+     "p": "noun",
+     "zh": "隔震",
+     "en": "seismic isolation"
+    },
+    {
+     "id": "advanced-2-14-06",
+     "w": "基礎",
+     "r": "きそ",
+     "p": "noun",
+     "zh": "地基，基础",
+     "en": "foundation"
+    },
+    {
+     "id": "advanced-2-14-07",
+     "w": "施工",
+     "r": "せこう",
+     "p": "noun",
+     "zh": "施工",
+     "en": "construction"
+    },
+    {
+     "id": "advanced-2-14-08",
+     "w": "工期",
+     "r": "こうき",
+     "p": "noun",
+     "zh": "工期",
+     "en": "construction period"
+    },
+    {
+     "id": "advanced-2-14-09",
+     "w": "景観",
+     "r": "けいかん",
+     "p": "noun",
+     "zh": "景观",
+     "en": "landscape; townscape"
+    },
+    {
+     "id": "advanced-2-14-10",
+     "w": "都市計画",
+     "r": "としけいかく",
+     "p": "noun",
+     "zh": "城市规划",
+     "en": "urban planning"
+    },
+    {
+     "id": "advanced-2-14-11",
+     "w": "区画整理",
+     "r": "くかくせいり",
+     "p": "noun",
+     "zh": "土地区划整理",
+     "en": "land readjustment"
+    },
+    {
+     "id": "advanced-2-14-12",
+     "w": "用途地域",
+     "r": "ようとちいき",
+     "p": "noun",
+     "zh": "用途分区",
+     "en": "zoning district"
+    },
+    {
+     "id": "advanced-2-14-13",
+     "w": "容積率",
+     "r": "ようせきりつ",
+     "p": "noun",
+     "zh": "容积率",
+     "en": "floor area ratio"
+    },
+    {
+     "id": "advanced-2-14-14",
+     "w": "高層ビル",
+     "r": "こうそうビル",
+     "p": "noun",
+     "zh": "高层建筑",
+     "en": "high-rise"
+    },
+    {
+     "id": "advanced-2-14-15",
+     "w": "住宅街",
+     "r": "じゅうたくがい",
+     "p": "noun",
+     "zh": "住宅区",
+     "en": "residential area"
+    },
+    {
+     "id": "advanced-2-14-16",
+     "w": "公共施設",
+     "r": "こうきょうしせつ",
+     "p": "noun",
+     "zh": "公共设施",
+     "en": "public facility"
+    },
+    {
+     "id": "advanced-2-14-17",
+     "w": "緑地",
+     "r": "りょくち",
+     "p": "noun",
+     "zh": "绿地",
+     "en": "green space"
+    },
+    {
+     "id": "advanced-2-14-18",
+     "w": "歩行者天国",
+     "r": "ほこうしゃてんごく",
+     "p": "noun",
+     "zh": "步行街",
+     "en": "pedestrian mall"
+    },
+    {
+     "id": "advanced-2-14-19",
+     "w": "再開発計画",
+     "r": "さいかいはつけいかく",
+     "p": "noun",
+     "zh": "再开发计划",
+     "en": "redevelopment plan"
+    },
+    {
+     "id": "advanced-2-14-20",
+     "w": "老朽化",
+     "r": "ろうきゅうか",
+     "p": "noun",
+     "zh": "老化，破旧",
+     "en": "deterioration with age"
+    },
+    {
+     "id": "advanced-2-14-21",
+     "w": "改修",
+     "r": "かいしゅう",
+     "p": "noun",
+     "zh": "改建，修缮",
+     "en": "renovation"
+    },
+    {
+     "id": "advanced-2-14-22",
+     "w": "解体",
+     "r": "かいたい",
+     "p": "noun",
+     "zh": "拆除",
+     "en": "demolition"
+    },
+    {
+     "id": "advanced-2-14-23",
+     "w": "保存地区",
+     "r": "ほぞんちく",
+     "p": "noun",
+     "zh": "保护区",
+     "en": "preservation district"
+    },
+    {
+     "id": "advanced-2-14-24",
+     "w": "街並み",
+     "r": "まちなみ",
+     "p": "noun",
+     "zh": "街景",
+     "en": "streetscape"
+    },
+    {
+     "id": "advanced-2-14-25",
+     "w": "調和",
+     "r": "ちょうわ",
+     "p": "noun",
+     "zh": "和谐",
+     "en": "harmony"
+    },
+    {
+     "id": "advanced-2-14-26",
+     "w": "動線",
+     "r": "どうせん",
+     "p": "noun",
+     "zh": "动线",
+     "en": "traffic flow line"
+    },
+    {
+     "id": "advanced-2-14-27",
+     "w": "採光",
+     "r": "さいこう",
+     "p": "noun",
+     "zh": "采光",
+     "en": "lighting; daylighting"
+    },
+    {
+     "id": "advanced-2-14-28",
+     "w": "断熱",
+     "r": "だんねつ",
+     "p": "noun",
+     "zh": "隔热",
+     "en": "insulation"
+    },
+    {
+     "id": "advanced-2-14-29",
+     "w": "省エネ設計",
+     "r": "しょうエネせっけい",
+     "p": "noun",
+     "zh": "节能设计",
+     "en": "energy-efficient design"
+    },
+    {
+     "id": "advanced-2-14-30",
+     "w": "建材",
+     "r": "けんざい",
+     "p": "noun",
+     "zh": "建材",
+     "en": "building materials"
+    },
+    {
+     "id": "advanced-2-14-31",
+     "w": "設計する",
+     "r": "せっけいする",
+     "p": "verb",
+     "zh": "设计",
+     "en": "to design",
+     "g": 3
+    },
+    {
+     "id": "advanced-2-14-32",
+     "w": "建設する",
+     "r": "けんせつする",
+     "p": "verb",
+     "zh": "建设",
+     "en": "to construct",
+     "g": 3
+    },
+    {
+     "id": "advanced-2-14-33",
+     "w": "整備する",
+     "r": "せいびする",
+     "p": "verb",
+     "zh": "整备，完善",
+     "en": "to develop; to maintain",
+     "g": 3
+    },
+    {
+     "id": "advanced-2-14-34",
+     "w": "配置する",
+     "r": "はいちする",
+     "p": "verb",
+     "zh": "配置，布局",
+     "en": "to arrange; to place",
+     "g": 3
+    },
+    {
+     "id": "advanced-2-14-35",
+     "w": "取り壊す",
+     "r": "とりこわす",
+     "p": "verb",
+     "zh": "拆毁",
+     "en": "to tear down",
+     "g": 1
+    },
+    {
+     "id": "advanced-2-14-36",
+     "w": "溶け込む",
+     "r": "とけこむ",
+     "p": "verb",
+     "zh": "融入",
+     "en": "to blend in",
+     "g": 1
+    },
+    {
+     "id": "advanced-2-14-37",
+     "w": "機能的",
+     "r": "きのうてき",
+     "p": "na-adj",
+     "zh": "功能性的",
+     "en": "functional"
+    },
+    {
+     "id": "advanced-2-14-38",
+     "w": "合理的",
+     "r": "ごうりてき",
+     "p": "na-adj",
+     "zh": "合理的",
+     "en": "rational"
+    },
+    {
+     "id": "advanced-2-14-39",
+     "w": "開放感",
+     "r": "かいほうかん",
+     "p": "noun",
+     "zh": "开阔感",
+     "en": "sense of openness"
+    },
+    {
+     "id": "advanced-2-14-40",
+     "w": "一体的",
+     "r": "いったいてき",
+     "p": "na-adj",
+     "zh": "一体化的",
+     "en": "integrated"
+    }
+   ]
+  },
+  {
+   "n": 15,
+   "title": "自然科学と宇宙",
+   "title_zh": "自然科学与宇宙",
+   "words": [
+    {
+     "id": "advanced-2-15-01",
+     "w": "宇宙",
+     "r": "うちゅう",
+     "p": "noun",
+     "zh": "宇宙",
+     "en": "universe; space"
+    },
+    {
+     "id": "advanced-2-15-02",
+     "w": "天体",
+     "r": "てんたい",
+     "p": "noun",
+     "zh": "天体",
+     "en": "celestial body"
+    },
+    {
+     "id": "advanced-2-15-03",
+     "w": "銀河",
+     "r": "ぎんが",
+     "p": "noun",
+     "zh": "银河",
+     "en": "galaxy"
+    },
+    {
+     "id": "advanced-2-15-04",
+     "w": "恒星",
+     "r": "こうせい",
+     "p": "noun",
+     "zh": "恒星",
+     "en": "star"
+    },
+    {
+     "id": "advanced-2-15-05",
+     "w": "惑星",
+     "r": "わくせい",
+     "p": "noun",
+     "zh": "行星",
+     "en": "planet"
+    },
+    {
+     "id": "advanced-2-15-06",
+     "w": "重力",
+     "r": "じゅうりょく",
+     "p": "noun",
+     "zh": "重力",
+     "en": "gravity"
+    },
+    {
+     "id": "advanced-2-15-07",
+     "w": "軌道",
+     "r": "きどう",
+     "p": "noun",
+     "zh": "轨道",
+     "en": "orbit"
+    },
+    {
+     "id": "advanced-2-15-08",
+     "w": "探査機",
+     "r": "たんさき",
+     "p": "noun",
+     "zh": "探测器",
+     "en": "probe"
+    },
+    {
+     "id": "advanced-2-15-09",
+     "w": "観測",
+     "r": "かんそく",
+     "p": "noun",
+     "zh": "观测",
+     "en": "observation"
+    },
+    {
+     "id": "advanced-2-15-10",
+     "w": "望遠鏡",
+     "r": "ぼうえんきょう",
+     "p": "noun",
+     "zh": "望远镜",
+     "en": "telescope"
+    },
+    {
+     "id": "advanced-2-15-11",
+     "w": "物理学",
+     "r": "ぶつりがく",
+     "p": "noun",
+     "zh": "物理学",
+     "en": "physics"
+    },
+    {
+     "id": "advanced-2-15-12",
+     "w": "化学",
+     "r": "かがく",
+     "p": "noun",
+     "zh": "化学",
+     "en": "chemistry"
+    },
+    {
+     "id": "advanced-2-15-13",
+     "w": "生物学",
+     "r": "せいぶつがく",
+     "p": "noun",
+     "zh": "生物学",
+     "en": "biology"
+    },
+    {
+     "id": "advanced-2-15-14",
+     "w": "素粒子",
+     "r": "そりゅうし",
+     "p": "noun",
+     "zh": "基本粒子",
+     "en": "elementary particle"
+    },
+    {
+     "id": "advanced-2-15-15",
+     "w": "原子",
+     "r": "げんし",
+     "p": "noun",
+     "zh": "原子",
+     "en": "atom"
+    },
+    {
+     "id": "advanced-2-15-16",
+     "w": "分子",
+     "r": "ぶんし",
+     "p": "noun",
+     "zh": "分子",
+     "en": "molecule"
+    },
+    {
+     "id": "advanced-2-15-17",
+     "w": "元素",
+     "r": "げんそ",
+     "p": "noun",
+     "zh": "元素",
+     "en": "element"
+    },
+    {
+     "id": "advanced-2-15-18",
+     "w": "化合物",
+     "r": "かごうぶつ",
+     "p": "noun",
+     "zh": "化合物",
+     "en": "compound"
+    },
+    {
+     "id": "advanced-2-15-19",
+     "w": "反応",
+     "r": "はんのう",
+     "p": "noun",
+     "zh": "反应",
+     "en": "reaction"
+    },
+    {
+     "id": "advanced-2-15-20",
+     "w": "法則",
+     "r": "ほうそく",
+     "p": "noun",
+     "zh": "定律",
+     "en": "law (of nature)"
+    },
+    {
+     "id": "advanced-2-15-21",
+     "w": "理論",
+     "r": "りろん",
+     "p": "noun",
+     "zh": "理论",
+     "en": "theory"
+    },
+    {
+     "id": "advanced-2-15-22",
+     "w": "実証実験",
+     "r": "じっしょうじっけん",
+     "p": "noun",
+     "zh": "验证实验",
+     "en": "demonstration experiment"
+    },
+    {
+     "id": "advanced-2-15-23",
+     "w": "測定",
+     "r": "そくてい",
+     "p": "noun",
+     "zh": "测定",
+     "en": "measurement"
+    },
+    {
+     "id": "advanced-2-15-24",
+     "w": "数値",
+     "r": "すうち",
+     "p": "noun",
+     "zh": "数值",
+     "en": "numerical value"
+    },
+    {
+     "id": "advanced-2-15-25",
+     "w": "誤差",
+     "r": "ごさ",
+     "p": "noun",
+     "zh": "误差",
+     "en": "margin of error"
+    },
+    {
+     "id": "advanced-2-15-26",
+     "w": "エネルギー保存",
+     "r": "エネルギーほぞん",
+     "p": "noun",
+     "zh": "能量守恒",
+     "en": "conservation of energy"
+    },
+    {
+     "id": "advanced-2-15-27",
+     "w": "進化論",
+     "r": "しんかろん",
+     "p": "noun",
+     "zh": "进化论",
+     "en": "theory of evolution"
+    },
+    {
+     "id": "advanced-2-15-28",
+     "w": "細胞",
+     "r": "さいぼう",
+     "p": "noun",
+     "zh": "细胞",
+     "en": "cell"
+    },
+    {
+     "id": "advanced-2-15-29",
+     "w": "生態",
+     "r": "せいたい",
+     "p": "noun",
+     "zh": "生态",
+     "en": "ecology"
+    },
+    {
+     "id": "advanced-2-15-30",
+     "w": "起源",
+     "r": "きげん",
+     "p": "noun",
+     "zh": "起源",
+     "en": "origin"
+    },
+    {
+     "id": "advanced-2-15-31",
+     "w": "解明する",
+     "r": "かいめいする",
+     "p": "verb",
+     "zh": "阐明",
+     "en": "to elucidate",
+     "g": 3
+    },
+    {
+     "id": "advanced-2-15-32",
+     "w": "観測する",
+     "r": "かんそくする",
+     "p": "verb",
+     "zh": "观测",
+     "en": "to observe",
+     "g": 3
+    },
+    {
+     "id": "advanced-2-15-33",
+     "w": "証明する",
+     "r": "しょうめいする",
+     "p": "verb",
+     "zh": "证明",
+     "en": "to prove",
+     "g": 3
+    },
+    {
+     "id": "advanced-2-15-34",
+     "w": "予測する",
+     "r": "よそくする",
+     "p": "verb",
+     "zh": "预测",
+     "en": "to predict",
+     "g": 3
+    },
+    {
+     "id": "advanced-2-15-35",
+     "w": "応用する",
+     "r": "おうようする",
+     "p": "verb",
+     "zh": "应用",
+     "en": "to apply",
+     "g": 3
+    },
+    {
+     "id": "advanced-2-15-36",
+     "w": "検出する",
+     "r": "けんしゅつする",
+     "p": "verb",
+     "zh": "检测出",
+     "en": "to detect",
+     "g": 3
+    },
+    {
+     "id": "advanced-2-15-37",
+     "w": "未知",
+     "r": "みち",
+     "p": "na-adj",
+     "zh": "未知的",
+     "en": "unknown"
+    },
+    {
+     "id": "advanced-2-15-38",
+     "w": "膨大",
+     "r": "ぼうだい",
+     "p": "na-adj",
+     "zh": "庞大的",
+     "en": "enormous"
+    },
+    {
+     "id": "advanced-2-15-39",
+     "w": "微細",
+     "r": "びさい",
+     "p": "na-adj",
+     "zh": "微小的",
+     "en": "minute"
+    },
+    {
+     "id": "advanced-2-15-40",
+     "w": "ひいては",
+     "r": "ひいては",
+     "p": "adv",
+     "zh": "进而，甚至",
+     "en": "and by extension"
+    }
+   ]
+  },
+  {
+   "n": 16,
+   "title": "生命と倫理",
+   "title_zh": "生命与伦理",
+   "words": [
+    {
+     "id": "advanced-2-16-01",
+     "w": "生命",
+     "r": "せいめい",
+     "p": "noun",
+     "zh": "生命",
+     "en": "life"
+    },
+    {
+     "id": "advanced-2-16-02",
+     "w": "生命倫理",
+     "r": "せいめいりんり",
+     "p": "noun",
+     "zh": "生命伦理",
+     "en": "bioethics"
+    },
+    {
+     "id": "advanced-2-16-03",
+     "w": "尊厳",
+     "r": "そんげん",
+     "p": "noun",
+     "zh": "尊严",
+     "en": "dignity"
+    },
+    {
+     "id": "advanced-2-16-04",
+     "w": "人格",
+     "r": "じんかく",
+     "p": "noun",
+     "zh": "人格",
+     "en": "personhood"
+    },
+    {
+     "id": "advanced-2-16-05",
+     "w": "遺伝",
+     "r": "いでん",
+     "p": "noun",
+     "zh": "遗传",
+     "en": "heredity"
+    },
+    {
+     "id": "advanced-2-16-06",
+     "w": "遺伝子操作",
+     "r": "いでんしそうさ",
+     "p": "noun",
+     "zh": "基因操作",
+     "en": "genetic manipulation"
+    },
+    {
+     "id": "advanced-2-16-07",
+     "w": "ゲノム",
+     "r": "ゲノム",
+     "p": "noun",
+     "zh": "基因组",
+     "en": "genome"
+    },
+    {
+     "id": "advanced-2-16-08",
+     "w": "クローン",
+     "r": "クローン",
+     "p": "noun",
+     "zh": "克隆",
+     "en": "clone"
+    },
+    {
+     "id": "advanced-2-16-09",
+     "w": "再生医療",
+     "r": "さいせいいりょう",
+     "p": "noun",
+     "zh": "再生医疗",
+     "en": "regenerative medicine"
+    },
+    {
+     "id": "advanced-2-16-10",
+     "w": "幹細胞",
+     "r": "かんさいぼう",
+     "p": "noun",
+     "zh": "干细胞",
+     "en": "stem cell"
+    },
+    {
+     "id": "advanced-2-16-11",
+     "w": "臓器提供",
+     "r": "ぞうきていきょう",
+     "p": "noun",
+     "zh": "器官捐献",
+     "en": "organ donation"
+    },
+    {
+     "id": "advanced-2-16-12",
+     "w": "脳死",
+     "r": "のうし",
+     "p": "noun",
+     "zh": "脑死亡",
+     "en": "brain death"
+    },
+    {
+     "id": "advanced-2-16-13",
+     "w": "安楽死",
+     "r": "あんらくし",
+     "p": "noun",
+     "zh": "安乐死",
+     "en": "euthanasia"
+    },
+    {
+     "id": "advanced-2-16-14",
+     "w": "尊厳死",
+     "r": "そんげんし",
+     "p": "noun",
+     "zh": "尊严死",
+     "en": "death with dignity"
+    },
+    {
+     "id": "advanced-2-16-15",
+     "w": "延命治療",
+     "r": "えんめいちりょう",
+     "p": "noun",
+     "zh": "延命治疗",
+     "en": "life-prolonging treatment"
+    },
+    {
+     "id": "advanced-2-16-16",
+     "w": "告知",
+     "r": "こくち",
+     "p": "noun",
+     "zh": "告知（病情）",
+     "en": "disclosure (of diagnosis)"
+    },
+    {
+     "id": "advanced-2-16-17",
+     "w": "同意",
+     "r": "どうい",
+     "p": "noun",
+     "zh": "同意",
+     "en": "consent"
+    },
+    {
+     "id": "advanced-2-16-18",
+     "w": "自己決定権",
+     "r": "じこけっていけん",
+     "p": "noun",
+     "zh": "自我决定权",
+     "en": "right to self-determination"
+    },
+    {
+     "id": "advanced-2-16-19",
+     "w": "生殖",
+     "r": "せいしょく",
+     "p": "noun",
+     "zh": "生殖",
+     "en": "reproduction"
+    },
+    {
+     "id": "advanced-2-16-20",
+     "w": "不妊治療",
+     "r": "ふにんちりょう",
+     "p": "noun",
+     "zh": "不孕治疗",
+     "en": "fertility treatment"
+    },
+    {
+     "id": "advanced-2-16-21",
+     "w": "出生前診断",
+     "r": "しゅっしょうまえしんだん",
+     "p": "noun",
+     "zh": "产前诊断",
+     "en": "prenatal diagnosis"
+    },
+    {
+     "id": "advanced-2-16-22",
+     "w": "命の選別",
+     "r": "いのちのせんべつ",
+     "p": "noun",
+     "zh": "生命的筛选",
+     "en": "selection of lives"
+    },
+    {
+     "id": "advanced-2-16-23",
+     "w": "動物実験",
+     "r": "どうぶつじっけん",
+     "p": "noun",
+     "zh": "动物实验",
+     "en": "animal testing"
+    },
+    {
+     "id": "advanced-2-16-24",
+     "w": "倫理委員会",
+     "r": "りんりいいんかい",
+     "p": "noun",
+     "zh": "伦理委员会",
+     "en": "ethics committee"
+    },
+    {
+     "id": "advanced-2-16-25",
+     "w": "指針",
+     "r": "ししん",
+     "p": "noun",
+     "zh": "方针，准则",
+     "en": "guideline"
+    },
+    {
+     "id": "advanced-2-16-26",
+     "w": "歯止め",
+     "r": "はどめ",
+     "p": "noun",
+     "zh": "制约，刹车",
+     "en": "brake; check"
+    },
+    {
+     "id": "advanced-2-16-27",
+     "w": "是非",
+     "r": "ぜひ",
+     "p": "noun",
+     "zh": "是非，可否",
+     "en": "the rights and wrongs"
+    },
+    {
+     "id": "advanced-2-16-28",
+     "w": "議論を呼ぶ",
+     "r": "ぎろんをよぶ",
+     "p": "expr",
+     "zh": "引发争论",
+     "en": "to spark debate"
+    },
+    {
+     "id": "advanced-2-16-29",
+     "w": "問われる",
+     "r": "とわれる",
+     "p": "verb",
+     "zh": "被追问，受质疑",
+     "en": "to be called into question",
+     "g": 2
+    },
+    {
+     "id": "advanced-2-16-30",
+     "w": "線引きする",
+     "r": "せんびきする",
+     "p": "verb",
+     "zh": "划界限",
+     "en": "to draw a line",
+     "g": 3
+    },
+    {
+     "id": "advanced-2-16-31",
+     "w": "許容する",
+     "r": "きょようする",
+     "p": "verb",
+     "zh": "容许",
+     "en": "to permit",
+     "g": 3
+    },
+    {
+     "id": "advanced-2-16-32",
+     "w": "規制する",
+     "r": "きせいする",
+     "p": "verb",
+     "zh": "限制",
+     "en": "to regulate",
+     "g": 3
+    },
+    {
+     "id": "advanced-2-16-33",
+     "w": "尊重する",
+     "r": "そんちょうする",
+     "p": "verb",
+     "zh": "尊重",
+     "en": "to respect",
+     "g": 3
+    },
+    {
+     "id": "advanced-2-16-34",
+     "w": "直面する",
+     "r": "ちょくめんする",
+     "p": "verb",
+     "zh": "面临",
+     "en": "to face",
+     "g": 3
+    },
+    {
+     "id": "advanced-2-16-35",
+     "w": "慎重",
+     "r": "しんちょう",
+     "p": "na-adj",
+     "zh": "慎重的",
+     "en": "cautious"
+    },
+    {
+     "id": "advanced-2-16-36",
+     "w": "深遠",
+     "r": "しんえん",
+     "p": "na-adj",
+     "zh": "深远的",
+     "en": "profound"
+    },
+    {
+     "id": "advanced-2-16-37",
+     "w": "倫理的",
+     "r": "りんりてき",
+     "p": "na-adj",
+     "zh": "伦理的",
+     "en": "ethical"
+    },
+    {
+     "id": "advanced-2-16-38",
+     "w": "根源的",
+     "r": "こんげんてき",
+     "p": "na-adj",
+     "zh": "根源性的",
+     "en": "fundamental"
+    },
+    {
+     "id": "advanced-2-16-39",
+     "w": "避けて通れない",
+     "r": "さけてとおれない",
+     "p": "expr",
+     "zh": "无法回避",
+     "en": "unavoidable"
+    },
+    {
+     "id": "advanced-2-16-40",
+     "w": "果たして",
+     "r": "はたして",
+     "p": "adv",
+     "zh": "究竟，果真",
+     "en": "really; indeed"
+    }
+   ]
+  },
+  {
+   "n": 17,
+   "title": "心理と感情",
+   "title_zh": "心理与情感",
+   "words": [
+    {
+     "id": "advanced-2-17-01",
+     "w": "心理",
+     "r": "しんり",
+     "p": "noun",
+     "zh": "心理",
+     "en": "psychology; state of mind"
+    },
+    {
+     "id": "advanced-2-17-02",
+     "w": "心理学",
+     "r": "しんりがく",
+     "p": "noun",
+     "zh": "心理学",
+     "en": "psychology"
+    },
+    {
+     "id": "advanced-2-17-03",
+     "w": "無意識",
+     "r": "むいしき",
+     "p": "noun",
+     "zh": "无意识",
+     "en": "the unconscious"
+    },
+    {
+     "id": "advanced-2-17-04",
+     "w": "潜在意識",
+     "r": "せんざいいしき",
+     "p": "noun",
+     "zh": "潜意识",
+     "en": "subconscious"
+    },
+    {
+     "id": "advanced-2-17-05",
+     "w": "動機",
+     "r": "どうき",
+     "p": "noun",
+     "zh": "动机",
+     "en": "motive"
+    },
+    {
+     "id": "advanced-2-17-06",
+     "w": "衝動",
+     "r": "しょうどう",
+     "p": "noun",
+     "zh": "冲动",
+     "en": "impulse"
+    },
+    {
+     "id": "advanced-2-17-07",
+     "w": "欲求",
+     "r": "よっきゅう",
+     "p": "noun",
+     "zh": "欲求，需求",
+     "en": "desire; need"
+    },
+    {
+     "id": "advanced-2-17-08",
+     "w": "感情",
+     "r": "かんじょう",
+     "p": "noun",
+     "zh": "感情",
+     "en": "emotion"
+    },
+    {
+     "id": "advanced-2-17-09",
+     "w": "情緒",
+     "r": "じょうちょ",
+     "p": "noun",
+     "zh": "情绪",
+     "en": "emotion; sentiment"
+    },
+    {
+     "id": "advanced-2-17-10",
+     "w": "不安",
+     "r": "ふあん",
+     "p": "noun",
+     "zh": "不安",
+     "en": "anxiety"
+    },
+    {
+     "id": "advanced-2-17-11",
+     "w": "焦り",
+     "r": "あせり",
+     "p": "noun",
+     "zh": "焦躁",
+     "en": "impatience"
+    },
+    {
+     "id": "advanced-2-17-12",
+     "w": "劣等感",
+     "r": "れっとうかん",
+     "p": "noun",
+     "zh": "自卑感",
+     "en": "inferiority complex"
+    },
+    {
+     "id": "advanced-2-17-13",
+     "w": "優越感",
+     "r": "ゆうえつかん",
+     "p": "noun",
+     "zh": "优越感",
+     "en": "superiority complex"
+    },
+    {
+     "id": "advanced-2-17-14",
+     "w": "自己肯定感",
+     "r": "じここうていかん",
+     "p": "noun",
+     "zh": "自我肯定感",
+     "en": "self-esteem"
+    },
+    {
+     "id": "advanced-2-17-15",
+     "w": "共感",
+     "r": "きょうかん",
+     "p": "noun",
+     "zh": "共鸣，共情",
+     "en": "empathy"
+    },
+    {
+     "id": "advanced-2-17-16",
+     "w": "同情",
+     "r": "どうじょう",
+     "p": "noun",
+     "zh": "同情",
+     "en": "sympathy"
+    },
+    {
+     "id": "advanced-2-17-17",
+     "w": "葛藤",
+     "r": "かっとう",
+     "p": "noun",
+     "zh": "纠结，冲突",
+     "en": "inner conflict"
+    },
+    {
+     "id": "advanced-2-17-18",
+     "w": "ジレンマ",
+     "r": "ジレンマ",
+     "p": "noun",
+     "zh": "两难",
+     "en": "dilemma"
+    },
+    {
+     "id": "advanced-2-17-19",
+     "w": "ストレス反応",
+     "r": "ストレスはんのう",
+     "p": "noun",
+     "zh": "应激反应",
+     "en": "stress response"
+    },
+    {
+     "id": "advanced-2-17-20",
+     "w": "防衛機制",
+     "r": "ぼうえいきせい",
+     "p": "noun",
+     "zh": "防御机制",
+     "en": "defense mechanism"
+    },
+    {
+     "id": "advanced-2-17-21",
+     "w": "思い込み",
+     "r": "おもいこみ",
+     "p": "noun",
+     "zh": "成见，一厢情愿",
+     "en": "assumption"
+    },
+    {
+     "id": "advanced-2-17-22",
+     "w": "錯覚",
+     "r": "さっかく",
+     "p": "noun",
+     "zh": "错觉",
+     "en": "illusion"
+    },
+    {
+     "id": "advanced-2-17-23",
+     "w": "記憶",
+     "r": "きおく",
+     "p": "noun",
+     "zh": "记忆",
+     "en": "memory"
+    },
+    {
+     "id": "advanced-2-17-24",
+     "w": "忘却",
+     "r": "ぼうきゃく",
+     "p": "noun",
+     "zh": "遗忘",
+     "en": "forgetting"
+    },
+    {
+     "id": "advanced-2-17-25",
+     "w": "性格傾向",
+     "r": "せいかくけいこう",
+     "p": "noun",
+     "zh": "性格倾向",
+     "en": "personality tendency"
+    },
+    {
+     "id": "advanced-2-17-26",
+     "w": "内向的",
+     "r": "ないこうてき",
+     "p": "na-adj",
+     "zh": "内向的",
+     "en": "introverted"
+    },
+    {
+     "id": "advanced-2-17-27",
+     "w": "外向的",
+     "r": "がいこうてき",
+     "p": "na-adj",
+     "zh": "外向的",
+     "en": "extroverted"
+    },
+    {
+     "id": "advanced-2-17-28",
+     "w": "神経質",
+     "r": "しんけいしつ",
+     "p": "na-adj",
+     "zh": "神经质的",
+     "en": "nervous; highly strung"
+    },
+    {
+     "id": "advanced-2-17-29",
+     "w": "落ち込む",
+     "r": "おちこむ",
+     "p": "verb",
+     "zh": "情绪低落",
+     "en": "to feel down",
+     "g": 1
+    },
+    {
+     "id": "advanced-2-17-30",
+     "w": "立ち直る",
+     "r": "たちなおる",
+     "p": "verb",
+     "zh": "重新振作",
+     "en": "to recover",
+     "g": 1
+    },
+    {
+     "id": "advanced-2-17-31",
+     "w": "抑える",
+     "r": "おさえる",
+     "p": "verb",
+     "zh": "压抑，克制",
+     "en": "to suppress",
+     "g": 2
+    },
+    {
+     "id": "advanced-2-17-32",
+     "w": "発散する",
+     "r": "はっさんする",
+     "p": "verb",
+     "zh": "发泄",
+     "en": "to let off (steam)",
+     "g": 3
+    },
+    {
+     "id": "advanced-2-17-33",
+     "w": "揺さぶる",
+     "r": "ゆさぶる",
+     "p": "verb",
+     "zh": "动摇，撼动",
+     "en": "to shake",
+     "g": 1
+    },
+    {
+     "id": "advanced-2-17-34",
+     "w": "癒す",
+     "r": "いやす",
+     "p": "verb",
+     "zh": "治愈",
+     "en": "to heal",
+     "g": 1
+    },
+    {
+     "id": "advanced-2-17-35",
+     "w": "見つめ直す",
+     "r": "みつめなおす",
+     "p": "verb",
+     "zh": "重新审视",
+     "en": "to look at anew",
+     "g": 1
+    },
+    {
+     "id": "advanced-2-17-36",
+     "w": "内省",
+     "r": "ないせい",
+     "p": "noun",
+     "zh": "内省",
+     "en": "introspection"
+    },
+    {
+     "id": "advanced-2-17-37",
+     "w": "複雑",
+     "r": "ふくざつ",
+     "p": "na-adj",
+     "zh": "复杂的",
+     "en": "complex"
+    },
+    {
+     "id": "advanced-2-17-38",
+     "w": "敏感",
+     "r": "びんかん",
+     "p": "na-adj",
+     "zh": "敏感的",
+     "en": "sensitive"
+    },
+    {
+     "id": "advanced-2-17-39",
+     "w": "鈍感",
+     "r": "どんかん",
+     "p": "na-adj",
+     "zh": "迟钝的",
+     "en": "insensitive"
+    },
+    {
+     "id": "advanced-2-17-40",
+     "w": "無意識に",
+     "r": "むいしきに",
+     "p": "adv",
+     "zh": "无意识地",
+     "en": "unconsciously"
+    }
+   ]
+  },
+  {
+   "n": 18,
+   "title": "宗教と信仰",
+   "title_zh": "宗教与信仰",
+   "words": [
+    {
+     "id": "advanced-2-18-01",
+     "w": "信仰",
+     "r": "しんこう",
+     "p": "noun",
+     "zh": "信仰",
+     "en": "faith"
+    },
+    {
+     "id": "advanced-2-18-02",
+     "w": "宗派",
+     "r": "しゅうは",
+     "p": "noun",
+     "zh": "宗派",
+     "en": "sect; denomination"
+    },
+    {
+     "id": "advanced-2-18-03",
+     "w": "教義",
+     "r": "きょうぎ",
+     "p": "noun",
+     "zh": "教义",
+     "en": "doctrine"
+    },
+    {
+     "id": "advanced-2-18-04",
+     "w": "経典",
+     "r": "きょうてん",
+     "p": "noun",
+     "zh": "经典，经书",
+     "en": "scripture"
+    },
+    {
+     "id": "advanced-2-18-05",
+     "w": "仏教",
+     "r": "ぶっきょう",
+     "p": "noun",
+     "zh": "佛教",
+     "en": "Buddhism"
+    },
+    {
+     "id": "advanced-2-18-06",
+     "w": "神道",
+     "r": "しんとう",
+     "p": "noun",
+     "zh": "神道",
+     "en": "Shinto"
+    },
+    {
+     "id": "advanced-2-18-07",
+     "w": "キリスト教",
+     "r": "キリストきょう",
+     "p": "noun",
+     "zh": "基督教",
+     "en": "Christianity"
+    },
+    {
+     "id": "advanced-2-18-08",
+     "w": "僧侶",
+     "r": "そうりょ",
+     "p": "noun",
+     "zh": "僧侣",
+     "en": "monk"
+    },
+    {
+     "id": "advanced-2-18-09",
+     "w": "神職",
+     "r": "しんしょく",
+     "p": "noun",
+     "zh": "神职人员",
+     "en": "Shinto priest"
+    },
+    {
+     "id": "advanced-2-18-10",
+     "w": "信者",
+     "r": "しんじゃ",
+     "p": "noun",
+     "zh": "信徒",
+     "en": "believer"
+    },
+    {
+     "id": "advanced-2-18-11",
+     "w": "礼拝",
+     "r": "れいはい",
+     "p": "noun",
+     "zh": "礼拜",
+     "en": "worship"
+    },
+    {
+     "id": "advanced-2-18-12",
+     "w": "祈り",
+     "r": "いのり",
+     "p": "noun",
+     "zh": "祈祷",
+     "en": "prayer"
+    },
+    {
+     "id": "advanced-2-18-13",
+     "w": "儀式",
+     "r": "ぎしき",
+     "p": "noun",
+     "zh": "仪式",
+     "en": "ritual"
+    },
+    {
+     "id": "advanced-2-18-14",
+     "w": "供養",
+     "r": "くよう",
+     "p": "noun",
+     "zh": "供养，法事",
+     "en": "memorial service"
+    },
+    {
+     "id": "advanced-2-18-15",
+     "w": "法事",
+     "r": "ほうじ",
+     "p": "noun",
+     "zh": "法事",
+     "en": "Buddhist memorial rite"
+    },
+    {
+     "id": "advanced-2-18-16",
+     "w": "葬儀",
+     "r": "そうぎ",
+     "p": "noun",
+     "zh": "葬礼",
+     "en": "funeral"
+    },
+    {
+     "id": "advanced-2-18-17",
+     "w": "墓参り",
+     "r": "はかまいり",
+     "p": "noun",
+     "zh": "扫墓",
+     "en": "visiting a grave"
+    },
+    {
+     "id": "advanced-2-18-18",
+     "w": "戒律",
+     "r": "かいりつ",
+     "p": "noun",
+     "zh": "戒律",
+     "en": "precepts"
+    },
+    {
+     "id": "advanced-2-18-19",
+     "w": "修行僧",
+     "r": "しゅぎょうそう",
+     "p": "noun",
+     "zh": "修行僧",
+     "en": "ascetic monk"
+    },
+    {
+     "id": "advanced-2-18-20",
+     "w": "悟り",
+     "r": "さとり",
+     "p": "noun",
+     "zh": "觉悟，开悟",
+     "en": "enlightenment"
+    },
+    {
+     "id": "advanced-2-18-21",
+     "w": "輪廻",
+     "r": "りんね",
+     "p": "noun",
+     "zh": "轮回",
+     "en": "reincarnation"
+    },
+    {
+     "id": "advanced-2-18-22",
+     "w": "因果",
+     "r": "いんが",
+     "p": "noun",
+     "zh": "因果",
+     "en": "cause and effect; karma"
+    },
+    {
+     "id": "advanced-2-18-23",
+     "w": "救済",
+     "r": "きゅうさい",
+     "p": "noun",
+     "zh": "救济，拯救",
+     "en": "salvation"
+    },
+    {
+     "id": "advanced-2-18-24",
+     "w": "魂",
+     "r": "たましい",
+     "p": "noun",
+     "zh": "灵魂",
+     "en": "soul"
+    },
+    {
+     "id": "advanced-2-18-25",
+     "w": "来世",
+     "r": "らいせ",
+     "p": "noun",
+     "zh": "来世",
+     "en": "afterlife"
+    },
+    {
+     "id": "advanced-2-18-26",
+     "w": "迷信",
+     "r": "めいしん",
+     "p": "noun",
+     "zh": "迷信",
+     "en": "superstition"
+    },
+    {
+     "id": "advanced-2-18-27",
+     "w": "世俗",
+     "r": "せぞく",
+     "p": "noun",
+     "zh": "世俗",
+     "en": "the secular world"
+    },
+    {
+     "id": "advanced-2-18-28",
+     "w": "寛容",
+     "r": "かんよう",
+     "p": "na-adj",
+     "zh": "宽容的",
+     "en": "tolerant"
+    },
+    {
+     "id": "advanced-2-18-29",
+     "w": "排他的",
+     "r": "はいたてき",
+     "p": "na-adj",
+     "zh": "排他的",
+     "en": "exclusive"
+    },
+    {
+     "id": "advanced-2-18-30",
+     "w": "精神性",
+     "r": "せいしんせい",
+     "p": "noun",
+     "zh": "精神性",
+     "en": "spirituality"
+    },
+    {
+     "id": "advanced-2-18-31",
+     "w": "信じる",
+     "r": "しんじる",
+     "p": "verb",
+     "zh": "相信",
+     "en": "to believe",
+     "g": 2
+    },
+    {
+     "id": "advanced-2-18-32",
+     "w": "崇める",
+     "r": "あがめる",
+     "p": "verb",
+     "zh": "崇敬",
+     "en": "to revere",
+     "g": 2
+    },
+    {
+     "id": "advanced-2-18-33",
+     "w": "祈る",
+     "r": "いのる",
+     "p": "verb",
+     "zh": "祈祷",
+     "en": "to pray",
+     "g": 1
+    },
+    {
+     "id": "advanced-2-18-34",
+     "w": "唱える",
+     "r": "となえる",
+     "p": "verb",
+     "zh": "念诵，倡导",
+     "en": "to chant; to advocate",
+     "g": 2
+    },
+    {
+     "id": "advanced-2-18-35",
+     "w": "帰依する",
+     "r": "きえする",
+     "p": "verb",
+     "zh": "皈依",
+     "en": "to devote oneself to",
+     "g": 3
+    },
+    {
+     "id": "advanced-2-18-36",
+     "w": "戒める",
+     "r": "いましめる",
+     "p": "verb",
+     "zh": "告诫",
+     "en": "to admonish",
+     "g": 2
+    },
+    {
+     "id": "advanced-2-18-37",
+     "w": "根付く",
+     "r": "ねづく",
+     "p": "verb",
+     "zh": "扎根",
+     "en": "to take root",
+     "g": 1
+    },
+    {
+     "id": "advanced-2-18-38",
+     "w": "厳粛",
+     "r": "げんしゅく",
+     "p": "na-adj",
+     "zh": "严肃的，庄严的",
+     "en": "solemn"
+    },
+    {
+     "id": "advanced-2-18-39",
+     "w": "敬虔",
+     "r": "けいけん",
+     "p": "na-adj",
+     "zh": "虔诚的",
+     "en": "devout"
+    },
+    {
+     "id": "advanced-2-18-40",
+     "w": "古来",
+     "r": "こらい",
+     "p": "adv",
+     "zh": "自古以来",
+     "en": "from ancient times"
+    }
+   ]
+  },
+  {
+   "n": 19,
+   "title": "災害と危機管理",
+   "title_zh": "灾害与危机管理",
+   "words": [
+    {
+     "id": "advanced-2-19-01",
+     "w": "防災",
+     "r": "ぼうさい",
+     "p": "noun",
+     "zh": "防灾",
+     "en": "disaster prevention"
+    },
+    {
+     "id": "advanced-2-19-02",
+     "w": "減災",
+     "r": "げんさい",
+     "p": "noun",
+     "zh": "减灾",
+     "en": "disaster mitigation"
+    },
+    {
+     "id": "advanced-2-19-03",
+     "w": "避難所",
+     "r": "ひなんじょ",
+     "p": "noun",
+     "zh": "避难所",
+     "en": "evacuation shelter"
+    },
+    {
+     "id": "advanced-2-19-04",
+     "w": "避難勧告",
+     "r": "ひなんかんこく",
+     "p": "noun",
+     "zh": "避难劝告",
+     "en": "evacuation advisory"
+    },
+    {
+     "id": "advanced-2-19-05",
+     "w": "警報",
+     "r": "けいほう",
+     "p": "noun",
+     "zh": "警报",
+     "en": "warning"
+    },
+    {
+     "id": "advanced-2-19-06",
+     "w": "注意報",
+     "r": "ちゅういほう",
+     "p": "noun",
+     "zh": "注意报",
+     "en": "advisory"
+    },
+    {
+     "id": "advanced-2-19-07",
+     "w": "震度",
+     "r": "しんど",
+     "p": "noun",
+     "zh": "震度",
+     "en": "seismic intensity"
+    },
+    {
+     "id": "advanced-2-19-08",
+     "w": "マグニチュード",
+     "r": "マグニチュード",
+     "p": "noun",
+     "zh": "震级",
+     "en": "magnitude"
+    },
+    {
+     "id": "advanced-2-19-09",
+     "w": "余震",
+     "r": "よしん",
+     "p": "noun",
+     "zh": "余震",
+     "en": "aftershock"
+    },
+    {
+     "id": "advanced-2-19-10",
+     "w": "倒壊",
+     "r": "とうかい",
+     "p": "noun",
+     "zh": "倒塌",
+     "en": "collapse"
+    },
+    {
+     "id": "advanced-2-19-11",
+     "w": "浸水",
+     "r": "しんすい",
+     "p": "noun",
+     "zh": "浸水，进水",
+     "en": "flooding"
+    },
+    {
+     "id": "advanced-2-19-12",
+     "w": "土砂崩れ",
+     "r": "どしゃくずれ",
+     "p": "noun",
+     "zh": "塌方，山体滑坡",
+     "en": "landslide"
+    },
+    {
+     "id": "advanced-2-19-13",
+     "w": "停電",
+     "r": "ていでん",
+     "p": "noun",
+     "zh": "停电",
+     "en": "power outage"
+    },
+    {
+     "id": "advanced-2-19-14",
+     "w": "断水",
+     "r": "だんすい",
+     "p": "noun",
+     "zh": "停水",
+     "en": "water outage"
+    },
+    {
+     "id": "advanced-2-19-15",
+     "w": "備蓄",
+     "r": "びちく",
+     "p": "noun",
+     "zh": "储备",
+     "en": "stockpile"
+    },
+    {
+     "id": "advanced-2-19-16",
+     "w": "非常食",
+     "r": "ひじょうしょく",
+     "p": "noun",
+     "zh": "应急食品",
+     "en": "emergency food"
+    },
+    {
+     "id": "advanced-2-19-17",
+     "w": "救援物資",
+     "r": "きゅうえんぶっし",
+     "p": "noun",
+     "zh": "救援物资",
+     "en": "relief supplies"
+    },
+    {
+     "id": "advanced-2-19-18",
+     "w": "被災地",
+     "r": "ひさいち",
+     "p": "noun",
+     "zh": "灾区",
+     "en": "disaster area"
+    },
+    {
+     "id": "advanced-2-19-19",
+     "w": "被災者",
+     "r": "ひさいしゃ",
+     "p": "noun",
+     "zh": "灾民",
+     "en": "disaster victim"
+    },
+    {
+     "id": "advanced-2-19-20",
+     "w": "仮設住宅",
+     "r": "かせつじゅうたく",
+     "p": "noun",
+     "zh": "临时住宅",
+     "en": "temporary housing"
+    },
+    {
+     "id": "advanced-2-19-21",
+     "w": "復旧",
+     "r": "ふっきゅう",
+     "p": "noun",
+     "zh": "恢复，抢修",
+     "en": "restoration"
+    },
+    {
+     "id": "advanced-2-19-22",
+     "w": "復興支援",
+     "r": "ふっこうしえん",
+     "p": "noun",
+     "zh": "重建援助",
+     "en": "reconstruction support"
+    },
+    {
+     "id": "advanced-2-19-23",
+     "w": "自衛隊",
+     "r": "じえいたい",
+     "p": "noun",
+     "zh": "自卫队",
+     "en": "Self-Defense Forces"
+    },
+    {
+     "id": "advanced-2-19-24",
+     "w": "救助隊",
+     "r": "きゅうじょたい",
+     "p": "noun",
+     "zh": "救援队",
+     "en": "rescue team"
+    },
+    {
+     "id": "advanced-2-19-25",
+     "w": "安否確認",
+     "r": "あんぴかくにん",
+     "p": "noun",
+     "zh": "确认安危",
+     "en": "safety confirmation"
+    },
+    {
+     "id": "advanced-2-19-26",
+     "w": "想定外",
+     "r": "そうていがい",
+     "p": "noun",
+     "zh": "预想之外",
+     "en": "beyond expectations"
+    },
+    {
+     "id": "advanced-2-19-27",
+     "w": "危機管理体制",
+     "r": "ききかんりたいせい",
+     "p": "noun",
+     "zh": "危机管理体制",
+     "en": "crisis management system"
+    },
+    {
+     "id": "advanced-2-19-28",
+     "w": "訓練",
+     "r": "くんれん",
+     "p": "noun",
+     "zh": "演练",
+     "en": "drill"
+    },
+    {
+     "id": "advanced-2-19-29",
+     "w": "ハザードマップ",
+     "r": "ハザードマップ",
+     "p": "noun",
+     "zh": "灾害地图",
+     "en": "hazard map"
+    },
+    {
+     "id": "advanced-2-19-30",
+     "w": "教訓",
+     "r": "きょうくん",
+     "p": "noun",
+     "zh": "教训",
+     "en": "lesson"
+    },
+    {
+     "id": "advanced-2-19-31",
+     "w": "避難する",
+     "r": "ひなんする",
+     "p": "verb",
+     "zh": "避难",
+     "en": "to evacuate",
+     "g": 3
+    },
+    {
+     "id": "advanced-2-19-32",
+     "w": "救助する",
+     "r": "きゅうじょする",
+     "p": "verb",
+     "zh": "救助",
+     "en": "to rescue",
+     "g": 3
+    },
+    {
+     "id": "advanced-2-19-33",
+     "w": "備える",
+     "r": "そなえる",
+     "p": "verb",
+     "zh": "防备，准备",
+     "en": "to prepare for",
+     "g": 2
+    },
+    {
+     "id": "advanced-2-19-34",
+     "w": "警戒する",
+     "r": "けいかいする",
+     "p": "verb",
+     "zh": "警戒",
+     "en": "to be on alert",
+     "g": 3
+    },
+    {
+     "id": "advanced-2-19-35",
+     "w": "見舞われる",
+     "r": "みまわれる",
+     "p": "verb",
+     "zh": "遭受（灾害）",
+     "en": "to be struck by",
+     "g": 2
+    },
+    {
+     "id": "advanced-2-19-36",
+     "w": "食い止める",
+     "r": "くいとめる",
+     "p": "verb",
+     "zh": "阻止，遏制",
+     "en": "to hold in check",
+     "g": 2
+    },
+    {
+     "id": "advanced-2-19-37",
+     "w": "甚大",
+     "r": "じんだい",
+     "p": "na-adj",
+     "zh": "巨大的（损失）",
+     "en": "enormous (damage)"
+    },
+    {
+     "id": "advanced-2-19-38",
+     "w": "迅速",
+     "r": "じんそく",
+     "p": "na-adj",
+     "zh": "迅速的",
+     "en": "swift"
+    },
+    {
+     "id": "advanced-2-19-39",
+     "w": "未曾有",
+     "r": "みぞう",
+     "p": "na-adj",
+     "zh": "前所未有的",
+     "en": "unprecedented"
+    },
+    {
+     "id": "advanced-2-19-40",
+     "w": "一刻も早く",
+     "r": "いっこくもはやく",
+     "p": "expr",
+     "zh": "尽快，刻不容缓",
+     "en": "as soon as possible"
+    }
+   ]
+  },
+  {
+   "n": 20,
+   "title": "労働と働き方",
+   "title_zh": "劳动与工作方式",
+   "words": [
+    {
+     "id": "advanced-2-20-01",
+     "w": "労働",
+     "r": "ろうどう",
+     "p": "noun",
+     "zh": "劳动",
+     "en": "labor"
+    },
+    {
+     "id": "advanced-2-20-02",
+     "w": "労働環境",
+     "r": "ろうどうかんきょう",
+     "p": "noun",
+     "zh": "劳动环境",
+     "en": "working environment"
+    },
+    {
+     "id": "advanced-2-20-03",
+     "w": "働き方改革",
+     "r": "はたらきかたかいかく",
+     "p": "noun",
+     "zh": "工作方式改革",
+     "en": "work style reform"
+    },
+    {
+     "id": "advanced-2-20-04",
+     "w": "長時間労働",
+     "r": "ちょうじかんろうどう",
+     "p": "noun",
+     "zh": "长时间劳动",
+     "en": "long working hours"
+    },
+    {
+     "id": "advanced-2-20-05",
+     "w": "過労",
+     "r": "かろう",
+     "p": "noun",
+     "zh": "过劳",
+     "en": "overwork"
+    },
+    {
+     "id": "advanced-2-20-06",
+     "w": "過労死",
+     "r": "かろうし",
+     "p": "noun",
+     "zh": "过劳死",
+     "en": "death from overwork"
+    },
+    {
+     "id": "advanced-2-20-07",
+     "w": "時短",
+     "r": "じたん",
+     "p": "noun",
+     "zh": "缩短工时",
+     "en": "reduced working hours"
+    },
+    {
+     "id": "advanced-2-20-08",
+     "w": "在宅勤務",
+     "r": "ざいたくきんむ",
+     "p": "noun",
+     "zh": "居家办公",
+     "en": "working from home"
+    },
+    {
+     "id": "advanced-2-20-09",
+     "w": "テレワーク",
+     "r": "テレワーク",
+     "p": "noun",
+     "zh": "远程办公",
+     "en": "telework"
+    },
+    {
+     "id": "advanced-2-20-10",
+     "w": "フレックス",
+     "r": "フレックス",
+     "p": "noun",
+     "zh": "弹性工作制",
+     "en": "flextime"
+    },
+    {
+     "id": "advanced-2-20-11",
+     "w": "裁量労働",
+     "r": "さいりょうろうどう",
+     "p": "noun",
+     "zh": "裁量劳动制",
+     "en": "discretionary work system"
+    },
+    {
+     "id": "advanced-2-20-12",
+     "w": "非正規雇用",
+     "r": "ひせいきこよう",
+     "p": "noun",
+     "zh": "非正规雇用",
+     "en": "non-regular employment"
+    },
+    {
+     "id": "advanced-2-20-13",
+     "w": "賃金格差",
+     "r": "ちんぎんかくさ",
+     "p": "noun",
+     "zh": "工资差距",
+     "en": "wage gap"
+    },
+    {
+     "id": "advanced-2-20-14",
+     "w": "最低賃金",
+     "r": "さいていちんぎん",
+     "p": "noun",
+     "zh": "最低工资",
+     "en": "minimum wage"
+    },
+    {
+     "id": "advanced-2-20-15",
+     "w": "労働組合",
+     "r": "ろうどうくみあい",
+     "p": "noun",
+     "zh": "工会",
+     "en": "labor union"
+    },
+    {
+     "id": "advanced-2-20-16",
+     "w": "団体交渉",
+     "r": "だんたいこうしょう",
+     "p": "noun",
+     "zh": "集体谈判",
+     "en": "collective bargaining"
+    },
+    {
+     "id": "advanced-2-20-17",
+     "w": "労使",
+     "r": "ろうし",
+     "p": "noun",
+     "zh": "劳资",
+     "en": "labor and management"
+    },
+    {
+     "id": "advanced-2-20-18",
+     "w": "待遇改善",
+     "r": "たいぐうかいぜん",
+     "p": "noun",
+     "zh": "改善待遇",
+     "en": "improving conditions"
+    },
+    {
+     "id": "advanced-2-20-19",
+     "w": "ハラスメント",
+     "r": "ハラスメント",
+     "p": "noun",
+     "zh": "骚扰",
+     "en": "harassment"
+    },
+    {
+     "id": "advanced-2-20-20",
+     "w": "職場環境",
+     "r": "しょくばかんきょう",
+     "p": "noun",
+     "zh": "职场环境",
+     "en": "workplace environment"
+    },
+    {
+     "id": "advanced-2-20-21",
+     "w": "離職率",
+     "r": "りしょくりつ",
+     "p": "noun",
+     "zh": "离职率",
+     "en": "turnover rate"
+    },
+    {
+     "id": "advanced-2-20-22",
+     "w": "人手不足",
+     "r": "ひとでぶそく",
+     "p": "noun",
+     "zh": "人手不足",
+     "en": "labor shortage"
+    },
+    {
+     "id": "advanced-2-20-23",
+     "w": "外国人材",
+     "r": "がいこくじんざい",
+     "p": "noun",
+     "zh": "外国人才",
+     "en": "foreign workforce"
+    },
+    {
+     "id": "advanced-2-20-24",
+     "w": "多様な働き方",
+     "r": "たようなはたらきかた",
+     "p": "noun",
+     "zh": "多样化的工作方式",
+     "en": "diverse work styles"
+    },
+    {
+     "id": "advanced-2-20-25",
+     "w": "副業解禁",
+     "r": "ふくぎょうかいきん",
+     "p": "noun",
+     "zh": "解禁副业",
+     "en": "lifting the ban on side jobs"
+    },
+    {
+     "id": "advanced-2-20-26",
+     "w": "生産性向上",
+     "r": "せいさんせいこうじょう",
+     "p": "noun",
+     "zh": "提高生产率",
+     "en": "productivity improvement"
+    },
+    {
+     "id": "advanced-2-20-27",
+     "w": "雇用形態",
+     "r": "こようけいたい",
+     "p": "noun",
+     "zh": "雇用形态",
+     "en": "form of employment"
+    },
+    {
+     "id": "advanced-2-20-28",
+     "w": "有給取得率",
+     "r": "ゆうきゅうしゅとくりつ",
+     "p": "noun",
+     "zh": "带薪假使用率",
+     "en": "paid leave usage rate"
+    },
+    {
+     "id": "advanced-2-20-29",
+     "w": "是正する",
+     "r": "ぜせいする",
+     "p": "verb",
+     "zh": "纠正",
+     "en": "to correct",
+     "g": 3
+    },
+    {
+     "id": "advanced-2-20-30",
+     "w": "見直す",
+     "r": "みなおす",
+     "p": "verb",
+     "zh": "重新审视",
+     "en": "to review",
+     "g": 1
+    },
+    {
+     "id": "advanced-2-20-31",
+     "w": "促進する",
+     "r": "そくしんする",
+     "p": "verb",
+     "zh": "促进",
+     "en": "to promote",
+     "g": 3
+    },
+    {
+     "id": "advanced-2-20-32",
+     "w": "確保する",
+     "r": "かくほする",
+     "p": "verb",
+     "zh": "确保",
+     "en": "to secure",
+     "g": 3
+    },
+    {
+     "id": "advanced-2-20-33",
+     "w": "疲弊する",
+     "r": "ひへいする",
+     "p": "verb",
+     "zh": "疲惫不堪",
+     "en": "to become exhausted",
+     "g": 3
+    },
+    {
+     "id": "advanced-2-20-34",
+     "w": "定着する",
+     "r": "ていちゃくする",
+     "p": "verb",
+     "zh": "固定下来，扎根",
+     "en": "to take hold",
+     "g": 3
+    },
+    {
+     "id": "advanced-2-20-35",
+     "w": "根強い",
+     "r": "ねづよい",
+     "p": "i-adj",
+     "zh": "根深蒂固的",
+     "en": "deep-rooted"
+    },
+    {
+     "id": "advanced-2-20-36",
+     "w": "深刻",
+     "r": "しんこく",
+     "p": "na-adj",
+     "zh": "严重的",
+     "en": "serious"
+    },
+    {
+     "id": "advanced-2-20-37",
+     "w": "柔軟性",
+     "r": "じゅうなんせい",
+     "p": "noun",
+     "zh": "灵活性",
+     "en": "flexibility"
+    },
+    {
+     "id": "advanced-2-20-38",
+     "w": "働きがい",
+     "r": "はたらきがい",
+     "p": "noun",
+     "zh": "工作的价值感",
+     "en": "job satisfaction"
+    },
+    {
+     "id": "advanced-2-20-39",
+     "w": "両立",
+     "r": "りょうりつ",
+     "p": "noun",
+     "zh": "兼顾",
+     "en": "balancing two things"
+    },
+    {
+     "id": "advanced-2-20-40",
+     "w": "ますます",
+     "r": "ますます",
+     "p": "adv",
+     "zh": "越发",
+     "en": "increasingly"
+    }
+   ]
+  },
+  {
+   "n": 21,
+   "title": "メディア論と報道",
+   "title_zh": "传媒论与报道",
+   "words": [
+    {
+     "id": "advanced-2-21-01",
+     "w": "報道機関",
+     "r": "ほうどうきかん",
+     "p": "noun",
+     "zh": "新闻机构",
+     "en": "news organization"
+    },
+    {
+     "id": "advanced-2-21-02",
+     "w": "公共放送",
+     "r": "こうきょうほうそう",
+     "p": "noun",
+     "zh": "公共广播",
+     "en": "public broadcasting"
+    },
+    {
+     "id": "advanced-2-21-03",
+     "w": "民放",
+     "r": "みんぽう",
+     "p": "noun",
+     "zh": "商业电视台",
+     "en": "commercial broadcaster"
+    },
+    {
+     "id": "advanced-2-21-04",
+     "w": "編集",
+     "r": "へんしゅう",
+     "p": "noun",
+     "zh": "编辑",
+     "en": "editing"
+    },
+    {
+     "id": "advanced-2-21-05",
+     "w": "編集方針",
+     "r": "へんしゅうほうしん",
+     "p": "noun",
+     "zh": "编辑方针",
+     "en": "editorial policy"
+    },
+    {
+     "id": "advanced-2-21-06",
+     "w": "論調",
+     "r": "ろんちょう",
+     "p": "noun",
+     "zh": "论调",
+     "en": "editorial tone"
+    },
+    {
+     "id": "advanced-2-21-07",
+     "w": "報道姿勢",
+     "r": "ほうどうしせい",
+     "p": "noun",
+     "zh": "报道立场",
+     "en": "reporting stance"
+    },
+    {
+     "id": "advanced-2-21-08",
+     "w": "取材源",
+     "r": "しゅざいげん",
+     "p": "noun",
+     "zh": "消息来源",
+     "en": "news source"
+    },
+    {
+     "id": "advanced-2-21-09",
+     "w": "独占",
+     "r": "どくせん",
+     "p": "noun",
+     "zh": "独家",
+     "en": "exclusive"
+    },
+    {
+     "id": "advanced-2-21-10",
+     "w": "速報",
+     "r": "そくほう",
+     "p": "noun",
+     "zh": "快讯",
+     "en": "breaking news"
+    },
+    {
+     "id": "advanced-2-21-11",
+     "w": "誤報",
+     "r": "ごほう",
+     "p": "noun",
+     "zh": "错误报道",
+     "en": "false report"
+    },
+    {
+     "id": "advanced-2-21-12",
+     "w": "やらせ",
+     "r": "やらせ",
+     "p": "noun",
+     "zh": "造假，摆拍",
+     "en": "staged content"
+    },
+    {
+     "id": "advanced-2-21-13",
+     "w": "世論形成",
+     "r": "よろんけいせい",
+     "p": "noun",
+     "zh": "舆论形成",
+     "en": "shaping public opinion"
+    },
+    {
+     "id": "advanced-2-21-14",
+     "w": "議題設定",
+     "r": "ぎだいせってい",
+     "p": "noun",
+     "zh": "议程设置",
+     "en": "agenda setting"
+    },
+    {
+     "id": "advanced-2-21-15",
+     "w": "情報操作",
+     "r": "じょうほうそうさ",
+     "p": "noun",
+     "zh": "信息操纵",
+     "en": "information manipulation"
+    },
+    {
+     "id": "advanced-2-21-16",
+     "w": "扇動",
+     "r": "せんどう",
+     "p": "noun",
+     "zh": "煽动",
+     "en": "incitement"
+    },
+    {
+     "id": "advanced-2-21-17",
+     "w": "風評",
+     "r": "ふうひょう",
+     "p": "noun",
+     "zh": "传言，风评",
+     "en": "rumor"
+    },
+    {
+     "id": "advanced-2-21-18",
+     "w": "炎上商法",
+     "r": "えんじょうしょうほう",
+     "p": "noun",
+     "zh": "炒作营销",
+     "en": "controversy marketing"
+    },
+    {
+     "id": "advanced-2-21-19",
+     "w": "リテラシー",
+     "r": "リテラシー",
+     "p": "noun",
+     "zh": "素养",
+     "en": "literacy"
+    },
+    {
+     "id": "advanced-2-21-20",
+     "w": "批判精神",
+     "r": "ひはんせいしん",
+     "p": "noun",
+     "zh": "批判精神",
+     "en": "critical spirit"
+    },
+    {
+     "id": "advanced-2-21-21",
+     "w": "第四の権力",
+     "r": "だいよんのけんりょく",
+     "p": "noun",
+     "zh": "第四权力",
+     "en": "the fourth estate"
+    },
+    {
+     "id": "advanced-2-21-22",
+     "w": "監視機能",
+     "r": "かんしきのう",
+     "p": "noun",
+     "zh": "监督功能",
+     "en": "watchdog function"
+    },
+    {
+     "id": "advanced-2-21-23",
+     "w": "報道の自由",
+     "r": "ほうどうのじゆう",
+     "p": "noun",
+     "zh": "报道自由",
+     "en": "freedom of the press"
+    },
+    {
+     "id": "advanced-2-21-24",
+     "w": "自主規制",
+     "r": "じしゅきせい",
+     "p": "noun",
+     "zh": "自我审查",
+     "en": "self-regulation"
+    },
+    {
+     "id": "advanced-2-21-25",
+     "w": "訂正報道",
+     "r": "ていせいほうどう",
+     "p": "noun",
+     "zh": "更正报道",
+     "en": "retraction"
+    },
+    {
+     "id": "advanced-2-21-26",
+     "w": "謝罪会見",
+     "r": "しゃざいかいけん",
+     "p": "noun",
+     "zh": "道歉记者会",
+     "en": "apology press conference"
+    },
+    {
+     "id": "advanced-2-21-27",
+     "w": "広報",
+     "r": "こうほう",
+     "p": "noun",
+     "zh": "公关，宣传",
+     "en": "public relations"
+    },
+    {
+     "id": "advanced-2-21-28",
+     "w": "世間の目",
+     "r": "せけんのめ",
+     "p": "noun",
+     "zh": "社会的眼光",
+     "en": "public scrutiny"
+    },
+    {
+     "id": "advanced-2-21-29",
+     "w": "取材する",
+     "r": "しゅざいする",
+     "p": "verb",
+     "zh": "采访",
+     "en": "to cover (a story)",
+     "g": 3
+    },
+    {
+     "id": "advanced-2-21-30",
+     "w": "報じる",
+     "r": "ほうじる",
+     "p": "verb",
+     "zh": "报道",
+     "en": "to report",
+     "g": 2
+    },
+    {
+     "id": "advanced-2-21-31",
+     "w": "検証する",
+     "r": "けんしょうする",
+     "p": "verb",
+     "zh": "核实",
+     "en": "to verify",
+     "g": 3
+    },
+    {
+     "id": "advanced-2-21-32",
+     "w": "煽る",
+     "r": "あおる",
+     "p": "verb",
+     "zh": "煽动",
+     "en": "to stir up",
+     "g": 1
+    },
+    {
+     "id": "advanced-2-21-33",
+     "w": "歪める",
+     "r": "ゆがめる",
+     "p": "verb",
+     "zh": "歪曲",
+     "en": "to distort",
+     "g": 2
+    },
+    {
+     "id": "advanced-2-21-34",
+     "w": "暴露する",
+     "r": "ばくろする",
+     "p": "verb",
+     "zh": "曝光",
+     "en": "to expose",
+     "g": 3
+    },
+    {
+     "id": "advanced-2-21-35",
+     "w": "取り沙汰される",
+     "r": "とりざたされる",
+     "p": "verb",
+     "zh": "被议论纷纷",
+     "en": "to be talked about",
+     "g": 2
+    },
+    {
+     "id": "advanced-2-21-36",
+     "w": "垂れ流す",
+     "r": "たれながす",
+     "p": "verb",
+     "zh": "不加甄别地传播",
+     "en": "to spew out uncritically",
+     "g": 1
+    },
+    {
+     "id": "advanced-2-21-37",
+     "w": "中立性",
+     "r": "ちゅうりつせい",
+     "p": "noun",
+     "zh": "中立性",
+     "en": "neutrality"
+    },
+    {
+     "id": "advanced-2-21-38",
+     "w": "扇情的",
+     "r": "せんじょうてき",
+     "p": "na-adj",
+     "zh": "煽情的",
+     "en": "sensational"
+    },
+    {
+     "id": "advanced-2-21-39",
+     "w": "公正中立",
+     "r": "こうせいちゅうりつ",
+     "p": "na-adj",
+     "zh": "公正中立的",
+     "en": "fair and impartial"
+    },
+    {
+     "id": "advanced-2-21-40",
+     "w": "とかく",
+     "r": "とかく",
+     "p": "adv",
+     "zh": "往往，动辄",
+     "en": "tend to; often"
+    }
+   ]
+  },
+  {
+   "n": 22,
+   "title": "スポーツと社会",
+   "title_zh": "体育与社会",
+   "words": [
+    {
+     "id": "advanced-2-22-01",
+     "w": "競技",
+     "r": "きょうぎ",
+     "p": "noun",
+     "zh": "竞技，比赛项目",
+     "en": "competition; event"
+    },
+    {
+     "id": "advanced-2-22-02",
+     "w": "競技力",
+     "r": "きょうぎりょく",
+     "p": "noun",
+     "zh": "竞技水平",
+     "en": "competitive ability"
+    },
+    {
+     "id": "advanced-2-22-03",
+     "w": "プロ選手",
+     "r": "プロせんしゅ",
+     "p": "noun",
+     "zh": "职业选手",
+     "en": "professional athlete"
+    },
+    {
+     "id": "advanced-2-22-04",
+     "w": "アマチュア",
+     "r": "アマチュア",
+     "p": "noun",
+     "zh": "业余选手",
+     "en": "amateur"
+    },
+    {
+     "id": "advanced-2-22-05",
+     "w": "強化選手",
+     "r": "きょうかせんしゅ",
+     "p": "noun",
+     "zh": "重点培养选手",
+     "en": "designated elite athlete"
+    },
+    {
+     "id": "advanced-2-22-06",
+     "w": "合宿",
+     "r": "がっしゅく",
+     "p": "noun",
+     "zh": "集训",
+     "en": "training camp"
+    },
+    {
+     "id": "advanced-2-22-07",
+     "w": "戦術",
+     "r": "せんじゅつ",
+     "p": "noun",
+     "zh": "战术",
+     "en": "tactics"
+    },
+    {
+     "id": "advanced-2-22-08",
+     "w": "体力",
+     "r": "たいりょく",
+     "p": "noun",
+     "zh": "体力",
+     "en": "stamina"
+    },
+    {
+     "id": "advanced-2-22-09",
+     "w": "持久力",
+     "r": "じきゅうりょく",
+     "p": "noun",
+     "zh": "耐力",
+     "en": "endurance"
+    },
+    {
+     "id": "advanced-2-22-10",
+     "w": "瞬発力",
+     "r": "しゅんぱつりょく",
+     "p": "noun",
+     "zh": "爆发力",
+     "en": "explosive power"
+    },
+    {
+     "id": "advanced-2-22-11",
+     "w": "故障",
+     "r": "こしょう",
+     "p": "noun",
+     "zh": "（运动）伤病",
+     "en": "injury"
+    },
+    {
+     "id": "advanced-2-22-12",
+     "w": "引退",
+     "r": "いんたい",
+     "p": "noun",
+     "zh": "退役",
+     "en": "retirement"
+    },
+    {
+     "id": "advanced-2-22-13",
+     "w": "移籍",
+     "r": "いせき",
+     "p": "noun",
+     "zh": "转会",
+     "en": "transfer"
+    },
+    {
+     "id": "advanced-2-22-14",
+     "w": "契約更改",
+     "r": "けいやくこうかい",
+     "p": "noun",
+     "zh": "续约",
+     "en": "contract renewal"
+    },
+    {
+     "id": "advanced-2-22-15",
+     "w": "年俸",
+     "r": "ねんぽう",
+     "p": "noun",
+     "zh": "年薪",
+     "en": "annual salary"
+    },
+    {
+     "id": "advanced-2-22-16",
+     "w": "スポンサー",
+     "r": "スポンサー",
+     "p": "noun",
+     "zh": "赞助商",
+     "en": "sponsor"
+    },
+    {
+     "id": "advanced-2-22-17",
+     "w": "興行",
+     "r": "こうぎょう",
+     "p": "noun",
+     "zh": "演出，赛事运营",
+     "en": "promotion; staging"
+    },
+    {
+     "id": "advanced-2-22-18",
+     "w": "観客動員",
+     "r": "かんきゃくどういん",
+     "p": "noun",
+     "zh": "上座人数",
+     "en": "attendance"
+    },
+    {
+     "id": "advanced-2-22-19",
+     "w": "放映権",
+     "r": "ほうえいけん",
+     "p": "noun",
+     "zh": "转播权",
+     "en": "broadcasting rights"
+    },
+    {
+     "id": "advanced-2-22-20",
+     "w": "ドーピング",
+     "r": "ドーピング",
+     "p": "noun",
+     "zh": "兴奋剂",
+     "en": "doping"
+    },
+    {
+     "id": "advanced-2-22-21",
+     "w": "薬物検査",
+     "r": "やくぶつけんさ",
+     "p": "noun",
+     "zh": "药检",
+     "en": "drug testing"
+    },
+    {
+     "id": "advanced-2-22-22",
+     "w": "公平性",
+     "r": "こうへいせい",
+     "p": "noun",
+     "zh": "公平性",
+     "en": "fairness"
+    },
+    {
+     "id": "advanced-2-22-23",
+     "w": "スポーツマンシップ",
+     "r": "スポーツマンシップ",
+     "p": "noun",
+     "zh": "体育精神",
+     "en": "sportsmanship"
+    },
+    {
+     "id": "advanced-2-22-24",
+     "w": "根性論",
+     "r": "こんじょうろん",
+     "p": "noun",
+     "zh": "唯毅力论",
+     "en": "grit-only mentality"
+    },
+    {
+     "id": "advanced-2-22-25",
+     "w": "体罰",
+     "r": "たいばつ",
+     "p": "noun",
+     "zh": "体罚",
+     "en": "corporal punishment"
+    },
+    {
+     "id": "advanced-2-22-26",
+     "w": "指導法",
+     "r": "しどうほう",
+     "p": "noun",
+     "zh": "指导方法",
+     "en": "coaching method"
+    },
+    {
+     "id": "advanced-2-22-27",
+     "w": "地域スポーツ",
+     "r": "ちいきスポーツ",
+     "p": "noun",
+     "zh": "社区体育",
+     "en": "community sports"
+    },
+    {
+     "id": "advanced-2-22-28",
+     "w": "生涯スポーツ",
+     "r": "しょうがいスポーツ",
+     "p": "noun",
+     "zh": "终身体育",
+     "en": "lifelong sports"
+    },
+    {
+     "id": "advanced-2-22-29",
+     "w": "健康増進",
+     "r": "けんこうぞうしん",
+     "p": "noun",
+     "zh": "促进健康",
+     "en": "health promotion"
+    },
+    {
+     "id": "advanced-2-22-30",
+     "w": "競技人口",
+     "r": "きょうぎじんこう",
+     "p": "noun",
+     "zh": "参与人数",
+     "en": "number of participants"
+    },
+    {
+     "id": "advanced-2-22-31",
+     "w": "鍛錬",
+     "r": "たんれん",
+     "p": "noun",
+     "zh": "锻炼",
+     "en": "training; discipline"
+    },
+    {
+     "id": "advanced-2-22-32",
+     "w": "挑む",
+     "r": "いどむ",
+     "p": "verb",
+     "zh": "挑战",
+     "en": "to take on",
+     "g": 1
+    },
+    {
+     "id": "advanced-2-22-33",
+     "w": "競う",
+     "r": "きそう",
+     "p": "verb",
+     "zh": "竞争",
+     "en": "to compete",
+     "g": 1
+    },
+    {
+     "id": "advanced-2-22-34",
+     "w": "打ち破る",
+     "r": "うちやぶる",
+     "p": "verb",
+     "zh": "打破，战胜",
+     "en": "to break; to defeat",
+     "g": 1
+    },
+    {
+     "id": "advanced-2-22-35",
+     "w": "更新する",
+     "r": "こうしんする",
+     "p": "verb",
+     "zh": "刷新（纪录）",
+     "en": "to break (a record)",
+     "g": 3
+    },
+    {
+     "id": "advanced-2-22-36",
+     "w": "報われる",
+     "r": "むくわれる",
+     "p": "verb",
+     "zh": "得到回报",
+     "en": "to be rewarded",
+     "g": 2
+    },
+    {
+     "id": "advanced-2-22-37",
+     "w": "支持を集める",
+     "r": "しじをあつめる",
+     "p": "expr",
+     "zh": "赢得支持",
+     "en": "to win support"
+    },
+    {
+     "id": "advanced-2-22-38",
+     "w": "熾烈",
+     "r": "しれつ",
+     "p": "na-adj",
+     "zh": "激烈的",
+     "en": "fierce"
+    },
+    {
+     "id": "advanced-2-22-39",
+     "w": "圧倒的",
+     "r": "あっとうてき",
+     "p": "na-adj",
+     "zh": "压倒性的",
+     "en": "overwhelming"
+    },
+    {
+     "id": "advanced-2-22-40",
+     "w": "惜しくも",
+     "r": "おしくも",
+     "p": "adv",
+     "zh": "可惜",
+     "en": "regrettably; narrowly"
+    }
+   ]
+  },
+  {
+   "n": 23,
+   "title": "食と農業",
+   "title_zh": "饮食与农业",
+   "words": [
+    {
+     "id": "advanced-2-23-01",
+     "w": "農業",
+     "r": "のうぎょう",
+     "p": "noun",
+     "zh": "农业",
+     "en": "agriculture"
+    },
+    {
+     "id": "advanced-2-23-02",
+     "w": "農家",
+     "r": "のうか",
+     "p": "noun",
+     "zh": "农户",
+     "en": "farmer"
+    },
+    {
+     "id": "advanced-2-23-03",
+     "w": "耕作",
+     "r": "こうさく",
+     "p": "noun",
+     "zh": "耕作",
+     "en": "cultivation"
+    },
+    {
+     "id": "advanced-2-23-04",
+     "w": "農地",
+     "r": "のうち",
+     "p": "noun",
+     "zh": "农田",
+     "en": "farmland"
+    },
+    {
+     "id": "advanced-2-23-05",
+     "w": "収穫",
+     "r": "しゅうかく",
+     "p": "noun",
+     "zh": "收获",
+     "en": "harvest"
+    },
+    {
+     "id": "advanced-2-23-06",
+     "w": "作付け",
+     "r": "さくつけ",
+     "p": "noun",
+     "zh": "种植",
+     "en": "planting"
+    },
+    {
+     "id": "advanced-2-23-07",
+     "w": "品種改良",
+     "r": "ひんしゅかいりょう",
+     "p": "noun",
+     "zh": "品种改良",
+     "en": "breed improvement"
+    },
+    {
+     "id": "advanced-2-23-08",
+     "w": "農薬",
+     "r": "のうやく",
+     "p": "noun",
+     "zh": "农药",
+     "en": "pesticide"
+    },
+    {
+     "id": "advanced-2-23-09",
+     "w": "有機栽培",
+     "r": "ゆうきさいばい",
+     "p": "noun",
+     "zh": "有机栽培",
+     "en": "organic farming"
+    },
+    {
+     "id": "advanced-2-23-10",
+     "w": "無農薬",
+     "r": "むのうやく",
+     "p": "noun",
+     "zh": "无农药",
+     "en": "pesticide-free"
+    },
+    {
+     "id": "advanced-2-23-11",
+     "w": "食料自給率",
+     "r": "しょくりょうじきゅうりつ",
+     "p": "noun",
+     "zh": "粮食自给率",
+     "en": "food self-sufficiency rate"
+    },
+    {
+     "id": "advanced-2-23-12",
+     "w": "輸入依存",
+     "r": "ゆにゅういぞん",
+     "p": "noun",
+     "zh": "依赖进口",
+     "en": "import dependence"
+    },
+    {
+     "id": "advanced-2-23-13",
+     "w": "食の安全",
+     "r": "しょくのあんぜん",
+     "p": "noun",
+     "zh": "食品安全",
+     "en": "food safety"
+    },
+    {
+     "id": "advanced-2-23-14",
+     "w": "産地偽装",
+     "r": "さんちぎそう",
+     "p": "noun",
+     "zh": "产地造假",
+     "en": "origin fraud"
+    },
+    {
+     "id": "advanced-2-23-15",
+     "w": "トレーサビリティ",
+     "r": "トレーサビリティ",
+     "p": "noun",
+     "zh": "可追溯性",
+     "en": "traceability"
+    },
+    {
+     "id": "advanced-2-23-16",
+     "w": "添加物",
+     "r": "てんかぶつ",
+     "p": "noun",
+     "zh": "添加剂",
+     "en": "additive"
+    },
+    {
+     "id": "advanced-2-23-17",
+     "w": "遺伝子組み換え",
+     "r": "いでんしくみかえ",
+     "p": "noun",
+     "zh": "转基因",
+     "en": "genetically modified"
+    },
+    {
+     "id": "advanced-2-23-18",
+     "w": "食品ロス",
+     "r": "しょくひんロス",
+     "p": "noun",
+     "zh": "食物浪费",
+     "en": "food loss"
+    },
+    {
+     "id": "advanced-2-23-19",
+     "w": "賞味期限",
+     "r": "しょうみきげん",
+     "p": "noun",
+     "zh": "最佳赏味期",
+     "en": "best-before date"
+    },
+    {
+     "id": "advanced-2-23-20",
+     "w": "消費期限",
+     "r": "しょうひきげん",
+     "p": "noun",
+     "zh": "保质期",
+     "en": "use-by date"
+    },
+    {
+     "id": "advanced-2-23-21",
+     "w": "流通",
+     "r": "りゅうつう",
+     "p": "noun",
+     "zh": "流通",
+     "en": "distribution"
+    },
+    {
+     "id": "advanced-2-23-22",
+     "w": "卸売",
+     "r": "おろしうり",
+     "p": "noun",
+     "zh": "批发",
+     "en": "wholesale"
+    },
+    {
+     "id": "advanced-2-23-23",
+     "w": "直売所",
+     "r": "ちょくばいじょ",
+     "p": "noun",
+     "zh": "直销点",
+     "en": "farm stand"
+    },
+    {
+     "id": "advanced-2-23-24",
+     "w": "地産地消",
+     "r": "ちさんちしょう",
+     "p": "noun",
+     "zh": "本地生产本地消费",
+     "en": "local production for local consumption"
+    },
+    {
+     "id": "advanced-2-23-25",
+     "w": "後継者不足",
+     "r": "こうけいしゃぶそく",
+     "p": "noun",
+     "zh": "后继无人",
+     "en": "lack of successors"
+    },
+    {
+     "id": "advanced-2-23-26",
+     "w": "耕作放棄地",
+     "r": "こうさくほうきち",
+     "p": "noun",
+     "zh": "撂荒地",
+     "en": "abandoned farmland"
+    },
+    {
+     "id": "advanced-2-23-27",
+     "w": "六次産業化",
+     "r": "ろくじさんぎょうか",
+     "p": "noun",
+     "zh": "六次产业化",
+     "en": "sixth-sector industrialization"
+    },
+    {
+     "id": "advanced-2-23-28",
+     "w": "漁業",
+     "r": "ぎょぎょう",
+     "p": "noun",
+     "zh": "渔业",
+     "en": "fishery"
+    },
+    {
+     "id": "advanced-2-23-29",
+     "w": "養殖",
+     "r": "ようしょく",
+     "p": "noun",
+     "zh": "养殖",
+     "en": "aquaculture"
+    },
+    {
+     "id": "advanced-2-23-30",
+     "w": "乱獲",
+     "r": "らんかく",
+     "p": "noun",
+     "zh": "滥捕",
+     "en": "overfishing"
+    },
+    {
+     "id": "advanced-2-23-31",
+     "w": "栽培する",
+     "r": "さいばいする",
+     "p": "verb",
+     "zh": "栽培",
+     "en": "to cultivate",
+     "g": 3
+    },
+    {
+     "id": "advanced-2-23-32",
+     "w": "出荷する",
+     "r": "しゅっかする",
+     "p": "verb",
+     "zh": "出货",
+     "en": "to ship",
+     "g": 3
+    },
+    {
+     "id": "advanced-2-23-33",
+     "w": "確保する",
+     "r": "かくほする",
+     "p": "verb",
+     "zh": "确保",
+     "en": "to secure",
+     "g": 3
+    },
+    {
+     "id": "advanced-2-23-34",
+     "w": "廃棄する",
+     "r": "はいきする",
+     "p": "verb",
+     "zh": "废弃",
+     "en": "to discard",
+     "g": 3
+    },
+    {
+     "id": "advanced-2-23-35",
+     "w": "見直される",
+     "r": "みなおされる",
+     "p": "verb",
+     "zh": "被重新评价",
+     "en": "to be reappraised",
+     "g": 2
+    },
+    {
+     "id": "advanced-2-23-36",
+     "w": "担い手",
+     "r": "にないて",
+     "p": "noun",
+     "zh": "承担者，主力",
+     "en": "bearer; key player"
+    },
+    {
+     "id": "advanced-2-23-37",
+     "w": "安定供給",
+     "r": "あんていきょうきゅう",
+     "p": "noun",
+     "zh": "稳定供应",
+     "en": "stable supply"
+    },
+    {
+     "id": "advanced-2-23-38",
+     "w": "高付加価値",
+     "r": "こうふかかち",
+     "p": "noun",
+     "zh": "高附加值",
+     "en": "high added value"
+    },
+    {
+     "id": "advanced-2-23-39",
+     "w": "過剰",
+     "r": "かじょう",
+     "p": "na-adj",
+     "zh": "过剩的",
+     "en": "excessive"
+    },
+    {
+     "id": "advanced-2-23-40",
+     "w": "深刻化",
+     "r": "しんこくか",
+     "p": "noun",
+     "zh": "加剧",
+     "en": "worsening"
+    }
+   ]
+  },
+  {
+   "n": 24,
+   "title": "未来と持続可能性",
+   "title_zh": "未来与可持续发展",
+   "words": [
+    {
+     "id": "advanced-2-24-01",
+     "w": "持続可能性",
+     "r": "じぞくかのうせい",
+     "p": "noun",
+     "zh": "可持续性",
+     "en": "sustainability"
+    },
+    {
+     "id": "advanced-2-24-02",
+     "w": "共生社会",
+     "r": "きょうせいしゃかい",
+     "p": "noun",
+     "zh": "共生社会",
+     "en": "inclusive society"
+    },
+    {
+     "id": "advanced-2-24-03",
+     "w": "循環型社会",
+     "r": "じゅんかんがたしゃかい",
+     "p": "noun",
+     "zh": "循环型社会",
+     "en": "recycling-oriented society"
+    },
+    {
+     "id": "advanced-2-24-04",
+     "w": "脱炭素",
+     "r": "だつたんそ",
+     "p": "noun",
+     "zh": "脱碳",
+     "en": "decarbonization"
+    },
+    {
+     "id": "advanced-2-24-05",
+     "w": "再生可能",
+     "r": "さいせいかのう",
+     "p": "na-adj",
+     "zh": "可再生的",
+     "en": "renewable"
+    },
+    {
+     "id": "advanced-2-24-06",
+     "w": "世代を超えて",
+     "r": "せだいをこえて",
+     "p": "expr",
+     "zh": "跨越世代",
+     "en": "across generations"
+    },
+    {
+     "id": "advanced-2-24-07",
+     "w": "次世代",
+     "r": "じせだい",
+     "p": "noun",
+     "zh": "下一代",
+     "en": "next generation"
+    },
+    {
+     "id": "advanced-2-24-08",
+     "w": "将来世代",
+     "r": "しょうらいせだい",
+     "p": "noun",
+     "zh": "未来世代",
+     "en": "future generations"
+    },
+    {
+     "id": "advanced-2-24-09",
+     "w": "責務",
+     "r": "せきむ",
+     "p": "noun",
+     "zh": "职责，责任",
+     "en": "duty"
+    },
+    {
+     "id": "advanced-2-24-10",
+     "w": "展望",
+     "r": "てんぼう",
+     "p": "noun",
+     "zh": "展望",
+     "en": "outlook"
+    },
+    {
+     "id": "advanced-2-24-11",
+     "w": "構想",
+     "r": "こうそう",
+     "p": "noun",
+     "zh": "构想",
+     "en": "concept; vision"
+    },
+    {
+     "id": "advanced-2-24-12",
+     "w": "青写真",
+     "r": "あおじゃしん",
+     "p": "noun",
+     "zh": "蓝图",
+     "en": "blueprint"
+    },
+    {
+     "id": "advanced-2-24-13",
+     "w": "長期的視点",
+     "r": "ちょうきてきしてん",
+     "p": "noun",
+     "zh": "长远视角",
+     "en": "long-term perspective"
+    },
+    {
+     "id": "advanced-2-24-14",
+     "w": "目標設定",
+     "r": "もくひょうせってい",
+     "p": "noun",
+     "zh": "设定目标",
+     "en": "goal setting"
+    },
+    {
+     "id": "advanced-2-24-15",
+     "w": "指標",
+     "r": "しひょう",
+     "p": "noun",
+     "zh": "指标",
+     "en": "indicator"
+    },
+    {
+     "id": "advanced-2-24-16",
+     "w": "評価基準",
+     "r": "ひょうかきじゅん",
+     "p": "noun",
+     "zh": "评价标准",
+     "en": "evaluation criteria"
+    },
+    {
+     "id": "advanced-2-24-17",
+     "w": "合意形成",
+     "r": "ごういけいせい",
+     "p": "noun",
+     "zh": "形成共识",
+     "en": "consensus building"
+    },
+    {
+     "id": "advanced-2-24-18",
+     "w": "利害調整",
+     "r": "りがいちょうせい",
+     "p": "noun",
+     "zh": "利益协调",
+     "en": "coordinating interests"
+    },
+    {
+     "id": "advanced-2-24-19",
+     "w": "技術革新",
+     "r": "ぎじゅつかくしん",
+     "p": "noun",
+     "zh": "技术革新",
+     "en": "innovation"
+    },
+    {
+     "id": "advanced-2-24-20",
+     "w": "社会実装",
+     "r": "しゃかいじっそう",
+     "p": "noun",
+     "zh": "社会落地应用",
+     "en": "social implementation"
+    },
+    {
+     "id": "advanced-2-24-21",
+     "w": "制度設計",
+     "r": "せいどせっけい",
+     "p": "noun",
+     "zh": "制度设计",
+     "en": "institutional design"
+    },
+    {
+     "id": "advanced-2-24-22",
+     "w": "変革",
+     "r": "へんかく",
+     "p": "noun",
+     "zh": "变革",
+     "en": "transformation"
+    },
+    {
+     "id": "advanced-2-24-23",
+     "w": "転換",
+     "r": "てんかん",
+     "p": "noun",
+     "zh": "转变",
+     "en": "shift"
+    },
+    {
+     "id": "advanced-2-24-24",
+     "w": "包摂",
+     "r": "ほうせつ",
+     "p": "noun",
+     "zh": "包容",
+     "en": "inclusion"
+    },
+    {
+     "id": "advanced-2-24-25",
+     "w": "格差是正",
+     "r": "かくさぜせい",
+     "p": "noun",
+     "zh": "缩小差距",
+     "en": "correcting disparities"
+    },
+    {
+     "id": "advanced-2-24-26",
+     "w": "福祉国家",
+     "r": "ふくしこっか",
+     "p": "noun",
+     "zh": "福利国家",
+     "en": "welfare state"
+    },
+    {
+     "id": "advanced-2-24-27",
+     "w": "見通す",
+     "r": "みとおす",
+     "p": "verb",
+     "zh": "预见，展望",
+     "en": "to foresee",
+     "g": 1
+    },
+    {
+     "id": "advanced-2-24-28",
+     "w": "切り拓く",
+     "r": "きりひらく",
+     "p": "verb",
+     "zh": "开拓",
+     "en": "to pioneer",
+     "g": 1
+    },
+    {
+     "id": "advanced-2-24-29",
+     "w": "打開する",
+     "r": "だかいする",
+     "p": "verb",
+     "zh": "打开局面",
+     "en": "to break through",
+     "g": 3
+    },
+    {
+     "id": "advanced-2-24-30",
+     "w": "模索する",
+     "r": "もさくする",
+     "p": "verb",
+     "zh": "摸索",
+     "en": "to grope for",
+     "g": 3
+    },
+    {
+     "id": "advanced-2-24-31",
+     "w": "見据える",
+     "r": "みすえる",
+     "p": "verb",
+     "zh": "正视，看准",
+     "en": "to look ahead to",
+     "g": 2
+    },
+    {
+     "id": "advanced-2-24-32",
+     "w": "問い直される",
+     "r": "といなおされる",
+     "p": "verb",
+     "zh": "被重新追问",
+     "en": "to be reexamined",
+     "g": 2
+    },
+    {
+     "id": "advanced-2-24-33",
+     "w": "取り残される",
+     "r": "とりのこされる",
+     "p": "verb",
+     "zh": "被落下",
+     "en": "to be left behind",
+     "g": 2
+    },
+    {
+     "id": "advanced-2-24-34",
+     "w": "根差す",
+     "r": "ねざす",
+     "p": "verb",
+     "zh": "扎根于",
+     "en": "to be rooted in",
+     "g": 1
+    },
+    {
+     "id": "advanced-2-24-35",
+     "w": "不可逆的",
+     "r": "ふかぎゃくてき",
+     "p": "na-adj",
+     "zh": "不可逆的",
+     "en": "irreversible"
+    },
+    {
+     "id": "advanced-2-24-36",
+     "w": "喫緊",
+     "r": "きっきん",
+     "p": "na-adj",
+     "zh": "当务之急的",
+     "en": "pressing"
+    },
+    {
+     "id": "advanced-2-24-37",
+     "w": "多角的",
+     "r": "たかくてき",
+     "p": "na-adj",
+     "zh": "多角度的",
+     "en": "multifaceted"
+    },
+    {
+     "id": "advanced-2-24-38",
+     "w": "長期にわたる",
+     "r": "ちょうきにわたる",
+     "p": "expr",
+     "zh": "长期的",
+     "en": "spanning a long term"
+    },
+    {
+     "id": "advanced-2-24-39",
+     "w": "いかに",
+     "r": "いかに",
+     "p": "adv",
+     "zh": "如何",
+     "en": "how"
+    },
+    {
+     "id": "advanced-2-24-40",
+     "w": "ひとえに",
+     "r": "ひとえに",
+     "p": "adv",
+     "zh": "完全，全靠",
+     "en": "entirely; solely"
+    }
+   ]
+  }
+ ]
+}

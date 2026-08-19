@@ -1,0 +1,5361 @@
+{
+ "id": "intermediate-1",
+ "series": "intermediate",
+ "volume": 1,
+ "title": "中級 上",
+ "title_zh": "中级 上册",
+ "title_en": "Intermediate I",
+ "themed": true,
+ "lessons": [
+  {
+   "n": 1,
+   "title": "出会いとあいさつ",
+   "title_zh": "相识与寒暄",
+   "words": [
+    {
+     "id": "intermediate-1-01-01",
+     "w": "出会い",
+     "r": "であい",
+     "p": "noun",
+     "zh": "相遇，邂逅",
+     "en": "encounter"
+    },
+    {
+     "id": "intermediate-1-01-02",
+     "w": "知り合い",
+     "r": "しりあい",
+     "p": "noun",
+     "zh": "熟人",
+     "en": "acquaintance"
+    },
+    {
+     "id": "intermediate-1-01-03",
+     "w": "紹介",
+     "r": "しょうかい",
+     "p": "noun",
+     "zh": "介绍",
+     "en": "introduction"
+    },
+    {
+     "id": "intermediate-1-01-04",
+     "w": "自己紹介",
+     "r": "じこしょうかい",
+     "p": "noun",
+     "zh": "自我介绍",
+     "en": "self-introduction"
+    },
+    {
+     "id": "intermediate-1-01-05",
+     "w": "第一印象",
+     "r": "だいいちいんしょう",
+     "p": "noun",
+     "zh": "第一印象",
+     "en": "first impression"
+    },
+    {
+     "id": "intermediate-1-01-06",
+     "w": "縁",
+     "r": "えん",
+     "p": "noun",
+     "zh": "缘分",
+     "en": "fate; connection"
+    },
+    {
+     "id": "intermediate-1-01-07",
+     "w": "付き合い",
+     "r": "つきあい",
+     "p": "noun",
+     "zh": "交往，来往",
+     "en": "association"
+    },
+    {
+     "id": "intermediate-1-01-08",
+     "w": "人間関係",
+     "r": "にんげんかんけい",
+     "p": "noun",
+     "zh": "人际关系",
+     "en": "human relations"
+    },
+    {
+     "id": "intermediate-1-01-09",
+     "w": "信頼",
+     "r": "しんらい",
+     "p": "noun",
+     "zh": "信赖",
+     "en": "trust"
+    },
+    {
+     "id": "intermediate-1-01-10",
+     "w": "礼儀正しい",
+     "r": "れいぎただしい",
+     "p": "i-adj",
+     "zh": "有礼貌的",
+     "en": "well-mannered"
+    },
+    {
+     "id": "intermediate-1-01-11",
+     "w": "気さく",
+     "r": "きさく",
+     "p": "na-adj",
+     "zh": "随和的，爽快的",
+     "en": "friendly; easygoing"
+    },
+    {
+     "id": "intermediate-1-01-12",
+     "w": "人見知り",
+     "r": "ひとみしり",
+     "p": "noun",
+     "zh": "怕生",
+     "en": "shyness with strangers"
+    },
+    {
+     "id": "intermediate-1-01-13",
+     "w": "打ち解ける",
+     "r": "うちとける",
+     "p": "verb",
+     "zh": "融洽，无隔阂",
+     "en": "to open up to",
+     "g": 2
+    },
+    {
+     "id": "intermediate-1-01-14",
+     "w": "馴染む",
+     "r": "なじむ",
+     "p": "verb",
+     "zh": "熟悉，适应",
+     "en": "to become familiar with",
+     "g": 1
+    },
+    {
+     "id": "intermediate-1-01-15",
+     "w": "声を掛ける",
+     "r": "こえをかける",
+     "p": "expr",
+     "zh": "打招呼，搭话",
+     "en": "to call out to"
+    },
+    {
+     "id": "intermediate-1-01-16",
+     "w": "名乗る",
+     "r": "なのる",
+     "p": "verb",
+     "zh": "自报姓名",
+     "en": "to give one's name",
+     "g": 1
+    },
+    {
+     "id": "intermediate-1-01-17",
+     "w": "お辞儀",
+     "r": "おじぎ",
+     "p": "noun",
+     "zh": "鞠躬",
+     "en": "bow"
+    },
+    {
+     "id": "intermediate-1-01-18",
+     "w": "握手",
+     "r": "あくしゅ",
+     "p": "noun",
+     "zh": "握手",
+     "en": "handshake"
+    },
+    {
+     "id": "intermediate-1-01-19",
+     "w": "敬意",
+     "r": "けいい",
+     "p": "noun",
+     "zh": "敬意",
+     "en": "respect"
+    },
+    {
+     "id": "intermediate-1-01-20",
+     "w": "謙遜",
+     "r": "けんそん",
+     "p": "noun",
+     "zh": "谦逊",
+     "en": "modesty"
+    },
+    {
+     "id": "intermediate-1-01-21",
+     "w": "世間話",
+     "r": "せけんばなし",
+     "p": "noun",
+     "zh": "闲聊，家常话",
+     "en": "small talk"
+    },
+    {
+     "id": "intermediate-1-01-22",
+     "w": "話題",
+     "r": "わだい",
+     "p": "noun",
+     "zh": "话题",
+     "en": "topic"
+    },
+    {
+     "id": "intermediate-1-01-23",
+     "w": "共通点",
+     "r": "きょうつうてん",
+     "p": "noun",
+     "zh": "共同点",
+     "en": "common ground"
+    },
+    {
+     "id": "intermediate-1-01-24",
+     "w": "うわさ",
+     "r": "うわさ",
+     "p": "noun",
+     "zh": "传闻",
+     "en": "rumor"
+    },
+    {
+     "id": "intermediate-1-01-25",
+     "w": "招く",
+     "r": "まねく",
+     "p": "verb",
+     "zh": "招待，邀请",
+     "en": "to invite",
+     "g": 1
+    },
+    {
+     "id": "intermediate-1-01-26",
+     "w": "歓迎する",
+     "r": "かんげいする",
+     "p": "verb",
+     "zh": "欢迎",
+     "en": "to welcome",
+     "g": 3
+    },
+    {
+     "id": "intermediate-1-01-27",
+     "w": "見送る",
+     "r": "みおくる",
+     "p": "verb",
+     "zh": "送行",
+     "en": "to see off",
+     "g": 1
+    },
+    {
+     "id": "intermediate-1-01-28",
+     "w": "別れる",
+     "r": "わかれる",
+     "p": "verb",
+     "zh": "分别，分手",
+     "en": "to part",
+     "g": 2
+    },
+    {
+     "id": "intermediate-1-01-29",
+     "w": "再会",
+     "r": "さいかい",
+     "p": "noun",
+     "zh": "重逢",
+     "en": "reunion"
+    },
+    {
+     "id": "intermediate-1-01-30",
+     "w": "懐かしい",
+     "r": "なつかしい",
+     "p": "i-adj",
+     "zh": "怀念的",
+     "en": "nostalgic"
+    },
+    {
+     "id": "intermediate-1-01-31",
+     "w": "久しぶり",
+     "r": "ひさしぶり",
+     "p": "noun",
+     "zh": "好久不见",
+     "en": "long time no see"
+    },
+    {
+     "id": "intermediate-1-01-32",
+     "w": "ご無沙汰",
+     "r": "ごぶさた",
+     "p": "noun",
+     "zh": "久疏问候",
+     "en": "not having been in touch"
+    },
+    {
+     "id": "intermediate-1-01-33",
+     "w": "お陰様で",
+     "r": "おかげさまで",
+     "p": "expr",
+     "zh": "托您的福",
+     "en": "thanks to you"
+    },
+    {
+     "id": "intermediate-1-01-34",
+     "w": "どうぞお構いなく",
+     "r": "どうぞおかまいなく",
+     "p": "expr",
+     "zh": "请别张罗",
+     "en": "please don't go to any trouble"
+    },
+    {
+     "id": "intermediate-1-01-35",
+     "w": "改めて",
+     "r": "あらためて",
+     "p": "adv",
+     "zh": "重新，再次",
+     "en": "once again"
+    },
+    {
+     "id": "intermediate-1-01-36",
+     "w": "何よりです",
+     "r": "なによりです",
+     "p": "expr",
+     "zh": "再好不过了",
+     "en": "that's the best news"
+    },
+    {
+     "id": "intermediate-1-01-37",
+     "w": "つい",
+     "r": "つい",
+     "p": "adv",
+     "zh": "不由得",
+     "en": "unintentionally"
+    },
+    {
+     "id": "intermediate-1-01-38",
+     "w": "やがて",
+     "r": "やがて",
+     "p": "adv",
+     "zh": "不久，很快",
+     "en": "before long"
+    },
+    {
+     "id": "intermediate-1-01-39",
+     "w": "ますます",
+     "r": "ますます",
+     "p": "adv",
+     "zh": "越发",
+     "en": "increasingly"
+    },
+    {
+     "id": "intermediate-1-01-40",
+     "w": "いわゆる",
+     "r": "いわゆる",
+     "p": "prenoun",
+     "zh": "所谓的",
+     "en": "so-called"
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "title": "東京での暮らし",
+   "title_zh": "在东京的生活",
+   "words": [
+    {
+     "id": "intermediate-1-02-01",
+     "w": "暮らし",
+     "r": "くらし",
+     "p": "noun",
+     "zh": "生活，生计",
+     "en": "living; life"
+    },
+    {
+     "id": "intermediate-1-02-02",
+     "w": "暮らす",
+     "r": "くらす",
+     "p": "verb",
+     "zh": "生活，度日",
+     "en": "to live",
+     "g": 1
+    },
+    {
+     "id": "intermediate-1-02-03",
+     "w": "生活費",
+     "r": "せいかつひ",
+     "p": "noun",
+     "zh": "生活费",
+     "en": "living expenses"
+    },
+    {
+     "id": "intermediate-1-02-04",
+     "w": "家計",
+     "r": "かけい",
+     "p": "noun",
+     "zh": "家计，家庭收支",
+     "en": "household finances"
+    },
+    {
+     "id": "intermediate-1-02-05",
+     "w": "物価",
+     "r": "ぶっか",
+     "p": "noun",
+     "zh": "物价",
+     "en": "prices"
+    },
+    {
+     "id": "intermediate-1-02-06",
+     "w": "収入",
+     "r": "しゅうにゅう",
+     "p": "noun",
+     "zh": "收入",
+     "en": "income"
+    },
+    {
+     "id": "intermediate-1-02-07",
+     "w": "支出",
+     "r": "ししゅつ",
+     "p": "noun",
+     "zh": "支出",
+     "en": "expenditure"
+    },
+    {
+     "id": "intermediate-1-02-08",
+     "w": "光熱費",
+     "r": "こうねつひ",
+     "p": "noun",
+     "zh": "水电煤费",
+     "en": "utility bills"
+    },
+    {
+     "id": "intermediate-1-02-09",
+     "w": "公共料金",
+     "r": "こうきょうりょうきん",
+     "p": "noun",
+     "zh": "公共事业费",
+     "en": "public utility charges"
+    },
+    {
+     "id": "intermediate-1-02-10",
+     "w": "日用品",
+     "r": "にちようひん",
+     "p": "noun",
+     "zh": "日用品",
+     "en": "daily necessities"
+    },
+    {
+     "id": "intermediate-1-02-11",
+     "w": "ごみ出し",
+     "r": "ごみだし",
+     "p": "noun",
+     "zh": "倒垃圾",
+     "en": "putting out the garbage"
+    },
+    {
+     "id": "intermediate-1-02-12",
+     "w": "分別",
+     "r": "ぶんべつ",
+     "p": "noun",
+     "zh": "垃圾分类",
+     "en": "sorting (garbage)"
+    },
+    {
+     "id": "intermediate-1-02-13",
+     "w": "回覧板",
+     "r": "かいらんばん",
+     "p": "noun",
+     "zh": "传阅板",
+     "en": "circular notice board"
+    },
+    {
+     "id": "intermediate-1-02-14",
+     "w": "町内会",
+     "r": "ちょうないかい",
+     "p": "noun",
+     "zh": "居民委员会",
+     "en": "neighborhood association"
+    },
+    {
+     "id": "intermediate-1-02-15",
+     "w": "騒音",
+     "r": "そうおん",
+     "p": "noun",
+     "zh": "噪音",
+     "en": "noise"
+    },
+    {
+     "id": "intermediate-1-02-16",
+     "w": "苦情",
+     "r": "くじょう",
+     "p": "noun",
+     "zh": "抱怨，投诉",
+     "en": "complaint"
+    },
+    {
+     "id": "intermediate-1-02-17",
+     "w": "通勤",
+     "r": "つうきん",
+     "p": "noun",
+     "zh": "上下班通勤",
+     "en": "commuting to work"
+    },
+    {
+     "id": "intermediate-1-02-18",
+     "w": "通学",
+     "r": "つうがく",
+     "p": "noun",
+     "zh": "上下学",
+     "en": "commuting to school"
+    },
+    {
+     "id": "intermediate-1-02-19",
+     "w": "満員電車",
+     "r": "まんいんでんしゃ",
+     "p": "noun",
+     "zh": "满员电车",
+     "en": "packed train"
+    },
+    {
+     "id": "intermediate-1-02-20",
+     "w": "ラッシュアワー",
+     "r": "ラッシュアワー",
+     "p": "noun",
+     "zh": "高峰时段",
+     "en": "rush hour"
+    },
+    {
+     "id": "intermediate-1-02-21",
+     "w": "定期券",
+     "r": "ていきけん",
+     "p": "noun",
+     "zh": "月票，定期票",
+     "en": "commuter pass"
+    },
+    {
+     "id": "intermediate-1-02-22",
+     "w": "一人暮らし",
+     "r": "ひとりぐらし",
+     "p": "noun",
+     "zh": "独居",
+     "en": "living alone"
+    },
+    {
+     "id": "intermediate-1-02-23",
+     "w": "共働き",
+     "r": "ともばたらき",
+     "p": "noun",
+     "zh": "双职工",
+     "en": "dual-income"
+    },
+    {
+     "id": "intermediate-1-02-24",
+     "w": "単身赴任",
+     "r": "たんしんふにん",
+     "p": "noun",
+     "zh": "单身赴任",
+     "en": "job transfer without family"
+    },
+    {
+     "id": "intermediate-1-02-25",
+     "w": "便利さ",
+     "r": "べんりさ",
+     "p": "noun",
+     "zh": "便利性",
+     "en": "convenience"
+    },
+    {
+     "id": "intermediate-1-02-26",
+     "w": "慣れる",
+     "r": "なれる",
+     "p": "verb",
+     "zh": "习惯",
+     "en": "to get used to",
+     "g": 2
+    },
+    {
+     "id": "intermediate-1-02-27",
+     "w": "戸惑う",
+     "r": "とまどう",
+     "p": "verb",
+     "zh": "困惑，不知所措",
+     "en": "to be at a loss",
+     "g": 1
+    },
+    {
+     "id": "intermediate-1-02-28",
+     "w": "落ち着く",
+     "r": "おちつく",
+     "p": "verb",
+     "zh": "安顿下来，平静",
+     "en": "to settle down",
+     "g": 1
+    },
+    {
+     "id": "intermediate-1-02-29",
+     "w": "我慢する",
+     "r": "がまんする",
+     "p": "verb",
+     "zh": "忍耐",
+     "en": "to put up with",
+     "g": 3
+    },
+    {
+     "id": "intermediate-1-02-30",
+     "w": "節約する",
+     "r": "せつやくする",
+     "p": "verb",
+     "zh": "节约",
+     "en": "to economize",
+     "g": 3
+    },
+    {
+     "id": "intermediate-1-02-31",
+     "w": "稼ぐ",
+     "r": "かせぐ",
+     "p": "verb",
+     "zh": "挣钱",
+     "en": "to earn",
+     "g": 1
+    },
+    {
+     "id": "intermediate-1-02-32",
+     "w": "貯める",
+     "r": "ためる",
+     "p": "verb",
+     "zh": "存（钱）",
+     "en": "to save up",
+     "g": 2
+    },
+    {
+     "id": "intermediate-1-02-33",
+     "w": "支払う",
+     "r": "しはらう",
+     "p": "verb",
+     "zh": "支付",
+     "en": "to pay",
+     "g": 1
+    },
+    {
+     "id": "intermediate-1-02-34",
+     "w": "忙しない",
+     "r": "せわしない",
+     "p": "i-adj",
+     "zh": "忙碌不停的",
+     "en": "restless; hectic"
+    },
+    {
+     "id": "intermediate-1-02-35",
+     "w": "手軽",
+     "r": "てがる",
+     "p": "na-adj",
+     "zh": "简便的",
+     "en": "easy; handy"
+    },
+    {
+     "id": "intermediate-1-02-36",
+     "w": "快適",
+     "r": "かいてき",
+     "p": "na-adj",
+     "zh": "舒适的",
+     "en": "comfortable"
+    },
+    {
+     "id": "intermediate-1-02-37",
+     "w": "窮屈",
+     "r": "きゅうくつ",
+     "p": "na-adj",
+     "zh": "狭窄的，拘束的",
+     "en": "cramped; stifling"
+    },
+    {
+     "id": "intermediate-1-02-38",
+     "w": "日常",
+     "r": "にちじょう",
+     "p": "noun",
+     "zh": "日常",
+     "en": "everyday life"
+    },
+    {
+     "id": "intermediate-1-02-39",
+     "w": "ふだん",
+     "r": "ふだん",
+     "p": "noun",
+     "zh": "平时",
+     "en": "usually"
+    },
+    {
+     "id": "intermediate-1-02-40",
+     "w": "何とか",
+     "r": "なんとか",
+     "p": "adv",
+     "zh": "设法，好歹",
+     "en": "somehow"
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "title": "買い物と値段の交渉",
+   "title_zh": "购物与议价",
+   "words": [
+    {
+     "id": "intermediate-1-03-01",
+     "w": "値引き",
+     "r": "ねびき",
+     "p": "noun",
+     "zh": "减价",
+     "en": "discount"
+    },
+    {
+     "id": "intermediate-1-03-02",
+     "w": "値上げ",
+     "r": "ねあげ",
+     "p": "noun",
+     "zh": "涨价",
+     "en": "price increase"
+    },
+    {
+     "id": "intermediate-1-03-03",
+     "w": "値下げ",
+     "r": "ねさげ",
+     "p": "noun",
+     "zh": "降价",
+     "en": "price cut"
+    },
+    {
+     "id": "intermediate-1-03-04",
+     "w": "特売",
+     "r": "とくばい",
+     "p": "noun",
+     "zh": "特卖",
+     "en": "special sale"
+    },
+    {
+     "id": "intermediate-1-03-05",
+     "w": "バーゲン",
+     "r": "バーゲン",
+     "p": "noun",
+     "zh": "大减价",
+     "en": "bargain sale"
+    },
+    {
+     "id": "intermediate-1-03-06",
+     "w": "在庫",
+     "r": "ざいこ",
+     "p": "noun",
+     "zh": "库存",
+     "en": "stock"
+    },
+    {
+     "id": "intermediate-1-03-07",
+     "w": "品切れ",
+     "r": "しなぎれ",
+     "p": "noun",
+     "zh": "售罄",
+     "en": "out of stock"
+    },
+    {
+     "id": "intermediate-1-03-08",
+     "w": "入荷",
+     "r": "にゅうか",
+     "p": "noun",
+     "zh": "进货",
+     "en": "arrival of goods"
+    },
+    {
+     "id": "intermediate-1-03-09",
+     "w": "返品",
+     "r": "へんぴん",
+     "p": "noun",
+     "zh": "退货",
+     "en": "returning goods"
+    },
+    {
+     "id": "intermediate-1-03-10",
+     "w": "交換",
+     "r": "こうかん",
+     "p": "noun",
+     "zh": "交换，更换",
+     "en": "exchange"
+    },
+    {
+     "id": "intermediate-1-03-11",
+     "w": "保証書",
+     "r": "ほしょうしょ",
+     "p": "noun",
+     "zh": "保修单",
+     "en": "warranty"
+    },
+    {
+     "id": "intermediate-1-03-12",
+     "w": "消費税",
+     "r": "しょうひぜい",
+     "p": "noun",
+     "zh": "消费税",
+     "en": "consumption tax"
+    },
+    {
+     "id": "intermediate-1-03-13",
+     "w": "税込み",
+     "r": "ぜいこみ",
+     "p": "noun",
+     "zh": "含税",
+     "en": "tax included"
+    },
+    {
+     "id": "intermediate-1-03-14",
+     "w": "送料",
+     "r": "そうりょう",
+     "p": "noun",
+     "zh": "运费",
+     "en": "shipping fee"
+    },
+    {
+     "id": "intermediate-1-03-15",
+     "w": "通販",
+     "r": "つうはん",
+     "p": "noun",
+     "zh": "网购，邮购",
+     "en": "mail order"
+    },
+    {
+     "id": "intermediate-1-03-16",
+     "w": "レジ",
+     "r": "レジ",
+     "p": "noun",
+     "zh": "收银台",
+     "en": "cash register"
+    },
+    {
+     "id": "intermediate-1-03-17",
+     "w": "レシート",
+     "r": "レシート",
+     "p": "noun",
+     "zh": "小票",
+     "en": "receipt"
+    },
+    {
+     "id": "intermediate-1-03-18",
+     "w": "クレジットカード",
+     "r": "クレジットカード",
+     "p": "noun",
+     "zh": "信用卡",
+     "en": "credit card"
+    },
+    {
+     "id": "intermediate-1-03-19",
+     "w": "現金",
+     "r": "げんきん",
+     "p": "noun",
+     "zh": "现金",
+     "en": "cash"
+    },
+    {
+     "id": "intermediate-1-03-20",
+     "w": "分割払い",
+     "r": "ぶんかつばらい",
+     "p": "noun",
+     "zh": "分期付款",
+     "en": "installment payment"
+    },
+    {
+     "id": "intermediate-1-03-21",
+     "w": "予算",
+     "r": "よさん",
+     "p": "noun",
+     "zh": "预算",
+     "en": "budget"
+    },
+    {
+     "id": "intermediate-1-03-22",
+     "w": "相場",
+     "r": "そうば",
+     "p": "noun",
+     "zh": "行情",
+     "en": "market price"
+    },
+    {
+     "id": "intermediate-1-03-23",
+     "w": "お買い得",
+     "r": "おかいどく",
+     "p": "noun",
+     "zh": "合算，划算",
+     "en": "good buy"
+    },
+    {
+     "id": "intermediate-1-03-24",
+     "w": "高級",
+     "r": "こうきゅう",
+     "p": "na-adj",
+     "zh": "高级的",
+     "en": "high-class"
+    },
+    {
+     "id": "intermediate-1-03-25",
+     "w": "割安",
+     "r": "わりやす",
+     "p": "na-adj",
+     "zh": "比较便宜的",
+     "en": "relatively cheap"
+    },
+    {
+     "id": "intermediate-1-03-26",
+     "w": "割高",
+     "r": "わりだか",
+     "p": "na-adj",
+     "zh": "比较贵的",
+     "en": "relatively expensive"
+    },
+    {
+     "id": "intermediate-1-03-27",
+     "w": "手頃",
+     "r": "てごろ",
+     "p": "na-adj",
+     "zh": "价格适中的",
+     "en": "reasonable"
+    },
+    {
+     "id": "intermediate-1-03-28",
+     "w": "迷う",
+     "r": "まよう",
+     "p": "verb",
+     "zh": "犹豫；迷路",
+     "en": "to hesitate; to get lost",
+     "g": 1
+    },
+    {
+     "id": "intermediate-1-03-29",
+     "w": "選ぶ",
+     "r": "えらぶ",
+     "p": "verb",
+     "zh": "挑选",
+     "en": "to choose",
+     "g": 1
+    },
+    {
+     "id": "intermediate-1-03-30",
+     "w": "試着する",
+     "r": "しちゃくする",
+     "p": "verb",
+     "zh": "试穿",
+     "en": "to try on",
+     "g": 3
+    },
+    {
+     "id": "intermediate-1-03-31",
+     "w": "比較する",
+     "r": "ひかくする",
+     "p": "verb",
+     "zh": "比较",
+     "en": "to compare",
+     "g": 3
+    },
+    {
+     "id": "intermediate-1-03-32",
+     "w": "交渉する",
+     "r": "こうしょうする",
+     "p": "verb",
+     "zh": "交涉，谈判",
+     "en": "to negotiate",
+     "g": 3
+    },
+    {
+     "id": "intermediate-1-03-33",
+     "w": "まける",
+     "r": "まける",
+     "p": "verb",
+     "zh": "便宜点，让价",
+     "en": "to knock down the price",
+     "g": 2
+    },
+    {
+     "id": "intermediate-1-03-34",
+     "w": "勧める",
+     "r": "すすめる",
+     "p": "verb",
+     "zh": "推荐",
+     "en": "to recommend",
+     "g": 2
+    },
+    {
+     "id": "intermediate-1-03-35",
+     "w": "断る",
+     "r": "ことわる",
+     "p": "verb",
+     "zh": "拒绝",
+     "en": "to decline",
+     "g": 1
+    },
+    {
+     "id": "intermediate-1-03-36",
+     "w": "注文する",
+     "r": "ちゅうもんする",
+     "p": "verb",
+     "zh": "订购",
+     "en": "to order",
+     "g": 3
+    },
+    {
+     "id": "intermediate-1-03-37",
+     "w": "届く",
+     "r": "とどく",
+     "p": "verb",
+     "zh": "送达",
+     "en": "to arrive",
+     "g": 1
+    },
+    {
+     "id": "intermediate-1-03-38",
+     "w": "つい",
+     "r": "つい",
+     "p": "adv",
+     "zh": "不知不觉",
+     "en": "unintentionally"
+    },
+    {
+     "id": "intermediate-1-03-39",
+     "w": "思い切って",
+     "r": "おもいきって",
+     "p": "adv",
+     "zh": "下决心，狠下心",
+     "en": "daringly"
+    },
+    {
+     "id": "intermediate-1-03-40",
+     "w": "せいぜい",
+     "r": "せいぜい",
+     "p": "adv",
+     "zh": "至多，充其量",
+     "en": "at most"
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "title": "交通と道案内",
+   "title_zh": "交通与问路",
+   "words": [
+    {
+     "id": "intermediate-1-04-01",
+     "w": "道順",
+     "r": "みちじゅん",
+     "p": "noun",
+     "zh": "路线，走法",
+     "en": "route"
+    },
+    {
+     "id": "intermediate-1-04-02",
+     "w": "経路",
+     "r": "けいろ",
+     "p": "noun",
+     "zh": "路径，路线",
+     "en": "route"
+    },
+    {
+     "id": "intermediate-1-04-03",
+     "w": "目印",
+     "r": "めじるし",
+     "p": "noun",
+     "zh": "标记，路标",
+     "en": "landmark"
+    },
+    {
+     "id": "intermediate-1-04-04",
+     "w": "突き当たり",
+     "r": "つきあたり",
+     "p": "noun",
+     "zh": "尽头",
+     "en": "end of the road"
+    },
+    {
+     "id": "intermediate-1-04-05",
+     "w": "分かれ道",
+     "r": "わかれみち",
+     "p": "noun",
+     "zh": "岔路",
+     "en": "fork in the road"
+    },
+    {
+     "id": "intermediate-1-04-06",
+     "w": "歩道橋",
+     "r": "ほどうきょう",
+     "p": "noun",
+     "zh": "过街天桥",
+     "en": "pedestrian bridge"
+    },
+    {
+     "id": "intermediate-1-04-07",
+     "w": "地下道",
+     "r": "ちかどう",
+     "p": "noun",
+     "zh": "地下通道",
+     "en": "underpass"
+    },
+    {
+     "id": "intermediate-1-04-08",
+     "w": "高速道路",
+     "r": "こうそくどうろ",
+     "p": "noun",
+     "zh": "高速公路",
+     "en": "expressway"
+    },
+    {
+     "id": "intermediate-1-04-09",
+     "w": "国道",
+     "r": "こくどう",
+     "p": "noun",
+     "zh": "国道",
+     "en": "national highway"
+    },
+    {
+     "id": "intermediate-1-04-10",
+     "w": "路線",
+     "r": "ろせん",
+     "p": "noun",
+     "zh": "线路",
+     "en": "(train) line"
+    },
+    {
+     "id": "intermediate-1-04-11",
+     "w": "各駅停車",
+     "r": "かくえきていしゃ",
+     "p": "noun",
+     "zh": "每站停的车",
+     "en": "local train"
+    },
+    {
+     "id": "intermediate-1-04-12",
+     "w": "急行",
+     "r": "きゅうこう",
+     "p": "noun",
+     "zh": "快车",
+     "en": "express train"
+    },
+    {
+     "id": "intermediate-1-04-13",
+     "w": "特急",
+     "r": "とっきゅう",
+     "p": "noun",
+     "zh": "特快",
+     "en": "limited express"
+    },
+    {
+     "id": "intermediate-1-04-14",
+     "w": "終電",
+     "r": "しゅうでん",
+     "p": "noun",
+     "zh": "末班车",
+     "en": "last train"
+    },
+    {
+     "id": "intermediate-1-04-15",
+     "w": "始発",
+     "r": "しはつ",
+     "p": "noun",
+     "zh": "首班车",
+     "en": "first train"
+    },
+    {
+     "id": "intermediate-1-04-16",
+     "w": "時刻表",
+     "r": "じこくひょう",
+     "p": "noun",
+     "zh": "时刻表",
+     "en": "timetable"
+    },
+    {
+     "id": "intermediate-1-04-17",
+     "w": "運賃",
+     "r": "うんちん",
+     "p": "noun",
+     "zh": "票价",
+     "en": "fare"
+    },
+    {
+     "id": "intermediate-1-04-18",
+     "w": "乗換案内",
+     "r": "のりかえあんない",
+     "p": "noun",
+     "zh": "换乘指南",
+     "en": "transfer guide"
+    },
+    {
+     "id": "intermediate-1-04-19",
+     "w": "遅延",
+     "r": "ちえん",
+     "p": "noun",
+     "zh": "晚点",
+     "en": "delay"
+    },
+    {
+     "id": "intermediate-1-04-20",
+     "w": "運休",
+     "r": "うんきゅう",
+     "p": "noun",
+     "zh": "停运",
+     "en": "suspension of service"
+    },
+    {
+     "id": "intermediate-1-04-21",
+     "w": "車掌",
+     "r": "しゃしょう",
+     "p": "noun",
+     "zh": "列车员",
+     "en": "conductor"
+    },
+    {
+     "id": "intermediate-1-04-22",
+     "w": "駐輪場",
+     "r": "ちゅうりんじょう",
+     "p": "noun",
+     "zh": "自行车停放处",
+     "en": "bicycle parking"
+    },
+    {
+     "id": "intermediate-1-04-23",
+     "w": "渋滞する",
+     "r": "じゅうたいする",
+     "p": "verb",
+     "zh": "堵车",
+     "en": "to be congested",
+     "g": 3
+    },
+    {
+     "id": "intermediate-1-04-24",
+     "w": "迷う",
+     "r": "まよう",
+     "p": "verb",
+     "zh": "迷路",
+     "en": "to get lost",
+     "g": 1
+    },
+    {
+     "id": "intermediate-1-04-25",
+     "w": "通り過ぎる",
+     "r": "とおりすぎる",
+     "p": "verb",
+     "zh": "路过，走过头",
+     "en": "to pass by",
+     "g": 2
+    },
+    {
+     "id": "intermediate-1-04-26",
+     "w": "引き返す",
+     "r": "ひきかえす",
+     "p": "verb",
+     "zh": "折回",
+     "en": "to turn back",
+     "g": 1
+    },
+    {
+     "id": "intermediate-1-04-27",
+     "w": "回り道",
+     "r": "まわりみち",
+     "p": "noun",
+     "zh": "绕道",
+     "en": "detour"
+    },
+    {
+     "id": "intermediate-1-04-28",
+     "w": "近道",
+     "r": "ちかみち",
+     "p": "noun",
+     "zh": "近路",
+     "en": "shortcut"
+    },
+    {
+     "id": "intermediate-1-04-29",
+     "w": "辿り着く",
+     "r": "たどりつく",
+     "p": "verb",
+     "zh": "好不容易到达",
+     "en": "to finally reach",
+     "g": 1
+    },
+    {
+     "id": "intermediate-1-04-30",
+     "w": "案内する",
+     "r": "あんないする",
+     "p": "verb",
+     "zh": "引导，带路",
+     "en": "to guide",
+     "g": 3
+    },
+    {
+     "id": "intermediate-1-04-31",
+     "w": "尋ねる",
+     "r": "たずねる",
+     "p": "verb",
+     "zh": "询问",
+     "en": "to ask",
+     "g": 2
+    },
+    {
+     "id": "intermediate-1-04-32",
+     "w": "曲がり角",
+     "r": "まがりかど",
+     "p": "noun",
+     "zh": "拐角",
+     "en": "street corner"
+    },
+    {
+     "id": "intermediate-1-04-33",
+     "w": "手前",
+     "r": "てまえ",
+     "p": "noun",
+     "zh": "跟前，这边",
+     "en": "this side of"
+    },
+    {
+     "id": "intermediate-1-04-34",
+     "w": "奥",
+     "r": "おく",
+     "p": "noun",
+     "zh": "里面，深处",
+     "en": "the back; interior"
+    },
+    {
+     "id": "intermediate-1-04-35",
+     "w": "沿って",
+     "r": "そって",
+     "p": "expr",
+     "zh": "沿着",
+     "en": "along"
+    },
+    {
+     "id": "intermediate-1-04-36",
+     "w": "およそ",
+     "r": "およそ",
+     "p": "adv",
+     "zh": "大约",
+     "en": "approximately"
+    },
+    {
+     "id": "intermediate-1-04-37",
+     "w": "直接",
+     "r": "ちょくせつ",
+     "p": "adv",
+     "zh": "直接",
+     "en": "directly"
+    },
+    {
+     "id": "intermediate-1-04-38",
+     "w": "確か",
+     "r": "たしか",
+     "p": "adv",
+     "zh": "记得是",
+     "en": "if I recall"
+    },
+    {
+     "id": "intermediate-1-04-39",
+     "w": "うろうろ",
+     "r": "うろうろ",
+     "p": "adv",
+     "zh": "徘徊，转来转去",
+     "en": "wandering about"
+    },
+    {
+     "id": "intermediate-1-04-40",
+     "w": "ようやく",
+     "r": "ようやく",
+     "p": "adv",
+     "zh": "好不容易",
+     "en": "at last"
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "title": "住まいを探す",
+   "title_zh": "找房子",
+   "words": [
+    {
+     "id": "intermediate-1-05-01",
+     "w": "住まい",
+     "r": "すまい",
+     "p": "noun",
+     "zh": "住处，住宅",
+     "en": "residence"
+    },
+    {
+     "id": "intermediate-1-05-02",
+     "w": "物件",
+     "r": "ぶっけん",
+     "p": "noun",
+     "zh": "房源，房产",
+     "en": "property"
+    },
+    {
+     "id": "intermediate-1-05-03",
+     "w": "不動産屋",
+     "r": "ふどうさんや",
+     "p": "noun",
+     "zh": "房产中介",
+     "en": "real estate agent"
+    },
+    {
+     "id": "intermediate-1-05-04",
+     "w": "大家",
+     "r": "おおや",
+     "p": "noun",
+     "zh": "房东",
+     "en": "landlord"
+    },
+    {
+     "id": "intermediate-1-05-05",
+     "w": "敷金",
+     "r": "しききん",
+     "p": "noun",
+     "zh": "押金",
+     "en": "security deposit"
+    },
+    {
+     "id": "intermediate-1-05-06",
+     "w": "礼金",
+     "r": "れいきん",
+     "p": "noun",
+     "zh": "礼金",
+     "en": "key money"
+    },
+    {
+     "id": "intermediate-1-05-07",
+     "w": "仲介手数料",
+     "r": "ちゅうかいてすうりょう",
+     "p": "noun",
+     "zh": "中介费",
+     "en": "agency fee"
+    },
+    {
+     "id": "intermediate-1-05-08",
+     "w": "契約書",
+     "r": "けいやくしょ",
+     "p": "noun",
+     "zh": "合同书",
+     "en": "contract"
+    },
+    {
+     "id": "intermediate-1-05-09",
+     "w": "更新",
+     "r": "こうしん",
+     "p": "noun",
+     "zh": "续约，更新",
+     "en": "renewal"
+    },
+    {
+     "id": "intermediate-1-05-10",
+     "w": "解約",
+     "r": "かいやく",
+     "p": "noun",
+     "zh": "解约",
+     "en": "cancellation"
+    },
+    {
+     "id": "intermediate-1-05-11",
+     "w": "間取り",
+     "r": "まどり",
+     "p": "noun",
+     "zh": "户型",
+     "en": "floor plan"
+    },
+    {
+     "id": "intermediate-1-05-12",
+     "w": "和室",
+     "r": "わしつ",
+     "p": "noun",
+     "zh": "日式房间",
+     "en": "Japanese-style room"
+    },
+    {
+     "id": "intermediate-1-05-13",
+     "w": "洋室",
+     "r": "ようしつ",
+     "p": "noun",
+     "zh": "西式房间",
+     "en": "Western-style room"
+    },
+    {
+     "id": "intermediate-1-05-14",
+     "w": "日当たり",
+     "r": "ひあたり",
+     "p": "noun",
+     "zh": "采光",
+     "en": "sunlight exposure"
+    },
+    {
+     "id": "intermediate-1-05-15",
+     "w": "風通し",
+     "r": "かぜとおし",
+     "p": "noun",
+     "zh": "通风",
+     "en": "ventilation"
+    },
+    {
+     "id": "intermediate-1-05-16",
+     "w": "駅前",
+     "r": "えきまえ",
+     "p": "noun",
+     "zh": "车站前",
+     "en": "in front of the station"
+    },
+    {
+     "id": "intermediate-1-05-17",
+     "w": "徒歩",
+     "r": "とほ",
+     "p": "noun",
+     "zh": "步行",
+     "en": "on foot"
+    },
+    {
+     "id": "intermediate-1-05-18",
+     "w": "築",
+     "r": "ちく",
+     "p": "noun",
+     "zh": "建成…年",
+     "en": "years since construction"
+    },
+    {
+     "id": "intermediate-1-05-19",
+     "w": "改装",
+     "r": "かいそう",
+     "p": "noun",
+     "zh": "翻新，装修",
+     "en": "renovation"
+    },
+    {
+     "id": "intermediate-1-05-20",
+     "w": "家具付き",
+     "r": "かぐつき",
+     "p": "noun",
+     "zh": "带家具",
+     "en": "furnished"
+    },
+    {
+     "id": "intermediate-1-05-21",
+     "w": "共益費",
+     "r": "きょうえきひ",
+     "p": "noun",
+     "zh": "公摊费，管理费",
+     "en": "maintenance fee"
+    },
+    {
+     "id": "intermediate-1-05-22",
+     "w": "保証人",
+     "r": "ほしょうにん",
+     "p": "noun",
+     "zh": "担保人",
+     "en": "guarantor"
+    },
+    {
+     "id": "intermediate-1-05-23",
+     "w": "入居",
+     "r": "にゅうきょ",
+     "p": "noun",
+     "zh": "入住",
+     "en": "moving in"
+    },
+    {
+     "id": "intermediate-1-05-24",
+     "w": "退去",
+     "r": "たいきょ",
+     "p": "noun",
+     "zh": "退租，搬出",
+     "en": "moving out"
+    },
+    {
+     "id": "intermediate-1-05-25",
+     "w": "内見",
+     "r": "ないけん",
+     "p": "noun",
+     "zh": "看房",
+     "en": "viewing a property"
+    },
+    {
+     "id": "intermediate-1-05-26",
+     "w": "条件",
+     "r": "じょうけん",
+     "p": "noun",
+     "zh": "条件",
+     "en": "conditions"
+    },
+    {
+     "id": "intermediate-1-05-27",
+     "w": "設備",
+     "r": "せつび",
+     "p": "noun",
+     "zh": "设备",
+     "en": "facilities"
+    },
+    {
+     "id": "intermediate-1-05-28",
+     "w": "騒音問題",
+     "r": "そうおんもんだい",
+     "p": "noun",
+     "zh": "噪音问题",
+     "en": "noise problem"
+    },
+    {
+     "id": "intermediate-1-05-29",
+     "w": "探す",
+     "r": "さがす",
+     "p": "verb",
+     "zh": "寻找",
+     "en": "to look for",
+     "g": 1
+    },
+    {
+     "id": "intermediate-1-05-30",
+     "w": "借りる",
+     "r": "かりる",
+     "p": "verb",
+     "zh": "租借",
+     "en": "to rent",
+     "g": 2
+    },
+    {
+     "id": "intermediate-1-05-31",
+     "w": "貸す",
+     "r": "かす",
+     "p": "verb",
+     "zh": "出租",
+     "en": "to lend; to rent out",
+     "g": 1
+    },
+    {
+     "id": "intermediate-1-05-32",
+     "w": "申し込む",
+     "r": "もうしこむ",
+     "p": "verb",
+     "zh": "申请",
+     "en": "to apply",
+     "g": 1
+    },
+    {
+     "id": "intermediate-1-05-33",
+     "w": "契約する",
+     "r": "けいやくする",
+     "p": "verb",
+     "zh": "签约",
+     "en": "to sign a contract",
+     "g": 3
+    },
+    {
+     "id": "intermediate-1-05-34",
+     "w": "引っ越す",
+     "r": "ひっこす",
+     "p": "verb",
+     "zh": "搬家",
+     "en": "to move",
+     "g": 1
+    },
+    {
+     "id": "intermediate-1-05-35",
+     "w": "検討する",
+     "r": "けんとうする",
+     "p": "verb",
+     "zh": "考虑，研究",
+     "en": "to consider",
+     "g": 3
+    },
+    {
+     "id": "intermediate-1-05-36",
+     "w": "妥協する",
+     "r": "だきょうする",
+     "p": "verb",
+     "zh": "妥协",
+     "en": "to compromise",
+     "g": 3
+    },
+    {
+     "id": "intermediate-1-05-37",
+     "w": "広々",
+     "r": "ひろびろ",
+     "p": "na-adj",
+     "zh": "宽敞的",
+     "en": "spacious"
+    },
+    {
+     "id": "intermediate-1-05-38",
+     "w": "閑静",
+     "r": "かんせい",
+     "p": "na-adj",
+     "zh": "安静的（住宅区）",
+     "en": "quiet (area)"
+    },
+    {
+     "id": "intermediate-1-05-39",
+     "w": "割安",
+     "r": "わりやす",
+     "p": "na-adj",
+     "zh": "便宜的",
+     "en": "cheap for what it is"
+    },
+    {
+     "id": "intermediate-1-05-40",
+     "w": "ぴったり",
+     "r": "ぴったり",
+     "p": "adv",
+     "zh": "正合适",
+     "en": "just right"
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "title": "体調と病院",
+   "title_zh": "身体状况与看病",
+   "words": [
+    {
+     "id": "intermediate-1-06-01",
+     "w": "体調",
+     "r": "たいちょう",
+     "p": "noun",
+     "zh": "身体状况",
+     "en": "physical condition"
+    },
+    {
+     "id": "intermediate-1-06-02",
+     "w": "症状",
+     "r": "しょうじょう",
+     "p": "noun",
+     "zh": "症状",
+     "en": "symptoms"
+    },
+    {
+     "id": "intermediate-1-06-03",
+     "w": "診察",
+     "r": "しんさつ",
+     "p": "noun",
+     "zh": "诊察",
+     "en": "medical examination"
+    },
+    {
+     "id": "intermediate-1-06-04",
+     "w": "診断",
+     "r": "しんだん",
+     "p": "noun",
+     "zh": "诊断",
+     "en": "diagnosis"
+    },
+    {
+     "id": "intermediate-1-06-05",
+     "w": "治療",
+     "r": "ちりょう",
+     "p": "noun",
+     "zh": "治疗",
+     "en": "treatment"
+    },
+    {
+     "id": "intermediate-1-06-06",
+     "w": "手術",
+     "r": "しゅじゅつ",
+     "p": "noun",
+     "zh": "手术",
+     "en": "surgery"
+    },
+    {
+     "id": "intermediate-1-06-07",
+     "w": "入院",
+     "r": "にゅういん",
+     "p": "noun",
+     "zh": "住院",
+     "en": "hospitalization"
+    },
+    {
+     "id": "intermediate-1-06-08",
+     "w": "退院",
+     "r": "たいいん",
+     "p": "noun",
+     "zh": "出院",
+     "en": "discharge from hospital"
+    },
+    {
+     "id": "intermediate-1-06-09",
+     "w": "通院",
+     "r": "つういん",
+     "p": "noun",
+     "zh": "去医院看病",
+     "en": "going to hospital regularly"
+    },
+    {
+     "id": "intermediate-1-06-10",
+     "w": "処方箋",
+     "r": "しょほうせん",
+     "p": "noun",
+     "zh": "处方",
+     "en": "prescription"
+    },
+    {
+     "id": "intermediate-1-06-11",
+     "w": "内科",
+     "r": "ないか",
+     "p": "noun",
+     "zh": "内科",
+     "en": "internal medicine"
+    },
+    {
+     "id": "intermediate-1-06-12",
+     "w": "外科",
+     "r": "げか",
+     "p": "noun",
+     "zh": "外科",
+     "en": "surgery department"
+    },
+    {
+     "id": "intermediate-1-06-13",
+     "w": "歯科",
+     "r": "しか",
+     "p": "noun",
+     "zh": "牙科",
+     "en": "dentistry"
+    },
+    {
+     "id": "intermediate-1-06-14",
+     "w": "看護師",
+     "r": "かんごし",
+     "p": "noun",
+     "zh": "护士",
+     "en": "nurse"
+    },
+    {
+     "id": "intermediate-1-06-15",
+     "w": "患者",
+     "r": "かんじゃ",
+     "p": "noun",
+     "zh": "患者",
+     "en": "patient"
+    },
+    {
+     "id": "intermediate-1-06-16",
+     "w": "保険証",
+     "r": "ほけんしょう",
+     "p": "noun",
+     "zh": "医保卡",
+     "en": "insurance card"
+    },
+    {
+     "id": "intermediate-1-06-17",
+     "w": "検査",
+     "r": "けんさ",
+     "p": "noun",
+     "zh": "检查",
+     "en": "examination; test"
+    },
+    {
+     "id": "intermediate-1-06-18",
+     "w": "血圧",
+     "r": "けつあつ",
+     "p": "noun",
+     "zh": "血压",
+     "en": "blood pressure"
+    },
+    {
+     "id": "intermediate-1-06-19",
+     "w": "体温",
+     "r": "たいおん",
+     "p": "noun",
+     "zh": "体温",
+     "en": "body temperature"
+    },
+    {
+     "id": "intermediate-1-06-20",
+     "w": "風邪",
+     "r": "かぜ",
+     "p": "noun",
+     "zh": "感冒",
+     "en": "a cold"
+    },
+    {
+     "id": "intermediate-1-06-21",
+     "w": "インフルエンザ",
+     "r": "インフルエンザ",
+     "p": "noun",
+     "zh": "流感",
+     "en": "influenza"
+    },
+    {
+     "id": "intermediate-1-06-22",
+     "w": "アレルギー",
+     "r": "アレルギー",
+     "p": "noun",
+     "zh": "过敏",
+     "en": "allergy"
+    },
+    {
+     "id": "intermediate-1-06-23",
+     "w": "頭痛",
+     "r": "ずつう",
+     "p": "noun",
+     "zh": "头痛",
+     "en": "headache"
+    },
+    {
+     "id": "intermediate-1-06-24",
+     "w": "腹痛",
+     "r": "ふくつう",
+     "p": "noun",
+     "zh": "腹痛",
+     "en": "stomachache"
+    },
+    {
+     "id": "intermediate-1-06-25",
+     "w": "下痢",
+     "r": "げり",
+     "p": "noun",
+     "zh": "腹泻",
+     "en": "diarrhea"
+    },
+    {
+     "id": "intermediate-1-06-26",
+     "w": "吐き気",
+     "r": "はきけ",
+     "p": "noun",
+     "zh": "恶心",
+     "en": "nausea"
+    },
+    {
+     "id": "intermediate-1-06-27",
+     "w": "めまい",
+     "r": "めまい",
+     "p": "noun",
+     "zh": "头晕",
+     "en": "dizziness"
+    },
+    {
+     "id": "intermediate-1-06-28",
+     "w": "疲労",
+     "r": "ひろう",
+     "p": "noun",
+     "zh": "疲劳",
+     "en": "fatigue"
+    },
+    {
+     "id": "intermediate-1-06-29",
+     "w": "怪我",
+     "r": "けが",
+     "p": "noun",
+     "zh": "受伤",
+     "en": "injury"
+    },
+    {
+     "id": "intermediate-1-06-30",
+     "w": "骨折",
+     "r": "こっせつ",
+     "p": "noun",
+     "zh": "骨折",
+     "en": "bone fracture"
+    },
+    {
+     "id": "intermediate-1-06-31",
+     "w": "予防",
+     "r": "よぼう",
+     "p": "noun",
+     "zh": "预防",
+     "en": "prevention"
+    },
+    {
+     "id": "intermediate-1-06-32",
+     "w": "注射",
+     "r": "ちゅうしゃ",
+     "p": "noun",
+     "zh": "打针",
+     "en": "injection"
+    },
+    {
+     "id": "intermediate-1-06-33",
+     "w": "痛む",
+     "r": "いたむ",
+     "p": "verb",
+     "zh": "疼痛",
+     "en": "to hurt",
+     "g": 1
+    },
+    {
+     "id": "intermediate-1-06-34",
+     "w": "腫れる",
+     "r": "はれる",
+     "p": "verb",
+     "zh": "肿",
+     "en": "to swell",
+     "g": 2
+    },
+    {
+     "id": "intermediate-1-06-35",
+     "w": "治る",
+     "r": "なおる",
+     "p": "verb",
+     "zh": "痊愈",
+     "en": "to be cured",
+     "g": 1
+    },
+    {
+     "id": "intermediate-1-06-36",
+     "w": "悪化する",
+     "r": "あっかする",
+     "p": "verb",
+     "zh": "恶化",
+     "en": "to worsen",
+     "g": 3
+    },
+    {
+     "id": "intermediate-1-06-37",
+     "w": "回復する",
+     "r": "かいふくする",
+     "p": "verb",
+     "zh": "恢复",
+     "en": "to recover",
+     "g": 3
+    },
+    {
+     "id": "intermediate-1-06-38",
+     "w": "無理",
+     "r": "むり",
+     "p": "na-adj",
+     "zh": "勉强的",
+     "en": "overexertion"
+    },
+    {
+     "id": "intermediate-1-06-39",
+     "w": "だるい",
+     "r": "だるい",
+     "p": "i-adj",
+     "zh": "倦怠的，没力气",
+     "en": "listless; sluggish"
+    },
+    {
+     "id": "intermediate-1-06-40",
+     "w": "様子を見る",
+     "r": "ようすをみる",
+     "p": "expr",
+     "zh": "观察一下情况",
+     "en": "to wait and see"
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "title": "電話とビジネスマナー",
+   "title_zh": "电话与商务礼仪",
+   "words": [
+    {
+     "id": "intermediate-1-07-01",
+     "w": "取り次ぐ",
+     "r": "とりつぐ",
+     "p": "verb",
+     "zh": "转接，传达",
+     "en": "to put through; to relay",
+     "g": 1
+    },
+    {
+     "id": "intermediate-1-07-02",
+     "w": "折り返す",
+     "r": "おりかえす",
+     "p": "verb",
+     "zh": "回电",
+     "en": "to call back",
+     "g": 1
+    },
+    {
+     "id": "intermediate-1-07-03",
+     "w": "掛け直す",
+     "r": "かけなおす",
+     "p": "verb",
+     "zh": "重打，再打",
+     "en": "to call again",
+     "g": 1
+    },
+    {
+     "id": "intermediate-1-07-04",
+     "w": "伝言",
+     "r": "でんごん",
+     "p": "noun",
+     "zh": "留言",
+     "en": "message"
+    },
+    {
+     "id": "intermediate-1-07-05",
+     "w": "内線",
+     "r": "ないせん",
+     "p": "noun",
+     "zh": "内线",
+     "en": "extension"
+    },
+    {
+     "id": "intermediate-1-07-06",
+     "w": "外線",
+     "r": "がいせん",
+     "p": "noun",
+     "zh": "外线",
+     "en": "outside line"
+    },
+    {
+     "id": "intermediate-1-07-07",
+     "w": "保留",
+     "r": "ほりゅう",
+     "p": "noun",
+     "zh": "保留，暂停通话",
+     "en": "hold"
+    },
+    {
+     "id": "intermediate-1-07-08",
+     "w": "留守番電話",
+     "r": "るすばんでんわ",
+     "p": "noun",
+     "zh": "答录机",
+     "en": "answering machine"
+    },
+    {
+     "id": "intermediate-1-07-09",
+     "w": "着信",
+     "r": "ちゃくしん",
+     "p": "noun",
+     "zh": "来电",
+     "en": "incoming call"
+    },
+    {
+     "id": "intermediate-1-07-10",
+     "w": "発信",
+     "r": "はっしん",
+     "p": "noun",
+     "zh": "发出，去电",
+     "en": "outgoing call"
+    },
+    {
+     "id": "intermediate-1-07-11",
+     "w": "電波",
+     "r": "でんぱ",
+     "p": "noun",
+     "zh": "信号",
+     "en": "signal"
+    },
+    {
+     "id": "intermediate-1-07-12",
+     "w": "圏外",
+     "r": "けんがい",
+     "p": "noun",
+     "zh": "没有信号",
+     "en": "out of service area"
+    },
+    {
+     "id": "intermediate-1-07-13",
+     "w": "切れる",
+     "r": "きれる",
+     "p": "verb",
+     "zh": "断线，中断",
+     "en": "to be cut off",
+     "g": 2
+    },
+    {
+     "id": "intermediate-1-07-14",
+     "w": "聞き取る",
+     "r": "ききとる",
+     "p": "verb",
+     "zh": "听清",
+     "en": "to catch (what is said)",
+     "g": 1
+    },
+    {
+     "id": "intermediate-1-07-15",
+     "w": "名指し",
+     "r": "なざし",
+     "p": "noun",
+     "zh": "指名",
+     "en": "naming someone"
+    },
+    {
+     "id": "intermediate-1-07-16",
+     "w": "用件",
+     "r": "ようけん",
+     "p": "noun",
+     "zh": "事情，来意",
+     "en": "business; matter"
+    },
+    {
+     "id": "intermediate-1-07-17",
+     "w": "アポイント",
+     "r": "アポイント",
+     "p": "noun",
+     "zh": "预约，约见",
+     "en": "appointment"
+    },
+    {
+     "id": "intermediate-1-07-18",
+     "w": "応対",
+     "r": "おうたい",
+     "p": "noun",
+     "zh": "接待，应答",
+     "en": "handling; response"
+    },
+    {
+     "id": "intermediate-1-07-19",
+     "w": "対応",
+     "r": "たいおう",
+     "p": "noun",
+     "zh": "应对，处理",
+     "en": "response; handling"
+    },
+    {
+     "id": "intermediate-1-07-20",
+     "w": "敬語表現",
+     "r": "けいごひょうげん",
+     "p": "noun",
+     "zh": "敬语表达",
+     "en": "honorific expression"
+    },
+    {
+     "id": "intermediate-1-07-21",
+     "w": "社外",
+     "r": "しゃがい",
+     "p": "noun",
+     "zh": "公司外",
+     "en": "outside the company"
+    },
+    {
+     "id": "intermediate-1-07-22",
+     "w": "社内",
+     "r": "しゃない",
+     "p": "noun",
+     "zh": "公司内",
+     "en": "within the company"
+    },
+    {
+     "id": "intermediate-1-07-23",
+     "w": "上下関係",
+     "r": "じょうげかんけい",
+     "p": "noun",
+     "zh": "上下级关系",
+     "en": "hierarchy"
+    },
+    {
+     "id": "intermediate-1-07-24",
+     "w": "名刺交換",
+     "r": "めいしこうかん",
+     "p": "noun",
+     "zh": "交换名片",
+     "en": "exchanging business cards"
+    },
+    {
+     "id": "intermediate-1-07-25",
+     "w": "座席順",
+     "r": "ざせきじゅん",
+     "p": "noun",
+     "zh": "座次",
+     "en": "seating order"
+    },
+    {
+     "id": "intermediate-1-07-26",
+     "w": "上座",
+     "r": "かみざ",
+     "p": "noun",
+     "zh": "上座",
+     "en": "seat of honor"
+    },
+    {
+     "id": "intermediate-1-07-27",
+     "w": "下座",
+     "r": "しもざ",
+     "p": "noun",
+     "zh": "下座",
+     "en": "lower seat"
+    },
+    {
+     "id": "intermediate-1-07-28",
+     "w": "身だしなみ",
+     "r": "みだしなみ",
+     "p": "noun",
+     "zh": "仪表，穿着打扮",
+     "en": "personal grooming"
+    },
+    {
+     "id": "intermediate-1-07-29",
+     "w": "言葉遣い",
+     "r": "ことばづかい",
+     "p": "noun",
+     "zh": "措辞",
+     "en": "way of speaking"
+    },
+    {
+     "id": "intermediate-1-07-30",
+     "w": "報連相",
+     "r": "ほうれんそう",
+     "p": "noun",
+     "zh": "报告・联络・商量",
+     "en": "report-contact-consult"
+    },
+    {
+     "id": "intermediate-1-07-31",
+     "w": "取り急ぎ",
+     "r": "とりいそぎ",
+     "p": "adv",
+     "zh": "匆匆，赶快（书信）",
+     "en": "in haste (in writing)"
+    },
+    {
+     "id": "intermediate-1-07-32",
+     "w": "恐れ入りますが",
+     "r": "おそれいりますが",
+     "p": "expr",
+     "zh": "不好意思，麻烦您",
+     "en": "I'm sorry to trouble you, but"
+    },
+    {
+     "id": "intermediate-1-07-33",
+     "w": "少々お待ちください",
+     "r": "しょうしょうおまちください",
+     "p": "expr",
+     "zh": "请稍等",
+     "en": "please wait a moment"
+    },
+    {
+     "id": "intermediate-1-07-34",
+     "w": "お世話になっております",
+     "r": "おせわになっております",
+     "p": "expr",
+     "zh": "承蒙关照",
+     "en": "thank you for your continued support"
+    },
+    {
+     "id": "intermediate-1-07-35",
+     "w": "承知いたしました",
+     "r": "しょうちいたしました",
+     "p": "expr",
+     "zh": "我知道了（敬）",
+     "en": "certainly"
+    },
+    {
+     "id": "intermediate-1-07-36",
+     "w": "差し支え",
+     "r": "さしつかえ",
+     "p": "noun",
+     "zh": "妨碍，不便",
+     "en": "inconvenience"
+    },
+    {
+     "id": "intermediate-1-07-37",
+     "w": "念のため",
+     "r": "ねんのため",
+     "p": "expr",
+     "zh": "以防万一",
+     "en": "just to be sure"
+    },
+    {
+     "id": "intermediate-1-07-38",
+     "w": "至急",
+     "r": "しきゅう",
+     "p": "adv",
+     "zh": "火速，紧急",
+     "en": "urgently"
+    },
+    {
+     "id": "intermediate-1-07-39",
+     "w": "丁重",
+     "r": "ていちょう",
+     "p": "na-adj",
+     "zh": "郑重的",
+     "en": "courteous"
+    },
+    {
+     "id": "intermediate-1-07-40",
+     "w": "失礼のないよう",
+     "r": "しつれいのないよう",
+     "p": "expr",
+     "zh": "以免失礼",
+     "en": "so as not to be rude"
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "title": "手紙とメール",
+   "title_zh": "书信与邮件",
+   "words": [
+    {
+     "id": "intermediate-1-08-01",
+     "w": "手紙文",
+     "r": "てがみぶん",
+     "p": "noun",
+     "zh": "书信体",
+     "en": "letter writing"
+    },
+    {
+     "id": "intermediate-1-08-02",
+     "w": "件名",
+     "r": "けんめい",
+     "p": "noun",
+     "zh": "主题，标题",
+     "en": "subject line"
+    },
+    {
+     "id": "intermediate-1-08-03",
+     "w": "宛先",
+     "r": "あてさき",
+     "p": "noun",
+     "zh": "收件人，地址",
+     "en": "addressee"
+    },
+    {
+     "id": "intermediate-1-08-04",
+     "w": "差出人",
+     "r": "さしだしにん",
+     "p": "noun",
+     "zh": "寄件人",
+     "en": "sender"
+    },
+    {
+     "id": "intermediate-1-08-05",
+     "w": "署名",
+     "r": "しょめい",
+     "p": "noun",
+     "zh": "署名，签名",
+     "en": "signature"
+    },
+    {
+     "id": "intermediate-1-08-06",
+     "w": "添付",
+     "r": "てんぷ",
+     "p": "noun",
+     "zh": "附件，附上",
+     "en": "attachment"
+    },
+    {
+     "id": "intermediate-1-08-07",
+     "w": "返信",
+     "r": "へんしん",
+     "p": "noun",
+     "zh": "回信",
+     "en": "reply"
+    },
+    {
+     "id": "intermediate-1-08-08",
+     "w": "転送",
+     "r": "てんそう",
+     "p": "noun",
+     "zh": "转发",
+     "en": "forwarding"
+    },
+    {
+     "id": "intermediate-1-08-09",
+     "w": "下書き",
+     "r": "したがき",
+     "p": "noun",
+     "zh": "草稿",
+     "en": "draft"
+    },
+    {
+     "id": "intermediate-1-08-10",
+     "w": "本文",
+     "r": "ほんぶん",
+     "p": "noun",
+     "zh": "正文",
+     "en": "body text"
+    },
+    {
+     "id": "intermediate-1-08-11",
+     "w": "敬具",
+     "r": "けいぐ",
+     "p": "noun",
+     "zh": "敬上（结语）",
+     "en": "Sincerely (closing)"
+    },
+    {
+     "id": "intermediate-1-08-12",
+     "w": "拝啓",
+     "r": "はいけい",
+     "p": "noun",
+     "zh": "敬启者（开头语）",
+     "en": "Dear (opening)"
+    },
+    {
+     "id": "intermediate-1-08-13",
+     "w": "時候の挨拶",
+     "r": "じこうのあいさつ",
+     "p": "noun",
+     "zh": "季节问候语",
+     "en": "seasonal greeting"
+    },
+    {
+     "id": "intermediate-1-08-14",
+     "w": "前文",
+     "r": "ぜんぶん",
+     "p": "noun",
+     "zh": "前言",
+     "en": "preamble"
+    },
+    {
+     "id": "intermediate-1-08-15",
+     "w": "末筆",
+     "r": "まっぴつ",
+     "p": "noun",
+     "zh": "（信末）最后",
+     "en": "closing remarks"
+    },
+    {
+     "id": "intermediate-1-08-16",
+     "w": "礼状",
+     "r": "れいじょう",
+     "p": "noun",
+     "zh": "感谢信",
+     "en": "thank-you letter"
+    },
+    {
+     "id": "intermediate-1-08-17",
+     "w": "詫び状",
+     "r": "わびじょう",
+     "p": "noun",
+     "zh": "道歉信",
+     "en": "letter of apology"
+    },
+    {
+     "id": "intermediate-1-08-18",
+     "w": "依頼",
+     "r": "いらい",
+     "p": "noun",
+     "zh": "委托，请求",
+     "en": "request"
+    },
+    {
+     "id": "intermediate-1-08-19",
+     "w": "案内状",
+     "r": "あんないじょう",
+     "p": "noun",
+     "zh": "通知，请柬",
+     "en": "invitation; notice"
+    },
+    {
+     "id": "intermediate-1-08-20",
+     "w": "報告",
+     "r": "ほうこく",
+     "p": "noun",
+     "zh": "报告",
+     "en": "report"
+    },
+    {
+     "id": "intermediate-1-08-21",
+     "w": "書式",
+     "r": "しょしき",
+     "p": "noun",
+     "zh": "格式",
+     "en": "format"
+    },
+    {
+     "id": "intermediate-1-08-22",
+     "w": "敬称",
+     "r": "けいしょう",
+     "p": "noun",
+     "zh": "敬称",
+     "en": "honorific title"
+    },
+    {
+     "id": "intermediate-1-08-23",
+     "w": "様",
+     "r": "さま",
+     "p": "noun",
+     "zh": "…先生/女士（敬称）",
+     "en": "Mr./Ms. (formal)"
+    },
+    {
+     "id": "intermediate-1-08-24",
+     "w": "御中",
+     "r": "おんちゅう",
+     "p": "noun",
+     "zh": "（致机构）公启",
+     "en": "Messrs. (to an organization)"
+    },
+    {
+     "id": "intermediate-1-08-25",
+     "w": "切手を貼る",
+     "r": "きってをはる",
+     "p": "expr",
+     "zh": "贴邮票",
+     "en": "to put on a stamp"
+    },
+    {
+     "id": "intermediate-1-08-26",
+     "w": "封をする",
+     "r": "ふうをする",
+     "p": "expr",
+     "zh": "封口",
+     "en": "to seal"
+    },
+    {
+     "id": "intermediate-1-08-27",
+     "w": "投函する",
+     "r": "とうかんする",
+     "p": "verb",
+     "zh": "投寄",
+     "en": "to mail",
+     "g": 3
+    },
+    {
+     "id": "intermediate-1-08-28",
+     "w": "送信する",
+     "r": "そうしんする",
+     "p": "verb",
+     "zh": "发送",
+     "en": "to send",
+     "g": 3
+    },
+    {
+     "id": "intermediate-1-08-29",
+     "w": "受信する",
+     "r": "じゅしんする",
+     "p": "verb",
+     "zh": "接收",
+     "en": "to receive",
+     "g": 3
+    },
+    {
+     "id": "intermediate-1-08-30",
+     "w": "記入する",
+     "r": "きにゅうする",
+     "p": "verb",
+     "zh": "填写",
+     "en": "to fill in",
+     "g": 3
+    },
+    {
+     "id": "intermediate-1-08-31",
+     "w": "訂正する",
+     "r": "ていせいする",
+     "p": "verb",
+     "zh": "订正，更正",
+     "en": "to correct",
+     "g": 3
+    },
+    {
+     "id": "intermediate-1-08-32",
+     "w": "省略する",
+     "r": "しょうりゃくする",
+     "p": "verb",
+     "zh": "省略",
+     "en": "to omit",
+     "g": 3
+    },
+    {
+     "id": "intermediate-1-08-33",
+     "w": "述べる",
+     "r": "のべる",
+     "p": "verb",
+     "zh": "陈述",
+     "en": "to state",
+     "g": 2
+    },
+    {
+     "id": "intermediate-1-08-34",
+     "w": "申し上げる",
+     "r": "もうしあげる",
+     "p": "verb",
+     "zh": "（谦）说，讲",
+     "en": "to say (humble)",
+     "g": 2
+    },
+    {
+     "id": "intermediate-1-08-35",
+     "w": "改行",
+     "r": "かいぎょう",
+     "p": "noun",
+     "zh": "换行",
+     "en": "line break"
+    },
+    {
+     "id": "intermediate-1-08-36",
+     "w": "簡潔",
+     "r": "かんけつ",
+     "p": "na-adj",
+     "zh": "简洁的",
+     "en": "concise"
+    },
+    {
+     "id": "intermediate-1-08-37",
+     "w": "丁寧",
+     "r": "ていねい",
+     "p": "na-adj",
+     "zh": "郑重的，细致的",
+     "en": "polite; careful"
+    },
+    {
+     "id": "intermediate-1-08-38",
+     "w": "正式",
+     "r": "せいしき",
+     "p": "na-adj",
+     "zh": "正式的",
+     "en": "formal"
+    },
+    {
+     "id": "intermediate-1-08-39",
+     "w": "略式",
+     "r": "りゃくしき",
+     "p": "na-adj",
+     "zh": "简略的",
+     "en": "informal"
+    },
+    {
+     "id": "intermediate-1-08-40",
+     "w": "なお",
+     "r": "なお",
+     "p": "conj",
+     "zh": "另外，再者",
+     "en": "furthermore"
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "title": "会社の一日",
+   "title_zh": "公司的一天",
+   "words": [
+    {
+     "id": "intermediate-1-09-01",
+     "w": "出社",
+     "r": "しゅっしゃ",
+     "p": "noun",
+     "zh": "上班（到公司）",
+     "en": "going to the office"
+    },
+    {
+     "id": "intermediate-1-09-02",
+     "w": "退社",
+     "r": "たいしゃ",
+     "p": "noun",
+     "zh": "下班；离职",
+     "en": "leaving the office"
+    },
+    {
+     "id": "intermediate-1-09-03",
+     "w": "勤務",
+     "r": "きんむ",
+     "p": "noun",
+     "zh": "工作，上班",
+     "en": "work; duty"
+    },
+    {
+     "id": "intermediate-1-09-04",
+     "w": "勤務時間",
+     "r": "きんむじかん",
+     "p": "noun",
+     "zh": "工作时间",
+     "en": "working hours"
+    },
+    {
+     "id": "intermediate-1-09-05",
+     "w": "定時",
+     "r": "ていじ",
+     "p": "noun",
+     "zh": "规定时间，正点",
+     "en": "regular hours"
+    },
+    {
+     "id": "intermediate-1-09-06",
+     "w": "残業代",
+     "r": "ざんぎょうだい",
+     "p": "noun",
+     "zh": "加班费",
+     "en": "overtime pay"
+    },
+    {
+     "id": "intermediate-1-09-07",
+     "w": "有給休暇",
+     "r": "ゆうきゅうきゅうか",
+     "p": "noun",
+     "zh": "带薪假",
+     "en": "paid leave"
+    },
+    {
+     "id": "intermediate-1-09-08",
+     "w": "欠勤",
+     "r": "けっきん",
+     "p": "noun",
+     "zh": "缺勤",
+     "en": "absence from work"
+    },
+    {
+     "id": "intermediate-1-09-09",
+     "w": "早退",
+     "r": "そうたい",
+     "p": "noun",
+     "zh": "早退",
+     "en": "leaving early"
+    },
+    {
+     "id": "intermediate-1-09-10",
+     "w": "昇進",
+     "r": "しょうしん",
+     "p": "noun",
+     "zh": "晋升",
+     "en": "promotion"
+    },
+    {
+     "id": "intermediate-1-09-11",
+     "w": "異動",
+     "r": "いどう",
+     "p": "noun",
+     "zh": "人事变动",
+     "en": "personnel change"
+    },
+    {
+     "id": "intermediate-1-09-12",
+     "w": "配属",
+     "r": "はいぞく",
+     "p": "noun",
+     "zh": "分配（岗位）",
+     "en": "assignment"
+    },
+    {
+     "id": "intermediate-1-09-13",
+     "w": "部署",
+     "r": "ぶしょ",
+     "p": "noun",
+     "zh": "部门",
+     "en": "department"
+    },
+    {
+     "id": "intermediate-1-09-14",
+     "w": "営業部",
+     "r": "えいぎょうぶ",
+     "p": "noun",
+     "zh": "营业部",
+     "en": "sales department"
+    },
+    {
+     "id": "intermediate-1-09-15",
+     "w": "総務部",
+     "r": "そうむぶ",
+     "p": "noun",
+     "zh": "总务部",
+     "en": "general affairs"
+    },
+    {
+     "id": "intermediate-1-09-16",
+     "w": "人事部",
+     "r": "じんじぶ",
+     "p": "noun",
+     "zh": "人事部",
+     "en": "HR department"
+    },
+    {
+     "id": "intermediate-1-09-17",
+     "w": "経理",
+     "r": "けいり",
+     "p": "noun",
+     "zh": "会计，财务",
+     "en": "accounting"
+    },
+    {
+     "id": "intermediate-1-09-18",
+     "w": "業務",
+     "r": "ぎょうむ",
+     "p": "noun",
+     "zh": "业务",
+     "en": "business operations"
+    },
+    {
+     "id": "intermediate-1-09-19",
+     "w": "作業",
+     "r": "さぎょう",
+     "p": "noun",
+     "zh": "作业，工作",
+     "en": "work; task"
+    },
+    {
+     "id": "intermediate-1-09-20",
+     "w": "効率",
+     "r": "こうりつ",
+     "p": "noun",
+     "zh": "效率",
+     "en": "efficiency"
+    },
+    {
+     "id": "intermediate-1-09-21",
+     "w": "能率",
+     "r": "のうりつ",
+     "p": "noun",
+     "zh": "效率",
+     "en": "efficiency"
+    },
+    {
+     "id": "intermediate-1-09-22",
+     "w": "成果",
+     "r": "せいか",
+     "p": "noun",
+     "zh": "成果",
+     "en": "results"
+    },
+    {
+     "id": "intermediate-1-09-23",
+     "w": "実績",
+     "r": "じっせき",
+     "p": "noun",
+     "zh": "业绩",
+     "en": "track record"
+    },
+    {
+     "id": "intermediate-1-09-24",
+     "w": "目標達成",
+     "r": "もくひょうたっせい",
+     "p": "noun",
+     "zh": "达成目标",
+     "en": "reaching a goal"
+    },
+    {
+     "id": "intermediate-1-09-25",
+     "w": "引き継ぎ",
+     "r": "ひきつぎ",
+     "p": "noun",
+     "zh": "交接",
+     "en": "handover"
+    },
+    {
+     "id": "intermediate-1-09-26",
+     "w": "締切",
+     "r": "しめきり",
+     "p": "noun",
+     "zh": "截止",
+     "en": "deadline"
+    },
+    {
+     "id": "intermediate-1-09-27",
+     "w": "進捗",
+     "r": "しんちょく",
+     "p": "noun",
+     "zh": "进展",
+     "en": "progress"
+    },
+    {
+     "id": "intermediate-1-09-28",
+     "w": "担当する",
+     "r": "たんとうする",
+     "p": "verb",
+     "zh": "负责",
+     "en": "to be in charge of",
+     "g": 3
+    },
+    {
+     "id": "intermediate-1-09-29",
+     "w": "処理する",
+     "r": "しょりする",
+     "p": "verb",
+     "zh": "处理",
+     "en": "to process",
+     "g": 3
+    },
+    {
+     "id": "intermediate-1-09-30",
+     "w": "任せる",
+     "r": "まかせる",
+     "p": "verb",
+     "zh": "委托",
+     "en": "to entrust",
+     "g": 2
+    },
+    {
+     "id": "intermediate-1-09-31",
+     "w": "取り組む",
+     "r": "とりくむ",
+     "p": "verb",
+     "zh": "着手，致力于",
+     "en": "to tackle",
+     "g": 1
+    },
+    {
+     "id": "intermediate-1-09-32",
+     "w": "こなす",
+     "r": "こなす",
+     "p": "verb",
+     "zh": "完成，处理掉",
+     "en": "to get through (work)",
+     "g": 1
+    },
+    {
+     "id": "intermediate-1-09-33",
+     "w": "抱える",
+     "r": "かかえる",
+     "p": "verb",
+     "zh": "承担，背负",
+     "en": "to have on one's plate",
+     "g": 2
+    },
+    {
+     "id": "intermediate-1-09-34",
+     "w": "追われる",
+     "r": "おわれる",
+     "p": "verb",
+     "zh": "被…追着，忙于",
+     "en": "to be pressed by",
+     "g": 2
+    },
+    {
+     "id": "intermediate-1-09-35",
+     "w": "効率的",
+     "r": "こうりつてき",
+     "p": "na-adj",
+     "zh": "高效的",
+     "en": "efficient"
+    },
+    {
+     "id": "intermediate-1-09-36",
+     "w": "多忙",
+     "r": "たぼう",
+     "p": "na-adj",
+     "zh": "繁忙的",
+     "en": "very busy"
+    },
+    {
+     "id": "intermediate-1-09-37",
+     "w": "順調",
+     "r": "じゅんちょう",
+     "p": "na-adj",
+     "zh": "顺利的",
+     "en": "going smoothly"
+    },
+    {
+     "id": "intermediate-1-09-38",
+     "w": "円滑",
+     "r": "えんかつ",
+     "p": "na-adj",
+     "zh": "顺畅的",
+     "en": "smooth"
+    },
+    {
+     "id": "intermediate-1-09-39",
+     "w": "一段落",
+     "r": "いちだんらく",
+     "p": "noun",
+     "zh": "告一段落",
+     "en": "a lull; a break"
+    },
+    {
+     "id": "intermediate-1-09-40",
+     "w": "ようやく",
+     "r": "ようやく",
+     "p": "adv",
+     "zh": "总算",
+     "en": "at last"
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "title": "会議と打ち合わせ",
+   "title_zh": "会议与商谈",
+   "words": [
+    {
+     "id": "intermediate-1-10-01",
+     "w": "議題",
+     "r": "ぎだい",
+     "p": "noun",
+     "zh": "议题",
+     "en": "agenda item"
+    },
+    {
+     "id": "intermediate-1-10-02",
+     "w": "議事録",
+     "r": "ぎじろく",
+     "p": "noun",
+     "zh": "会议记录",
+     "en": "minutes"
+    },
+    {
+     "id": "intermediate-1-10-03",
+     "w": "司会",
+     "r": "しかい",
+     "p": "noun",
+     "zh": "主持",
+     "en": "chairperson"
+    },
+    {
+     "id": "intermediate-1-10-04",
+     "w": "出席者",
+     "r": "しゅっせきしゃ",
+     "p": "noun",
+     "zh": "出席者",
+     "en": "attendee"
+    },
+    {
+     "id": "intermediate-1-10-05",
+     "w": "資料配布",
+     "r": "しりょうはいふ",
+     "p": "noun",
+     "zh": "分发资料",
+     "en": "distributing materials"
+    },
+    {
+     "id": "intermediate-1-10-06",
+     "w": "提案",
+     "r": "ていあん",
+     "p": "noun",
+     "zh": "提案，建议",
+     "en": "proposal"
+    },
+    {
+     "id": "intermediate-1-10-07",
+     "w": "意見交換",
+     "r": "いけんこうかん",
+     "p": "noun",
+     "zh": "交换意见",
+     "en": "exchange of opinions"
+    },
+    {
+     "id": "intermediate-1-10-08",
+     "w": "検討課題",
+     "r": "けんとうかだい",
+     "p": "noun",
+     "zh": "待研究的课题",
+     "en": "issue to consider"
+    },
+    {
+     "id": "intermediate-1-10-09",
+     "w": "結論",
+     "r": "けつろん",
+     "p": "noun",
+     "zh": "结论",
+     "en": "conclusion"
+    },
+    {
+     "id": "intermediate-1-10-10",
+     "w": "決議",
+     "r": "けつぎ",
+     "p": "noun",
+     "zh": "决议",
+     "en": "resolution"
+    },
+    {
+     "id": "intermediate-1-10-11",
+     "w": "採決",
+     "r": "さいけつ",
+     "p": "noun",
+     "zh": "表决",
+     "en": "vote"
+    },
+    {
+     "id": "intermediate-1-10-12",
+     "w": "多数決",
+     "r": "たすうけつ",
+     "p": "noun",
+     "zh": "少数服从多数",
+     "en": "majority rule"
+    },
+    {
+     "id": "intermediate-1-10-13",
+     "w": "賛否",
+     "r": "さんぴ",
+     "p": "noun",
+     "zh": "赞成与否",
+     "en": "pros and cons"
+    },
+    {
+     "id": "intermediate-1-10-14",
+     "w": "保留",
+     "r": "ほりゅう",
+     "p": "noun",
+     "zh": "保留，暂缓",
+     "en": "deferral"
+    },
+    {
+     "id": "intermediate-1-10-15",
+     "w": "根回し",
+     "r": "ねまわし",
+     "p": "noun",
+     "zh": "事先疏通",
+     "en": "behind-the-scenes groundwork"
+    },
+    {
+     "id": "intermediate-1-10-16",
+     "w": "合意",
+     "r": "ごうい",
+     "p": "noun",
+     "zh": "达成一致",
+     "en": "agreement"
+    },
+    {
+     "id": "intermediate-1-10-17",
+     "w": "妥協",
+     "r": "だきょう",
+     "p": "noun",
+     "zh": "妥协",
+     "en": "compromise"
+    },
+    {
+     "id": "intermediate-1-10-18",
+     "w": "譲歩",
+     "r": "じょうほ",
+     "p": "noun",
+     "zh": "让步",
+     "en": "concession"
+    },
+    {
+     "id": "intermediate-1-10-19",
+     "w": "論点",
+     "r": "ろんてん",
+     "p": "noun",
+     "zh": "论点",
+     "en": "point of argument"
+    },
+    {
+     "id": "intermediate-1-10-20",
+     "w": "要点",
+     "r": "ようてん",
+     "p": "noun",
+     "zh": "要点",
+     "en": "main point"
+    },
+    {
+     "id": "intermediate-1-10-21",
+     "w": "補足",
+     "r": "ほそく",
+     "p": "noun",
+     "zh": "补充",
+     "en": "supplement"
+    },
+    {
+     "id": "intermediate-1-10-22",
+     "w": "質疑応答",
+     "r": "しつぎおうとう",
+     "p": "noun",
+     "zh": "提问与回答",
+     "en": "Q&A"
+    },
+    {
+     "id": "intermediate-1-10-23",
+     "w": "司会を務める",
+     "r": "しかいをつとめる",
+     "p": "expr",
+     "zh": "担任主持",
+     "en": "to chair"
+    },
+    {
+     "id": "intermediate-1-10-24",
+     "w": "提案する",
+     "r": "ていあんする",
+     "p": "verb",
+     "zh": "提议",
+     "en": "to propose",
+     "g": 3
+    },
+    {
+     "id": "intermediate-1-10-25",
+     "w": "述べる",
+     "r": "のべる",
+     "p": "verb",
+     "zh": "陈述",
+     "en": "to state",
+     "g": 2
+    },
+    {
+     "id": "intermediate-1-10-26",
+     "w": "指摘する",
+     "r": "してきする",
+     "p": "verb",
+     "zh": "指出",
+     "en": "to point out",
+     "g": 3
+    },
+    {
+     "id": "intermediate-1-10-27",
+     "w": "反論する",
+     "r": "はんろんする",
+     "p": "verb",
+     "zh": "反驳",
+     "en": "to counter-argue",
+     "g": 3
+    },
+    {
+     "id": "intermediate-1-10-28",
+     "w": "納得する",
+     "r": "なっとくする",
+     "p": "verb",
+     "zh": "理解，信服",
+     "en": "to be convinced",
+     "g": 3
+    },
+    {
+     "id": "intermediate-1-10-29",
+     "w": "まとめる",
+     "r": "まとめる",
+     "p": "verb",
+     "zh": "总结，归纳",
+     "en": "to summarize",
+     "g": 2
+    },
+    {
+     "id": "intermediate-1-10-30",
+     "w": "整理する",
+     "r": "せいりする",
+     "p": "verb",
+     "zh": "整理",
+     "en": "to organize",
+     "g": 3
+    },
+    {
+     "id": "intermediate-1-10-31",
+     "w": "進行する",
+     "r": "しんこうする",
+     "p": "verb",
+     "zh": "进行",
+     "en": "to proceed",
+     "g": 3
+    },
+    {
+     "id": "intermediate-1-10-32",
+     "w": "延長する",
+     "r": "えんちょうする",
+     "p": "verb",
+     "zh": "延长",
+     "en": "to extend",
+     "g": 3
+    },
+    {
+     "id": "intermediate-1-10-33",
+     "w": "打ち切る",
+     "r": "うちきる",
+     "p": "verb",
+     "zh": "中断，结束",
+     "en": "to break off",
+     "g": 1
+    },
+    {
+     "id": "intermediate-1-10-34",
+     "w": "具体的",
+     "r": "ぐたいてき",
+     "p": "na-adj",
+     "zh": "具体的",
+     "en": "concrete"
+    },
+    {
+     "id": "intermediate-1-10-35",
+     "w": "抽象的",
+     "r": "ちゅうしょうてき",
+     "p": "na-adj",
+     "zh": "抽象的",
+     "en": "abstract"
+    },
+    {
+     "id": "intermediate-1-10-36",
+     "w": "客観的",
+     "r": "きゃっかんてき",
+     "p": "na-adj",
+     "zh": "客观的",
+     "en": "objective"
+    },
+    {
+     "id": "intermediate-1-10-37",
+     "w": "主観的",
+     "r": "しゅかんてき",
+     "p": "na-adj",
+     "zh": "主观的",
+     "en": "subjective"
+    },
+    {
+     "id": "intermediate-1-10-38",
+     "w": "率直",
+     "r": "そっちょく",
+     "p": "na-adj",
+     "zh": "坦率的",
+     "en": "frank"
+    },
+    {
+     "id": "intermediate-1-10-39",
+     "w": "あくまで",
+     "r": "あくまで",
+     "p": "adv",
+     "zh": "终究，坚持到底",
+     "en": "to the end; strictly"
+    },
+    {
+     "id": "intermediate-1-10-40",
+     "w": "要するに",
+     "r": "ようするに",
+     "p": "conj",
+     "zh": "总之，简言之",
+     "en": "in short"
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "title": "出張と接待",
+   "title_zh": "出差与接待",
+   "words": [
+    {
+     "id": "intermediate-1-11-01",
+     "w": "出張先",
+     "r": "しゅっちょうさき",
+     "p": "noun",
+     "zh": "出差地",
+     "en": "destination of a business trip"
+    },
+    {
+     "id": "intermediate-1-11-02",
+     "w": "日程調整",
+     "r": "にっていちょうせい",
+     "p": "noun",
+     "zh": "调整日程",
+     "en": "schedule adjustment"
+    },
+    {
+     "id": "intermediate-1-11-03",
+     "w": "航空券",
+     "r": "こうくうけん",
+     "p": "noun",
+     "zh": "机票",
+     "en": "plane ticket"
+    },
+    {
+     "id": "intermediate-1-11-04",
+     "w": "搭乗",
+     "r": "とうじょう",
+     "p": "noun",
+     "zh": "登机",
+     "en": "boarding"
+    },
+    {
+     "id": "intermediate-1-11-05",
+     "w": "手荷物",
+     "r": "てにもつ",
+     "p": "noun",
+     "zh": "随身行李",
+     "en": "hand luggage"
+    },
+    {
+     "id": "intermediate-1-11-06",
+     "w": "税関",
+     "r": "ぜいかん",
+     "p": "noun",
+     "zh": "海关",
+     "en": "customs"
+    },
+    {
+     "id": "intermediate-1-11-07",
+     "w": "入国審査",
+     "r": "にゅうこくしんさ",
+     "p": "noun",
+     "zh": "入境审查",
+     "en": "immigration"
+    },
+    {
+     "id": "intermediate-1-11-08",
+     "w": "時差",
+     "r": "じさ",
+     "p": "noun",
+     "zh": "时差",
+     "en": "time difference"
+    },
+    {
+     "id": "intermediate-1-11-09",
+     "w": "時差ぼけ",
+     "r": "じさぼけ",
+     "p": "noun",
+     "zh": "倒时差不适",
+     "en": "jet lag"
+    },
+    {
+     "id": "intermediate-1-11-10",
+     "w": "宿泊費",
+     "r": "しゅくはくひ",
+     "p": "noun",
+     "zh": "住宿费",
+     "en": "accommodation cost"
+    },
+    {
+     "id": "intermediate-1-11-11",
+     "w": "交通費",
+     "r": "こうつうひ",
+     "p": "noun",
+     "zh": "交通费",
+     "en": "travel expenses"
+    },
+    {
+     "id": "intermediate-1-11-12",
+     "w": "精算",
+     "r": "せいさん",
+     "p": "noun",
+     "zh": "结算，报销",
+     "en": "settlement of accounts"
+    },
+    {
+     "id": "intermediate-1-11-13",
+     "w": "領収書",
+     "r": "りょうしゅうしょ",
+     "p": "noun",
+     "zh": "发票，收据",
+     "en": "receipt"
+    },
+    {
+     "id": "intermediate-1-11-14",
+     "w": "接待",
+     "r": "せったい",
+     "p": "noun",
+     "zh": "招待，应酬",
+     "en": "business entertainment"
+    },
+    {
+     "id": "intermediate-1-11-15",
+     "w": "宴会",
+     "r": "えんかい",
+     "p": "noun",
+     "zh": "宴会",
+     "en": "banquet"
+    },
+    {
+     "id": "intermediate-1-11-16",
+     "w": "歓迎会",
+     "r": "かんげいかい",
+     "p": "noun",
+     "zh": "欢迎会",
+     "en": "welcome party"
+    },
+    {
+     "id": "intermediate-1-11-17",
+     "w": "送別会",
+     "r": "そうべつかい",
+     "p": "noun",
+     "zh": "欢送会",
+     "en": "farewell party"
+    },
+    {
+     "id": "intermediate-1-11-18",
+     "w": "乾杯",
+     "r": "かんぱい",
+     "p": "noun",
+     "zh": "干杯",
+     "en": "toast"
+    },
+    {
+     "id": "intermediate-1-11-19",
+     "w": "二次会",
+     "r": "にじかい",
+     "p": "noun",
+     "zh": "第二场（续摊）",
+     "en": "after-party"
+    },
+    {
+     "id": "intermediate-1-11-20",
+     "w": "手土産",
+     "r": "てみやげ",
+     "p": "noun",
+     "zh": "伴手礼",
+     "en": "small gift"
+    },
+    {
+     "id": "intermediate-1-11-21",
+     "w": "お酌",
+     "r": "おしゃく",
+     "p": "noun",
+     "zh": "斟酒",
+     "en": "pouring drinks"
+    },
+    {
+     "id": "intermediate-1-11-22",
+     "w": "座敷",
+     "r": "ざしき",
+     "p": "noun",
+     "zh": "和式包间",
+     "en": "tatami room"
+    },
+    {
+     "id": "intermediate-1-11-23",
+     "w": "個室",
+     "r": "こしつ",
+     "p": "noun",
+     "zh": "包间",
+     "en": "private room"
+    },
+    {
+     "id": "intermediate-1-11-24",
+     "w": "予約を取る",
+     "r": "よやくをとる",
+     "p": "expr",
+     "zh": "订位，预约",
+     "en": "to make a reservation"
+    },
+    {
+     "id": "intermediate-1-11-25",
+     "w": "もてなす",
+     "r": "もてなす",
+     "p": "verb",
+     "zh": "款待",
+     "en": "to entertain; to treat",
+     "g": 1
+    },
+    {
+     "id": "intermediate-1-11-26",
+     "w": "付き添う",
+     "r": "つきそう",
+     "p": "verb",
+     "zh": "陪同",
+     "en": "to accompany",
+     "g": 1
+    },
+    {
+     "id": "intermediate-1-11-27",
+     "w": "同行する",
+     "r": "どうこうする",
+     "p": "verb",
+     "zh": "同行",
+     "en": "to travel with",
+     "g": 3
+    },
+    {
+     "id": "intermediate-1-11-28",
+     "w": "訪問先",
+     "r": "ほうもんさき",
+     "p": "noun",
+     "zh": "访问地，客户处",
+     "en": "place visited"
+    },
+    {
+     "id": "intermediate-1-11-29",
+     "w": "商談",
+     "r": "しょうだん",
+     "p": "noun",
+     "zh": "商务洽谈",
+     "en": "business talks"
+    },
+    {
+     "id": "intermediate-1-11-30",
+     "w": "視察",
+     "r": "しさつ",
+     "p": "noun",
+     "zh": "考察",
+     "en": "inspection tour"
+    },
+    {
+     "id": "intermediate-1-11-31",
+     "w": "工場見学",
+     "r": "こうじょうけんがく",
+     "p": "noun",
+     "zh": "参观工厂",
+     "en": "factory tour"
+    },
+    {
+     "id": "intermediate-1-11-32",
+     "w": "名産品",
+     "r": "めいさんひん",
+     "p": "noun",
+     "zh": "名产",
+     "en": "local specialty"
+    },
+    {
+     "id": "intermediate-1-11-33",
+     "w": "気配り",
+     "r": "きくばり",
+     "p": "noun",
+     "zh": "关照，体贴",
+     "en": "consideration"
+    },
+    {
+     "id": "intermediate-1-11-34",
+     "w": "配慮",
+     "r": "はいりょ",
+     "p": "noun",
+     "zh": "考虑，照顾",
+     "en": "consideration"
+    },
+    {
+     "id": "intermediate-1-11-35",
+     "w": "失敗する",
+     "r": "しっぱいする",
+     "p": "verb",
+     "zh": "失败",
+     "en": "to fail",
+     "g": 3
+    },
+    {
+     "id": "intermediate-1-11-36",
+     "w": "疲れ切る",
+     "r": "つかれきる",
+     "p": "verb",
+     "zh": "筋疲力尽",
+     "en": "to be exhausted",
+     "g": 1
+    },
+    {
+     "id": "intermediate-1-11-37",
+     "w": "円滑に",
+     "r": "えんかつに",
+     "p": "adv",
+     "zh": "顺利地",
+     "en": "smoothly"
+    },
+    {
+     "id": "intermediate-1-11-38",
+     "w": "あらかじめ",
+     "r": "あらかじめ",
+     "p": "adv",
+     "zh": "事先",
+     "en": "beforehand"
+    },
+    {
+     "id": "intermediate-1-11-39",
+     "w": "わざわざ",
+     "r": "わざわざ",
+     "p": "adv",
+     "zh": "特意",
+     "en": "specially"
+    },
+    {
+     "id": "intermediate-1-11-40",
+     "w": "念入り",
+     "r": "ねんいり",
+     "p": "na-adj",
+     "zh": "细致周到的",
+     "en": "careful; thorough"
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "title": "日本の四季と年中行事",
+   "title_zh": "日本的四季与节庆",
+   "words": [
+    {
+     "id": "intermediate-1-12-01",
+     "w": "年中行事",
+     "r": "ねんじゅうぎょうじ",
+     "p": "noun",
+     "zh": "年中活动，节庆",
+     "en": "annual events"
+    },
+    {
+     "id": "intermediate-1-12-02",
+     "w": "元日",
+     "r": "がんじつ",
+     "p": "noun",
+     "zh": "元旦",
+     "en": "New Year's Day"
+    },
+    {
+     "id": "intermediate-1-12-03",
+     "w": "初詣",
+     "r": "はつもうで",
+     "p": "noun",
+     "zh": "新年首次参拜",
+     "en": "first shrine visit of the year"
+    },
+    {
+     "id": "intermediate-1-12-04",
+     "w": "おせち料理",
+     "r": "おせちりょうり",
+     "p": "noun",
+     "zh": "年节菜",
+     "en": "New Year dishes"
+    },
+    {
+     "id": "intermediate-1-12-05",
+     "w": "節分",
+     "r": "せつぶん",
+     "p": "noun",
+     "zh": "节分",
+     "en": "Setsubun"
+    },
+    {
+     "id": "intermediate-1-12-06",
+     "w": "ひな祭り",
+     "r": "ひなまつり",
+     "p": "noun",
+     "zh": "女儿节",
+     "en": "Doll Festival"
+    },
+    {
+     "id": "intermediate-1-12-07",
+     "w": "花見",
+     "r": "はなみ",
+     "p": "noun",
+     "zh": "赏樱",
+     "en": "cherry blossom viewing"
+    },
+    {
+     "id": "intermediate-1-12-08",
+     "w": "入学式",
+     "r": "にゅうがくしき",
+     "p": "noun",
+     "zh": "开学典礼",
+     "en": "entrance ceremony"
+    },
+    {
+     "id": "intermediate-1-12-09",
+     "w": "ゴールデンウィーク",
+     "r": "ゴールデンウィーク",
+     "p": "noun",
+     "zh": "黄金周",
+     "en": "Golden Week"
+    },
+    {
+     "id": "intermediate-1-12-10",
+     "w": "梅雨入り",
+     "r": "つゆいり",
+     "p": "noun",
+     "zh": "进入梅雨期",
+     "en": "start of the rainy season"
+    },
+    {
+     "id": "intermediate-1-12-11",
+     "w": "七夕",
+     "r": "たなばた",
+     "p": "noun",
+     "zh": "七夕",
+     "en": "Star Festival"
+    },
+    {
+     "id": "intermediate-1-12-12",
+     "w": "盆踊り",
+     "r": "ぼんおどり",
+     "p": "noun",
+     "zh": "盂兰盆舞",
+     "en": "Bon dance"
+    },
+    {
+     "id": "intermediate-1-12-13",
+     "w": "帰省",
+     "r": "きせい",
+     "p": "noun",
+     "zh": "回乡，探亲",
+     "en": "returning to one's hometown"
+    },
+    {
+     "id": "intermediate-1-12-14",
+     "w": "花火大会",
+     "r": "はなびたいかい",
+     "p": "noun",
+     "zh": "烟花大会",
+     "en": "fireworks festival"
+    },
+    {
+     "id": "intermediate-1-12-15",
+     "w": "紅葉狩り",
+     "r": "もみじがり",
+     "p": "noun",
+     "zh": "赏红叶",
+     "en": "autumn leaf viewing"
+    },
+    {
+     "id": "intermediate-1-12-16",
+     "w": "月見",
+     "r": "つきみ",
+     "p": "noun",
+     "zh": "赏月",
+     "en": "moon viewing"
+    },
+    {
+     "id": "intermediate-1-12-17",
+     "w": "運動会",
+     "r": "うんどうかい",
+     "p": "noun",
+     "zh": "运动会",
+     "en": "sports day"
+    },
+    {
+     "id": "intermediate-1-12-18",
+     "w": "文化祭",
+     "r": "ぶんかさい",
+     "p": "noun",
+     "zh": "文化祭",
+     "en": "school festival"
+    },
+    {
+     "id": "intermediate-1-12-19",
+     "w": "七五三",
+     "r": "しちごさん",
+     "p": "noun",
+     "zh": "七五三",
+     "en": "Shichi-Go-San"
+    },
+    {
+     "id": "intermediate-1-12-20",
+     "w": "忘年会",
+     "r": "ぼうねんかい",
+     "p": "noun",
+     "zh": "忘年会",
+     "en": "year-end party"
+    },
+    {
+     "id": "intermediate-1-12-21",
+     "w": "大晦日",
+     "r": "おおみそか",
+     "p": "noun",
+     "zh": "除夕",
+     "en": "New Year's Eve"
+    },
+    {
+     "id": "intermediate-1-12-22",
+     "w": "除夜の鐘",
+     "r": "じょやのかね",
+     "p": "noun",
+     "zh": "除夕钟声",
+     "en": "New Year's Eve bell"
+    },
+    {
+     "id": "intermediate-1-12-23",
+     "w": "祝日",
+     "r": "しゅくじつ",
+     "p": "noun",
+     "zh": "节日",
+     "en": "public holiday"
+    },
+    {
+     "id": "intermediate-1-12-24",
+     "w": "連休",
+     "r": "れんきゅう",
+     "p": "noun",
+     "zh": "连休",
+     "en": "consecutive holidays"
+    },
+    {
+     "id": "intermediate-1-12-25",
+     "w": "風物詩",
+     "r": "ふうぶつし",
+     "p": "noun",
+     "zh": "季节风物",
+     "en": "seasonal tradition"
+    },
+    {
+     "id": "intermediate-1-12-26",
+     "w": "季節感",
+     "r": "きせつかん",
+     "p": "noun",
+     "zh": "季节感",
+     "en": "sense of the season"
+    },
+    {
+     "id": "intermediate-1-12-27",
+     "w": "習わし",
+     "r": "ならわし",
+     "p": "noun",
+     "zh": "习俗",
+     "en": "custom"
+    },
+    {
+     "id": "intermediate-1-12-28",
+     "w": "風習",
+     "r": "ふうしゅう",
+     "p": "noun",
+     "zh": "风俗",
+     "en": "custom"
+    },
+    {
+     "id": "intermediate-1-12-29",
+     "w": "伝統",
+     "r": "でんとう",
+     "p": "noun",
+     "zh": "传统",
+     "en": "tradition"
+    },
+    {
+     "id": "intermediate-1-12-30",
+     "w": "由来",
+     "r": "ゆらい",
+     "p": "noun",
+     "zh": "由来",
+     "en": "origin"
+    },
+    {
+     "id": "intermediate-1-12-31",
+     "w": "祝う",
+     "r": "いわう",
+     "p": "verb",
+     "zh": "庆祝",
+     "en": "to celebrate",
+     "g": 1
+    },
+    {
+     "id": "intermediate-1-12-32",
+     "w": "飾る",
+     "r": "かざる",
+     "p": "verb",
+     "zh": "装饰",
+     "en": "to decorate",
+     "g": 1
+    },
+    {
+     "id": "intermediate-1-12-33",
+     "w": "参拝する",
+     "r": "さんぱいする",
+     "p": "verb",
+     "zh": "参拜",
+     "en": "to visit a shrine",
+     "g": 3
+    },
+    {
+     "id": "intermediate-1-12-34",
+     "w": "賑わう",
+     "r": "にぎわう",
+     "p": "verb",
+     "zh": "热闹，繁华",
+     "en": "to be bustling",
+     "g": 1
+    },
+    {
+     "id": "intermediate-1-12-35",
+     "w": "催す",
+     "r": "もよおす",
+     "p": "verb",
+     "zh": "举办",
+     "en": "to hold (an event)",
+     "g": 1
+    },
+    {
+     "id": "intermediate-1-12-36",
+     "w": "受け継ぐ",
+     "r": "うけつぐ",
+     "p": "verb",
+     "zh": "继承",
+     "en": "to inherit; to carry on",
+     "g": 1
+    },
+    {
+     "id": "intermediate-1-12-37",
+     "w": "廃れる",
+     "r": "すたれる",
+     "p": "verb",
+     "zh": "衰落，过时",
+     "en": "to fall into disuse",
+     "g": 2
+    },
+    {
+     "id": "intermediate-1-12-38",
+     "w": "独特",
+     "r": "どくとく",
+     "p": "na-adj",
+     "zh": "独特的",
+     "en": "unique"
+    },
+    {
+     "id": "intermediate-1-12-39",
+     "w": "華やか",
+     "r": "はなやか",
+     "p": "na-adj",
+     "zh": "华丽的",
+     "en": "gorgeous"
+    },
+    {
+     "id": "intermediate-1-12-40",
+     "w": "厳か",
+     "r": "おごそか",
+     "p": "na-adj",
+     "zh": "庄严的",
+     "en": "solemn"
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "title": "食文化と料理",
+   "title_zh": "饮食文化与料理",
+   "words": [
+    {
+     "id": "intermediate-1-13-01",
+     "w": "食文化",
+     "r": "しょくぶんか",
+     "p": "noun",
+     "zh": "饮食文化",
+     "en": "food culture"
+    },
+    {
+     "id": "intermediate-1-13-02",
+     "w": "和食",
+     "r": "わしょく",
+     "p": "noun",
+     "zh": "日本料理",
+     "en": "Japanese cuisine"
+    },
+    {
+     "id": "intermediate-1-13-03",
+     "w": "洋食",
+     "r": "ようしょく",
+     "p": "noun",
+     "zh": "西餐",
+     "en": "Western food"
+    },
+    {
+     "id": "intermediate-1-13-04",
+     "w": "中華",
+     "r": "ちゅうか",
+     "p": "noun",
+     "zh": "中餐",
+     "en": "Chinese food"
+    },
+    {
+     "id": "intermediate-1-13-05",
+     "w": "郷土料理",
+     "r": "きょうどりょうり",
+     "p": "noun",
+     "zh": "乡土料理",
+     "en": "local cuisine"
+    },
+    {
+     "id": "intermediate-1-13-06",
+     "w": "家庭料理",
+     "r": "かていりょうり",
+     "p": "noun",
+     "zh": "家常菜",
+     "en": "home cooking"
+    },
+    {
+     "id": "intermediate-1-13-07",
+     "w": "旬",
+     "r": "しゅん",
+     "p": "noun",
+     "zh": "应季，当季",
+     "en": "in season"
+    },
+    {
+     "id": "intermediate-1-13-08",
+     "w": "食材",
+     "r": "しょくざい",
+     "p": "noun",
+     "zh": "食材",
+     "en": "ingredients"
+    },
+    {
+     "id": "intermediate-1-13-09",
+     "w": "調味料",
+     "r": "ちょうみりょう",
+     "p": "noun",
+     "zh": "调味料",
+     "en": "seasoning"
+    },
+    {
+     "id": "intermediate-1-13-10",
+     "w": "味噌",
+     "r": "みそ",
+     "p": "noun",
+     "zh": "味噌",
+     "en": "miso"
+    },
+    {
+     "id": "intermediate-1-13-11",
+     "w": "出汁",
+     "r": "だし",
+     "p": "noun",
+     "zh": "高汤",
+     "en": "broth; stock"
+    },
+    {
+     "id": "intermediate-1-13-12",
+     "w": "酢",
+     "r": "す",
+     "p": "noun",
+     "zh": "醋",
+     "en": "vinegar"
+    },
+    {
+     "id": "intermediate-1-13-13",
+     "w": "香辛料",
+     "r": "こうしんりょう",
+     "p": "noun",
+     "zh": "香辛料",
+     "en": "spices"
+    },
+    {
+     "id": "intermediate-1-13-14",
+     "w": "栄養",
+     "r": "えいよう",
+     "p": "noun",
+     "zh": "营养",
+     "en": "nutrition"
+    },
+    {
+     "id": "intermediate-1-13-15",
+     "w": "カロリー",
+     "r": "カロリー",
+     "p": "noun",
+     "zh": "卡路里",
+     "en": "calories"
+    },
+    {
+     "id": "intermediate-1-13-16",
+     "w": "食欲",
+     "r": "しょくよく",
+     "p": "noun",
+     "zh": "食欲",
+     "en": "appetite"
+    },
+    {
+     "id": "intermediate-1-13-17",
+     "w": "好み",
+     "r": "このみ",
+     "p": "noun",
+     "zh": "喜好，口味",
+     "en": "preference; taste"
+    },
+    {
+     "id": "intermediate-1-13-18",
+     "w": "食習慣",
+     "r": "しょくしゅうかん",
+     "p": "noun",
+     "zh": "饮食习惯",
+     "en": "eating habits"
+    },
+    {
+     "id": "intermediate-1-13-19",
+     "w": "食生活",
+     "r": "しょくせいかつ",
+     "p": "noun",
+     "zh": "饮食生活",
+     "en": "diet; eating life"
+    },
+    {
+     "id": "intermediate-1-13-20",
+     "w": "食器",
+     "r": "しょっき",
+     "p": "noun",
+     "zh": "餐具",
+     "en": "tableware"
+    },
+    {
+     "id": "intermediate-1-13-21",
+     "w": "盛り付け",
+     "r": "もりつけ",
+     "p": "noun",
+     "zh": "摆盘",
+     "en": "plating"
+    },
+    {
+     "id": "intermediate-1-13-22",
+     "w": "レシピ",
+     "r": "レシピ",
+     "p": "noun",
+     "zh": "食谱",
+     "en": "recipe"
+    },
+    {
+     "id": "intermediate-1-13-23",
+     "w": "下ごしらえ",
+     "r": "したごしらえ",
+     "p": "noun",
+     "zh": "备菜，预处理",
+     "en": "preparation"
+    },
+    {
+     "id": "intermediate-1-13-24",
+     "w": "味見",
+     "r": "あじみ",
+     "p": "noun",
+     "zh": "尝味道",
+     "en": "tasting"
+    },
+    {
+     "id": "intermediate-1-13-25",
+     "w": "煮込む",
+     "r": "にこむ",
+     "p": "verb",
+     "zh": "炖煮",
+     "en": "to stew",
+     "g": 1
+    },
+    {
+     "id": "intermediate-1-13-26",
+     "w": "漬ける",
+     "r": "つける",
+     "p": "verb",
+     "zh": "腌，浸泡",
+     "en": "to pickle; to soak",
+     "g": 2
+    },
+    {
+     "id": "intermediate-1-13-27",
+     "w": "刻む",
+     "r": "きざむ",
+     "p": "verb",
+     "zh": "切碎",
+     "en": "to chop",
+     "g": 1
+    },
+    {
+     "id": "intermediate-1-13-28",
+     "w": "茹でる",
+     "r": "ゆでる",
+     "p": "verb",
+     "zh": "煮，焯",
+     "en": "to boil",
+     "g": 2
+    },
+    {
+     "id": "intermediate-1-13-29",
+     "w": "炊く",
+     "r": "たく",
+     "p": "verb",
+     "zh": "焖，煮（饭）",
+     "en": "to cook (rice)",
+     "g": 1
+    },
+    {
+     "id": "intermediate-1-13-30",
+     "w": "温める",
+     "r": "あたためる",
+     "p": "verb",
+     "zh": "加热",
+     "en": "to warm up",
+     "g": 2
+    },
+    {
+     "id": "intermediate-1-13-31",
+     "w": "冷ます",
+     "r": "さます",
+     "p": "verb",
+     "zh": "放凉",
+     "en": "to cool",
+     "g": 1
+    },
+    {
+     "id": "intermediate-1-13-32",
+     "w": "腐る",
+     "r": "くさる",
+     "p": "verb",
+     "zh": "腐坏",
+     "en": "to rot",
+     "g": 1
+    },
+    {
+     "id": "intermediate-1-13-33",
+     "w": "あっさり",
+     "r": "あっさり",
+     "p": "adv",
+     "zh": "清淡",
+     "en": "light (in taste)"
+    },
+    {
+     "id": "intermediate-1-13-34",
+     "w": "こってり",
+     "r": "こってり",
+     "p": "adv",
+     "zh": "油腻，浓厚",
+     "en": "rich; heavy"
+    },
+    {
+     "id": "intermediate-1-13-35",
+     "w": "さっぱり",
+     "r": "さっぱり",
+     "p": "adv",
+     "zh": "清爽",
+     "en": "refreshing"
+    },
+    {
+     "id": "intermediate-1-13-36",
+     "w": "香ばしい",
+     "r": "こうばしい",
+     "p": "i-adj",
+     "zh": "香喷喷的",
+     "en": "fragrant (roasted)"
+    },
+    {
+     "id": "intermediate-1-13-37",
+     "w": "新鮮",
+     "r": "しんせん",
+     "p": "na-adj",
+     "zh": "新鲜的",
+     "en": "fresh"
+    },
+    {
+     "id": "intermediate-1-13-38",
+     "w": "上品",
+     "r": "じょうひん",
+     "p": "na-adj",
+     "zh": "高雅的",
+     "en": "refined"
+    },
+    {
+     "id": "intermediate-1-13-39",
+     "w": "素朴",
+     "r": "そぼく",
+     "p": "na-adj",
+     "zh": "朴素的",
+     "en": "simple; plain"
+    },
+    {
+     "id": "intermediate-1-13-40",
+     "w": "独特",
+     "r": "どくとく",
+     "p": "na-adj",
+     "zh": "独特的",
+     "en": "distinctive"
+    }
+   ]
+  },
+  {
+   "n": 14,
+   "title": "旅行と観光",
+   "title_zh": "旅行与观光",
+   "words": [
+    {
+     "id": "intermediate-1-14-01",
+     "w": "観光客",
+     "r": "かんこうきゃく",
+     "p": "noun",
+     "zh": "游客",
+     "en": "tourist"
+    },
+    {
+     "id": "intermediate-1-14-02",
+     "w": "名物",
+     "r": "めいぶつ",
+     "p": "noun",
+     "zh": "名产，特色",
+     "en": "local specialty"
+    },
+    {
+     "id": "intermediate-1-14-03",
+     "w": "世界遺産",
+     "r": "せかいいさん",
+     "p": "noun",
+     "zh": "世界遗产",
+     "en": "World Heritage site"
+    },
+    {
+     "id": "intermediate-1-14-04",
+     "w": "景勝地",
+     "r": "けいしょうち",
+     "p": "noun",
+     "zh": "风景胜地",
+     "en": "scenic spot"
+    },
+    {
+     "id": "intermediate-1-14-05",
+     "w": "史跡",
+     "r": "しせき",
+     "p": "noun",
+     "zh": "史迹",
+     "en": "historic site"
+    },
+    {
+     "id": "intermediate-1-14-06",
+     "w": "城",
+     "r": "しろ",
+     "p": "noun",
+     "zh": "城堡",
+     "en": "castle"
+    },
+    {
+     "id": "intermediate-1-14-07",
+     "w": "庭園",
+     "r": "ていえん",
+     "p": "noun",
+     "zh": "庭园",
+     "en": "garden"
+    },
+    {
+     "id": "intermediate-1-14-08",
+     "w": "展望台",
+     "r": "てんぼうだい",
+     "p": "noun",
+     "zh": "瞭望台",
+     "en": "observation deck"
+    },
+    {
+     "id": "intermediate-1-14-09",
+     "w": "温泉宿",
+     "r": "おんせんやど",
+     "p": "noun",
+     "zh": "温泉旅馆",
+     "en": "hot spring inn"
+    },
+    {
+     "id": "intermediate-1-14-10",
+     "w": "露天風呂",
+     "r": "ろてんぶろ",
+     "p": "noun",
+     "zh": "露天温泉",
+     "en": "open-air bath"
+    },
+    {
+     "id": "intermediate-1-14-11",
+     "w": "添乗員",
+     "r": "てんじょういん",
+     "p": "noun",
+     "zh": "随团导游",
+     "en": "tour conductor"
+    },
+    {
+     "id": "intermediate-1-14-12",
+     "w": "ガイド",
+     "r": "ガイド",
+     "p": "noun",
+     "zh": "导游",
+     "en": "guide"
+    },
+    {
+     "id": "intermediate-1-14-13",
+     "w": "団体旅行",
+     "r": "だんたいりょこう",
+     "p": "noun",
+     "zh": "团体旅行",
+     "en": "group tour"
+    },
+    {
+     "id": "intermediate-1-14-14",
+     "w": "個人旅行",
+     "r": "こじんりょこう",
+     "p": "noun",
+     "zh": "自由行",
+     "en": "individual travel"
+    },
+    {
+     "id": "intermediate-1-14-15",
+     "w": "旅程",
+     "r": "りょてい",
+     "p": "noun",
+     "zh": "行程",
+     "en": "itinerary"
+    },
+    {
+     "id": "intermediate-1-14-16",
+     "w": "往復",
+     "r": "おうふく",
+     "p": "noun",
+     "zh": "往返",
+     "en": "round trip"
+    },
+    {
+     "id": "intermediate-1-14-17",
+     "w": "片道",
+     "r": "かたみち",
+     "p": "noun",
+     "zh": "单程",
+     "en": "one way"
+    },
+    {
+     "id": "intermediate-1-14-18",
+     "w": "乗り継ぎ",
+     "r": "のりつぎ",
+     "p": "noun",
+     "zh": "转机，中转",
+     "en": "connection; transfer"
+    },
+    {
+     "id": "intermediate-1-14-19",
+     "w": "チェックイン",
+     "r": "チェックイン",
+     "p": "noun",
+     "zh": "办理入住",
+     "en": "check-in"
+    },
+    {
+     "id": "intermediate-1-14-20",
+     "w": "荷造り",
+     "r": "にづくり",
+     "p": "noun",
+     "zh": "打包行李",
+     "en": "packing"
+    },
+    {
+     "id": "intermediate-1-14-21",
+     "w": "両替",
+     "r": "りょうがえ",
+     "p": "noun",
+     "zh": "换钱",
+     "en": "currency exchange"
+    },
+    {
+     "id": "intermediate-1-14-22",
+     "w": "免税",
+     "r": "めんぜい",
+     "p": "noun",
+     "zh": "免税",
+     "en": "duty free"
+    },
+    {
+     "id": "intermediate-1-14-23",
+     "w": "混雑",
+     "r": "こんざつ",
+     "p": "noun",
+     "zh": "拥挤",
+     "en": "crowding"
+    },
+    {
+     "id": "intermediate-1-14-24",
+     "w": "穴場",
+     "r": "あなば",
+     "p": "noun",
+     "zh": "人少的好去处",
+     "en": "hidden gem"
+    },
+    {
+     "id": "intermediate-1-14-25",
+     "w": "絶景",
+     "r": "ぜっけい",
+     "p": "noun",
+     "zh": "绝景",
+     "en": "superb view"
+    },
+    {
+     "id": "intermediate-1-14-26",
+     "w": "眺め",
+     "r": "ながめ",
+     "p": "noun",
+     "zh": "景致，眺望",
+     "en": "view"
+    },
+    {
+     "id": "intermediate-1-14-27",
+     "w": "思い出作り",
+     "r": "おもいでづくり",
+     "p": "noun",
+     "zh": "留下回忆",
+     "en": "making memories"
+    },
+    {
+     "id": "intermediate-1-14-28",
+     "w": "満喫する",
+     "r": "まんきつする",
+     "p": "verb",
+     "zh": "尽情享受",
+     "en": "to fully enjoy",
+     "g": 3
+    },
+    {
+     "id": "intermediate-1-14-29",
+     "w": "堪能する",
+     "r": "たんのうする",
+     "p": "verb",
+     "zh": "尽兴，饱览",
+     "en": "to savor fully",
+     "g": 3
+    },
+    {
+     "id": "intermediate-1-14-30",
+     "w": "巡る",
+     "r": "めぐる",
+     "p": "verb",
+     "zh": "巡游，周游",
+     "en": "to go around",
+     "g": 1
+    },
+    {
+     "id": "intermediate-1-14-31",
+     "w": "立ち寄る",
+     "r": "たちよる",
+     "p": "verb",
+     "zh": "顺路去",
+     "en": "to drop by",
+     "g": 1
+    },
+    {
+     "id": "intermediate-1-14-32",
+     "w": "泊まり込む",
+     "r": "とまりこむ",
+     "p": "verb",
+     "zh": "住下",
+     "en": "to stay over",
+     "g": 1
+    },
+    {
+     "id": "intermediate-1-14-33",
+     "w": "疲れが取れる",
+     "r": "つかれがとれる",
+     "p": "expr",
+     "zh": "消除疲劳",
+     "en": "to recover from fatigue"
+    },
+    {
+     "id": "intermediate-1-14-34",
+     "w": "癒される",
+     "r": "いやされる",
+     "p": "verb",
+     "zh": "得到治愈，放松",
+     "en": "to be soothed",
+     "g": 2
+    },
+    {
+     "id": "intermediate-1-14-35",
+     "w": "のんびり",
+     "r": "のんびり",
+     "p": "adv",
+     "zh": "悠闲地",
+     "en": "leisurely"
+    },
+    {
+     "id": "intermediate-1-14-36",
+     "w": "ゆったり",
+     "r": "ゆったり",
+     "p": "adv",
+     "zh": "宽松地，舒适地",
+     "en": "relaxed"
+    },
+    {
+     "id": "intermediate-1-14-37",
+     "w": "はるばる",
+     "r": "はるばる",
+     "p": "adv",
+     "zh": "远道而来",
+     "en": "all the way"
+    },
+    {
+     "id": "intermediate-1-14-38",
+     "w": "賑やか",
+     "r": "にぎやか",
+     "p": "na-adj",
+     "zh": "热闹的",
+     "en": "lively"
+    },
+    {
+     "id": "intermediate-1-14-39",
+     "w": "のどか",
+     "r": "のどか",
+     "p": "na-adj",
+     "zh": "悠闲宁静的",
+     "en": "tranquil"
+    },
+    {
+     "id": "intermediate-1-14-40",
+     "w": "雄大",
+     "r": "ゆうだい",
+     "p": "na-adj",
+     "zh": "雄伟的",
+     "en": "magnificent"
+    }
+   ]
+  },
+  {
+   "n": 15,
+   "title": "スピーチと発表",
+   "title_zh": "演讲与发表",
+   "words": [
+    {
+     "id": "intermediate-1-15-01",
+     "w": "スピーチ",
+     "r": "スピーチ",
+     "p": "noun",
+     "zh": "演讲",
+     "en": "speech"
+    },
+    {
+     "id": "intermediate-1-15-02",
+     "w": "発表",
+     "r": "はっぴょう",
+     "p": "noun",
+     "zh": "发表，报告",
+     "en": "presentation"
+    },
+    {
+     "id": "intermediate-1-15-03",
+     "w": "演説",
+     "r": "えんぜつ",
+     "p": "noun",
+     "zh": "演说",
+     "en": "public speech"
+    },
+    {
+     "id": "intermediate-1-15-04",
+     "w": "講演",
+     "r": "こうえん",
+     "p": "noun",
+     "zh": "讲演，报告",
+     "en": "lecture"
+    },
+    {
+     "id": "intermediate-1-15-05",
+     "w": "原稿",
+     "r": "げんこう",
+     "p": "noun",
+     "zh": "讲稿，原稿",
+     "en": "manuscript"
+    },
+    {
+     "id": "intermediate-1-15-06",
+     "w": "構成",
+     "r": "こうせい",
+     "p": "noun",
+     "zh": "结构，构成",
+     "en": "structure"
+    },
+    {
+     "id": "intermediate-1-15-07",
+     "w": "序論",
+     "r": "じょろん",
+     "p": "noun",
+     "zh": "序论",
+     "en": "introduction"
+    },
+    {
+     "id": "intermediate-1-15-08",
+     "w": "本論",
+     "r": "ほんろん",
+     "p": "noun",
+     "zh": "正论，主体",
+     "en": "main body"
+    },
+    {
+     "id": "intermediate-1-15-09",
+     "w": "結び",
+     "r": "むすび",
+     "p": "noun",
+     "zh": "结尾",
+     "en": "conclusion"
+    },
+    {
+     "id": "intermediate-1-15-10",
+     "w": "要旨",
+     "r": "ようし",
+     "p": "noun",
+     "zh": "要旨，摘要",
+     "en": "gist; summary"
+    },
+    {
+     "id": "intermediate-1-15-11",
+     "w": "根拠",
+     "r": "こんきょ",
+     "p": "noun",
+     "zh": "根据",
+     "en": "grounds; basis"
+    },
+    {
+     "id": "intermediate-1-15-12",
+     "w": "事例",
+     "r": "じれい",
+     "p": "noun",
+     "zh": "事例",
+     "en": "case example"
+    },
+    {
+     "id": "intermediate-1-15-13",
+     "w": "引用",
+     "r": "いんよう",
+     "p": "noun",
+     "zh": "引用",
+     "en": "quotation"
+    },
+    {
+     "id": "intermediate-1-15-14",
+     "w": "図表",
+     "r": "ずひょう",
+     "p": "noun",
+     "zh": "图表",
+     "en": "charts and tables"
+    },
+    {
+     "id": "intermediate-1-15-15",
+     "w": "配布資料",
+     "r": "はいふしりょう",
+     "p": "noun",
+     "zh": "讲义，发放资料",
+     "en": "handout"
+    },
+    {
+     "id": "intermediate-1-15-16",
+     "w": "聴衆",
+     "r": "ちょうしゅう",
+     "p": "noun",
+     "zh": "听众",
+     "en": "audience"
+    },
+    {
+     "id": "intermediate-1-15-17",
+     "w": "反応",
+     "r": "はんのう",
+     "p": "noun",
+     "zh": "反应",
+     "en": "reaction"
+    },
+    {
+     "id": "intermediate-1-15-18",
+     "w": "間",
+     "r": "ま",
+     "p": "noun",
+     "zh": "停顿，间隔",
+     "en": "pause; interval"
+    },
+    {
+     "id": "intermediate-1-15-19",
+     "w": "抑揚",
+     "r": "よくよう",
+     "p": "noun",
+     "zh": "抑扬，语调",
+     "en": "intonation"
+    },
+    {
+     "id": "intermediate-1-15-20",
+     "w": "身振り",
+     "r": "みぶり",
+     "p": "noun",
+     "zh": "手势，动作",
+     "en": "gesture"
+    },
+    {
+     "id": "intermediate-1-15-21",
+     "w": "緊張",
+     "r": "きんちょう",
+     "p": "noun",
+     "zh": "紧张",
+     "en": "nervousness"
+    },
+    {
+     "id": "intermediate-1-15-22",
+     "w": "自信",
+     "r": "じしん",
+     "p": "noun",
+     "zh": "自信",
+     "en": "confidence"
+    },
+    {
+     "id": "intermediate-1-15-23",
+     "w": "練習不足",
+     "r": "れんしゅうぶそく",
+     "p": "noun",
+     "zh": "练习不足",
+     "en": "lack of practice"
+    },
+    {
+     "id": "intermediate-1-15-24",
+     "w": "暗記する",
+     "r": "あんきする",
+     "p": "verb",
+     "zh": "背诵",
+     "en": "to memorize",
+     "g": 3
+    },
+    {
+     "id": "intermediate-1-15-25",
+     "w": "述べる",
+     "r": "のべる",
+     "p": "verb",
+     "zh": "叙述",
+     "en": "to state",
+     "g": 2
+    },
+    {
+     "id": "intermediate-1-15-26",
+     "w": "訴える",
+     "r": "うったえる",
+     "p": "verb",
+     "zh": "诉说，打动",
+     "en": "to appeal to",
+     "g": 2
+    },
+    {
+     "id": "intermediate-1-15-27",
+     "w": "強調する",
+     "r": "きょうちょうする",
+     "p": "verb",
+     "zh": "强调",
+     "en": "to emphasize",
+     "g": 3
+    },
+    {
+     "id": "intermediate-1-15-28",
+     "w": "説得する",
+     "r": "せっとくする",
+     "p": "verb",
+     "zh": "说服",
+     "en": "to persuade",
+     "g": 3
+    },
+    {
+     "id": "intermediate-1-15-29",
+     "w": "要約する",
+     "r": "ようやくする",
+     "p": "verb",
+     "zh": "概括",
+     "en": "to summarize",
+     "g": 3
+    },
+    {
+     "id": "intermediate-1-15-30",
+     "w": "言い換える",
+     "r": "いいかえる",
+     "p": "verb",
+     "zh": "换句话说",
+     "en": "to rephrase",
+     "g": 2
+    },
+    {
+     "id": "intermediate-1-15-31",
+     "w": "詰まる",
+     "r": "つまる",
+     "p": "verb",
+     "zh": "卡壳，说不出",
+     "en": "to be at a loss for words",
+     "g": 1
+    },
+    {
+     "id": "intermediate-1-15-32",
+     "w": "落ち着く",
+     "r": "おちつく",
+     "p": "verb",
+     "zh": "镇定下来",
+     "en": "to calm down",
+     "g": 1
+    },
+    {
+     "id": "intermediate-1-15-33",
+     "w": "分かりやすい",
+     "r": "わかりやすい",
+     "p": "i-adj",
+     "zh": "易懂的",
+     "en": "easy to understand"
+    },
+    {
+     "id": "intermediate-1-15-34",
+     "w": "説得力",
+     "r": "せっとくりょく",
+     "p": "noun",
+     "zh": "说服力",
+     "en": "persuasiveness"
+    },
+    {
+     "id": "intermediate-1-15-35",
+     "w": "明快",
+     "r": "めいかい",
+     "p": "na-adj",
+     "zh": "明快的",
+     "en": "clear-cut"
+    },
+    {
+     "id": "intermediate-1-15-36",
+     "w": "堂々",
+     "r": "どうどう",
+     "p": "na-adj",
+     "zh": "堂堂正正，从容",
+     "en": "dignified; confident"
+    },
+    {
+     "id": "intermediate-1-15-37",
+     "w": "淡々",
+     "r": "たんたん",
+     "p": "na-adj",
+     "zh": "平淡的",
+     "en": "matter-of-fact"
+    },
+    {
+     "id": "intermediate-1-15-38",
+     "w": "まず初めに",
+     "r": "まずはじめに",
+     "p": "expr",
+     "zh": "首先",
+     "en": "first of all"
+    },
+    {
+     "id": "intermediate-1-15-39",
+     "w": "最後になりましたが",
+     "r": "さいごになりましたが",
+     "p": "expr",
+     "zh": "最后",
+     "en": "last but not least"
+    },
+    {
+     "id": "intermediate-1-15-40",
+     "w": "以上です",
+     "r": "いじょうです",
+     "p": "expr",
+     "zh": "我的发言到此结束",
+     "en": "that concludes my talk"
+    }
+   ]
+  },
+  {
+   "n": 16,
+   "title": "学びと進路",
+   "title_zh": "学习与出路",
+   "words": [
+    {
+     "id": "intermediate-1-16-01",
+     "w": "進路",
+     "r": "しんろ",
+     "p": "noun",
+     "zh": "出路，去向",
+     "en": "career path"
+    },
+    {
+     "id": "intermediate-1-16-02",
+     "w": "志望",
+     "r": "しぼう",
+     "p": "noun",
+     "zh": "志愿",
+     "en": "aspiration; preference"
+    },
+    {
+     "id": "intermediate-1-16-03",
+     "w": "志望校",
+     "r": "しぼうこう",
+     "p": "noun",
+     "zh": "志愿学校",
+     "en": "school of choice"
+    },
+    {
+     "id": "intermediate-1-16-04",
+     "w": "受験勉強",
+     "r": "じゅけんべんきょう",
+     "p": "noun",
+     "zh": "备考",
+     "en": "studying for exams"
+    },
+    {
+     "id": "intermediate-1-16-05",
+     "w": "予備校",
+     "r": "よびこう",
+     "p": "noun",
+     "zh": "补习学校",
+     "en": "prep school"
+    },
+    {
+     "id": "intermediate-1-16-06",
+     "w": "模擬試験",
+     "r": "もぎしけん",
+     "p": "noun",
+     "zh": "模拟考试",
+     "en": "mock exam"
+    },
+    {
+     "id": "intermediate-1-16-07",
+     "w": "偏差値",
+     "r": "へんさち",
+     "p": "noun",
+     "zh": "偏差值",
+     "en": "deviation score"
+    },
+    {
+     "id": "intermediate-1-16-08",
+     "w": "倍率",
+     "r": "ばいりつ",
+     "p": "noun",
+     "zh": "报考倍率",
+     "en": "competition ratio"
+    },
+    {
+     "id": "intermediate-1-16-09",
+     "w": "願書",
+     "r": "がんしょ",
+     "p": "noun",
+     "zh": "申请书",
+     "en": "application form"
+    },
+    {
+     "id": "intermediate-1-16-10",
+     "w": "推薦",
+     "r": "すいせん",
+     "p": "noun",
+     "zh": "推荐",
+     "en": "recommendation"
+    },
+    {
+     "id": "intermediate-1-16-11",
+     "w": "面接試験",
+     "r": "めんせつしけん",
+     "p": "noun",
+     "zh": "面试",
+     "en": "interview exam"
+    },
+    {
+     "id": "intermediate-1-16-12",
+     "w": "小論文",
+     "r": "しょうろんぶん",
+     "p": "noun",
+     "zh": "小论文",
+     "en": "essay"
+    },
+    {
+     "id": "intermediate-1-16-13",
+     "w": "単位",
+     "r": "たんい",
+     "p": "noun",
+     "zh": "学分",
+     "en": "credit"
+    },
+    {
+     "id": "intermediate-1-16-14",
+     "w": "必修",
+     "r": "ひっしゅう",
+     "p": "noun",
+     "zh": "必修",
+     "en": "required course"
+    },
+    {
+     "id": "intermediate-1-16-15",
+     "w": "選択科目",
+     "r": "せんたくかもく",
+     "p": "noun",
+     "zh": "选修课",
+     "en": "elective"
+    },
+    {
+     "id": "intermediate-1-16-16",
+     "w": "講義",
+     "r": "こうぎ",
+     "p": "noun",
+     "zh": "讲课",
+     "en": "lecture"
+    },
+    {
+     "id": "intermediate-1-16-17",
+     "w": "ゼミ",
+     "r": "ゼミ",
+     "p": "noun",
+     "zh": "研讨课",
+     "en": "seminar"
+    },
+    {
+     "id": "intermediate-1-16-18",
+     "w": "卒論",
+     "r": "そつろん",
+     "p": "noun",
+     "zh": "毕业论文",
+     "en": "graduation thesis"
+    },
+    {
+     "id": "intermediate-1-16-19",
+     "w": "留年",
+     "r": "りゅうねん",
+     "p": "noun",
+     "zh": "留级",
+     "en": "repeating a year"
+    },
+    {
+     "id": "intermediate-1-16-20",
+     "w": "中退",
+     "r": "ちゅうたい",
+     "p": "noun",
+     "zh": "中途退学",
+     "en": "dropping out"
+    },
+    {
+     "id": "intermediate-1-16-21",
+     "w": "学歴",
+     "r": "がくれき",
+     "p": "noun",
+     "zh": "学历",
+     "en": "educational background"
+    },
+    {
+     "id": "intermediate-1-16-22",
+     "w": "資格取得",
+     "r": "しかくしゅとく",
+     "p": "noun",
+     "zh": "取得资格",
+     "en": "obtaining a qualification"
+    },
+    {
+     "id": "intermediate-1-16-23",
+     "w": "独学",
+     "r": "どくがく",
+     "p": "noun",
+     "zh": "自学",
+     "en": "self-study"
+    },
+    {
+     "id": "intermediate-1-16-24",
+     "w": "生涯学習",
+     "r": "しょうがいがくしゅう",
+     "p": "noun",
+     "zh": "终身学习",
+     "en": "lifelong learning"
+    },
+    {
+     "id": "intermediate-1-16-25",
+     "w": "復習",
+     "r": "ふくしゅう",
+     "p": "noun",
+     "zh": "复习",
+     "en": "review"
+    },
+    {
+     "id": "intermediate-1-16-26",
+     "w": "予習",
+     "r": "よしゅう",
+     "p": "noun",
+     "zh": "预习",
+     "en": "preparation for class"
+    },
+    {
+     "id": "intermediate-1-16-27",
+     "w": "努力家",
+     "r": "どりょくか",
+     "p": "noun",
+     "zh": "努力的人",
+     "en": "hard worker"
+    },
+    {
+     "id": "intermediate-1-16-28",
+     "w": "挫折",
+     "r": "ざせつ",
+     "p": "noun",
+     "zh": "挫折",
+     "en": "setback"
+    },
+    {
+     "id": "intermediate-1-16-29",
+     "w": "励む",
+     "r": "はげむ",
+     "p": "verb",
+     "zh": "努力，勤奋",
+     "en": "to work hard at",
+     "g": 1
+    },
+    {
+     "id": "intermediate-1-16-30",
+     "w": "取り組む",
+     "r": "とりくむ",
+     "p": "verb",
+     "zh": "致力于",
+     "en": "to tackle",
+     "g": 1
+    },
+    {
+     "id": "intermediate-1-16-31",
+     "w": "身につける",
+     "r": "みにつける",
+     "p": "expr",
+     "zh": "掌握，学会",
+     "en": "to acquire (a skill)"
+    },
+    {
+     "id": "intermediate-1-16-32",
+     "w": "活かす",
+     "r": "いかす",
+     "p": "verb",
+     "zh": "发挥，利用",
+     "en": "to make use of",
+     "g": 1
+    },
+    {
+     "id": "intermediate-1-16-33",
+     "w": "迷う",
+     "r": "まよう",
+     "p": "verb",
+     "zh": "犹豫",
+     "en": "to waver",
+     "g": 1
+    },
+    {
+     "id": "intermediate-1-16-34",
+     "w": "決断する",
+     "r": "けつだんする",
+     "p": "verb",
+     "zh": "决断",
+     "en": "to decide",
+     "g": 3
+    },
+    {
+     "id": "intermediate-1-16-35",
+     "w": "諦める",
+     "r": "あきらめる",
+     "p": "verb",
+     "zh": "放弃",
+     "en": "to give up",
+     "g": 2
+    },
+    {
+     "id": "intermediate-1-16-36",
+     "w": "乗り越える",
+     "r": "のりこえる",
+     "p": "verb",
+     "zh": "克服",
+     "en": "to overcome",
+     "g": 2
+    },
+    {
+     "id": "intermediate-1-16-37",
+     "w": "適性",
+     "r": "てきせい",
+     "p": "noun",
+     "zh": "适应性，天分",
+     "en": "aptitude"
+    },
+    {
+     "id": "intermediate-1-16-38",
+     "w": "将来性",
+     "r": "しょうらいせい",
+     "p": "noun",
+     "zh": "发展前景",
+     "en": "future prospects"
+    },
+    {
+     "id": "intermediate-1-16-39",
+     "w": "意欲的",
+     "r": "いよくてき",
+     "p": "na-adj",
+     "zh": "积极的，有干劲的",
+     "en": "motivated"
+    },
+    {
+     "id": "intermediate-1-16-40",
+     "w": "着実",
+     "r": "ちゃくじつ",
+     "p": "na-adj",
+     "zh": "扎实的，稳步的",
+     "en": "steady"
+    }
+   ]
+  }
+ ]
+}

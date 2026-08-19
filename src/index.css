@@ -57,3 +57,30 @@
   animation: caret-blink 1s step-end infinite;
   background-color: #eaf1ec;
 }
+
+/* Flashcard flip — the two faces stack, the container rotates. */
+.flip-scene {
+  perspective: 1600px;
+}
+.flip-card {
+  position: relative;
+  transform-style: preserve-3d;
+  transition: transform 0.5s cubic-bezier(0.4, 0, 0.2, 1);
+}
+.flip-card.is-flipped {
+  transform: rotateY(180deg);
+}
+.flip-face {
+  backface-visibility: hidden;
+  -webkit-backface-visibility: hidden;
+}
+.flip-face-back {
+  position: absolute;
+  inset: 0;
+  transform: rotateY(180deg);
+}
+@media (prefers-reduced-motion: reduce) {
+  .flip-card {
+    transition: none;
+  }
+}

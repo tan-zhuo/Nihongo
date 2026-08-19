@@ -1,0 +1,7352 @@
+{
+ "id": "elementary-2",
+ "series": "elementary",
+ "volume": 2,
+ "title": "初級 下",
+ "title_zh": "初级 下册",
+ "title_en": "Elementary II",
+ "themed": false,
+ "lessons": [
+  {
+   "n": 25,
+   "title": "これは明日会議で使う資料です",
+   "title_zh": "这是明天开会用的资料",
+   "words": [
+    {
+     "id": "elementary-2-25-01",
+     "w": "資料",
+     "r": "しりょう",
+     "p": "noun",
+     "zh": "资料",
+     "en": "materials; data"
+    },
+    {
+     "id": "elementary-2-25-02",
+     "w": "書類",
+     "r": "しょるい",
+     "p": "noun",
+     "zh": "文件，文书",
+     "en": "documents"
+    },
+    {
+     "id": "elementary-2-25-03",
+     "w": "報告書",
+     "r": "ほうこくしょ",
+     "p": "noun",
+     "zh": "报告书",
+     "en": "report"
+    },
+    {
+     "id": "elementary-2-25-04",
+     "w": "企画",
+     "r": "きかく",
+     "p": "noun",
+     "zh": "策划，规划",
+     "en": "plan; project"
+    },
+    {
+     "id": "elementary-2-25-05",
+     "w": "内容",
+     "r": "ないよう",
+     "p": "noun",
+     "zh": "内容",
+     "en": "content"
+    },
+    {
+     "id": "elementary-2-25-06",
+     "w": "コピー",
+     "r": "コピー",
+     "p": "noun",
+     "zh": "复印，复印件",
+     "en": "copy"
+    },
+    {
+     "id": "elementary-2-25-07",
+     "w": "資格",
+     "r": "しかく",
+     "p": "noun",
+     "zh": "资格",
+     "en": "qualification"
+    },
+    {
+     "id": "elementary-2-25-08",
+     "w": "担当",
+     "r": "たんとう",
+     "p": "noun",
+     "zh": "负责，担任",
+     "en": "being in charge"
+    },
+    {
+     "id": "elementary-2-25-09",
+     "w": "係",
+     "r": "かかり",
+     "p": "noun",
+     "zh": "负责人，管理员",
+     "en": "person in charge"
+    },
+    {
+     "id": "elementary-2-25-10",
+     "w": "部下",
+     "r": "ぶか",
+     "p": "noun",
+     "zh": "部下，下属",
+     "en": "subordinate"
+    },
+    {
+     "id": "elementary-2-25-11",
+     "w": "同僚",
+     "r": "どうりょう",
+     "p": "noun",
+     "zh": "同事",
+     "en": "colleague"
+    },
+    {
+     "id": "elementary-2-25-12",
+     "w": "取引先",
+     "r": "とりひきさき",
+     "p": "noun",
+     "zh": "客户，交易方",
+     "en": "business partner"
+    },
+    {
+     "id": "elementary-2-25-13",
+     "w": "名刺入れ",
+     "r": "めいしいれ",
+     "p": "noun",
+     "zh": "名片夹",
+     "en": "card case"
+    },
+    {
+     "id": "elementary-2-25-14",
+     "w": "日程",
+     "r": "にってい",
+     "p": "noun",
+     "zh": "日程",
+     "en": "schedule"
+    },
+    {
+     "id": "elementary-2-25-15",
+     "w": "締め切り",
+     "r": "しめきり",
+     "p": "noun",
+     "zh": "截止日期",
+     "en": "deadline"
+    },
+    {
+     "id": "elementary-2-25-16",
+     "w": "残業",
+     "r": "ざんぎょう",
+     "p": "noun",
+     "zh": "加班",
+     "en": "overtime"
+    },
+    {
+     "id": "elementary-2-25-17",
+     "w": "打ち合わせ",
+     "r": "うちあわせ",
+     "p": "noun",
+     "zh": "碰头，事先商量",
+     "en": "preliminary meeting"
+    },
+    {
+     "id": "elementary-2-25-18",
+     "w": "作成する",
+     "r": "さくせいする",
+     "p": "verb",
+     "zh": "制作，编写",
+     "en": "to draw up; to create",
+     "g": 3
+    },
+    {
+     "id": "elementary-2-25-19",
+     "w": "提出する",
+     "r": "ていしゅつする",
+     "p": "verb",
+     "zh": "提交",
+     "en": "to submit",
+     "g": 3
+    },
+    {
+     "id": "elementary-2-25-20",
+     "w": "配る",
+     "r": "くばる",
+     "p": "verb",
+     "zh": "分发",
+     "en": "to distribute",
+     "g": 1
+    },
+    {
+     "id": "elementary-2-25-21",
+     "w": "集める",
+     "r": "あつめる",
+     "p": "verb",
+     "zh": "收集，集中",
+     "en": "to collect",
+     "g": 2
+    },
+    {
+     "id": "elementary-2-25-22",
+     "w": "印刷する",
+     "r": "いんさつする",
+     "p": "verb",
+     "zh": "印刷",
+     "en": "to print",
+     "g": 3
+    },
+    {
+     "id": "elementary-2-25-23",
+     "w": "預ける",
+     "r": "あずける",
+     "p": "verb",
+     "zh": "寄存，托付",
+     "en": "to leave in someone's care",
+     "g": 2
+    },
+    {
+     "id": "elementary-2-25-24",
+     "w": "届ける",
+     "r": "とどける",
+     "p": "verb",
+     "zh": "送到；上报",
+     "en": "to deliver; to report",
+     "g": 2
+    },
+    {
+     "id": "elementary-2-25-25",
+     "w": "訪ねる",
+     "r": "たずねる",
+     "p": "verb",
+     "zh": "拜访",
+     "en": "to visit",
+     "g": 2
+    },
+    {
+     "id": "elementary-2-25-26",
+     "w": "尋ねる",
+     "r": "たずねる",
+     "p": "verb",
+     "zh": "询问",
+     "en": "to inquire",
+     "g": 2
+    },
+    {
+     "id": "elementary-2-25-27",
+     "w": "検討する",
+     "r": "けんとうする",
+     "p": "verb",
+     "zh": "研究，讨论",
+     "en": "to examine; to consider",
+     "g": 3
+    },
+    {
+     "id": "elementary-2-25-28",
+     "w": "必要",
+     "r": "ひつよう",
+     "p": "na-adj",
+     "zh": "必要的",
+     "en": "necessary"
+    },
+    {
+     "id": "elementary-2-25-29",
+     "w": "重要",
+     "r": "じゅうよう",
+     "p": "na-adj",
+     "zh": "重要的",
+     "en": "important"
+    },
+    {
+     "id": "elementary-2-25-30",
+     "w": "詳しい",
+     "r": "くわしい",
+     "p": "i-adj",
+     "zh": "详细的；熟悉的",
+     "en": "detailed; well-versed"
+    },
+    {
+     "id": "elementary-2-25-31",
+     "w": "正しい",
+     "r": "ただしい",
+     "p": "i-adj",
+     "zh": "正确的",
+     "en": "correct"
+    },
+    {
+     "id": "elementary-2-25-32",
+     "w": "以外",
+     "r": "いがい",
+     "p": "noun",
+     "zh": "以外",
+     "en": "other than"
+    },
+    {
+     "id": "elementary-2-25-33",
+     "w": "場所",
+     "r": "ばしょ",
+     "p": "noun",
+     "zh": "场所，地点",
+     "en": "place"
+    },
+    {
+     "id": "elementary-2-25-34",
+     "w": "当日",
+     "r": "とうじつ",
+     "p": "noun",
+     "zh": "当天",
+     "en": "the day itself"
+    },
+    {
+     "id": "elementary-2-25-35",
+     "w": "それぞれ",
+     "r": "それぞれ",
+     "p": "adv",
+     "zh": "各自，分别",
+     "en": "each; respectively"
+    },
+    {
+     "id": "elementary-2-25-36",
+     "w": "必ず",
+     "r": "かならず",
+     "p": "adv",
+     "zh": "务必，一定",
+     "en": "without fail"
+    }
+   ]
+  },
+  {
+   "n": 26,
+   "title": "自転車に2人で乗るのは危ないです",
+   "title_zh": "两个人骑一辆自行车很危险",
+   "words": [
+    {
+     "id": "elementary-2-26-01",
+     "w": "危ない",
+     "r": "あぶない",
+     "p": "i-adj",
+     "zh": "危险的",
+     "en": "dangerous"
+    },
+    {
+     "id": "elementary-2-26-02",
+     "w": "規則",
+     "r": "きそく",
+     "p": "noun",
+     "zh": "规则，规章",
+     "en": "rule"
+    },
+    {
+     "id": "elementary-2-26-03",
+     "w": "交通ルール",
+     "r": "こうつうルール",
+     "p": "noun",
+     "zh": "交通规则",
+     "en": "traffic rules"
+    },
+    {
+     "id": "elementary-2-26-04",
+     "w": "信号",
+     "r": "しんごう",
+     "p": "noun",
+     "zh": "信号，红绿灯",
+     "en": "traffic signal"
+    },
+    {
+     "id": "elementary-2-26-05",
+     "w": "標識",
+     "r": "ひょうしき",
+     "p": "noun",
+     "zh": "标识，标志",
+     "en": "sign"
+    },
+    {
+     "id": "elementary-2-26-06",
+     "w": "歩道",
+     "r": "ほどう",
+     "p": "noun",
+     "zh": "人行道",
+     "en": "sidewalk"
+    },
+    {
+     "id": "elementary-2-26-07",
+     "w": "車道",
+     "r": "しゃどう",
+     "p": "noun",
+     "zh": "车道",
+     "en": "roadway"
+    },
+    {
+     "id": "elementary-2-26-08",
+     "w": "スピード",
+     "r": "スピード",
+     "p": "noun",
+     "zh": "速度",
+     "en": "speed"
+    },
+    {
+     "id": "elementary-2-26-09",
+     "w": "事故",
+     "r": "じこ",
+     "p": "noun",
+     "zh": "事故",
+     "en": "accident"
+    },
+    {
+     "id": "elementary-2-26-10",
+     "w": "違反",
+     "r": "いはん",
+     "p": "noun",
+     "zh": "违反",
+     "en": "violation"
+    },
+    {
+     "id": "elementary-2-26-11",
+     "w": "罰金",
+     "r": "ばっきん",
+     "p": "noun",
+     "zh": "罚款",
+     "en": "fine"
+    },
+    {
+     "id": "elementary-2-26-12",
+     "w": "守る",
+     "r": "まもる",
+     "p": "verb",
+     "zh": "遵守；保护",
+     "en": "to obey; to protect",
+     "g": 1
+    },
+    {
+     "id": "elementary-2-26-13",
+     "w": "破る",
+     "r": "やぶる",
+     "p": "verb",
+     "zh": "违反；弄破",
+     "en": "to break; to tear",
+     "g": 1
+    },
+    {
+     "id": "elementary-2-26-14",
+     "w": "渡る",
+     "r": "わたる",
+     "p": "verb",
+     "zh": "过（马路、桥）",
+     "en": "to cross",
+     "g": 1
+    },
+    {
+     "id": "elementary-2-26-15",
+     "w": "曲がる",
+     "r": "まがる",
+     "p": "verb",
+     "zh": "拐弯",
+     "en": "to turn",
+     "g": 1
+    },
+    {
+     "id": "elementary-2-26-16",
+     "w": "止める",
+     "r": "とめる",
+     "p": "verb",
+     "zh": "停住，停放",
+     "en": "to stop; to park",
+     "g": 2
+    },
+    {
+     "id": "elementary-2-26-17",
+     "w": "ぶつかる",
+     "r": "ぶつかる",
+     "p": "verb",
+     "zh": "撞上，碰上",
+     "en": "to bump into",
+     "g": 1
+    },
+    {
+     "id": "elementary-2-26-18",
+     "w": "転ぶ",
+     "r": "ころぶ",
+     "p": "verb",
+     "zh": "摔倒",
+     "en": "to fall over",
+     "g": 1
+    },
+    {
+     "id": "elementary-2-26-19",
+     "w": "倒れる",
+     "r": "たおれる",
+     "p": "verb",
+     "zh": "倒下，病倒",
+     "en": "to collapse",
+     "g": 2
+    },
+    {
+     "id": "elementary-2-26-20",
+     "w": "助ける",
+     "r": "たすける",
+     "p": "verb",
+     "zh": "帮助，救助",
+     "en": "to help; to rescue",
+     "g": 2
+    },
+    {
+     "id": "elementary-2-26-21",
+     "w": "運転する",
+     "r": "うんてんする",
+     "p": "verb",
+     "zh": "驾驶",
+     "en": "to drive",
+     "g": 3
+    },
+    {
+     "id": "elementary-2-26-22",
+     "w": "注意する",
+     "r": "ちゅういする",
+     "p": "verb",
+     "zh": "注意；提醒",
+     "en": "to pay attention; to warn",
+     "g": 3
+    },
+    {
+     "id": "elementary-2-26-23",
+     "w": "禁止する",
+     "r": "きんしする",
+     "p": "verb",
+     "zh": "禁止",
+     "en": "to prohibit",
+     "g": 3
+    },
+    {
+     "id": "elementary-2-26-24",
+     "w": "許す",
+     "r": "ゆるす",
+     "p": "verb",
+     "zh": "允许，原谅",
+     "en": "to permit; to forgive",
+     "g": 1
+    },
+    {
+     "id": "elementary-2-26-25",
+     "w": "当たり前",
+     "r": "あたりまえ",
+     "p": "na-adj",
+     "zh": "理所当然的",
+     "en": "natural; obvious"
+    },
+    {
+     "id": "elementary-2-26-26",
+     "w": "特別",
+     "r": "とくべつ",
+     "p": "na-adj",
+     "zh": "特别的",
+     "en": "special"
+    },
+    {
+     "id": "elementary-2-26-27",
+     "w": "確か",
+     "r": "たしか",
+     "p": "na-adj",
+     "zh": "确实的",
+     "en": "certain"
+    },
+    {
+     "id": "elementary-2-26-28",
+     "w": "面倒",
+     "r": "めんどう",
+     "p": "na-adj",
+     "zh": "麻烦的",
+     "en": "troublesome"
+    },
+    {
+     "id": "elementary-2-26-29",
+     "w": "苦手",
+     "r": "にがて",
+     "p": "na-adj",
+     "zh": "不擅长的，怕的",
+     "en": "weak at; not good at"
+    },
+    {
+     "id": "elementary-2-26-30",
+     "w": "得意",
+     "r": "とくい",
+     "p": "na-adj",
+     "zh": "擅长的",
+     "en": "good at"
+    },
+    {
+     "id": "elementary-2-26-31",
+     "w": "楽",
+     "r": "らく",
+     "p": "na-adj",
+     "zh": "轻松的，舒适的",
+     "en": "easy; comfortable"
+    },
+    {
+     "id": "elementary-2-26-32",
+     "w": "つい",
+     "r": "つい",
+     "p": "adv",
+     "zh": "不知不觉，无意中",
+     "en": "unintentionally"
+    },
+    {
+     "id": "elementary-2-26-33",
+     "w": "うっかり",
+     "r": "うっかり",
+     "p": "adv",
+     "zh": "不留神，马虎",
+     "en": "carelessly"
+    },
+    {
+     "id": "elementary-2-26-34",
+     "w": "わざと",
+     "r": "わざと",
+     "p": "adv",
+     "zh": "故意",
+     "en": "on purpose"
+    },
+    {
+     "id": "elementary-2-26-35",
+     "w": "できるだけ",
+     "r": "できるだけ",
+     "p": "adv",
+     "zh": "尽可能",
+     "en": "as much as possible"
+    },
+    {
+     "id": "elementary-2-26-36",
+     "w": "それで",
+     "r": "それで",
+     "p": "conj",
+     "zh": "因此，所以",
+     "en": "so; therefore"
+    }
+   ]
+  },
+  {
+   "n": 27,
+   "title": "子どもの時、大きな地震がありました",
+   "title_zh": "小时候发生过大地震",
+   "words": [
+    {
+     "id": "elementary-2-27-01",
+     "w": "地震",
+     "r": "じしん",
+     "p": "noun",
+     "zh": "地震",
+     "en": "earthquake"
+    },
+    {
+     "id": "elementary-2-27-02",
+     "w": "津波",
+     "r": "つなみ",
+     "p": "noun",
+     "zh": "海啸",
+     "en": "tsunami"
+    },
+    {
+     "id": "elementary-2-27-03",
+     "w": "洪水",
+     "r": "こうずい",
+     "p": "noun",
+     "zh": "洪水",
+     "en": "flood"
+    },
+    {
+     "id": "elementary-2-27-04",
+     "w": "災害",
+     "r": "さいがい",
+     "p": "noun",
+     "zh": "灾害",
+     "en": "disaster"
+    },
+    {
+     "id": "elementary-2-27-05",
+     "w": "被害",
+     "r": "ひがい",
+     "p": "noun",
+     "zh": "损失，受害",
+     "en": "damage"
+    },
+    {
+     "id": "elementary-2-27-06",
+     "w": "避難",
+     "r": "ひなん",
+     "p": "noun",
+     "zh": "避难",
+     "en": "evacuation"
+    },
+    {
+     "id": "elementary-2-27-07",
+     "w": "非常口",
+     "r": "ひじょうぐち",
+     "p": "noun",
+     "zh": "安全出口",
+     "en": "emergency exit"
+    },
+    {
+     "id": "elementary-2-27-08",
+     "w": "救急車",
+     "r": "きゅうきゅうしゃ",
+     "p": "noun",
+     "zh": "救护车",
+     "en": "ambulance"
+    },
+    {
+     "id": "elementary-2-27-09",
+     "w": "消防署",
+     "r": "しょうぼうしょ",
+     "p": "noun",
+     "zh": "消防局",
+     "en": "fire station"
+    },
+    {
+     "id": "elementary-2-27-10",
+     "w": "警察",
+     "r": "けいさつ",
+     "p": "noun",
+     "zh": "警察",
+     "en": "police"
+    },
+    {
+     "id": "elementary-2-27-11",
+     "w": "思い出",
+     "r": "おもいで",
+     "p": "noun",
+     "zh": "回忆",
+     "en": "memory; recollection"
+    },
+    {
+     "id": "elementary-2-27-12",
+     "w": "記憶",
+     "r": "きおく",
+     "p": "noun",
+     "zh": "记忆",
+     "en": "memory"
+    },
+    {
+     "id": "elementary-2-27-13",
+     "w": "当時",
+     "r": "とうじ",
+     "p": "noun",
+     "zh": "当时",
+     "en": "at that time"
+    },
+    {
+     "id": "elementary-2-27-14",
+     "w": "その頃",
+     "r": "そのころ",
+     "p": "noun",
+     "zh": "那时候",
+     "en": "around then"
+    },
+    {
+     "id": "elementary-2-27-15",
+     "w": "小学校",
+     "r": "しょうがっこう",
+     "p": "noun",
+     "zh": "小学",
+     "en": "elementary school"
+    },
+    {
+     "id": "elementary-2-27-16",
+     "w": "中学校",
+     "r": "ちゅうがっこう",
+     "p": "noun",
+     "zh": "初中",
+     "en": "junior high school"
+    },
+    {
+     "id": "elementary-2-27-17",
+     "w": "高校",
+     "r": "こうこう",
+     "p": "noun",
+     "zh": "高中",
+     "en": "high school"
+    },
+    {
+     "id": "elementary-2-27-18",
+     "w": "同級生",
+     "r": "どうきゅうせい",
+     "p": "noun",
+     "zh": "同班同学",
+     "en": "classmate"
+    },
+    {
+     "id": "elementary-2-27-19",
+     "w": "近所",
+     "r": "きんじょ",
+     "p": "noun",
+     "zh": "附近，邻居",
+     "en": "neighborhood"
+    },
+    {
+     "id": "elementary-2-27-20",
+     "w": "田舎",
+     "r": "いなか",
+     "p": "noun",
+     "zh": "乡下，老家",
+     "en": "countryside; hometown"
+    },
+    {
+     "id": "elementary-2-27-21",
+     "w": "都会",
+     "r": "とかい",
+     "p": "noun",
+     "zh": "都市，城市",
+     "en": "city"
+    },
+    {
+     "id": "elementary-2-27-22",
+     "w": "思い出す",
+     "r": "おもいだす",
+     "p": "verb",
+     "zh": "想起，回忆起",
+     "en": "to recall",
+     "g": 1
+    },
+    {
+     "id": "elementary-2-27-23",
+     "w": "起こる",
+     "r": "おこる",
+     "p": "verb",
+     "zh": "发生",
+     "en": "to occur",
+     "g": 1
+    },
+    {
+     "id": "elementary-2-27-24",
+     "w": "逃げる",
+     "r": "にげる",
+     "p": "verb",
+     "zh": "逃跑",
+     "en": "to flee",
+     "g": 2
+    },
+    {
+     "id": "elementary-2-27-25",
+     "w": "驚く",
+     "r": "おどろく",
+     "p": "verb",
+     "zh": "吃惊",
+     "en": "to be surprised",
+     "g": 1
+    },
+    {
+     "id": "elementary-2-27-26",
+     "w": "泣く",
+     "r": "なく",
+     "p": "verb",
+     "zh": "哭",
+     "en": "to cry",
+     "g": 1
+    },
+    {
+     "id": "elementary-2-27-27",
+     "w": "笑う",
+     "r": "わらう",
+     "p": "verb",
+     "zh": "笑",
+     "en": "to laugh",
+     "g": 1
+    },
+    {
+     "id": "elementary-2-27-28",
+     "w": "怒る",
+     "r": "おこる",
+     "p": "verb",
+     "zh": "生气",
+     "en": "to get angry",
+     "g": 1
+    },
+    {
+     "id": "elementary-2-27-29",
+     "w": "喧嘩する",
+     "r": "けんかする",
+     "p": "verb",
+     "zh": "吵架，打架",
+     "en": "to quarrel",
+     "g": 3
+    },
+    {
+     "id": "elementary-2-27-30",
+     "w": "経験する",
+     "r": "けいけんする",
+     "p": "verb",
+     "zh": "经历，体验",
+     "en": "to experience",
+     "g": 3
+    },
+    {
+     "id": "elementary-2-27-31",
+     "w": "大きな",
+     "r": "おおきな",
+     "p": "prenoun",
+     "zh": "大的",
+     "en": "big"
+    },
+    {
+     "id": "elementary-2-27-32",
+     "w": "小さな",
+     "r": "ちいさな",
+     "p": "prenoun",
+     "zh": "小的",
+     "en": "small"
+    },
+    {
+     "id": "elementary-2-27-33",
+     "w": "大変",
+     "r": "たいへん",
+     "p": "na-adj",
+     "zh": "够呛的，严重的",
+     "en": "serious; tough"
+    },
+    {
+     "id": "elementary-2-27-34",
+     "w": "急に",
+     "r": "きゅうに",
+     "p": "adv",
+     "zh": "突然",
+     "en": "suddenly"
+    },
+    {
+     "id": "elementary-2-27-35",
+     "w": "突然",
+     "r": "とつぜん",
+     "p": "adv",
+     "zh": "突然",
+     "en": "all of a sudden"
+    },
+    {
+     "id": "elementary-2-27-36",
+     "w": "その後",
+     "r": "そのご",
+     "p": "noun",
+     "zh": "之后",
+     "en": "after that"
+    }
+   ]
+  },
+  {
+   "n": 28,
+   "title": "馬さんは私に地図をくれました",
+   "title_zh": "小马给了我一张地图",
+   "words": [
+    {
+     "id": "elementary-2-28-01",
+     "w": "くれる",
+     "r": "くれる",
+     "p": "verb",
+     "zh": "（别人）给我",
+     "en": "to give (to me)",
+     "g": 2
+    },
+    {
+     "id": "elementary-2-28-02",
+     "w": "差し上げる",
+     "r": "さしあげる",
+     "p": "verb",
+     "zh": "给（敬语）",
+     "en": "to give (humble)",
+     "g": 2
+    },
+    {
+     "id": "elementary-2-28-03",
+     "w": "いただく",
+     "r": "いただく",
+     "p": "verb",
+     "zh": "得到（谦让）；吃，喝",
+     "en": "to receive (humble); to eat",
+     "g": 1
+    },
+    {
+     "id": "elementary-2-28-04",
+     "w": "くださる",
+     "r": "くださる",
+     "p": "verb",
+     "zh": "（尊长）给我",
+     "en": "to give (honorific)",
+     "g": 1
+    },
+    {
+     "id": "elementary-2-28-05",
+     "w": "やる",
+     "r": "やる",
+     "p": "verb",
+     "zh": "给（对下）；做",
+     "en": "to give (to inferior); to do",
+     "g": 1
+    },
+    {
+     "id": "elementary-2-28-06",
+     "w": "贈る",
+     "r": "おくる",
+     "p": "verb",
+     "zh": "赠送",
+     "en": "to present",
+     "g": 1
+    },
+    {
+     "id": "elementary-2-28-07",
+     "w": "世話をする",
+     "r": "せわをする",
+     "p": "expr",
+     "zh": "照顾，照料",
+     "en": "to look after"
+    },
+    {
+     "id": "elementary-2-28-08",
+     "w": "お礼",
+     "r": "おれい",
+     "p": "noun",
+     "zh": "谢意，谢礼",
+     "en": "thanks; gift of thanks"
+    },
+    {
+     "id": "elementary-2-28-09",
+     "w": "お祝い",
+     "r": "おいわい",
+     "p": "noun",
+     "zh": "祝贺，贺礼",
+     "en": "celebration; congratulatory gift"
+    },
+    {
+     "id": "elementary-2-28-10",
+     "w": "お見舞い",
+     "r": "おみまい",
+     "p": "noun",
+     "zh": "探病，慰问",
+     "en": "visit to a sick person"
+    },
+    {
+     "id": "elementary-2-28-11",
+     "w": "お年玉",
+     "r": "おとしだま",
+     "p": "noun",
+     "zh": "压岁钱",
+     "en": "New Year's gift money"
+    },
+    {
+     "id": "elementary-2-28-12",
+     "w": "贈り物",
+     "r": "おくりもの",
+     "p": "noun",
+     "zh": "礼物",
+     "en": "gift"
+    },
+    {
+     "id": "elementary-2-28-13",
+     "w": "記念品",
+     "r": "きねんひん",
+     "p": "noun",
+     "zh": "纪念品",
+     "en": "souvenir; memento"
+    },
+    {
+     "id": "elementary-2-28-14",
+     "w": "お礼状",
+     "r": "おれいじょう",
+     "p": "noun",
+     "zh": "感谢信",
+     "en": "thank-you letter"
+    },
+    {
+     "id": "elementary-2-28-15",
+     "w": "年賀状",
+     "r": "ねんがじょう",
+     "p": "noun",
+     "zh": "贺年卡",
+     "en": "New Year's card"
+    },
+    {
+     "id": "elementary-2-28-16",
+     "w": "手作り",
+     "r": "てづくり",
+     "p": "noun",
+     "zh": "手工制作",
+     "en": "handmade"
+    },
+    {
+     "id": "elementary-2-28-17",
+     "w": "包む",
+     "r": "つつむ",
+     "p": "verb",
+     "zh": "包，包裹",
+     "en": "to wrap",
+     "g": 1
+    },
+    {
+     "id": "elementary-2-28-18",
+     "w": "開ける",
+     "r": "あける",
+     "p": "verb",
+     "zh": "打开",
+     "en": "to open",
+     "g": 2
+    },
+    {
+     "id": "elementary-2-28-19",
+     "w": "喜ぶ",
+     "r": "よろこぶ",
+     "p": "verb",
+     "zh": "高兴，喜悦",
+     "en": "to be delighted",
+     "g": 1
+    },
+    {
+     "id": "elementary-2-28-20",
+     "w": "感謝する",
+     "r": "かんしゃする",
+     "p": "verb",
+     "zh": "感谢",
+     "en": "to thank",
+     "g": 3
+    },
+    {
+     "id": "elementary-2-28-21",
+     "w": "遠慮する",
+     "r": "えんりょする",
+     "p": "verb",
+     "zh": "客气，谢绝",
+     "en": "to hold back; to decline",
+     "g": 3
+    },
+    {
+     "id": "elementary-2-28-22",
+     "w": "返す",
+     "r": "かえす",
+     "p": "verb",
+     "zh": "归还",
+     "en": "to return (something)",
+     "g": 1
+    },
+    {
+     "id": "elementary-2-28-23",
+     "w": "預かる",
+     "r": "あずかる",
+     "p": "verb",
+     "zh": "保管，收存",
+     "en": "to keep for someone",
+     "g": 1
+    },
+    {
+     "id": "elementary-2-28-24",
+     "w": "手伝い",
+     "r": "てつだい",
+     "p": "noun",
+     "zh": "帮忙",
+     "en": "help"
+    },
+    {
+     "id": "elementary-2-28-25",
+     "w": "親切",
+     "r": "しんせつ",
+     "p": "na-adj",
+     "zh": "亲切的",
+     "en": "kind"
+    },
+    {
+     "id": "elementary-2-28-26",
+     "w": "丁寧",
+     "r": "ていねい",
+     "p": "na-adj",
+     "zh": "礼貌的，仔细的",
+     "en": "polite; careful"
+    },
+    {
+     "id": "elementary-2-28-27",
+     "w": "失礼",
+     "r": "しつれい",
+     "p": "na-adj",
+     "zh": "失礼的",
+     "en": "rude"
+    },
+    {
+     "id": "elementary-2-28-28",
+     "w": "嬉しい",
+     "r": "うれしい",
+     "p": "i-adj",
+     "zh": "高兴的",
+     "en": "glad"
+    },
+    {
+     "id": "elementary-2-28-29",
+     "w": "ありがたい",
+     "r": "ありがたい",
+     "p": "i-adj",
+     "zh": "值得感谢的，难得的",
+     "en": "grateful; welcome"
+    },
+    {
+     "id": "elementary-2-28-30",
+     "w": "申し訳ない",
+     "r": "もうしわけない",
+     "p": "i-adj",
+     "zh": "实在抱歉",
+     "en": "terribly sorry"
+    },
+    {
+     "id": "elementary-2-28-31",
+     "w": "わざわざ",
+     "r": "わざわざ",
+     "p": "adv",
+     "zh": "特意",
+     "en": "expressly; going out of one's way"
+    },
+    {
+     "id": "elementary-2-28-32",
+     "w": "せっかく",
+     "r": "せっかく",
+     "p": "adv",
+     "zh": "好不容易，特意",
+     "en": "with much trouble"
+    },
+    {
+     "id": "elementary-2-28-33",
+     "w": "ちゃんと",
+     "r": "ちゃんと",
+     "p": "adv",
+     "zh": "好好地，规规矩矩",
+     "en": "properly"
+    },
+    {
+     "id": "elementary-2-28-34",
+     "w": "いつも",
+     "r": "いつも",
+     "p": "adv",
+     "zh": "总是",
+     "en": "always"
+    },
+    {
+     "id": "elementary-2-28-35",
+     "w": "本当に",
+     "r": "ほんとうに",
+     "p": "adv",
+     "zh": "真的",
+     "en": "really"
+    },
+    {
+     "id": "elementary-2-28-36",
+     "w": "おかげで",
+     "r": "おかげで",
+     "p": "expr",
+     "zh": "多亏，托…的福",
+     "en": "thanks to"
+    }
+   ]
+  },
+  {
+   "n": 29,
+   "title": "電気を消せ",
+   "title_zh": "把灯关掉",
+   "words": [
+    {
+     "id": "elementary-2-29-01",
+     "w": "命令",
+     "r": "めいれい",
+     "p": "noun",
+     "zh": "命令",
+     "en": "order; command"
+    },
+    {
+     "id": "elementary-2-29-02",
+     "w": "指示",
+     "r": "しじ",
+     "p": "noun",
+     "zh": "指示",
+     "en": "instruction"
+    },
+    {
+     "id": "elementary-2-29-03",
+     "w": "注意書き",
+     "r": "ちゅういがき",
+     "p": "noun",
+     "zh": "注意事项",
+     "en": "written warning"
+    },
+    {
+     "id": "elementary-2-29-04",
+     "w": "掲示板",
+     "r": "けいじばん",
+     "p": "noun",
+     "zh": "布告栏",
+     "en": "bulletin board"
+    },
+    {
+     "id": "elementary-2-29-05",
+     "w": "看板",
+     "r": "かんばん",
+     "p": "noun",
+     "zh": "招牌，广告牌",
+     "en": "signboard"
+    },
+    {
+     "id": "elementary-2-29-06",
+     "w": "矢印",
+     "r": "やじるし",
+     "p": "noun",
+     "zh": "箭头",
+     "en": "arrow"
+    },
+    {
+     "id": "elementary-2-29-07",
+     "w": "立入禁止",
+     "r": "たちいりきんし",
+     "p": "noun",
+     "zh": "禁止入内",
+     "en": "no entry"
+    },
+    {
+     "id": "elementary-2-29-08",
+     "w": "駐車禁止",
+     "r": "ちゅうしゃきんし",
+     "p": "noun",
+     "zh": "禁止停车",
+     "en": "no parking"
+    },
+    {
+     "id": "elementary-2-29-09",
+     "w": "禁煙",
+     "r": "きんえん",
+     "p": "noun",
+     "zh": "禁烟",
+     "en": "no smoking"
+    },
+    {
+     "id": "elementary-2-29-10",
+     "w": "火気厳禁",
+     "r": "かきげんきん",
+     "p": "noun",
+     "zh": "严禁烟火",
+     "en": "no open flames"
+    },
+    {
+     "id": "elementary-2-29-11",
+     "w": "非常",
+     "r": "ひじょう",
+     "p": "noun",
+     "zh": "紧急，非常",
+     "en": "emergency"
+    },
+    {
+     "id": "elementary-2-29-12",
+     "w": "工事",
+     "r": "こうじ",
+     "p": "noun",
+     "zh": "施工，工程",
+     "en": "construction work"
+    },
+    {
+     "id": "elementary-2-29-13",
+     "w": "故障",
+     "r": "こしょう",
+     "p": "noun",
+     "zh": "故障",
+     "en": "breakdown"
+    },
+    {
+     "id": "elementary-2-29-14",
+     "w": "点検",
+     "r": "てんけん",
+     "p": "noun",
+     "zh": "检查，检修",
+     "en": "inspection"
+    },
+    {
+     "id": "elementary-2-29-15",
+     "w": "整理する",
+     "r": "せいりする",
+     "p": "verb",
+     "zh": "整理",
+     "en": "to tidy up",
+     "g": 3
+    },
+    {
+     "id": "elementary-2-29-16",
+     "w": "片付ける",
+     "r": "かたづける",
+     "p": "verb",
+     "zh": "收拾，整理",
+     "en": "to put away",
+     "g": 2
+    },
+    {
+     "id": "elementary-2-29-17",
+     "w": "並べる",
+     "r": "ならべる",
+     "p": "verb",
+     "zh": "排列，摆放",
+     "en": "to arrange in a row",
+     "g": 2
+    },
+    {
+     "id": "elementary-2-29-18",
+     "w": "戻す",
+     "r": "もどす",
+     "p": "verb",
+     "zh": "放回，退回",
+     "en": "to put back",
+     "g": 1
+    },
+    {
+     "id": "elementary-2-29-19",
+     "w": "戻る",
+     "r": "もどる",
+     "p": "verb",
+     "zh": "返回",
+     "en": "to return",
+     "g": 1
+    },
+    {
+     "id": "elementary-2-29-20",
+     "w": "進める",
+     "r": "すすめる",
+     "p": "verb",
+     "zh": "推进，向前推",
+     "en": "to advance (something)",
+     "g": 2
+    },
+    {
+     "id": "elementary-2-29-21",
+     "w": "下ろす",
+     "r": "おろす",
+     "p": "verb",
+     "zh": "放下；取（钱）",
+     "en": "to lower; to withdraw",
+     "g": 1
+    },
+    {
+     "id": "elementary-2-29-22",
+     "w": "上げる",
+     "r": "あげる",
+     "p": "verb",
+     "zh": "抬高，提高",
+     "en": "to raise",
+     "g": 2
+    },
+    {
+     "id": "elementary-2-29-23",
+     "w": "引く",
+     "r": "ひく",
+     "p": "verb",
+     "zh": "拉；查（词典）",
+     "en": "to pull; to look up",
+     "g": 1
+    },
+    {
+     "id": "elementary-2-29-24",
+     "w": "押す",
+     "r": "おす",
+     "p": "verb",
+     "zh": "推，按",
+     "en": "to push",
+     "g": 1
+    },
+    {
+     "id": "elementary-2-29-25",
+     "w": "回す",
+     "r": "まわす",
+     "p": "verb",
+     "zh": "转动",
+     "en": "to turn",
+     "g": 1
+    },
+    {
+     "id": "elementary-2-29-26",
+     "w": "叫ぶ",
+     "r": "さけぶ",
+     "p": "verb",
+     "zh": "喊叫",
+     "en": "to shout",
+     "g": 1
+    },
+    {
+     "id": "elementary-2-29-27",
+     "w": "黙る",
+     "r": "だまる",
+     "p": "verb",
+     "zh": "沉默，不说话",
+     "en": "to keep quiet",
+     "g": 1
+    },
+    {
+     "id": "elementary-2-29-28",
+     "w": "静かに",
+     "r": "しずかに",
+     "p": "adv",
+     "zh": "安静地",
+     "en": "quietly"
+    },
+    {
+     "id": "elementary-2-29-29",
+     "w": "早く",
+     "r": "はやく",
+     "p": "adv",
+     "zh": "快点，早点",
+     "en": "quickly; early"
+    },
+    {
+     "id": "elementary-2-29-30",
+     "w": "すぐ",
+     "r": "すぐ",
+     "p": "adv",
+     "zh": "马上",
+     "en": "right away"
+    },
+    {
+     "id": "elementary-2-29-31",
+     "w": "きちんと",
+     "r": "きちんと",
+     "p": "adv",
+     "zh": "整齐地，好好地",
+     "en": "neatly; properly"
+    },
+    {
+     "id": "elementary-2-29-32",
+     "w": "厳しい",
+     "r": "きびしい",
+     "p": "i-adj",
+     "zh": "严厉的",
+     "en": "strict"
+    },
+    {
+     "id": "elementary-2-29-33",
+     "w": "乱暴",
+     "r": "らんぼう",
+     "p": "na-adj",
+     "zh": "粗暴的",
+     "en": "rough; violent"
+    },
+    {
+     "id": "elementary-2-29-34",
+     "w": "急ぎ",
+     "r": "いそぎ",
+     "p": "noun",
+     "zh": "急事，紧急",
+     "en": "urgency"
+    },
+    {
+     "id": "elementary-2-29-35",
+     "w": "うるさい",
+     "r": "うるさい",
+     "p": "i-adj",
+     "zh": "吵闹的",
+     "en": "noisy"
+    },
+    {
+     "id": "elementary-2-29-36",
+     "w": "言葉遣い",
+     "r": "ことばづかい",
+     "p": "noun",
+     "zh": "措辞，说话方式",
+     "en": "choice of words"
+    }
+   ]
+  },
+  {
+   "n": 30,
+   "title": "もう11時だから寝よう",
+   "title_zh": "已经11点了，睡吧",
+   "words": [
+    {
+     "id": "elementary-2-30-01",
+     "w": "決心する",
+     "r": "けっしんする",
+     "p": "verb",
+     "zh": "下决心",
+     "en": "to make up one's mind",
+     "g": 3
+    },
+    {
+     "id": "elementary-2-30-02",
+     "w": "努力する",
+     "r": "どりょくする",
+     "p": "verb",
+     "zh": "努力",
+     "en": "to make an effort",
+     "g": 3
+    },
+    {
+     "id": "elementary-2-30-03",
+     "w": "頑張る",
+     "r": "がんばる",
+     "p": "verb",
+     "zh": "努力，加油",
+     "en": "to do one's best",
+     "g": 1
+    },
+    {
+     "id": "elementary-2-30-04",
+     "w": "続ける",
+     "r": "つづける",
+     "p": "verb",
+     "zh": "继续",
+     "en": "to continue",
+     "g": 2
+    },
+    {
+     "id": "elementary-2-30-05",
+     "w": "諦める",
+     "r": "あきらめる",
+     "p": "verb",
+     "zh": "放弃，死心",
+     "en": "to give up",
+     "g": 2
+    },
+    {
+     "id": "elementary-2-30-06",
+     "w": "やめる",
+     "r": "やめる",
+     "p": "verb",
+     "zh": "停止，辞去",
+     "en": "to quit",
+     "g": 2
+    },
+    {
+     "id": "elementary-2-30-07",
+     "w": "始める",
+     "r": "はじめる",
+     "p": "verb",
+     "zh": "开始",
+     "en": "to start",
+     "g": 2
+    },
+    {
+     "id": "elementary-2-30-08",
+     "w": "目標",
+     "r": "もくひょう",
+     "p": "noun",
+     "zh": "目标",
+     "en": "goal"
+    },
+    {
+     "id": "elementary-2-30-09",
+     "w": "目的",
+     "r": "もくてき",
+     "p": "noun",
+     "zh": "目的",
+     "en": "purpose"
+    },
+    {
+     "id": "elementary-2-30-10",
+     "w": "計画",
+     "r": "けいかく",
+     "p": "noun",
+     "zh": "计划",
+     "en": "plan"
+    },
+    {
+     "id": "elementary-2-30-11",
+     "w": "努力",
+     "r": "どりょく",
+     "p": "noun",
+     "zh": "努力",
+     "en": "effort"
+    },
+    {
+     "id": "elementary-2-30-12",
+     "w": "習慣",
+     "r": "しゅうかん",
+     "p": "noun",
+     "zh": "习惯",
+     "en": "habit; custom"
+    },
+    {
+     "id": "elementary-2-30-13",
+     "w": "運動",
+     "r": "うんどう",
+     "p": "noun",
+     "zh": "运动",
+     "en": "exercise"
+    },
+    {
+     "id": "elementary-2-30-14",
+     "w": "健康",
+     "r": "けんこう",
+     "p": "noun",
+     "zh": "健康",
+     "en": "health"
+    },
+    {
+     "id": "elementary-2-30-15",
+     "w": "体重",
+     "r": "たいじゅう",
+     "p": "noun",
+     "zh": "体重",
+     "en": "body weight"
+    },
+    {
+     "id": "elementary-2-30-16",
+     "w": "睡眠",
+     "r": "すいみん",
+     "p": "noun",
+     "zh": "睡眠",
+     "en": "sleep"
+    },
+    {
+     "id": "elementary-2-30-17",
+     "w": "夜更かし",
+     "r": "よふかし",
+     "p": "noun",
+     "zh": "熬夜",
+     "en": "staying up late"
+    },
+    {
+     "id": "elementary-2-30-18",
+     "w": "朝寝坊",
+     "r": "あさねぼう",
+     "p": "noun",
+     "zh": "睡懒觉",
+     "en": "oversleeping"
+    },
+    {
+     "id": "elementary-2-30-19",
+     "w": "禁酒",
+     "r": "きんしゅ",
+     "p": "noun",
+     "zh": "戒酒",
+     "en": "abstaining from alcohol"
+    },
+    {
+     "id": "elementary-2-30-20",
+     "w": "貯金",
+     "r": "ちょきん",
+     "p": "noun",
+     "zh": "存钱，存款",
+     "en": "savings"
+    },
+    {
+     "id": "elementary-2-30-21",
+     "w": "節約する",
+     "r": "せつやくする",
+     "p": "verb",
+     "zh": "节约",
+     "en": "to economize",
+     "g": 3
+    },
+    {
+     "id": "elementary-2-30-22",
+     "w": "無駄",
+     "r": "むだ",
+     "p": "na-adj",
+     "zh": "浪费的，徒劳的",
+     "en": "wasteful; futile"
+    },
+    {
+     "id": "elementary-2-30-23",
+     "w": "眠る",
+     "r": "ねむる",
+     "p": "verb",
+     "zh": "睡，睡着",
+     "en": "to sleep",
+     "g": 1
+    },
+    {
+     "id": "elementary-2-30-24",
+     "w": "起こす",
+     "r": "おこす",
+     "p": "verb",
+     "zh": "叫醒；引起",
+     "en": "to wake; to cause",
+     "g": 1
+    },
+    {
+     "id": "elementary-2-30-25",
+     "w": "目が覚める",
+     "r": "めがさめる",
+     "p": "expr",
+     "zh": "醒来",
+     "en": "to wake up"
+    },
+    {
+     "id": "elementary-2-30-26",
+     "w": "疲れ",
+     "r": "つかれ",
+     "p": "noun",
+     "zh": "疲劳",
+     "en": "fatigue"
+    },
+    {
+     "id": "elementary-2-30-27",
+     "w": "だから",
+     "r": "だから",
+     "p": "conj",
+     "zh": "所以",
+     "en": "so"
+    },
+    {
+     "id": "elementary-2-30-28",
+     "w": "それでは",
+     "r": "それでは",
+     "p": "conj",
+     "zh": "那么",
+     "en": "well then"
+    },
+    {
+     "id": "elementary-2-30-29",
+     "w": "そろそろ",
+     "r": "そろそろ",
+     "p": "adv",
+     "zh": "差不多该…了",
+     "en": "soon; about time"
+    },
+    {
+     "id": "elementary-2-30-30",
+     "w": "もう",
+     "r": "もう",
+     "p": "adv",
+     "zh": "已经",
+     "en": "already"
+    },
+    {
+     "id": "elementary-2-30-31",
+     "w": "まだ",
+     "r": "まだ",
+     "p": "adv",
+     "zh": "还，仍然",
+     "en": "still; not yet"
+    },
+    {
+     "id": "elementary-2-30-32",
+     "w": "やっぱり",
+     "r": "やっぱり",
+     "p": "adv",
+     "zh": "还是，果然",
+     "en": "after all"
+    },
+    {
+     "id": "elementary-2-30-33",
+     "w": "とにかく",
+     "r": "とにかく",
+     "p": "adv",
+     "zh": "总之，反正",
+     "en": "anyway"
+    },
+    {
+     "id": "elementary-2-30-34",
+     "w": "いよいよ",
+     "r": "いよいよ",
+     "p": "adv",
+     "zh": "终于，越发",
+     "en": "finally; more and more"
+    },
+    {
+     "id": "elementary-2-30-35",
+     "w": "今度",
+     "r": "こんど",
+     "p": "noun",
+     "zh": "这次；下次",
+     "en": "this time; next time"
+    },
+    {
+     "id": "elementary-2-30-36",
+     "w": "最初",
+     "r": "さいしょ",
+     "p": "noun",
+     "zh": "最初",
+     "en": "the first"
+    }
+   ]
+  },
+  {
+   "n": 31,
+   "title": "このボタンを押すと、電源が入ります",
+   "title_zh": "一按这个按钮，电源就接通了",
+   "words": [
+    {
+     "id": "elementary-2-31-01",
+     "w": "ボタン",
+     "r": "ボタン",
+     "p": "noun",
+     "zh": "按钮，扣子",
+     "en": "button"
+    },
+    {
+     "id": "elementary-2-31-02",
+     "w": "電源",
+     "r": "でんげん",
+     "p": "noun",
+     "zh": "电源",
+     "en": "power source"
+    },
+    {
+     "id": "elementary-2-31-03",
+     "w": "スイッチ",
+     "r": "スイッチ",
+     "p": "noun",
+     "zh": "开关",
+     "en": "switch"
+    },
+    {
+     "id": "elementary-2-31-04",
+     "w": "画面",
+     "r": "がめん",
+     "p": "noun",
+     "zh": "画面，屏幕",
+     "en": "screen"
+    },
+    {
+     "id": "elementary-2-31-05",
+     "w": "操作",
+     "r": "そうさ",
+     "p": "noun",
+     "zh": "操作",
+     "en": "operation"
+    },
+    {
+     "id": "elementary-2-31-06",
+     "w": "説明書",
+     "r": "せつめいしょ",
+     "p": "noun",
+     "zh": "说明书",
+     "en": "instruction manual"
+    },
+    {
+     "id": "elementary-2-31-07",
+     "w": "機能",
+     "r": "きのう",
+     "p": "noun",
+     "zh": "功能",
+     "en": "function"
+    },
+    {
+     "id": "elementary-2-31-08",
+     "w": "自動",
+     "r": "じどう",
+     "p": "noun",
+     "zh": "自动",
+     "en": "automatic"
+    },
+    {
+     "id": "elementary-2-31-09",
+     "w": "券売機",
+     "r": "けんばいき",
+     "p": "noun",
+     "zh": "售票机",
+     "en": "ticket machine"
+    },
+    {
+     "id": "elementary-2-31-10",
+     "w": "自動販売機",
+     "r": "じどうはんばいき",
+     "p": "noun",
+     "zh": "自动售货机",
+     "en": "vending machine"
+    },
+    {
+     "id": "elementary-2-31-11",
+     "w": "改札口",
+     "r": "かいさつぐち",
+     "p": "noun",
+     "zh": "检票口",
+     "en": "ticket gate"
+    },
+    {
+     "id": "elementary-2-31-12",
+     "w": "ホーム",
+     "r": "ホーム",
+     "p": "noun",
+     "zh": "站台",
+     "en": "platform"
+    },
+    {
+     "id": "elementary-2-31-13",
+     "w": "料金",
+     "r": "りょうきん",
+     "p": "noun",
+     "zh": "费用",
+     "en": "fee; fare"
+    },
+    {
+     "id": "elementary-2-31-14",
+     "w": "釣り銭",
+     "r": "つりせん",
+     "p": "noun",
+     "zh": "找零",
+     "en": "change"
+    },
+    {
+     "id": "elementary-2-31-15",
+     "w": "硬貨",
+     "r": "こうか",
+     "p": "noun",
+     "zh": "硬币",
+     "en": "coin"
+    },
+    {
+     "id": "elementary-2-31-16",
+     "w": "紙幣",
+     "r": "しへい",
+     "p": "noun",
+     "zh": "纸币",
+     "en": "bill; banknote"
+    },
+    {
+     "id": "elementary-2-31-17",
+     "w": "入れる",
+     "r": "いれる",
+     "p": "verb",
+     "zh": "放入，装入",
+     "en": "to put in",
+     "g": 2
+    },
+    {
+     "id": "elementary-2-31-18",
+     "w": "出す",
+     "r": "だす",
+     "p": "verb",
+     "zh": "拿出，取出；提交",
+     "en": "to take out; to submit",
+     "g": 1
+    },
+    {
+     "id": "elementary-2-31-19",
+     "w": "選ぶ",
+     "r": "えらぶ",
+     "p": "verb",
+     "zh": "选择",
+     "en": "to choose",
+     "g": 1
+    },
+    {
+     "id": "elementary-2-31-20",
+     "w": "触る",
+     "r": "さわる",
+     "p": "verb",
+     "zh": "触摸",
+     "en": "to touch",
+     "g": 1
+    },
+    {
+     "id": "elementary-2-31-21",
+     "w": "動く",
+     "r": "うごく",
+     "p": "verb",
+     "zh": "动，运转",
+     "en": "to move; to work",
+     "g": 1
+    },
+    {
+     "id": "elementary-2-31-22",
+     "w": "動かす",
+     "r": "うごかす",
+     "p": "verb",
+     "zh": "使…动，开动",
+     "en": "to move (something)",
+     "g": 1
+    },
+    {
+     "id": "elementary-2-31-23",
+     "w": "点く",
+     "r": "つく",
+     "p": "verb",
+     "zh": "（灯）亮，点着",
+     "en": "to come on (light)",
+     "g": 1
+    },
+    {
+     "id": "elementary-2-31-24",
+     "w": "消える",
+     "r": "きえる",
+     "p": "verb",
+     "zh": "消失，熄灭",
+     "en": "to go out; to disappear",
+     "g": 2
+    },
+    {
+     "id": "elementary-2-31-25",
+     "w": "鳴る",
+     "r": "なる",
+     "p": "verb",
+     "zh": "响",
+     "en": "to ring; to sound",
+     "g": 1
+    },
+    {
+     "id": "elementary-2-31-26",
+     "w": "開く",
+     "r": "ひらく",
+     "p": "verb",
+     "zh": "打开，开启",
+     "en": "to open",
+     "g": 1
+    },
+    {
+     "id": "elementary-2-31-27",
+     "w": "閉じる",
+     "r": "とじる",
+     "p": "verb",
+     "zh": "关闭",
+     "en": "to close",
+     "g": 2
+    },
+    {
+     "id": "elementary-2-31-28",
+     "w": "接続する",
+     "r": "せつぞくする",
+     "p": "verb",
+     "zh": "连接",
+     "en": "to connect",
+     "g": 3
+    },
+    {
+     "id": "elementary-2-31-29",
+     "w": "充電する",
+     "r": "じゅうでんする",
+     "p": "verb",
+     "zh": "充电",
+     "en": "to charge",
+     "g": 3
+    },
+    {
+     "id": "elementary-2-31-30",
+     "w": "設定する",
+     "r": "せっていする",
+     "p": "verb",
+     "zh": "设定，设置",
+     "en": "to set up",
+     "g": 3
+    },
+    {
+     "id": "elementary-2-31-31",
+     "w": "表示する",
+     "r": "ひょうじする",
+     "p": "verb",
+     "zh": "显示",
+     "en": "to display",
+     "g": 3
+    },
+    {
+     "id": "elementary-2-31-32",
+     "w": "右へ",
+     "r": "みぎへ",
+     "p": "expr",
+     "zh": "往右",
+     "en": "to the right"
+    },
+    {
+     "id": "elementary-2-31-33",
+     "w": "真っすぐ",
+     "r": "まっすぐ",
+     "p": "adv",
+     "zh": "笔直地",
+     "en": "straight"
+    },
+    {
+     "id": "elementary-2-31-34",
+     "w": "うまく",
+     "r": "うまく",
+     "p": "adv",
+     "zh": "顺利地，巧妙地",
+     "en": "well; skillfully"
+    },
+    {
+     "id": "elementary-2-31-35",
+     "w": "簡単",
+     "r": "かんたん",
+     "p": "na-adj",
+     "zh": "简单的",
+     "en": "simple"
+    },
+    {
+     "id": "elementary-2-31-36",
+     "w": "便利",
+     "r": "べんり",
+     "p": "na-adj",
+     "zh": "方便的",
+     "en": "convenient"
+    }
+   ]
+  },
+  {
+   "n": 32,
+   "title": "今度の日曜日に遊園地へ行くつもりです",
+   "title_zh": "这个星期天打算去游乐园",
+   "words": [
+    {
+     "id": "elementary-2-32-01",
+     "w": "遊園地",
+     "r": "ゆうえんち",
+     "p": "noun",
+     "zh": "游乐园",
+     "en": "amusement park"
+    },
+    {
+     "id": "elementary-2-32-02",
+     "w": "観光",
+     "r": "かんこう",
+     "p": "noun",
+     "zh": "观光，旅游",
+     "en": "sightseeing"
+    },
+    {
+     "id": "elementary-2-32-03",
+     "w": "観光地",
+     "r": "かんこうち",
+     "p": "noun",
+     "zh": "旅游胜地",
+     "en": "tourist spot"
+    },
+    {
+     "id": "elementary-2-32-04",
+     "w": "名所",
+     "r": "めいしょ",
+     "p": "noun",
+     "zh": "名胜",
+     "en": "famous place"
+    },
+    {
+     "id": "elementary-2-32-05",
+     "w": "案内所",
+     "r": "あんないじょ",
+     "p": "noun",
+     "zh": "问讯处",
+     "en": "information desk"
+    },
+    {
+     "id": "elementary-2-32-06",
+     "w": "パンフレット",
+     "r": "パンフレット",
+     "p": "noun",
+     "zh": "宣传册",
+     "en": "pamphlet"
+    },
+    {
+     "id": "elementary-2-32-07",
+     "w": "入場券",
+     "r": "にゅうじょうけん",
+     "p": "noun",
+     "zh": "入场券",
+     "en": "admission ticket"
+    },
+    {
+     "id": "elementary-2-32-08",
+     "w": "割引",
+     "r": "わりびき",
+     "p": "noun",
+     "zh": "打折",
+     "en": "discount"
+    },
+    {
+     "id": "elementary-2-32-09",
+     "w": "予約",
+     "r": "よやく",
+     "p": "noun",
+     "zh": "预约，预订",
+     "en": "reservation"
+    },
+    {
+     "id": "elementary-2-32-10",
+     "w": "宿泊",
+     "r": "しゅくはく",
+     "p": "noun",
+     "zh": "住宿",
+     "en": "lodging"
+    },
+    {
+     "id": "elementary-2-32-11",
+     "w": "旅館",
+     "r": "りょかん",
+     "p": "noun",
+     "zh": "日式旅馆",
+     "en": "Japanese inn"
+    },
+    {
+     "id": "elementary-2-32-12",
+     "w": "民宿",
+     "r": "みんしゅく",
+     "p": "noun",
+     "zh": "家庭旅馆",
+     "en": "guest house"
+    },
+    {
+     "id": "elementary-2-32-13",
+     "w": "日帰り",
+     "r": "ひがえり",
+     "p": "noun",
+     "zh": "当天来回",
+     "en": "day trip"
+    },
+    {
+     "id": "elementary-2-32-14",
+     "w": "泊まる",
+     "r": "とまる",
+     "p": "verb",
+     "zh": "住宿，投宿",
+     "en": "to stay overnight",
+     "g": 1
+    },
+    {
+     "id": "elementary-2-32-15",
+     "w": "訪れる",
+     "r": "おとずれる",
+     "p": "verb",
+     "zh": "访问，来临",
+     "en": "to visit",
+     "g": 2
+    },
+    {
+     "id": "elementary-2-32-16",
+     "w": "見学する",
+     "r": "けんがくする",
+     "p": "verb",
+     "zh": "参观学习",
+     "en": "to tour; to observe",
+     "g": 3
+    },
+    {
+     "id": "elementary-2-32-17",
+     "w": "体験する",
+     "r": "たいけんする",
+     "p": "verb",
+     "zh": "体验",
+     "en": "to experience",
+     "g": 3
+    },
+    {
+     "id": "elementary-2-32-18",
+     "w": "予定する",
+     "r": "よていする",
+     "p": "verb",
+     "zh": "预定，计划",
+     "en": "to plan",
+     "g": 3
+    },
+    {
+     "id": "elementary-2-32-19",
+     "w": "出かける",
+     "r": "でかける",
+     "p": "verb",
+     "zh": "出门，外出",
+     "en": "to go out",
+     "g": 2
+    },
+    {
+     "id": "elementary-2-32-20",
+     "w": "連れる",
+     "r": "つれる",
+     "p": "verb",
+     "zh": "带（人）",
+     "en": "to take (a person) along",
+     "g": 2
+    },
+    {
+     "id": "elementary-2-32-21",
+     "w": "待ち合わせる",
+     "r": "まちあわせる",
+     "p": "verb",
+     "zh": "约见，碰头",
+     "en": "to meet by arrangement",
+     "g": 2
+    },
+    {
+     "id": "elementary-2-32-22",
+     "w": "間に合う",
+     "r": "まにあう",
+     "p": "verb",
+     "zh": "来得及",
+     "en": "to be in time",
+     "g": 1
+    },
+    {
+     "id": "elementary-2-32-23",
+     "w": "乗り換える",
+     "r": "のりかえる",
+     "p": "verb",
+     "zh": "换乘",
+     "en": "to transfer",
+     "g": 2
+    },
+    {
+     "id": "elementary-2-32-24",
+     "w": "乗り遅れる",
+     "r": "のりおくれる",
+     "p": "verb",
+     "zh": "没赶上（车）",
+     "en": "to miss (a train)",
+     "g": 2
+    },
+    {
+     "id": "elementary-2-32-25",
+     "w": "荷物",
+     "r": "にもつ",
+     "p": "noun",
+     "zh": "行李",
+     "en": "luggage"
+    },
+    {
+     "id": "elementary-2-32-26",
+     "w": "地図",
+     "r": "ちず",
+     "p": "noun",
+     "zh": "地图",
+     "en": "map"
+    },
+    {
+     "id": "elementary-2-32-27",
+     "w": "天気予報",
+     "r": "てんきよほう",
+     "p": "noun",
+     "zh": "天气预报",
+     "en": "weather forecast"
+    },
+    {
+     "id": "elementary-2-32-28",
+     "w": "準備",
+     "r": "じゅんび",
+     "p": "noun",
+     "zh": "准备",
+     "en": "preparation"
+    },
+    {
+     "id": "elementary-2-32-29",
+     "w": "用意",
+     "r": "ようい",
+     "p": "noun",
+     "zh": "准备",
+     "en": "preparation"
+    },
+    {
+     "id": "elementary-2-32-30",
+     "w": "つもり",
+     "r": "つもり",
+     "p": "noun",
+     "zh": "打算",
+     "en": "intention"
+    },
+    {
+     "id": "elementary-2-32-31",
+     "w": "予定",
+     "r": "よてい",
+     "p": "noun",
+     "zh": "预定",
+     "en": "plan"
+    },
+    {
+     "id": "elementary-2-32-32",
+     "w": "はず",
+     "r": "はず",
+     "p": "noun",
+     "zh": "应该，理应",
+     "en": "should"
+    },
+    {
+     "id": "elementary-2-32-33",
+     "w": "ずっと",
+     "r": "ずっと",
+     "p": "adv",
+     "zh": "一直",
+     "en": "all along"
+    },
+    {
+     "id": "elementary-2-32-34",
+     "w": "ぜひ",
+     "r": "ぜひ",
+     "p": "adv",
+     "zh": "务必",
+     "en": "by all means"
+    },
+    {
+     "id": "elementary-2-32-35",
+     "w": "いつか",
+     "r": "いつか",
+     "p": "adv",
+     "zh": "总有一天",
+     "en": "someday"
+    },
+    {
+     "id": "elementary-2-32-36",
+     "w": "どうしても",
+     "r": "どうしても",
+     "p": "adv",
+     "zh": "无论如何",
+     "en": "no matter what"
+    }
+   ]
+  },
+  {
+   "n": 33,
+   "title": "電車が急に止まりました",
+   "title_zh": "电车突然停了",
+   "words": [
+    {
+     "id": "elementary-2-33-01",
+     "w": "止まる",
+     "r": "とまる",
+     "p": "verb",
+     "zh": "停（自动词）",
+     "en": "to stop (intr.)",
+     "g": 1
+    },
+    {
+     "id": "elementary-2-33-02",
+     "w": "止める",
+     "r": "とめる",
+     "p": "verb",
+     "zh": "使停止（他动词）",
+     "en": "to stop (tr.)",
+     "g": 2
+    },
+    {
+     "id": "elementary-2-33-03",
+     "w": "開く",
+     "r": "あく",
+     "p": "verb",
+     "zh": "开（自动词）",
+     "en": "to open (intr.)",
+     "g": 1
+    },
+    {
+     "id": "elementary-2-33-04",
+     "w": "閉まる",
+     "r": "しまる",
+     "p": "verb",
+     "zh": "关上（自动词）",
+     "en": "to close (intr.)",
+     "g": 1
+    },
+    {
+     "id": "elementary-2-33-05",
+     "w": "始まる",
+     "r": "はじまる",
+     "p": "verb",
+     "zh": "开始（自动词）",
+     "en": "to begin (intr.)",
+     "g": 1
+    },
+    {
+     "id": "elementary-2-33-06",
+     "w": "集まる",
+     "r": "あつまる",
+     "p": "verb",
+     "zh": "聚集（自动词）",
+     "en": "to gather (intr.)",
+     "g": 1
+    },
+    {
+     "id": "elementary-2-33-07",
+     "w": "入る",
+     "r": "はいる",
+     "p": "verb",
+     "zh": "进入（自动词）",
+     "en": "to enter (intr.)",
+     "g": 1
+    },
+    {
+     "id": "elementary-2-33-08",
+     "w": "出る",
+     "r": "でる",
+     "p": "verb",
+     "zh": "出去（自动词）",
+     "en": "to exit (intr.)",
+     "g": 2
+    },
+    {
+     "id": "elementary-2-33-09",
+     "w": "落ちる",
+     "r": "おちる",
+     "p": "verb",
+     "zh": "掉落（自动词）",
+     "en": "to fall (intr.)",
+     "g": 2
+    },
+    {
+     "id": "elementary-2-33-10",
+     "w": "割れる",
+     "r": "われる",
+     "p": "verb",
+     "zh": "碎，裂（自动词）",
+     "en": "to break (intr.)",
+     "g": 2
+    },
+    {
+     "id": "elementary-2-33-11",
+     "w": "割る",
+     "r": "わる",
+     "p": "verb",
+     "zh": "打碎（他动词）",
+     "en": "to break (tr.)",
+     "g": 1
+    },
+    {
+     "id": "elementary-2-33-12",
+     "w": "壊れる",
+     "r": "こわれる",
+     "p": "verb",
+     "zh": "坏，损坏（自动词）",
+     "en": "to be broken",
+     "g": 2
+    },
+    {
+     "id": "elementary-2-33-13",
+     "w": "壊す",
+     "r": "こわす",
+     "p": "verb",
+     "zh": "弄坏（他动词）",
+     "en": "to break (tr.)",
+     "g": 1
+    },
+    {
+     "id": "elementary-2-33-14",
+     "w": "汚れる",
+     "r": "よごれる",
+     "p": "verb",
+     "zh": "脏（自动词）",
+     "en": "to get dirty",
+     "g": 2
+    },
+    {
+     "id": "elementary-2-33-15",
+     "w": "汚す",
+     "r": "よごす",
+     "p": "verb",
+     "zh": "弄脏（他动词）",
+     "en": "to soil",
+     "g": 1
+    },
+    {
+     "id": "elementary-2-33-16",
+     "w": "直す",
+     "r": "なおす",
+     "p": "verb",
+     "zh": "修理，改正（他动词）",
+     "en": "to fix (tr.)",
+     "g": 1
+    },
+    {
+     "id": "elementary-2-33-17",
+     "w": "治る",
+     "r": "なおる",
+     "p": "verb",
+     "zh": "痊愈（自动词）",
+     "en": "to heal (intr.)",
+     "g": 1
+    },
+    {
+     "id": "elementary-2-33-18",
+     "w": "変える",
+     "r": "かえる",
+     "p": "verb",
+     "zh": "改变（他动词）",
+     "en": "to change (tr.)",
+     "g": 2
+    },
+    {
+     "id": "elementary-2-33-19",
+     "w": "遅れる",
+     "r": "おくれる",
+     "p": "verb",
+     "zh": "迟到，延误",
+     "en": "to be delayed",
+     "g": 2
+    },
+    {
+     "id": "elementary-2-33-20",
+     "w": "揺れる",
+     "r": "ゆれる",
+     "p": "verb",
+     "zh": "摇晃",
+     "en": "to shake",
+     "g": 2
+    },
+    {
+     "id": "elementary-2-33-21",
+     "w": "滑る",
+     "r": "すべる",
+     "p": "verb",
+     "zh": "滑，打滑",
+     "en": "to slip",
+     "g": 1
+    },
+    {
+     "id": "elementary-2-33-22",
+     "w": "急ブレーキ",
+     "r": "きゅうブレーキ",
+     "p": "noun",
+     "zh": "急刹车",
+     "en": "sudden braking"
+    },
+    {
+     "id": "elementary-2-33-23",
+     "w": "満員",
+     "r": "まんいん",
+     "p": "noun",
+     "zh": "满员，客满",
+     "en": "full (of people)"
+    },
+    {
+     "id": "elementary-2-33-24",
+     "w": "混雑",
+     "r": "こんざつ",
+     "p": "noun",
+     "zh": "拥挤",
+     "en": "congestion"
+    },
+    {
+     "id": "elementary-2-33-25",
+     "w": "運転手",
+     "r": "うんてんしゅ",
+     "p": "noun",
+     "zh": "司机",
+     "en": "driver"
+    },
+    {
+     "id": "elementary-2-33-26",
+     "w": "車内",
+     "r": "しゃない",
+     "p": "noun",
+     "zh": "车内",
+     "en": "inside the vehicle"
+    },
+    {
+     "id": "elementary-2-33-27",
+     "w": "座席",
+     "r": "ざせき",
+     "p": "noun",
+     "zh": "座位",
+     "en": "seat"
+    },
+    {
+     "id": "elementary-2-33-28",
+     "w": "扉",
+     "r": "とびら",
+     "p": "noun",
+     "zh": "门，门扇",
+     "en": "door"
+    },
+    {
+     "id": "elementary-2-33-29",
+     "w": "放送",
+     "r": "ほうそう",
+     "p": "noun",
+     "zh": "广播",
+     "en": "announcement; broadcast"
+    },
+    {
+     "id": "elementary-2-33-30",
+     "w": "遅刻",
+     "r": "ちこく",
+     "p": "noun",
+     "zh": "迟到",
+     "en": "lateness"
+    },
+    {
+     "id": "elementary-2-33-31",
+     "w": "原因",
+     "r": "げんいん",
+     "p": "noun",
+     "zh": "原因",
+     "en": "cause"
+    },
+    {
+     "id": "elementary-2-33-32",
+     "w": "影響",
+     "r": "えいきょう",
+     "p": "noun",
+     "zh": "影响",
+     "en": "influence"
+    },
+    {
+     "id": "elementary-2-33-33",
+     "w": "様子",
+     "r": "ようす",
+     "p": "noun",
+     "zh": "情形，样子",
+     "en": "state; appearance"
+    },
+    {
+     "id": "elementary-2-33-34",
+     "w": "突然",
+     "r": "とつぜん",
+     "p": "adv",
+     "zh": "突然",
+     "en": "suddenly"
+    },
+    {
+     "id": "elementary-2-33-35",
+     "w": "だんだん",
+     "r": "だんだん",
+     "p": "adv",
+     "zh": "渐渐",
+     "en": "gradually"
+    },
+    {
+     "id": "elementary-2-33-36",
+     "w": "しばらく",
+     "r": "しばらく",
+     "p": "adv",
+     "zh": "一会儿，暂时",
+     "en": "for a while"
+    }
+   ]
+  },
+  {
+   "n": 34,
+   "title": "壁にカレンダーが掛けてあります",
+   "title_zh": "墙上挂着挂历",
+   "words": [
+    {
+     "id": "elementary-2-34-01",
+     "w": "壁",
+     "r": "かべ",
+     "p": "noun",
+     "zh": "墙壁",
+     "en": "wall"
+    },
+    {
+     "id": "elementary-2-34-02",
+     "w": "カレンダー",
+     "r": "カレンダー",
+     "p": "noun",
+     "zh": "挂历，日历",
+     "en": "calendar"
+    },
+    {
+     "id": "elementary-2-34-03",
+     "w": "棚",
+     "r": "たな",
+     "p": "noun",
+     "zh": "架子",
+     "en": "shelf"
+    },
+    {
+     "id": "elementary-2-34-04",
+     "w": "本棚",
+     "r": "ほんだな",
+     "p": "noun",
+     "zh": "书架",
+     "en": "bookshelf"
+    },
+    {
+     "id": "elementary-2-34-05",
+     "w": "引き出し",
+     "r": "ひきだし",
+     "p": "noun",
+     "zh": "抽屉",
+     "en": "drawer"
+    },
+    {
+     "id": "elementary-2-34-06",
+     "w": "押し入れ",
+     "r": "おしいれ",
+     "p": "noun",
+     "zh": "壁橱",
+     "en": "closet"
+    },
+    {
+     "id": "elementary-2-34-07",
+     "w": "床",
+     "r": "ゆか",
+     "p": "noun",
+     "zh": "地板",
+     "en": "floor"
+    },
+    {
+     "id": "elementary-2-34-08",
+     "w": "天井",
+     "r": "てんじょう",
+     "p": "noun",
+     "zh": "天花板",
+     "en": "ceiling"
+    },
+    {
+     "id": "elementary-2-34-09",
+     "w": "畳",
+     "r": "たたみ",
+     "p": "noun",
+     "zh": "榻榻米",
+     "en": "tatami mat"
+    },
+    {
+     "id": "elementary-2-34-10",
+     "w": "布団",
+     "r": "ふとん",
+     "p": "noun",
+     "zh": "被褥",
+     "en": "futon"
+    },
+    {
+     "id": "elementary-2-34-11",
+     "w": "カーテン",
+     "r": "カーテン",
+     "p": "noun",
+     "zh": "窗帘",
+     "en": "curtain"
+    },
+    {
+     "id": "elementary-2-34-12",
+     "w": "ソファー",
+     "r": "ソファー",
+     "p": "noun",
+     "zh": "沙发",
+     "en": "sofa"
+    },
+    {
+     "id": "elementary-2-34-13",
+     "w": "冷蔵庫",
+     "r": "れいぞうこ",
+     "p": "noun",
+     "zh": "冰箱",
+     "en": "refrigerator"
+    },
+    {
+     "id": "elementary-2-34-14",
+     "w": "洗濯機",
+     "r": "せんたくき",
+     "p": "noun",
+     "zh": "洗衣机",
+     "en": "washing machine"
+    },
+    {
+     "id": "elementary-2-34-15",
+     "w": "電子レンジ",
+     "r": "でんしレンジ",
+     "p": "noun",
+     "zh": "微波炉",
+     "en": "microwave oven"
+    },
+    {
+     "id": "elementary-2-34-16",
+     "w": "掃除機",
+     "r": "そうじき",
+     "p": "noun",
+     "zh": "吸尘器",
+     "en": "vacuum cleaner"
+    },
+    {
+     "id": "elementary-2-34-17",
+     "w": "台所",
+     "r": "だいどころ",
+     "p": "noun",
+     "zh": "厨房",
+     "en": "kitchen"
+    },
+    {
+     "id": "elementary-2-34-18",
+     "w": "風呂",
+     "r": "ふろ",
+     "p": "noun",
+     "zh": "浴室，洗澡",
+     "en": "bath"
+    },
+    {
+     "id": "elementary-2-34-19",
+     "w": "玄関",
+     "r": "げんかん",
+     "p": "noun",
+     "zh": "门口，玄关",
+     "en": "entryway"
+    },
+    {
+     "id": "elementary-2-34-20",
+     "w": "廊下",
+     "r": "ろうか",
+     "p": "noun",
+     "zh": "走廊",
+     "en": "hallway"
+    },
+    {
+     "id": "elementary-2-34-21",
+     "w": "階段",
+     "r": "かいだん",
+     "p": "noun",
+     "zh": "楼梯",
+     "en": "stairs"
+    },
+    {
+     "id": "elementary-2-34-22",
+     "w": "屋上",
+     "r": "おくじょう",
+     "p": "noun",
+     "zh": "屋顶",
+     "en": "rooftop"
+    },
+    {
+     "id": "elementary-2-34-23",
+     "w": "飾る",
+     "r": "かざる",
+     "p": "verb",
+     "zh": "装饰，摆设",
+     "en": "to decorate",
+     "g": 1
+    },
+    {
+     "id": "elementary-2-34-24",
+     "w": "置く",
+     "r": "おく",
+     "p": "verb",
+     "zh": "放置；预先做好",
+     "en": "to put; to do in advance",
+     "g": 1
+    },
+    {
+     "id": "elementary-2-34-25",
+     "w": "貼る",
+     "r": "はる",
+     "p": "verb",
+     "zh": "贴",
+     "en": "to stick; to paste",
+     "g": 1
+    },
+    {
+     "id": "elementary-2-34-26",
+     "w": "敷く",
+     "r": "しく",
+     "p": "verb",
+     "zh": "铺",
+     "en": "to spread out",
+     "g": 1
+    },
+    {
+     "id": "elementary-2-34-27",
+     "w": "しまう",
+     "r": "しまう",
+     "p": "verb",
+     "zh": "收起来；（做）完了",
+     "en": "to put away; to finish",
+     "g": 1
+    },
+    {
+     "id": "elementary-2-34-28",
+     "w": "用意する",
+     "r": "よういする",
+     "p": "verb",
+     "zh": "准备",
+     "en": "to prepare",
+     "g": 3
+    },
+    {
+     "id": "elementary-2-34-29",
+     "w": "準備する",
+     "r": "じゅんびする",
+     "p": "verb",
+     "zh": "准备",
+     "en": "to get ready",
+     "g": 3
+    },
+    {
+     "id": "elementary-2-34-30",
+     "w": "整える",
+     "r": "ととのえる",
+     "p": "verb",
+     "zh": "整理，备齐",
+     "en": "to arrange; to put in order",
+     "g": 2
+    },
+    {
+     "id": "elementary-2-34-31",
+     "w": "広さ",
+     "r": "ひろさ",
+     "p": "noun",
+     "zh": "面积，宽敞程度",
+     "en": "area; spaciousness"
+    },
+    {
+     "id": "elementary-2-34-32",
+     "w": "家賃",
+     "r": "やちん",
+     "p": "noun",
+     "zh": "房租",
+     "en": "rent"
+    },
+    {
+     "id": "elementary-2-34-33",
+     "w": "引っ越し",
+     "r": "ひっこし",
+     "p": "noun",
+     "zh": "搬家",
+     "en": "moving house"
+    },
+    {
+     "id": "elementary-2-34-34",
+     "w": "きれいに",
+     "r": "きれいに",
+     "p": "adv",
+     "zh": "干净地，漂亮地",
+     "en": "neatly; beautifully"
+    },
+    {
+     "id": "elementary-2-34-35",
+     "w": "あらかじめ",
+     "r": "あらかじめ",
+     "p": "adv",
+     "zh": "预先",
+     "en": "in advance"
+    },
+    {
+     "id": "elementary-2-34-36",
+     "w": "そのまま",
+     "r": "そのまま",
+     "p": "adv",
+     "zh": "就那样",
+     "en": "as it is"
+    }
+   ]
+  },
+  {
+   "n": 35,
+   "title": "明日雨が降ったら、マラソン大会は中止です",
+   "title_zh": "明天要是下雨，马拉松大赛就取消",
+   "words": [
+    {
+     "id": "elementary-2-35-01",
+     "w": "マラソン",
+     "r": "マラソン",
+     "p": "noun",
+     "zh": "马拉松",
+     "en": "marathon"
+    },
+    {
+     "id": "elementary-2-35-02",
+     "w": "大会",
+     "r": "たいかい",
+     "p": "noun",
+     "zh": "大会，比赛",
+     "en": "tournament; convention"
+    },
+    {
+     "id": "elementary-2-35-03",
+     "w": "中止",
+     "r": "ちゅうし",
+     "p": "noun",
+     "zh": "中止，取消",
+     "en": "cancellation"
+    },
+    {
+     "id": "elementary-2-35-04",
+     "w": "延期",
+     "r": "えんき",
+     "p": "noun",
+     "zh": "延期",
+     "en": "postponement"
+    },
+    {
+     "id": "elementary-2-35-05",
+     "w": "試合",
+     "r": "しあい",
+     "p": "noun",
+     "zh": "比赛",
+     "en": "match; game"
+    },
+    {
+     "id": "elementary-2-35-06",
+     "w": "選手",
+     "r": "せんしゅ",
+     "p": "noun",
+     "zh": "选手",
+     "en": "athlete; player"
+    },
+    {
+     "id": "elementary-2-35-07",
+     "w": "監督",
+     "r": "かんとく",
+     "p": "noun",
+     "zh": "教练，导演",
+     "en": "coach; director"
+    },
+    {
+     "id": "elementary-2-35-08",
+     "w": "チーム",
+     "r": "チーム",
+     "p": "noun",
+     "zh": "队，团队",
+     "en": "team"
+    },
+    {
+     "id": "elementary-2-35-09",
+     "w": "応援",
+     "r": "おうえん",
+     "p": "noun",
+     "zh": "声援，支援",
+     "en": "cheering; support"
+    },
+    {
+     "id": "elementary-2-35-10",
+     "w": "練習",
+     "r": "れんしゅう",
+     "p": "noun",
+     "zh": "练习",
+     "en": "practice"
+    },
+    {
+     "id": "elementary-2-35-11",
+     "w": "記録",
+     "r": "きろく",
+     "p": "noun",
+     "zh": "记录",
+     "en": "record"
+    },
+    {
+     "id": "elementary-2-35-12",
+     "w": "優勝",
+     "r": "ゆうしょう",
+     "p": "noun",
+     "zh": "冠军，优胜",
+     "en": "championship"
+    },
+    {
+     "id": "elementary-2-35-13",
+     "w": "勝つ",
+     "r": "かつ",
+     "p": "verb",
+     "zh": "赢，胜",
+     "en": "to win",
+     "g": 1
+    },
+    {
+     "id": "elementary-2-35-14",
+     "w": "負ける",
+     "r": "まける",
+     "p": "verb",
+     "zh": "输，败",
+     "en": "to lose",
+     "g": 2
+    },
+    {
+     "id": "elementary-2-35-15",
+     "w": "引き分け",
+     "r": "ひきわけ",
+     "p": "noun",
+     "zh": "平局",
+     "en": "draw; tie"
+    },
+    {
+     "id": "elementary-2-35-16",
+     "w": "参加する",
+     "r": "さんかする",
+     "p": "verb",
+     "zh": "参加",
+     "en": "to participate",
+     "g": 3
+    },
+    {
+     "id": "elementary-2-35-17",
+     "w": "出場する",
+     "r": "しゅつじょうする",
+     "p": "verb",
+     "zh": "出场，参赛",
+     "en": "to take part in",
+     "g": 3
+    },
+    {
+     "id": "elementary-2-35-18",
+     "w": "応援する",
+     "r": "おうえんする",
+     "p": "verb",
+     "zh": "声援，加油",
+     "en": "to cheer for",
+     "g": 3
+    },
+    {
+     "id": "elementary-2-35-19",
+     "w": "中止する",
+     "r": "ちゅうしする",
+     "p": "verb",
+     "zh": "取消",
+     "en": "to call off",
+     "g": 3
+    },
+    {
+     "id": "elementary-2-35-20",
+     "w": "延期する",
+     "r": "えんきする",
+     "p": "verb",
+     "zh": "延期",
+     "en": "to postpone",
+     "g": 3
+    },
+    {
+     "id": "elementary-2-35-21",
+     "w": "降り出す",
+     "r": "ふりだす",
+     "p": "verb",
+     "zh": "下起（雨）来",
+     "en": "to start raining",
+     "g": 1
+    },
+    {
+     "id": "elementary-2-35-22",
+     "w": "止む",
+     "r": "やむ",
+     "p": "verb",
+     "zh": "（雨）停",
+     "en": "to stop (rain)",
+     "g": 1
+    },
+    {
+     "id": "elementary-2-35-23",
+     "w": "濡れる",
+     "r": "ぬれる",
+     "p": "verb",
+     "zh": "淋湿",
+     "en": "to get wet",
+     "g": 2
+    },
+    {
+     "id": "elementary-2-35-24",
+     "w": "乾く",
+     "r": "かわく",
+     "p": "verb",
+     "zh": "干，干燥",
+     "en": "to dry",
+     "g": 1
+    },
+    {
+     "id": "elementary-2-35-25",
+     "w": "予報",
+     "r": "よほう",
+     "p": "noun",
+     "zh": "预报",
+     "en": "forecast"
+    },
+    {
+     "id": "elementary-2-35-26",
+     "w": "気温",
+     "r": "きおん",
+     "p": "noun",
+     "zh": "气温",
+     "en": "temperature"
+    },
+    {
+     "id": "elementary-2-35-27",
+     "w": "湿気",
+     "r": "しっけ",
+     "p": "noun",
+     "zh": "湿气，潮气",
+     "en": "humidity"
+    },
+    {
+     "id": "elementary-2-35-28",
+     "w": "梅雨",
+     "r": "つゆ",
+     "p": "noun",
+     "zh": "梅雨",
+     "en": "rainy season"
+    },
+    {
+     "id": "elementary-2-35-29",
+     "w": "猛暑",
+     "r": "もうしょ",
+     "p": "noun",
+     "zh": "酷暑",
+     "en": "intense heat"
+    },
+    {
+     "id": "elementary-2-35-30",
+     "w": "雷",
+     "r": "かみなり",
+     "p": "noun",
+     "zh": "雷",
+     "en": "thunder"
+    },
+    {
+     "id": "elementary-2-35-31",
+     "w": "霧",
+     "r": "きり",
+     "p": "noun",
+     "zh": "雾",
+     "en": "fog"
+    },
+    {
+     "id": "elementary-2-35-32",
+     "w": "もし",
+     "r": "もし",
+     "p": "adv",
+     "zh": "如果，假如",
+     "en": "if"
+    },
+    {
+     "id": "elementary-2-35-33",
+     "w": "万一",
+     "r": "まんいち",
+     "p": "adv",
+     "zh": "万一",
+     "en": "by any chance"
+    },
+    {
+     "id": "elementary-2-35-34",
+     "w": "たとえ",
+     "r": "たとえ",
+     "p": "adv",
+     "zh": "即使",
+     "en": "even if"
+    },
+    {
+     "id": "elementary-2-35-35",
+     "w": "その場合",
+     "r": "そのばあい",
+     "p": "expr",
+     "zh": "那种情况下",
+     "en": "in that case"
+    },
+    {
+     "id": "elementary-2-35-36",
+     "w": "場合",
+     "r": "ばあい",
+     "p": "noun",
+     "zh": "场合，情况",
+     "en": "case; situation"
+    }
+   ]
+  },
+  {
+   "n": 36,
+   "title": "遅くなって、すみません",
+   "title_zh": "来晚了，很抱歉",
+   "words": [
+    {
+     "id": "elementary-2-36-01",
+     "w": "謝る",
+     "r": "あやまる",
+     "p": "verb",
+     "zh": "道歉",
+     "en": "to apologize",
+     "g": 1
+    },
+    {
+     "id": "elementary-2-36-02",
+     "w": "許す",
+     "r": "ゆるす",
+     "p": "verb",
+     "zh": "原谅",
+     "en": "to forgive",
+     "g": 1
+    },
+    {
+     "id": "elementary-2-36-03",
+     "w": "叱る",
+     "r": "しかる",
+     "p": "verb",
+     "zh": "责备，训斥",
+     "en": "to scold",
+     "g": 1
+    },
+    {
+     "id": "elementary-2-36-04",
+     "w": "褒める",
+     "r": "ほめる",
+     "p": "verb",
+     "zh": "表扬",
+     "en": "to praise",
+     "g": 2
+    },
+    {
+     "id": "elementary-2-36-05",
+     "w": "注意される",
+     "r": "ちゅういされる",
+     "p": "expr",
+     "zh": "被提醒，被批评",
+     "en": "to be warned"
+    },
+    {
+     "id": "elementary-2-36-06",
+     "w": "迷惑",
+     "r": "めいわく",
+     "p": "na-adj",
+     "zh": "麻烦，打扰",
+     "en": "nuisance; trouble"
+    },
+    {
+     "id": "elementary-2-36-07",
+     "w": "失敗",
+     "r": "しっぱい",
+     "p": "noun",
+     "zh": "失败",
+     "en": "failure"
+    },
+    {
+     "id": "elementary-2-36-08",
+     "w": "間違い",
+     "r": "まちがい",
+     "p": "noun",
+     "zh": "错误",
+     "en": "mistake"
+    },
+    {
+     "id": "elementary-2-36-09",
+     "w": "間違える",
+     "r": "まちがえる",
+     "p": "verb",
+     "zh": "弄错",
+     "en": "to make a mistake",
+     "g": 2
+    },
+    {
+     "id": "elementary-2-36-10",
+     "w": "忘れ物",
+     "r": "わすれもの",
+     "p": "noun",
+     "zh": "遗忘的东西",
+     "en": "lost article"
+    },
+    {
+     "id": "elementary-2-36-11",
+     "w": "寝坊",
+     "r": "ねぼう",
+     "p": "noun",
+     "zh": "睡过头",
+     "en": "oversleeping"
+    },
+    {
+     "id": "elementary-2-36-12",
+     "w": "渋滞",
+     "r": "じゅうたい",
+     "p": "noun",
+     "zh": "堵车",
+     "en": "traffic jam"
+    },
+    {
+     "id": "elementary-2-36-13",
+     "w": "事情",
+     "r": "じじょう",
+     "p": "noun",
+     "zh": "情况，缘由",
+     "en": "circumstances"
+    },
+    {
+     "id": "elementary-2-36-14",
+     "w": "理由",
+     "r": "りゆう",
+     "p": "noun",
+     "zh": "理由",
+     "en": "reason"
+    },
+    {
+     "id": "elementary-2-36-15",
+     "w": "言い訳",
+     "r": "いいわけ",
+     "p": "noun",
+     "zh": "辩解，借口",
+     "en": "excuse"
+    },
+    {
+     "id": "elementary-2-36-16",
+     "w": "責任",
+     "r": "せきにん",
+     "p": "noun",
+     "zh": "责任",
+     "en": "responsibility"
+    },
+    {
+     "id": "elementary-2-36-17",
+     "w": "反省する",
+     "r": "はんせいする",
+     "p": "verb",
+     "zh": "反省",
+     "en": "to reflect on",
+     "g": 3
+    },
+    {
+     "id": "elementary-2-36-18",
+     "w": "気を付ける",
+     "r": "きをつける",
+     "p": "expr",
+     "zh": "注意，小心",
+     "en": "to be careful"
+    },
+    {
+     "id": "elementary-2-36-19",
+     "w": "二度と",
+     "r": "にどと",
+     "p": "adv",
+     "zh": "再也（不）",
+     "en": "never again"
+    },
+    {
+     "id": "elementary-2-36-20",
+     "w": "申し訳ありません",
+     "r": "もうしわけありません",
+     "p": "expr",
+     "zh": "非常抱歉",
+     "en": "I'm terribly sorry"
+    },
+    {
+     "id": "elementary-2-36-21",
+     "w": "ごめんなさい",
+     "r": "ごめんなさい",
+     "p": "expr",
+     "zh": "对不起",
+     "en": "I'm sorry"
+    },
+    {
+     "id": "elementary-2-36-22",
+     "w": "恐れ入ります",
+     "r": "おそれいります",
+     "p": "expr",
+     "zh": "实在不好意思",
+     "en": "I'm much obliged"
+    },
+    {
+     "id": "elementary-2-36-23",
+     "w": "お待たせしました",
+     "r": "おまたせしました",
+     "p": "expr",
+     "zh": "让您久等了",
+     "en": "sorry to keep you waiting"
+    },
+    {
+     "id": "elementary-2-36-24",
+     "w": "お邪魔します",
+     "r": "おじゃまします",
+     "p": "expr",
+     "zh": "打扰了",
+     "en": "excuse me for intruding"
+    },
+    {
+     "id": "elementary-2-36-25",
+     "w": "お疲れ様",
+     "r": "おつかれさま",
+     "p": "expr",
+     "zh": "辛苦了",
+     "en": "thanks for your hard work"
+    },
+    {
+     "id": "elementary-2-36-26",
+     "w": "構いません",
+     "r": "かまいません",
+     "p": "expr",
+     "zh": "没关系",
+     "en": "it doesn't matter"
+    },
+    {
+     "id": "elementary-2-36-27",
+     "w": "大丈夫",
+     "r": "だいじょうぶ",
+     "p": "na-adj",
+     "zh": "没关系的，不要紧的",
+     "en": "all right; fine"
+    },
+    {
+     "id": "elementary-2-36-28",
+     "w": "うっかりする",
+     "r": "うっかりする",
+     "p": "verb",
+     "zh": "疏忽，走神",
+     "en": "to be careless",
+     "g": 3
+    },
+    {
+     "id": "elementary-2-36-29",
+     "w": "急ぐ",
+     "r": "いそぐ",
+     "p": "verb",
+     "zh": "赶，急",
+     "en": "to hurry",
+     "g": 1
+    },
+    {
+     "id": "elementary-2-36-30",
+     "w": "待たせる",
+     "r": "またせる",
+     "p": "verb",
+     "zh": "让…等",
+     "en": "to keep waiting",
+     "g": 2
+    },
+    {
+     "id": "elementary-2-36-31",
+     "w": "約束を守る",
+     "r": "やくそくをまもる",
+     "p": "expr",
+     "zh": "守约",
+     "en": "to keep a promise"
+    },
+    {
+     "id": "elementary-2-36-32",
+     "w": "連絡する",
+     "r": "れんらくする",
+     "p": "verb",
+     "zh": "联系",
+     "en": "to contact",
+     "g": 3
+    },
+    {
+     "id": "elementary-2-36-33",
+     "w": "すっかり",
+     "r": "すっかり",
+     "p": "adv",
+     "zh": "完全，全都",
+     "en": "completely"
+    },
+    {
+     "id": "elementary-2-36-34",
+     "w": "つい",
+     "r": "つい",
+     "p": "adv",
+     "zh": "不由得，不知不觉",
+     "en": "unintentionally"
+    },
+    {
+     "id": "elementary-2-36-35",
+     "w": "やっと",
+     "r": "やっと",
+     "p": "adv",
+     "zh": "终于",
+     "en": "finally"
+    },
+    {
+     "id": "elementary-2-36-36",
+     "w": "ようやく",
+     "r": "ようやく",
+     "p": "adv",
+     "zh": "总算，好不容易",
+     "en": "at last"
+    }
+   ]
+  },
+  {
+   "n": 37,
+   "title": "優勝すれば、オリンピックに出場することができます",
+   "title_zh": "如果得了冠军，就能参加奥运会",
+   "words": [
+    {
+     "id": "elementary-2-37-01",
+     "w": "オリンピック",
+     "r": "オリンピック",
+     "p": "noun",
+     "zh": "奥运会",
+     "en": "the Olympics"
+    },
+    {
+     "id": "elementary-2-37-02",
+     "w": "金メダル",
+     "r": "きんメダル",
+     "p": "noun",
+     "zh": "金牌",
+     "en": "gold medal"
+    },
+    {
+     "id": "elementary-2-37-03",
+     "w": "代表",
+     "r": "だいひょう",
+     "p": "noun",
+     "zh": "代表",
+     "en": "representative"
+    },
+    {
+     "id": "elementary-2-37-04",
+     "w": "予選",
+     "r": "よせん",
+     "p": "noun",
+     "zh": "预赛",
+     "en": "preliminary round"
+    },
+    {
+     "id": "elementary-2-37-05",
+     "w": "決勝",
+     "r": "けっしょう",
+     "p": "noun",
+     "zh": "决赛",
+     "en": "final round"
+    },
+    {
+     "id": "elementary-2-37-06",
+     "w": "順位",
+     "r": "じゅんい",
+     "p": "noun",
+     "zh": "名次",
+     "en": "ranking"
+    },
+    {
+     "id": "elementary-2-37-07",
+     "w": "得点",
+     "r": "とくてん",
+     "p": "noun",
+     "zh": "得分",
+     "en": "score"
+    },
+    {
+     "id": "elementary-2-37-08",
+     "w": "実力",
+     "r": "じつりょく",
+     "p": "noun",
+     "zh": "实力",
+     "en": "real ability"
+    },
+    {
+     "id": "elementary-2-37-09",
+     "w": "能力",
+     "r": "のうりょく",
+     "p": "noun",
+     "zh": "能力",
+     "en": "ability"
+    },
+    {
+     "id": "elementary-2-37-10",
+     "w": "才能",
+     "r": "さいのう",
+     "p": "noun",
+     "zh": "才能",
+     "en": "talent"
+    },
+    {
+     "id": "elementary-2-37-11",
+     "w": "努力",
+     "r": "どりょく",
+     "p": "noun",
+     "zh": "努力",
+     "en": "effort"
+    },
+    {
+     "id": "elementary-2-37-12",
+     "w": "条件",
+     "r": "じょうけん",
+     "p": "noun",
+     "zh": "条件",
+     "en": "condition"
+    },
+    {
+     "id": "elementary-2-37-13",
+     "w": "資格",
+     "r": "しかく",
+     "p": "noun",
+     "zh": "资格",
+     "en": "qualification"
+    },
+    {
+     "id": "elementary-2-37-14",
+     "w": "合格",
+     "r": "ごうかく",
+     "p": "noun",
+     "zh": "合格，考上",
+     "en": "passing (an exam)"
+    },
+    {
+     "id": "elementary-2-37-15",
+     "w": "不合格",
+     "r": "ふごうかく",
+     "p": "noun",
+     "zh": "不合格",
+     "en": "failing"
+    },
+    {
+     "id": "elementary-2-37-16",
+     "w": "受験",
+     "r": "じゅけん",
+     "p": "noun",
+     "zh": "应考，参加考试",
+     "en": "taking an exam"
+    },
+    {
+     "id": "elementary-2-37-17",
+     "w": "面接",
+     "r": "めんせつ",
+     "p": "noun",
+     "zh": "面试",
+     "en": "interview"
+    },
+    {
+     "id": "elementary-2-37-18",
+     "w": "成績",
+     "r": "せいせき",
+     "p": "noun",
+     "zh": "成绩",
+     "en": "grades; results"
+    },
+    {
+     "id": "elementary-2-37-19",
+     "w": "合格する",
+     "r": "ごうかくする",
+     "p": "verb",
+     "zh": "合格，通过",
+     "en": "to pass (an exam)",
+     "g": 3
+    },
+    {
+     "id": "elementary-2-37-20",
+     "w": "落ちる",
+     "r": "おちる",
+     "p": "verb",
+     "zh": "落榜，掉下",
+     "en": "to fail; to fall",
+     "g": 2
+    },
+    {
+     "id": "elementary-2-37-21",
+     "w": "目指す",
+     "r": "めざす",
+     "p": "verb",
+     "zh": "以…为目标",
+     "en": "to aim at",
+     "g": 1
+    },
+    {
+     "id": "elementary-2-37-22",
+     "w": "達成する",
+     "r": "たっせいする",
+     "p": "verb",
+     "zh": "达成，实现",
+     "en": "to achieve",
+     "g": 3
+    },
+    {
+     "id": "elementary-2-37-23",
+     "w": "実現する",
+     "r": "じつげんする",
+     "p": "verb",
+     "zh": "实现",
+     "en": "to realize",
+     "g": 3
+    },
+    {
+     "id": "elementary-2-37-24",
+     "w": "努める",
+     "r": "つとめる",
+     "p": "verb",
+     "zh": "努力，尽力",
+     "en": "to strive",
+     "g": 2
+    },
+    {
+     "id": "elementary-2-37-25",
+     "w": "鍛える",
+     "r": "きたえる",
+     "p": "verb",
+     "zh": "锻炼",
+     "en": "to train; to build up",
+     "g": 2
+    },
+    {
+     "id": "elementary-2-37-26",
+     "w": "戦う",
+     "r": "たたかう",
+     "p": "verb",
+     "zh": "战斗，比赛",
+     "en": "to fight; to compete",
+     "g": 1
+    },
+    {
+     "id": "elementary-2-37-27",
+     "w": "諦める",
+     "r": "あきらめる",
+     "p": "verb",
+     "zh": "放弃",
+     "en": "to give up",
+     "g": 2
+    },
+    {
+     "id": "elementary-2-37-28",
+     "w": "可能",
+     "r": "かのう",
+     "p": "na-adj",
+     "zh": "可能的",
+     "en": "possible"
+    },
+    {
+     "id": "elementary-2-37-29",
+     "w": "不可能",
+     "r": "ふかのう",
+     "p": "na-adj",
+     "zh": "不可能的",
+     "en": "impossible"
+    },
+    {
+     "id": "elementary-2-37-30",
+     "w": "確実",
+     "r": "かくじつ",
+     "p": "na-adj",
+     "zh": "确实的，可靠的",
+     "en": "certain; reliable"
+    },
+    {
+     "id": "elementary-2-37-31",
+     "w": "有利",
+     "r": "ゆうり",
+     "p": "na-adj",
+     "zh": "有利的",
+     "en": "advantageous"
+    },
+    {
+     "id": "elementary-2-37-32",
+     "w": "不利",
+     "r": "ふり",
+     "p": "na-adj",
+     "zh": "不利的",
+     "en": "disadvantageous"
+    },
+    {
+     "id": "elementary-2-37-33",
+     "w": "きっと",
+     "r": "きっと",
+     "p": "adv",
+     "zh": "一定",
+     "en": "surely"
+    },
+    {
+     "id": "elementary-2-37-34",
+     "w": "もしも",
+     "r": "もしも",
+     "p": "adv",
+     "zh": "如果，万一",
+     "en": "if by any chance"
+    },
+    {
+     "id": "elementary-2-37-35",
+     "w": "さえ",
+     "r": "さえ",
+     "p": "particle",
+     "zh": "连…都；只要",
+     "en": "even; if only"
+    },
+    {
+     "id": "elementary-2-37-36",
+     "w": "ほど",
+     "r": "ほど",
+     "p": "particle",
+     "zh": "…程度，越…越",
+     "en": "to the extent of"
+    }
+   ]
+  },
+  {
+   "n": 38,
+   "title": "戴さんは英語が話せます",
+   "title_zh": "小戴会说英语",
+   "words": [
+    {
+     "id": "elementary-2-38-01",
+     "w": "話せる",
+     "r": "はなせる",
+     "p": "verb",
+     "zh": "会说，能说",
+     "en": "can speak",
+     "g": 2
+    },
+    {
+     "id": "elementary-2-38-02",
+     "w": "読める",
+     "r": "よめる",
+     "p": "verb",
+     "zh": "能读，看得懂",
+     "en": "can read",
+     "g": 2
+    },
+    {
+     "id": "elementary-2-38-03",
+     "w": "書ける",
+     "r": "かける",
+     "p": "verb",
+     "zh": "能写",
+     "en": "can write",
+     "g": 2
+    },
+    {
+     "id": "elementary-2-38-04",
+     "w": "できる",
+     "r": "できる",
+     "p": "verb",
+     "zh": "会，能；完成",
+     "en": "can do; to be completed",
+     "g": 2
+    },
+    {
+     "id": "elementary-2-38-05",
+     "w": "弾く",
+     "r": "ひく",
+     "p": "verb",
+     "zh": "弹（乐器）",
+     "en": "to play (an instrument)",
+     "g": 1
+    },
+    {
+     "id": "elementary-2-38-06",
+     "w": "演奏する",
+     "r": "えんそうする",
+     "p": "verb",
+     "zh": "演奏",
+     "en": "to perform (music)",
+     "g": 3
+    },
+    {
+     "id": "elementary-2-38-07",
+     "w": "通じる",
+     "r": "つうじる",
+     "p": "verb",
+     "zh": "通，说得通",
+     "en": "to be understood",
+     "g": 2
+    },
+    {
+     "id": "elementary-2-38-08",
+     "w": "覚える",
+     "r": "おぼえる",
+     "p": "verb",
+     "zh": "记住，学会",
+     "en": "to learn; to memorize",
+     "g": 2
+    },
+    {
+     "id": "elementary-2-38-09",
+     "w": "慣れる",
+     "r": "なれる",
+     "p": "verb",
+     "zh": "习惯，熟悉",
+     "en": "to get used to",
+     "g": 2
+    },
+    {
+     "id": "elementary-2-38-10",
+     "w": "上達する",
+     "r": "じょうたつする",
+     "p": "verb",
+     "zh": "进步，提高",
+     "en": "to improve",
+     "g": 3
+    },
+    {
+     "id": "elementary-2-38-11",
+     "w": "訳す",
+     "r": "やくす",
+     "p": "verb",
+     "zh": "翻译",
+     "en": "to translate",
+     "g": 1
+    },
+    {
+     "id": "elementary-2-38-12",
+     "w": "通訳",
+     "r": "つうやく",
+     "p": "noun",
+     "zh": "口译，翻译（人）",
+     "en": "interpreter"
+    },
+    {
+     "id": "elementary-2-38-13",
+     "w": "翻訳",
+     "r": "ほんやく",
+     "p": "noun",
+     "zh": "笔译，翻译",
+     "en": "translation"
+    },
+    {
+     "id": "elementary-2-38-14",
+     "w": "発音",
+     "r": "はつおん",
+     "p": "noun",
+     "zh": "发音",
+     "en": "pronunciation"
+    },
+    {
+     "id": "elementary-2-38-15",
+     "w": "文法",
+     "r": "ぶんぽう",
+     "p": "noun",
+     "zh": "语法",
+     "en": "grammar"
+    },
+    {
+     "id": "elementary-2-38-16",
+     "w": "単語",
+     "r": "たんご",
+     "p": "noun",
+     "zh": "单词",
+     "en": "vocabulary word"
+    },
+    {
+     "id": "elementary-2-38-17",
+     "w": "会話",
+     "r": "かいわ",
+     "p": "noun",
+     "zh": "会话",
+     "en": "conversation"
+    },
+    {
+     "id": "elementary-2-38-18",
+     "w": "外国語",
+     "r": "がいこくご",
+     "p": "noun",
+     "zh": "外语",
+     "en": "foreign language"
+    },
+    {
+     "id": "elementary-2-38-19",
+     "w": "母語",
+     "r": "ぼご",
+     "p": "noun",
+     "zh": "母语",
+     "en": "mother tongue"
+    },
+    {
+     "id": "elementary-2-38-20",
+     "w": "技術",
+     "r": "ぎじゅつ",
+     "p": "noun",
+     "zh": "技术",
+     "en": "skill; technology"
+    },
+    {
+     "id": "elementary-2-38-21",
+     "w": "腕前",
+     "r": "うでまえ",
+     "p": "noun",
+     "zh": "本领，手艺",
+     "en": "skill; ability"
+    },
+    {
+     "id": "elementary-2-38-22",
+     "w": "経験",
+     "r": "けいけん",
+     "p": "noun",
+     "zh": "经验",
+     "en": "experience"
+    },
+    {
+     "id": "elementary-2-38-23",
+     "w": "訓練",
+     "r": "くんれん",
+     "p": "noun",
+     "zh": "训练",
+     "en": "training"
+    },
+    {
+     "id": "elementary-2-38-24",
+     "w": "教科書",
+     "r": "きょうかしょ",
+     "p": "noun",
+     "zh": "教科书",
+     "en": "textbook"
+    },
+    {
+     "id": "elementary-2-38-25",
+     "w": "辞典",
+     "r": "じてん",
+     "p": "noun",
+     "zh": "辞典",
+     "en": "dictionary"
+    },
+    {
+     "id": "elementary-2-38-26",
+     "w": "楽器",
+     "r": "がっき",
+     "p": "noun",
+     "zh": "乐器",
+     "en": "musical instrument"
+    },
+    {
+     "id": "elementary-2-38-27",
+     "w": "バイオリン",
+     "r": "バイオリン",
+     "p": "noun",
+     "zh": "小提琴",
+     "en": "violin"
+    },
+    {
+     "id": "elementary-2-38-28",
+     "w": "水泳",
+     "r": "すいえい",
+     "p": "noun",
+     "zh": "游泳",
+     "en": "swimming"
+    },
+    {
+     "id": "elementary-2-38-29",
+     "w": "自信",
+     "r": "じしん",
+     "p": "noun",
+     "zh": "自信",
+     "en": "confidence"
+    },
+    {
+     "id": "elementary-2-38-30",
+     "w": "得意",
+     "r": "とくい",
+     "p": "na-adj",
+     "zh": "擅长的",
+     "en": "good at"
+    },
+    {
+     "id": "elementary-2-38-31",
+     "w": "苦手",
+     "r": "にがて",
+     "p": "na-adj",
+     "zh": "不擅长的",
+     "en": "poor at"
+    },
+    {
+     "id": "elementary-2-38-32",
+     "w": "上手",
+     "r": "じょうず",
+     "p": "na-adj",
+     "zh": "高明的",
+     "en": "skillful"
+    },
+    {
+     "id": "elementary-2-38-33",
+     "w": "下手",
+     "r": "へた",
+     "p": "na-adj",
+     "zh": "不高明的",
+     "en": "unskillful"
+    },
+    {
+     "id": "elementary-2-38-34",
+     "w": "流暢",
+     "r": "りゅうちょう",
+     "p": "na-adj",
+     "zh": "流利的",
+     "en": "fluent"
+    },
+    {
+     "id": "elementary-2-38-35",
+     "w": "だいぶ",
+     "r": "だいぶ",
+     "p": "adv",
+     "zh": "相当，颇",
+     "en": "considerably"
+    },
+    {
+     "id": "elementary-2-38-36",
+     "w": "少しずつ",
+     "r": "すこしずつ",
+     "p": "adv",
+     "zh": "一点一点地",
+     "en": "little by little"
+    }
+   ]
+  },
+  {
+   "n": 39,
+   "title": "眼鏡をかけて本を読みます",
+   "title_zh": "戴着眼镜看书",
+   "words": [
+    {
+     "id": "elementary-2-39-01",
+     "w": "外す",
+     "r": "はずす",
+     "p": "verb",
+     "zh": "摘下，取下",
+     "en": "to take off; to remove",
+     "g": 1
+    },
+    {
+     "id": "elementary-2-39-02",
+     "w": "締める",
+     "r": "しめる",
+     "p": "verb",
+     "zh": "系，勒紧",
+     "en": "to fasten",
+     "g": 2
+    },
+    {
+     "id": "elementary-2-39-03",
+     "w": "巻く",
+     "r": "まく",
+     "p": "verb",
+     "zh": "围，卷",
+     "en": "to wind; to wrap",
+     "g": 1
+    },
+    {
+     "id": "elementary-2-39-04",
+     "w": "付ける",
+     "r": "つける",
+     "p": "verb",
+     "zh": "戴上，安上",
+     "en": "to put on; to attach",
+     "g": 2
+    },
+    {
+     "id": "elementary-2-39-05",
+     "w": "持って行く",
+     "r": "もっていく",
+     "p": "verb",
+     "zh": "带去",
+     "en": "to take (something) along",
+     "g": 1
+    },
+    {
+     "id": "elementary-2-39-06",
+     "w": "持って来る",
+     "r": "もってくる",
+     "p": "verb",
+     "zh": "带来",
+     "en": "to bring",
+     "g": 3
+    },
+    {
+     "id": "elementary-2-39-07",
+     "w": "歩いて行く",
+     "r": "あるいていく",
+     "p": "expr",
+     "zh": "走着去",
+     "en": "to go on foot"
+    },
+    {
+     "id": "elementary-2-39-08",
+     "w": "急いで",
+     "r": "いそいで",
+     "p": "adv",
+     "zh": "急忙地",
+     "en": "in a hurry"
+    },
+    {
+     "id": "elementary-2-39-09",
+     "w": "シートベルト",
+     "r": "シートベルト",
+     "p": "noun",
+     "zh": "安全带",
+     "en": "seat belt"
+    },
+    {
+     "id": "elementary-2-39-10",
+     "w": "ヘルメット",
+     "r": "ヘルメット",
+     "p": "noun",
+     "zh": "头盔",
+     "en": "helmet"
+    },
+    {
+     "id": "elementary-2-39-11",
+     "w": "マスク",
+     "r": "マスク",
+     "p": "noun",
+     "zh": "口罩",
+     "en": "mask"
+    },
+    {
+     "id": "elementary-2-39-12",
+     "w": "スーツ",
+     "r": "スーツ",
+     "p": "noun",
+     "zh": "西装，套装",
+     "en": "suit"
+    },
+    {
+     "id": "elementary-2-39-13",
+     "w": "サンダル",
+     "r": "サンダル",
+     "p": "noun",
+     "zh": "凉鞋",
+     "en": "sandals"
+    },
+    {
+     "id": "elementary-2-39-14",
+     "w": "マフラー",
+     "r": "マフラー",
+     "p": "noun",
+     "zh": "围巾",
+     "en": "scarf"
+    },
+    {
+     "id": "elementary-2-39-15",
+     "w": "指輪",
+     "r": "ゆびわ",
+     "p": "noun",
+     "zh": "戒指",
+     "en": "ring"
+    },
+    {
+     "id": "elementary-2-39-16",
+     "w": "腕時計",
+     "r": "うでどけい",
+     "p": "noun",
+     "zh": "手表",
+     "en": "wristwatch"
+    },
+    {
+     "id": "elementary-2-39-17",
+     "w": "イヤホン",
+     "r": "イヤホン",
+     "p": "noun",
+     "zh": "耳机",
+     "en": "earphones"
+    },
+    {
+     "id": "elementary-2-39-18",
+     "w": "傘を差す",
+     "r": "かさをさす",
+     "p": "expr",
+     "zh": "撑伞",
+     "en": "to put up an umbrella"
+    },
+    {
+     "id": "elementary-2-39-19",
+     "w": "姿",
+     "r": "すがた",
+     "p": "noun",
+     "zh": "姿态，身影",
+     "en": "figure; appearance"
+    },
+    {
+     "id": "elementary-2-39-20",
+     "w": "格好",
+     "r": "かっこう",
+     "p": "noun",
+     "zh": "样子，打扮",
+     "en": "appearance; style"
+    },
+    {
+     "id": "elementary-2-39-21",
+     "w": "癖",
+     "r": "くせ",
+     "p": "noun",
+     "zh": "习惯，毛病",
+     "en": "habit"
+    },
+    {
+     "id": "elementary-2-39-22",
+     "w": "態度",
+     "r": "たいど",
+     "p": "noun",
+     "zh": "态度",
+     "en": "attitude"
+    },
+    {
+     "id": "elementary-2-39-23",
+     "w": "礼儀",
+     "r": "れいぎ",
+     "p": "noun",
+     "zh": "礼节，礼仪",
+     "en": "manners"
+    },
+    {
+     "id": "elementary-2-39-24",
+     "w": "マナー",
+     "r": "マナー",
+     "p": "noun",
+     "zh": "礼貌，规矩",
+     "en": "manners"
+    },
+    {
+     "id": "elementary-2-39-25",
+     "w": "行儀",
+     "r": "ぎょうぎ",
+     "p": "noun",
+     "zh": "举止，规矩",
+     "en": "behavior"
+    },
+    {
+     "id": "elementary-2-39-26",
+     "w": "作法",
+     "r": "さほう",
+     "p": "noun",
+     "zh": "礼法，做法",
+     "en": "etiquette"
+    },
+    {
+     "id": "elementary-2-39-27",
+     "w": "声",
+     "r": "こえ",
+     "p": "noun",
+     "zh": "声音",
+     "en": "voice"
+    },
+    {
+     "id": "elementary-2-39-28",
+     "w": "音",
+     "r": "おと",
+     "p": "noun",
+     "zh": "声响",
+     "en": "sound"
+    },
+    {
+     "id": "elementary-2-39-29",
+     "w": "表情",
+     "r": "ひょうじょう",
+     "p": "noun",
+     "zh": "表情",
+     "en": "expression"
+    },
+    {
+     "id": "elementary-2-39-30",
+     "w": "笑顔",
+     "r": "えがお",
+     "p": "noun",
+     "zh": "笑脸",
+     "en": "smile"
+    },
+    {
+     "id": "elementary-2-39-31",
+     "w": "涙",
+     "r": "なみだ",
+     "p": "noun",
+     "zh": "眼泪",
+     "en": "tears"
+    },
+    {
+     "id": "elementary-2-39-32",
+     "w": "汗",
+     "r": "あせ",
+     "p": "noun",
+     "zh": "汗",
+     "en": "sweat"
+    },
+    {
+     "id": "elementary-2-39-33",
+     "w": "横になる",
+     "r": "よこになる",
+     "p": "expr",
+     "zh": "躺下",
+     "en": "to lie down"
+    },
+    {
+     "id": "elementary-2-39-34",
+     "w": "立ったまま",
+     "r": "たったまま",
+     "p": "expr",
+     "zh": "站着",
+     "en": "while standing"
+    },
+    {
+     "id": "elementary-2-39-35",
+     "w": "黙って",
+     "r": "だまって",
+     "p": "adv",
+     "zh": "默默地，不声不响",
+     "en": "silently"
+    },
+    {
+     "id": "elementary-2-39-36",
+     "w": "一人で",
+     "r": "ひとりで",
+     "p": "adv",
+     "zh": "独自",
+     "en": "alone"
+    }
+   ]
+  },
+  {
+   "n": 40,
+   "title": "これから友達と食事に行くところです",
+   "title_zh": "现在正要和朋友去吃饭",
+   "words": [
+    {
+     "id": "elementary-2-40-01",
+     "w": "食事",
+     "r": "しょくじ",
+     "p": "noun",
+     "zh": "用餐，饭",
+     "en": "meal"
+    },
+    {
+     "id": "elementary-2-40-02",
+     "w": "外食",
+     "r": "がいしょく",
+     "p": "noun",
+     "zh": "在外面吃饭",
+     "en": "eating out"
+    },
+    {
+     "id": "elementary-2-40-03",
+     "w": "定食",
+     "r": "ていしょく",
+     "p": "noun",
+     "zh": "套餐",
+     "en": "set meal"
+    },
+    {
+     "id": "elementary-2-40-04",
+     "w": "メニュー",
+     "r": "メニュー",
+     "p": "noun",
+     "zh": "菜单",
+     "en": "menu"
+    },
+    {
+     "id": "elementary-2-40-05",
+     "w": "注文",
+     "r": "ちゅうもん",
+     "p": "noun",
+     "zh": "点菜，订购",
+     "en": "order"
+    },
+    {
+     "id": "elementary-2-40-06",
+     "w": "会計",
+     "r": "かいけい",
+     "p": "noun",
+     "zh": "结账",
+     "en": "the bill"
+    },
+    {
+     "id": "elementary-2-40-07",
+     "w": "割り勘",
+     "r": "わりかん",
+     "p": "noun",
+     "zh": "AA制",
+     "en": "splitting the bill"
+    },
+    {
+     "id": "elementary-2-40-08",
+     "w": "おごる",
+     "r": "おごる",
+     "p": "verb",
+     "zh": "请客",
+     "en": "to treat someone",
+     "g": 1
+    },
+    {
+     "id": "elementary-2-40-09",
+     "w": "席",
+     "r": "せき",
+     "p": "noun",
+     "zh": "座位",
+     "en": "seat"
+    },
+    {
+     "id": "elementary-2-40-10",
+     "w": "満席",
+     "r": "まんせき",
+     "p": "noun",
+     "zh": "客满",
+     "en": "fully booked"
+    },
+    {
+     "id": "elementary-2-40-11",
+     "w": "店員",
+     "r": "てんいん",
+     "p": "noun",
+     "zh": "店员",
+     "en": "waiter; clerk"
+    },
+    {
+     "id": "elementary-2-40-12",
+     "w": "おしぼり",
+     "r": "おしぼり",
+     "p": "noun",
+     "zh": "湿毛巾",
+     "en": "wet towel"
+    },
+    {
+     "id": "elementary-2-40-13",
+     "w": "お代わり",
+     "r": "おかわり",
+     "p": "noun",
+     "zh": "再来一碗，续杯",
+     "en": "second helping"
+    },
+    {
+     "id": "elementary-2-40-14",
+     "w": "食べ放題",
+     "r": "たべほうだい",
+     "p": "noun",
+     "zh": "自助餐，随便吃",
+     "en": "all-you-can-eat"
+    },
+    {
+     "id": "elementary-2-40-15",
+     "w": "持ち帰り",
+     "r": "もちかえり",
+     "p": "noun",
+     "zh": "外带",
+     "en": "takeout"
+    },
+    {
+     "id": "elementary-2-40-16",
+     "w": "味付け",
+     "r": "あじつけ",
+     "p": "noun",
+     "zh": "调味",
+     "en": "seasoning"
+    },
+    {
+     "id": "elementary-2-40-17",
+     "w": "焼く",
+     "r": "やく",
+     "p": "verb",
+     "zh": "烤，煎",
+     "en": "to grill; to bake",
+     "g": 1
+    },
+    {
+     "id": "elementary-2-40-18",
+     "w": "煮る",
+     "r": "にる",
+     "p": "verb",
+     "zh": "煮，炖",
+     "en": "to boil; to simmer",
+     "g": 2
+    },
+    {
+     "id": "elementary-2-40-19",
+     "w": "炒める",
+     "r": "いためる",
+     "p": "verb",
+     "zh": "炒",
+     "en": "to stir-fry",
+     "g": 2
+    },
+    {
+     "id": "elementary-2-40-20",
+     "w": "揚げる",
+     "r": "あげる",
+     "p": "verb",
+     "zh": "炸",
+     "en": "to deep-fry",
+     "g": 2
+    },
+    {
+     "id": "elementary-2-40-21",
+     "w": "蒸す",
+     "r": "むす",
+     "p": "verb",
+     "zh": "蒸",
+     "en": "to steam",
+     "g": 1
+    },
+    {
+     "id": "elementary-2-40-22",
+     "w": "切る",
+     "r": "きる",
+     "p": "verb",
+     "zh": "切，剪",
+     "en": "to cut",
+     "g": 1
+    },
+    {
+     "id": "elementary-2-40-23",
+     "w": "混ぜる",
+     "r": "まぜる",
+     "p": "verb",
+     "zh": "搅拌，混合",
+     "en": "to mix",
+     "g": 2
+    },
+    {
+     "id": "elementary-2-40-24",
+     "w": "味わう",
+     "r": "あじわう",
+     "p": "verb",
+     "zh": "品尝",
+     "en": "to savor",
+     "g": 1
+    },
+    {
+     "id": "elementary-2-40-25",
+     "w": "残す",
+     "r": "のこす",
+     "p": "verb",
+     "zh": "剩下，留下",
+     "en": "to leave (uneaten)",
+     "g": 1
+    },
+    {
+     "id": "elementary-2-40-26",
+     "w": "ところ",
+     "r": "ところ",
+     "p": "noun",
+     "zh": "正要…；地方",
+     "en": "just about to; place"
+    },
+    {
+     "id": "elementary-2-40-27",
+     "w": "最中",
+     "r": "さいちゅう",
+     "p": "noun",
+     "zh": "正在…之中",
+     "en": "in the middle of"
+    },
+    {
+     "id": "elementary-2-40-28",
+     "w": "途中",
+     "r": "とちゅう",
+     "p": "noun",
+     "zh": "途中",
+     "en": "on the way"
+    },
+    {
+     "id": "elementary-2-40-29",
+     "w": "直後",
+     "r": "ちょくご",
+     "p": "noun",
+     "zh": "刚…之后",
+     "en": "right after"
+    },
+    {
+     "id": "elementary-2-40-30",
+     "w": "直前",
+     "r": "ちょくぜん",
+     "p": "noun",
+     "zh": "就在…之前",
+     "en": "right before"
+    },
+    {
+     "id": "elementary-2-40-31",
+     "w": "今から",
+     "r": "いまから",
+     "p": "expr",
+     "zh": "从现在起",
+     "en": "from now"
+    },
+    {
+     "id": "elementary-2-40-32",
+     "w": "たった今",
+     "r": "たったいま",
+     "p": "adv",
+     "zh": "刚刚",
+     "en": "just now"
+    },
+    {
+     "id": "elementary-2-40-33",
+     "w": "ちょうど",
+     "r": "ちょうど",
+     "p": "adv",
+     "zh": "正好",
+     "en": "exactly"
+    },
+    {
+     "id": "elementary-2-40-34",
+     "w": "ついでに",
+     "r": "ついでに",
+     "p": "adv",
+     "zh": "顺便",
+     "en": "while at it"
+    },
+    {
+     "id": "elementary-2-40-35",
+     "w": "美味しそう",
+     "r": "おいしそう",
+     "p": "na-adj",
+     "zh": "看起来好吃",
+     "en": "looks delicious"
+    },
+    {
+     "id": "elementary-2-40-36",
+     "w": "腹一杯",
+     "r": "はらいっぱい",
+     "p": "expr",
+     "zh": "吃饱了",
+     "en": "full (stomach)"
+    }
+   ]
+  },
+  {
+   "n": 41,
+   "title": "李さんは部長にほめられました",
+   "title_zh": "小李受到了部长的表扬",
+   "words": [
+    {
+     "id": "elementary-2-41-01",
+     "w": "褒められる",
+     "r": "ほめられる",
+     "p": "verb",
+     "zh": "被表扬",
+     "en": "to be praised",
+     "g": 2
+    },
+    {
+     "id": "elementary-2-41-02",
+     "w": "叱られる",
+     "r": "しかられる",
+     "p": "verb",
+     "zh": "被批评",
+     "en": "to be scolded",
+     "g": 2
+    },
+    {
+     "id": "elementary-2-41-03",
+     "w": "招待される",
+     "r": "しょうたいされる",
+     "p": "verb",
+     "zh": "被邀请",
+     "en": "to be invited",
+     "g": 2
+    },
+    {
+     "id": "elementary-2-41-04",
+     "w": "頼まれる",
+     "r": "たのまれる",
+     "p": "verb",
+     "zh": "被拜托",
+     "en": "to be asked (a favor)",
+     "g": 2
+    },
+    {
+     "id": "elementary-2-41-05",
+     "w": "盗む",
+     "r": "ぬすむ",
+     "p": "verb",
+     "zh": "偷",
+     "en": "to steal",
+     "g": 1
+    },
+    {
+     "id": "elementary-2-41-06",
+     "w": "踏む",
+     "r": "ふむ",
+     "p": "verb",
+     "zh": "踩",
+     "en": "to step on",
+     "g": 1
+    },
+    {
+     "id": "elementary-2-41-07",
+     "w": "殴る",
+     "r": "なぐる",
+     "p": "verb",
+     "zh": "打，殴打",
+     "en": "to hit",
+     "g": 1
+    },
+    {
+     "id": "elementary-2-41-08",
+     "w": "苛める",
+     "r": "いじめる",
+     "p": "verb",
+     "zh": "欺负",
+     "en": "to bully",
+     "g": 2
+    },
+    {
+     "id": "elementary-2-41-09",
+     "w": "騙す",
+     "r": "だます",
+     "p": "verb",
+     "zh": "欺骗",
+     "en": "to deceive",
+     "g": 1
+    },
+    {
+     "id": "elementary-2-41-10",
+     "w": "笑われる",
+     "r": "わらわれる",
+     "p": "verb",
+     "zh": "被笑话",
+     "en": "to be laughed at",
+     "g": 2
+    },
+    {
+     "id": "elementary-2-41-11",
+     "w": "評価する",
+     "r": "ひょうかする",
+     "p": "verb",
+     "zh": "评价",
+     "en": "to evaluate",
+     "g": 3
+    },
+    {
+     "id": "elementary-2-41-12",
+     "w": "信頼する",
+     "r": "しんらいする",
+     "p": "verb",
+     "zh": "信赖",
+     "en": "to trust",
+     "g": 3
+    },
+    {
+     "id": "elementary-2-41-13",
+     "w": "尊敬する",
+     "r": "そんけいする",
+     "p": "verb",
+     "zh": "尊敬",
+     "en": "to respect",
+     "g": 3
+    },
+    {
+     "id": "elementary-2-41-14",
+     "w": "注目する",
+     "r": "ちゅうもくする",
+     "p": "verb",
+     "zh": "注目，关注",
+     "en": "to pay attention to",
+     "g": 3
+    },
+    {
+     "id": "elementary-2-41-15",
+     "w": "発表する",
+     "r": "はっぴょうする",
+     "p": "verb",
+     "zh": "发表，公布",
+     "en": "to announce",
+     "g": 3
+    },
+    {
+     "id": "elementary-2-41-16",
+     "w": "建てる",
+     "r": "たてる",
+     "p": "verb",
+     "zh": "建造",
+     "en": "to build",
+     "g": 2
+    },
+    {
+     "id": "elementary-2-41-17",
+     "w": "作られる",
+     "r": "つくられる",
+     "p": "verb",
+     "zh": "被制造",
+     "en": "to be made",
+     "g": 2
+    },
+    {
+     "id": "elementary-2-41-18",
+     "w": "輸出する",
+     "r": "ゆしゅつする",
+     "p": "verb",
+     "zh": "出口",
+     "en": "to export",
+     "g": 3
+    },
+    {
+     "id": "elementary-2-41-19",
+     "w": "輸入する",
+     "r": "ゆにゅうする",
+     "p": "verb",
+     "zh": "进口",
+     "en": "to import",
+     "g": 3
+    },
+    {
+     "id": "elementary-2-41-20",
+     "w": "開催する",
+     "r": "かいさいする",
+     "p": "verb",
+     "zh": "举办",
+     "en": "to hold (an event)",
+     "g": 3
+    },
+    {
+     "id": "elementary-2-41-21",
+     "w": "泥棒",
+     "r": "どろぼう",
+     "p": "noun",
+     "zh": "小偷",
+     "en": "thief"
+    },
+    {
+     "id": "elementary-2-41-22",
+     "w": "犯人",
+     "r": "はんにん",
+     "p": "noun",
+     "zh": "犯人",
+     "en": "culprit"
+    },
+    {
+     "id": "elementary-2-41-23",
+     "w": "被害者",
+     "r": "ひがいしゃ",
+     "p": "noun",
+     "zh": "受害者",
+     "en": "victim"
+    },
+    {
+     "id": "elementary-2-41-24",
+     "w": "財布",
+     "r": "さいふ",
+     "p": "noun",
+     "zh": "钱包",
+     "en": "wallet"
+    },
+    {
+     "id": "elementary-2-41-25",
+     "w": "評判",
+     "r": "ひょうばん",
+     "p": "noun",
+     "zh": "评价，名声",
+     "en": "reputation"
+    },
+    {
+     "id": "elementary-2-41-26",
+     "w": "人気",
+     "r": "にんき",
+     "p": "noun",
+     "zh": "人气，受欢迎",
+     "en": "popularity"
+    },
+    {
+     "id": "elementary-2-41-27",
+     "w": "世界中",
+     "r": "せかいじゅう",
+     "p": "noun",
+     "zh": "全世界",
+     "en": "all over the world"
+    },
+    {
+     "id": "elementary-2-41-28",
+     "w": "各地",
+     "r": "かくち",
+     "p": "noun",
+     "zh": "各地",
+     "en": "various places"
+    },
+    {
+     "id": "elementary-2-41-29",
+     "w": "式",
+     "r": "しき",
+     "p": "noun",
+     "zh": "仪式",
+     "en": "ceremony"
+    },
+    {
+     "id": "elementary-2-41-30",
+     "w": "卒業式",
+     "r": "そつぎょうしき",
+     "p": "noun",
+     "zh": "毕业典礼",
+     "en": "graduation ceremony"
+    },
+    {
+     "id": "elementary-2-41-31",
+     "w": "式典",
+     "r": "しきてん",
+     "p": "noun",
+     "zh": "典礼",
+     "en": "ceremony"
+    },
+    {
+     "id": "elementary-2-41-32",
+     "w": "作品",
+     "r": "さくひん",
+     "p": "noun",
+     "zh": "作品",
+     "en": "work (of art)"
+    },
+    {
+     "id": "elementary-2-41-33",
+     "w": "小説家",
+     "r": "しょうせつか",
+     "p": "noun",
+     "zh": "小说家",
+     "en": "novelist"
+    },
+    {
+     "id": "elementary-2-41-34",
+     "w": "画家",
+     "r": "がか",
+     "p": "noun",
+     "zh": "画家",
+     "en": "painter"
+    },
+    {
+     "id": "elementary-2-41-35",
+     "w": "有名",
+     "r": "ゆうめい",
+     "p": "na-adj",
+     "zh": "有名的",
+     "en": "famous"
+    },
+    {
+     "id": "elementary-2-41-36",
+     "w": "急に",
+     "r": "きゅうに",
+     "p": "adv",
+     "zh": "突然",
+     "en": "suddenly"
+    }
+   ]
+  },
+  {
+   "n": 42,
+   "title": "テレビの音を小さくしてください",
+   "title_zh": "请把电视的声音关小一点",
+   "words": [
+    {
+     "id": "elementary-2-42-01",
+     "w": "大きくする",
+     "r": "おおきくする",
+     "p": "expr",
+     "zh": "弄大，调大",
+     "en": "to make bigger"
+    },
+    {
+     "id": "elementary-2-42-02",
+     "w": "小さくする",
+     "r": "ちいさくする",
+     "p": "expr",
+     "zh": "弄小，调小",
+     "en": "to make smaller"
+    },
+    {
+     "id": "elementary-2-42-03",
+     "w": "短くする",
+     "r": "みじかくする",
+     "p": "expr",
+     "zh": "弄短",
+     "en": "to shorten"
+    },
+    {
+     "id": "elementary-2-42-04",
+     "w": "きれいにする",
+     "r": "きれいにする",
+     "p": "expr",
+     "zh": "弄干净",
+     "en": "to make clean"
+    },
+    {
+     "id": "elementary-2-42-05",
+     "w": "静かにする",
+     "r": "しずかにする",
+     "p": "expr",
+     "zh": "安静下来",
+     "en": "to be quiet"
+    },
+    {
+     "id": "elementary-2-42-06",
+     "w": "音量",
+     "r": "おんりょう",
+     "p": "noun",
+     "zh": "音量",
+     "en": "volume"
+    },
+    {
+     "id": "elementary-2-42-07",
+     "w": "温度",
+     "r": "おんど",
+     "p": "noun",
+     "zh": "温度",
+     "en": "temperature"
+    },
+    {
+     "id": "elementary-2-42-08",
+     "w": "明るさ",
+     "r": "あかるさ",
+     "p": "noun",
+     "zh": "亮度",
+     "en": "brightness"
+    },
+    {
+     "id": "elementary-2-42-09",
+     "w": "長さ",
+     "r": "ながさ",
+     "p": "noun",
+     "zh": "长度",
+     "en": "length"
+    },
+    {
+     "id": "elementary-2-42-10",
+     "w": "重さ",
+     "r": "おもさ",
+     "p": "noun",
+     "zh": "重量",
+     "en": "weight"
+    },
+    {
+     "id": "elementary-2-42-11",
+     "w": "高さ",
+     "r": "たかさ",
+     "p": "noun",
+     "zh": "高度",
+     "en": "height"
+    },
+    {
+     "id": "elementary-2-42-12",
+     "w": "深さ",
+     "r": "ふかさ",
+     "p": "noun",
+     "zh": "深度",
+     "en": "depth"
+    },
+    {
+     "id": "elementary-2-42-13",
+     "w": "厚さ",
+     "r": "あつさ",
+     "p": "noun",
+     "zh": "厚度",
+     "en": "thickness"
+    },
+    {
+     "id": "elementary-2-42-14",
+     "w": "速さ",
+     "r": "はやさ",
+     "p": "noun",
+     "zh": "速度",
+     "en": "speed"
+    },
+    {
+     "id": "elementary-2-42-15",
+     "w": "大きさ",
+     "r": "おおきさ",
+     "p": "noun",
+     "zh": "大小",
+     "en": "size"
+    },
+    {
+     "id": "elementary-2-42-16",
+     "w": "サイズ",
+     "r": "サイズ",
+     "p": "noun",
+     "zh": "尺寸",
+     "en": "size"
+    },
+    {
+     "id": "elementary-2-42-17",
+     "w": "調節する",
+     "r": "ちょうせつする",
+     "p": "verb",
+     "zh": "调节",
+     "en": "to adjust",
+     "g": 3
+    },
+    {
+     "id": "elementary-2-42-18",
+     "w": "調整する",
+     "r": "ちょうせいする",
+     "p": "verb",
+     "zh": "调整",
+     "en": "to adjust",
+     "g": 3
+    },
+    {
+     "id": "elementary-2-42-19",
+     "w": "変更する",
+     "r": "へんこうする",
+     "p": "verb",
+     "zh": "变更",
+     "en": "to change",
+     "g": 3
+    },
+    {
+     "id": "elementary-2-42-20",
+     "w": "増やす",
+     "r": "ふやす",
+     "p": "verb",
+     "zh": "增加（他动词）",
+     "en": "to increase (tr.)",
+     "g": 1
+    },
+    {
+     "id": "elementary-2-42-21",
+     "w": "減らす",
+     "r": "へらす",
+     "p": "verb",
+     "zh": "减少（他动词）",
+     "en": "to reduce",
+     "g": 1
+    },
+    {
+     "id": "elementary-2-42-22",
+     "w": "伸ばす",
+     "r": "のばす",
+     "p": "verb",
+     "zh": "伸长，延长",
+     "en": "to extend",
+     "g": 1
+    },
+    {
+     "id": "elementary-2-42-23",
+     "w": "縮める",
+     "r": "ちぢめる",
+     "p": "verb",
+     "zh": "缩短",
+     "en": "to shorten",
+     "g": 2
+    },
+    {
+     "id": "elementary-2-42-24",
+     "w": "薄い",
+     "r": "うすい",
+     "p": "i-adj",
+     "zh": "薄的，淡的",
+     "en": "thin; light"
+    },
+    {
+     "id": "elementary-2-42-25",
+     "w": "濃い",
+     "r": "こい",
+     "p": "i-adj",
+     "zh": "浓的，深的",
+     "en": "thick; dark"
+    },
+    {
+     "id": "elementary-2-42-26",
+     "w": "深い",
+     "r": "ふかい",
+     "p": "i-adj",
+     "zh": "深的",
+     "en": "deep"
+    },
+    {
+     "id": "elementary-2-42-27",
+     "w": "浅い",
+     "r": "あさい",
+     "p": "i-adj",
+     "zh": "浅的",
+     "en": "shallow"
+    },
+    {
+     "id": "elementary-2-42-28",
+     "w": "厚い",
+     "r": "あつい",
+     "p": "i-adj",
+     "zh": "厚的",
+     "en": "thick"
+    },
+    {
+     "id": "elementary-2-42-29",
+     "w": "きつい",
+     "r": "きつい",
+     "p": "i-adj",
+     "zh": "紧的；苛刻的",
+     "en": "tight; tough"
+    },
+    {
+     "id": "elementary-2-42-30",
+     "w": "緩い",
+     "r": "ゆるい",
+     "p": "i-adj",
+     "zh": "松的",
+     "en": "loose"
+    },
+    {
+     "id": "elementary-2-42-31",
+     "w": "適当",
+     "r": "てきとう",
+     "p": "na-adj",
+     "zh": "适当的；随便的",
+     "en": "suitable; casual"
+    },
+    {
+     "id": "elementary-2-42-32",
+     "w": "十分",
+     "r": "じゅうぶん",
+     "p": "na-adj",
+     "zh": "充分的",
+     "en": "sufficient"
+    },
+    {
+     "id": "elementary-2-42-33",
+     "w": "もう少し",
+     "r": "もうすこし",
+     "p": "adv",
+     "zh": "再稍微",
+     "en": "a little more"
+    },
+    {
+     "id": "elementary-2-42-34",
+     "w": "もっと",
+     "r": "もっと",
+     "p": "adv",
+     "zh": "更",
+     "en": "more"
+    },
+    {
+     "id": "elementary-2-42-35",
+     "w": "やや",
+     "r": "やや",
+     "p": "adv",
+     "zh": "稍微",
+     "en": "slightly"
+    },
+    {
+     "id": "elementary-2-42-36",
+     "w": "かなり",
+     "r": "かなり",
+     "p": "adv",
+     "zh": "相当",
+     "en": "fairly"
+    }
+   ]
+  },
+  {
+   "n": 43,
+   "title": "陳さんは息子をアメリカに留学させます",
+   "title_zh": "老陈让儿子去美国留学",
+   "words": [
+    {
+     "id": "elementary-2-43-01",
+     "w": "行かせる",
+     "r": "いかせる",
+     "p": "verb",
+     "zh": "让…去",
+     "en": "to make/let someone go",
+     "g": 2
+    },
+    {
+     "id": "elementary-2-43-02",
+     "w": "やらせる",
+     "r": "やらせる",
+     "p": "verb",
+     "zh": "让…做",
+     "en": "to make/let someone do",
+     "g": 2
+    },
+    {
+     "id": "elementary-2-43-03",
+     "w": "習わせる",
+     "r": "ならわせる",
+     "p": "verb",
+     "zh": "让…学",
+     "en": "to have someone learn",
+     "g": 2
+    },
+    {
+     "id": "elementary-2-43-04",
+     "w": "手伝わせる",
+     "r": "てつだわせる",
+     "p": "verb",
+     "zh": "让…帮忙",
+     "en": "to have someone help",
+     "g": 2
+    },
+    {
+     "id": "elementary-2-43-05",
+     "w": "待たせる",
+     "r": "またせる",
+     "p": "verb",
+     "zh": "让…等",
+     "en": "to keep someone waiting",
+     "g": 2
+    },
+    {
+     "id": "elementary-2-43-06",
+     "w": "休ませる",
+     "r": "やすませる",
+     "p": "verb",
+     "zh": "让…休息",
+     "en": "to let someone rest",
+     "g": 2
+    },
+    {
+     "id": "elementary-2-43-07",
+     "w": "考えさせる",
+     "r": "かんがえさせる",
+     "p": "verb",
+     "zh": "让…考虑",
+     "en": "to make someone think",
+     "g": 2
+    },
+    {
+     "id": "elementary-2-43-08",
+     "w": "息子",
+     "r": "むすこ",
+     "p": "noun",
+     "zh": "儿子",
+     "en": "son"
+    },
+    {
+     "id": "elementary-2-43-09",
+     "w": "娘",
+     "r": "むすめ",
+     "p": "noun",
+     "zh": "女儿",
+     "en": "daughter"
+    },
+    {
+     "id": "elementary-2-43-10",
+     "w": "親",
+     "r": "おや",
+     "p": "noun",
+     "zh": "父母，双亲",
+     "en": "parent"
+    },
+    {
+     "id": "elementary-2-43-11",
+     "w": "両親",
+     "r": "りょうしん",
+     "p": "noun",
+     "zh": "双亲",
+     "en": "parents"
+    },
+    {
+     "id": "elementary-2-43-12",
+     "w": "祖父",
+     "r": "そふ",
+     "p": "noun",
+     "zh": "祖父",
+     "en": "grandfather"
+    },
+    {
+     "id": "elementary-2-43-13",
+     "w": "祖母",
+     "r": "そぼ",
+     "p": "noun",
+     "zh": "祖母",
+     "en": "grandmother"
+    },
+    {
+     "id": "elementary-2-43-14",
+     "w": "孫",
+     "r": "まご",
+     "p": "noun",
+     "zh": "孙子，孙女",
+     "en": "grandchild"
+    },
+    {
+     "id": "elementary-2-43-15",
+     "w": "親戚",
+     "r": "しんせき",
+     "p": "noun",
+     "zh": "亲戚",
+     "en": "relatives"
+    },
+    {
+     "id": "elementary-2-43-16",
+     "w": "教育",
+     "r": "きょういく",
+     "p": "noun",
+     "zh": "教育",
+     "en": "education"
+    },
+    {
+     "id": "elementary-2-43-17",
+     "w": "塾",
+     "r": "じゅく",
+     "p": "noun",
+     "zh": "补习班",
+     "en": "cram school"
+    },
+    {
+     "id": "elementary-2-43-18",
+     "w": "学費",
+     "r": "がくひ",
+     "p": "noun",
+     "zh": "学费",
+     "en": "tuition"
+    },
+    {
+     "id": "elementary-2-43-19",
+     "w": "奨学金",
+     "r": "しょうがくきん",
+     "p": "noun",
+     "zh": "奖学金",
+     "en": "scholarship"
+    },
+    {
+     "id": "elementary-2-43-20",
+     "w": "進学",
+     "r": "しんがく",
+     "p": "noun",
+     "zh": "升学",
+     "en": "going on to higher education"
+    },
+    {
+     "id": "elementary-2-43-21",
+     "w": "専門",
+     "r": "せんもん",
+     "p": "noun",
+     "zh": "专业",
+     "en": "major; specialty"
+    },
+    {
+     "id": "elementary-2-43-22",
+     "w": "学部",
+     "r": "がくぶ",
+     "p": "noun",
+     "zh": "（大学）系，学院",
+     "en": "faculty; department"
+    },
+    {
+     "id": "elementary-2-43-23",
+     "w": "大学院",
+     "r": "だいがくいん",
+     "p": "noun",
+     "zh": "研究生院",
+     "en": "graduate school"
+    },
+    {
+     "id": "elementary-2-43-24",
+     "w": "社員教育",
+     "r": "しゃいんきょういく",
+     "p": "noun",
+     "zh": "员工培训",
+     "en": "employee training"
+    },
+    {
+     "id": "elementary-2-43-25",
+     "w": "研修",
+     "r": "けんしゅう",
+     "p": "noun",
+     "zh": "进修，培训",
+     "en": "training"
+    },
+    {
+     "id": "elementary-2-43-26",
+     "w": "転勤",
+     "r": "てんきん",
+     "p": "noun",
+     "zh": "调动工作",
+     "en": "job transfer"
+    },
+    {
+     "id": "elementary-2-43-27",
+     "w": "出張",
+     "r": "しゅっちょう",
+     "p": "noun",
+     "zh": "出差",
+     "en": "business trip"
+    },
+    {
+     "id": "elementary-2-43-28",
+     "w": "命令する",
+     "r": "めいれいする",
+     "p": "verb",
+     "zh": "命令",
+     "en": "to order",
+     "g": 3
+    },
+    {
+     "id": "elementary-2-43-29",
+     "w": "許可する",
+     "r": "きょかする",
+     "p": "verb",
+     "zh": "许可",
+     "en": "to permit",
+     "g": 3
+    },
+    {
+     "id": "elementary-2-43-30",
+     "w": "任せる",
+     "r": "まかせる",
+     "p": "verb",
+     "zh": "委托，交给",
+     "en": "to entrust",
+     "g": 2
+    },
+    {
+     "id": "elementary-2-43-31",
+     "w": "育てる",
+     "r": "そだてる",
+     "p": "verb",
+     "zh": "培养，养育",
+     "en": "to raise; to bring up",
+     "g": 2
+    },
+    {
+     "id": "elementary-2-43-32",
+     "w": "世話",
+     "r": "せわ",
+     "p": "noun",
+     "zh": "照顾",
+     "en": "care"
+    },
+    {
+     "id": "elementary-2-43-33",
+     "w": "厳しく",
+     "r": "きびしく",
+     "p": "adv",
+     "zh": "严格地",
+     "en": "strictly"
+    },
+    {
+     "id": "elementary-2-43-34",
+     "w": "自由に",
+     "r": "じゆうに",
+     "p": "adv",
+     "zh": "自由地",
+     "en": "freely"
+    },
+    {
+     "id": "elementary-2-43-35",
+     "w": "無理やり",
+     "r": "むりやり",
+     "p": "adv",
+     "zh": "强迫地",
+     "en": "by force"
+    },
+    {
+     "id": "elementary-2-43-36",
+     "w": "将来",
+     "r": "しょうらい",
+     "p": "noun",
+     "zh": "将来",
+     "en": "the future"
+    }
+   ]
+  },
+  {
+   "n": 44,
+   "title": "玄関のところに誰かいるようです",
+   "title_zh": "门口好像有人",
+   "words": [
+    {
+     "id": "elementary-2-44-01",
+     "w": "よう",
+     "r": "よう",
+     "p": "noun",
+     "zh": "好像，似乎",
+     "en": "seems; looks like"
+    },
+    {
+     "id": "elementary-2-44-02",
+     "w": "らしい",
+     "r": "らしい",
+     "p": "i-adj",
+     "zh": "好像，据说",
+     "en": "seems; apparently"
+    },
+    {
+     "id": "elementary-2-44-03",
+     "w": "みたい",
+     "r": "みたい",
+     "p": "na-adj",
+     "zh": "好像（口语）",
+     "en": "like; seems (colloquial)"
+    },
+    {
+     "id": "elementary-2-44-04",
+     "w": "そう",
+     "r": "そう",
+     "p": "expr",
+     "zh": "看起来…；听说…",
+     "en": "looks like; I hear that"
+    },
+    {
+     "id": "elementary-2-44-05",
+     "w": "気配",
+     "r": "けはい",
+     "p": "noun",
+     "zh": "迹象，动静",
+     "en": "sign; indication"
+    },
+    {
+     "id": "elementary-2-44-06",
+     "w": "物音",
+     "r": "ものおと",
+     "p": "noun",
+     "zh": "响声",
+     "en": "a noise"
+    },
+    {
+     "id": "elementary-2-44-07",
+     "w": "匂い",
+     "r": "におい",
+     "p": "noun",
+     "zh": "气味",
+     "en": "smell"
+    },
+    {
+     "id": "elementary-2-44-08",
+     "w": "香り",
+     "r": "かおり",
+     "p": "noun",
+     "zh": "香味",
+     "en": "fragrance"
+    },
+    {
+     "id": "elementary-2-44-09",
+     "w": "煙",
+     "r": "けむり",
+     "p": "noun",
+     "zh": "烟",
+     "en": "smoke"
+    },
+    {
+     "id": "elementary-2-44-10",
+     "w": "影",
+     "r": "かげ",
+     "p": "noun",
+     "zh": "影子",
+     "en": "shadow"
+    },
+    {
+     "id": "elementary-2-44-11",
+     "w": "足音",
+     "r": "あしおと",
+     "p": "noun",
+     "zh": "脚步声",
+     "en": "footsteps"
+    },
+    {
+     "id": "elementary-2-44-12",
+     "w": "留守",
+     "r": "るす",
+     "p": "noun",
+     "zh": "不在家",
+     "en": "absence from home"
+    },
+    {
+     "id": "elementary-2-44-13",
+     "w": "訪問",
+     "r": "ほうもん",
+     "p": "noun",
+     "zh": "访问",
+     "en": "visit"
+    },
+    {
+     "id": "elementary-2-44-14",
+     "w": "来客",
+     "r": "らいきゃく",
+     "p": "noun",
+     "zh": "来客",
+     "en": "visitor"
+    },
+    {
+     "id": "elementary-2-44-15",
+     "w": "宅配便",
+     "r": "たくはいびん",
+     "p": "noun",
+     "zh": "快递",
+     "en": "home delivery service"
+    },
+    {
+     "id": "elementary-2-44-16",
+     "w": "郵便",
+     "r": "ゆうびん",
+     "p": "noun",
+     "zh": "邮件，邮政",
+     "en": "mail"
+    },
+    {
+     "id": "elementary-2-44-17",
+     "w": "隣人",
+     "r": "りんじん",
+     "p": "noun",
+     "zh": "邻居",
+     "en": "neighbor"
+    },
+    {
+     "id": "elementary-2-44-18",
+     "w": "感じ",
+     "r": "かんじ",
+     "p": "noun",
+     "zh": "感觉",
+     "en": "feeling; impression"
+    },
+    {
+     "id": "elementary-2-44-19",
+     "w": "印象",
+     "r": "いんしょう",
+     "p": "noun",
+     "zh": "印象",
+     "en": "impression"
+    },
+    {
+     "id": "elementary-2-44-20",
+     "w": "推測",
+     "r": "すいそく",
+     "p": "noun",
+     "zh": "推测",
+     "en": "guess"
+    },
+    {
+     "id": "elementary-2-44-21",
+     "w": "確認",
+     "r": "かくにん",
+     "p": "noun",
+     "zh": "确认",
+     "en": "confirmation"
+    },
+    {
+     "id": "elementary-2-44-22",
+     "w": "覗く",
+     "r": "のぞく",
+     "p": "verb",
+     "zh": "窥视，往里看",
+     "en": "to peek",
+     "g": 1
+    },
+    {
+     "id": "elementary-2-44-23",
+     "w": "気付く",
+     "r": "きづく",
+     "p": "verb",
+     "zh": "注意到，察觉",
+     "en": "to notice",
+     "g": 1
+    },
+    {
+     "id": "elementary-2-44-24",
+     "w": "確かめる",
+     "r": "たしかめる",
+     "p": "verb",
+     "zh": "确认，查明",
+     "en": "to make sure",
+     "g": 2
+    },
+    {
+     "id": "elementary-2-44-25",
+     "w": "想像する",
+     "r": "そうぞうする",
+     "p": "verb",
+     "zh": "想象",
+     "en": "to imagine",
+     "g": 3
+    },
+    {
+     "id": "elementary-2-44-26",
+     "w": "予想する",
+     "r": "よそうする",
+     "p": "verb",
+     "zh": "预想，预料",
+     "en": "to expect",
+     "g": 3
+    },
+    {
+     "id": "elementary-2-44-27",
+     "w": "判断する",
+     "r": "はんだんする",
+     "p": "verb",
+     "zh": "判断",
+     "en": "to judge",
+     "g": 3
+    },
+    {
+     "id": "elementary-2-44-28",
+     "w": "間違いない",
+     "r": "まちがいない",
+     "p": "i-adj",
+     "zh": "没错，肯定",
+     "en": "no doubt"
+    },
+    {
+     "id": "elementary-2-44-29",
+     "w": "怪しい",
+     "r": "あやしい",
+     "p": "i-adj",
+     "zh": "可疑的",
+     "en": "suspicious"
+    },
+    {
+     "id": "elementary-2-44-30",
+     "w": "確か",
+     "r": "たしか",
+     "p": "adv",
+     "zh": "记得好像是",
+     "en": "if I remember right"
+    },
+    {
+     "id": "elementary-2-44-31",
+     "w": "どうやら",
+     "r": "どうやら",
+     "p": "adv",
+     "zh": "看样子，好像",
+     "en": "apparently"
+    },
+    {
+     "id": "elementary-2-44-32",
+     "w": "たぶん",
+     "r": "たぶん",
+     "p": "adv",
+     "zh": "大概",
+     "en": "probably"
+    },
+    {
+     "id": "elementary-2-44-33",
+     "w": "きっと",
+     "r": "きっと",
+     "p": "adv",
+     "zh": "一定",
+     "en": "surely"
+    },
+    {
+     "id": "elementary-2-44-34",
+     "w": "もしかしたら",
+     "r": "もしかしたら",
+     "p": "adv",
+     "zh": "说不定",
+     "en": "maybe; perhaps"
+    },
+    {
+     "id": "elementary-2-44-35",
+     "w": "なんだか",
+     "r": "なんだか",
+     "p": "adv",
+     "zh": "总觉得",
+     "en": "somehow"
+    },
+    {
+     "id": "elementary-2-44-36",
+     "w": "確実に",
+     "r": "かくじつに",
+     "p": "adv",
+     "zh": "确实地",
+     "en": "certainly"
+    }
+   ]
+  },
+  {
+   "n": 45,
+   "title": "少子化が進んで、日本の人口はだんだん減っていくでしょう",
+   "title_zh": "少子化加剧，日本人口会渐渐减少吧",
+   "words": [
+    {
+     "id": "elementary-2-45-01",
+     "w": "少子化",
+     "r": "しょうしか",
+     "p": "noun",
+     "zh": "少子化",
+     "en": "declining birthrate"
+    },
+    {
+     "id": "elementary-2-45-02",
+     "w": "高齢化",
+     "r": "こうれいか",
+     "p": "noun",
+     "zh": "老龄化",
+     "en": "aging (of society)"
+    },
+    {
+     "id": "elementary-2-45-03",
+     "w": "人口",
+     "r": "じんこう",
+     "p": "noun",
+     "zh": "人口",
+     "en": "population"
+    },
+    {
+     "id": "elementary-2-45-04",
+     "w": "出生率",
+     "r": "しゅっしょうりつ",
+     "p": "noun",
+     "zh": "出生率",
+     "en": "birth rate"
+    },
+    {
+     "id": "elementary-2-45-05",
+     "w": "平均寿命",
+     "r": "へいきんじゅみょう",
+     "p": "noun",
+     "zh": "平均寿命",
+     "en": "average lifespan"
+    },
+    {
+     "id": "elementary-2-45-06",
+     "w": "高齢者",
+     "r": "こうれいしゃ",
+     "p": "noun",
+     "zh": "老年人",
+     "en": "the elderly"
+    },
+    {
+     "id": "elementary-2-45-07",
+     "w": "若者",
+     "r": "わかもの",
+     "p": "noun",
+     "zh": "年轻人",
+     "en": "young people"
+    },
+    {
+     "id": "elementary-2-45-08",
+     "w": "世代",
+     "r": "せだい",
+     "p": "noun",
+     "zh": "一代，世代",
+     "en": "generation"
+    },
+    {
+     "id": "elementary-2-45-09",
+     "w": "社会問題",
+     "r": "しゃかいもんだい",
+     "p": "noun",
+     "zh": "社会问题",
+     "en": "social issue"
+    },
+    {
+     "id": "elementary-2-45-10",
+     "w": "労働力",
+     "r": "ろうどうりょく",
+     "p": "noun",
+     "zh": "劳动力",
+     "en": "labor force"
+    },
+    {
+     "id": "elementary-2-45-11",
+     "w": "年金",
+     "r": "ねんきん",
+     "p": "noun",
+     "zh": "养老金",
+     "en": "pension"
+    },
+    {
+     "id": "elementary-2-45-12",
+     "w": "福祉",
+     "r": "ふくし",
+     "p": "noun",
+     "zh": "福利",
+     "en": "welfare"
+    },
+    {
+     "id": "elementary-2-45-13",
+     "w": "介護",
+     "r": "かいご",
+     "p": "noun",
+     "zh": "护理，看护",
+     "en": "nursing care"
+    },
+    {
+     "id": "elementary-2-45-14",
+     "w": "医療",
+     "r": "いりょう",
+     "p": "noun",
+     "zh": "医疗",
+     "en": "medical care"
+    },
+    {
+     "id": "elementary-2-45-15",
+     "w": "保険",
+     "r": "ほけん",
+     "p": "noun",
+     "zh": "保险",
+     "en": "insurance"
+    },
+    {
+     "id": "elementary-2-45-16",
+     "w": "税金",
+     "r": "ぜいきん",
+     "p": "noun",
+     "zh": "税",
+     "en": "tax"
+    },
+    {
+     "id": "elementary-2-45-17",
+     "w": "格差",
+     "r": "かくさ",
+     "p": "noun",
+     "zh": "差距",
+     "en": "disparity"
+    },
+    {
+     "id": "elementary-2-45-18",
+     "w": "環境問題",
+     "r": "かんきょうもんだい",
+     "p": "noun",
+     "zh": "环境问题",
+     "en": "environmental issue"
+    },
+    {
+     "id": "elementary-2-45-19",
+     "w": "温暖化",
+     "r": "おんだんか",
+     "p": "noun",
+     "zh": "变暖，暖化",
+     "en": "global warming"
+    },
+    {
+     "id": "elementary-2-45-20",
+     "w": "資源",
+     "r": "しげん",
+     "p": "noun",
+     "zh": "资源",
+     "en": "resources"
+    },
+    {
+     "id": "elementary-2-45-21",
+     "w": "エネルギー",
+     "r": "エネルギー",
+     "p": "noun",
+     "zh": "能源",
+     "en": "energy"
+    },
+    {
+     "id": "elementary-2-45-22",
+     "w": "リサイクル",
+     "r": "リサイクル",
+     "p": "noun",
+     "zh": "回收利用",
+     "en": "recycling"
+    },
+    {
+     "id": "elementary-2-45-23",
+     "w": "ごみ問題",
+     "r": "ごみもんだい",
+     "p": "noun",
+     "zh": "垃圾问题",
+     "en": "garbage problem"
+    },
+    {
+     "id": "elementary-2-45-24",
+     "w": "対策",
+     "r": "たいさく",
+     "p": "noun",
+     "zh": "对策",
+     "en": "countermeasure"
+    },
+    {
+     "id": "elementary-2-45-25",
+     "w": "政府",
+     "r": "せいふ",
+     "p": "noun",
+     "zh": "政府",
+     "en": "government"
+    },
+    {
+     "id": "elementary-2-45-26",
+     "w": "統計",
+     "r": "とうけい",
+     "p": "noun",
+     "zh": "统计",
+     "en": "statistics"
+    },
+    {
+     "id": "elementary-2-45-27",
+     "w": "割合",
+     "r": "わりあい",
+     "p": "noun",
+     "zh": "比例",
+     "en": "proportion"
+    },
+    {
+     "id": "elementary-2-45-28",
+     "w": "傾向",
+     "r": "けいこう",
+     "p": "noun",
+     "zh": "倾向，趋势",
+     "en": "tendency"
+    },
+    {
+     "id": "elementary-2-45-29",
+     "w": "増加する",
+     "r": "ぞうかする",
+     "p": "verb",
+     "zh": "增加",
+     "en": "to increase",
+     "g": 3
+    },
+    {
+     "id": "elementary-2-45-30",
+     "w": "減少する",
+     "r": "げんしょうする",
+     "p": "verb",
+     "zh": "减少",
+     "en": "to decrease",
+     "g": 3
+    },
+    {
+     "id": "elementary-2-45-31",
+     "w": "進む",
+     "r": "すすむ",
+     "p": "verb",
+     "zh": "发展，加剧",
+     "en": "to advance; to progress",
+     "g": 1
+    },
+    {
+     "id": "elementary-2-45-32",
+     "w": "解決する",
+     "r": "かいけつする",
+     "p": "verb",
+     "zh": "解决",
+     "en": "to solve",
+     "g": 3
+    },
+    {
+     "id": "elementary-2-45-33",
+     "w": "予測する",
+     "r": "よそくする",
+     "p": "verb",
+     "zh": "预测",
+     "en": "to predict",
+     "g": 3
+    },
+    {
+     "id": "elementary-2-45-34",
+     "w": "深刻",
+     "r": "しんこく",
+     "p": "na-adj",
+     "zh": "严重的",
+     "en": "serious"
+    },
+    {
+     "id": "elementary-2-45-35",
+     "w": "急激",
+     "r": "きゅうげき",
+     "p": "na-adj",
+     "zh": "急剧的",
+     "en": "rapid; drastic"
+    },
+    {
+     "id": "elementary-2-45-36",
+     "w": "今後",
+     "r": "こんご",
+     "p": "noun",
+     "zh": "今后",
+     "en": "from now on"
+    }
+   ]
+  },
+  {
+   "n": 46,
+   "title": "これは柔らかくて、まるで本物の毛皮のようです",
+   "title_zh": "这个又软，简直像真毛皮一样",
+   "words": [
+    {
+     "id": "elementary-2-46-01",
+     "w": "柔らかい",
+     "r": "やわらかい",
+     "p": "i-adj",
+     "zh": "柔软的",
+     "en": "soft"
+    },
+    {
+     "id": "elementary-2-46-02",
+     "w": "硬い",
+     "r": "かたい",
+     "p": "i-adj",
+     "zh": "硬的",
+     "en": "hard"
+    },
+    {
+     "id": "elementary-2-46-03",
+     "w": "滑らか",
+     "r": "なめらか",
+     "p": "na-adj",
+     "zh": "光滑的",
+     "en": "smooth"
+    },
+    {
+     "id": "elementary-2-46-04",
+     "w": "本物",
+     "r": "ほんもの",
+     "p": "noun",
+     "zh": "真货，真的",
+     "en": "the real thing"
+    },
+    {
+     "id": "elementary-2-46-05",
+     "w": "偽物",
+     "r": "にせもの",
+     "p": "noun",
+     "zh": "假货",
+     "en": "fake"
+    },
+    {
+     "id": "elementary-2-46-06",
+     "w": "毛皮",
+     "r": "けがわ",
+     "p": "noun",
+     "zh": "毛皮",
+     "en": "fur"
+    },
+    {
+     "id": "elementary-2-46-07",
+     "w": "革",
+     "r": "かわ",
+     "p": "noun",
+     "zh": "皮革",
+     "en": "leather"
+    },
+    {
+     "id": "elementary-2-46-08",
+     "w": "布",
+     "r": "ぬの",
+     "p": "noun",
+     "zh": "布",
+     "en": "cloth"
+    },
+    {
+     "id": "elementary-2-46-09",
+     "w": "綿",
+     "r": "めん",
+     "p": "noun",
+     "zh": "棉",
+     "en": "cotton"
+    },
+    {
+     "id": "elementary-2-46-10",
+     "w": "絹",
+     "r": "きぬ",
+     "p": "noun",
+     "zh": "丝绸",
+     "en": "silk"
+    },
+    {
+     "id": "elementary-2-46-11",
+     "w": "毛",
+     "r": "け",
+     "p": "noun",
+     "zh": "毛",
+     "en": "hair; wool"
+    },
+    {
+     "id": "elementary-2-46-12",
+     "w": "木材",
+     "r": "もくざい",
+     "p": "noun",
+     "zh": "木材",
+     "en": "lumber"
+    },
+    {
+     "id": "elementary-2-46-13",
+     "w": "金属",
+     "r": "きんぞく",
+     "p": "noun",
+     "zh": "金属",
+     "en": "metal"
+    },
+    {
+     "id": "elementary-2-46-14",
+     "w": "鉄",
+     "r": "てつ",
+     "p": "noun",
+     "zh": "铁",
+     "en": "iron"
+    },
+    {
+     "id": "elementary-2-46-15",
+     "w": "金",
+     "r": "きん",
+     "p": "noun",
+     "zh": "金，黄金",
+     "en": "gold"
+    },
+    {
+     "id": "elementary-2-46-16",
+     "w": "銀",
+     "r": "ぎん",
+     "p": "noun",
+     "zh": "银",
+     "en": "silver"
+    },
+    {
+     "id": "elementary-2-46-17",
+     "w": "ガラス",
+     "r": "ガラス",
+     "p": "noun",
+     "zh": "玻璃",
+     "en": "glass"
+    },
+    {
+     "id": "elementary-2-46-18",
+     "w": "プラスチック",
+     "r": "プラスチック",
+     "p": "noun",
+     "zh": "塑料",
+     "en": "plastic"
+    },
+    {
+     "id": "elementary-2-46-19",
+     "w": "紙製",
+     "r": "かみせい",
+     "p": "noun",
+     "zh": "纸制的",
+     "en": "made of paper"
+    },
+    {
+     "id": "elementary-2-46-20",
+     "w": "材料",
+     "r": "ざいりょう",
+     "p": "noun",
+     "zh": "材料",
+     "en": "material"
+    },
+    {
+     "id": "elementary-2-46-21",
+     "w": "原料",
+     "r": "げんりょう",
+     "p": "noun",
+     "zh": "原料",
+     "en": "raw material"
+    },
+    {
+     "id": "elementary-2-46-22",
+     "w": "品質",
+     "r": "ひんしつ",
+     "p": "noun",
+     "zh": "质量",
+     "en": "quality"
+    },
+    {
+     "id": "elementary-2-46-23",
+     "w": "表面",
+     "r": "ひょうめん",
+     "p": "noun",
+     "zh": "表面",
+     "en": "surface"
+    },
+    {
+     "id": "elementary-2-46-24",
+     "w": "形",
+     "r": "かたち",
+     "p": "noun",
+     "zh": "形状",
+     "en": "shape"
+    },
+    {
+     "id": "elementary-2-46-25",
+     "w": "模様",
+     "r": "もよう",
+     "p": "noun",
+     "zh": "花纹，图案",
+     "en": "pattern"
+    },
+    {
+     "id": "elementary-2-46-26",
+     "w": "色合い",
+     "r": "いろあい",
+     "p": "noun",
+     "zh": "色调",
+     "en": "shade of color"
+    },
+    {
+     "id": "elementary-2-46-27",
+     "w": "まるで",
+     "r": "まるで",
+     "p": "adv",
+     "zh": "简直，好像",
+     "en": "just like"
+    },
+    {
+     "id": "elementary-2-46-28",
+     "w": "ちょうど",
+     "r": "ちょうど",
+     "p": "adv",
+     "zh": "正如，恰好",
+     "en": "just; exactly"
+    },
+    {
+     "id": "elementary-2-46-29",
+     "w": "あたかも",
+     "r": "あたかも",
+     "p": "adv",
+     "zh": "宛如，恰似",
+     "en": "as if"
+    },
+    {
+     "id": "elementary-2-46-30",
+     "w": "そっくり",
+     "r": "そっくり",
+     "p": "na-adj",
+     "zh": "一模一样的",
+     "en": "exactly alike"
+    },
+    {
+     "id": "elementary-2-46-31",
+     "w": "似る",
+     "r": "にる",
+     "p": "verb",
+     "zh": "像，相似",
+     "en": "to resemble",
+     "g": 2
+    },
+    {
+     "id": "elementary-2-46-32",
+     "w": "見える",
+     "r": "みえる",
+     "p": "verb",
+     "zh": "看上去…",
+     "en": "to appear; to look",
+     "g": 2
+    },
+    {
+     "id": "elementary-2-46-33",
+     "w": "感じる",
+     "r": "かんじる",
+     "p": "verb",
+     "zh": "感觉",
+     "en": "to feel",
+     "g": 2
+    },
+    {
+     "id": "elementary-2-46-34",
+     "w": "触れる",
+     "r": "ふれる",
+     "p": "verb",
+     "zh": "触碰",
+     "en": "to touch",
+     "g": 2
+    },
+    {
+     "id": "elementary-2-46-35",
+     "w": "比べる",
+     "r": "くらべる",
+     "p": "verb",
+     "zh": "比较",
+     "en": "to compare",
+     "g": 2
+    },
+    {
+     "id": "elementary-2-46-36",
+     "w": "例える",
+     "r": "たとえる",
+     "p": "verb",
+     "zh": "比喻",
+     "en": "to liken to",
+     "g": 2
+    }
+   ]
+  },
+  {
+   "n": 47,
+   "title": "周先生は明日日本へ行かれます",
+   "title_zh": "周老师明天去日本",
+   "words": [
+    {
+     "id": "elementary-2-47-01",
+     "w": "いらっしゃる",
+     "r": "いらっしゃる",
+     "p": "verb",
+     "zh": "来，去，在（尊敬）",
+     "en": "to come/go/be (honorific)",
+     "g": 1
+    },
+    {
+     "id": "elementary-2-47-02",
+     "w": "おっしゃる",
+     "r": "おっしゃる",
+     "p": "verb",
+     "zh": "说（尊敬）",
+     "en": "to say (honorific)",
+     "g": 1
+    },
+    {
+     "id": "elementary-2-47-03",
+     "w": "召し上がる",
+     "r": "めしあがる",
+     "p": "verb",
+     "zh": "吃，喝（尊敬）",
+     "en": "to eat/drink (honorific)",
+     "g": 1
+    },
+    {
+     "id": "elementary-2-47-04",
+     "w": "ご覧になる",
+     "r": "ごらんになる",
+     "p": "verb",
+     "zh": "看（尊敬）",
+     "en": "to look at (honorific)",
+     "g": 1
+    },
+    {
+     "id": "elementary-2-47-05",
+     "w": "なさる",
+     "r": "なさる",
+     "p": "verb",
+     "zh": "做（尊敬）",
+     "en": "to do (honorific)",
+     "g": 1
+    },
+    {
+     "id": "elementary-2-47-06",
+     "w": "ご存じ",
+     "r": "ごぞんじ",
+     "p": "noun",
+     "zh": "知道（尊敬）",
+     "en": "knowing (honorific)"
+    },
+    {
+     "id": "elementary-2-47-07",
+     "w": "お休みになる",
+     "r": "おやすみになる",
+     "p": "verb",
+     "zh": "休息，就寝（尊敬）",
+     "en": "to rest (honorific)",
+     "g": 1
+    },
+    {
+     "id": "elementary-2-47-08",
+     "w": "お出かけになる",
+     "r": "おでかけになる",
+     "p": "verb",
+     "zh": "外出（尊敬）",
+     "en": "to go out (honorific)",
+     "g": 1
+    },
+    {
+     "id": "elementary-2-47-09",
+     "w": "どなた",
+     "r": "どなた",
+     "p": "pron",
+     "zh": "哪位",
+     "en": "who (polite)"
+    },
+    {
+     "id": "elementary-2-47-10",
+     "w": "どちら様",
+     "r": "どちらさま",
+     "p": "pron",
+     "zh": "哪一位",
+     "en": "who (very polite)"
+    },
+    {
+     "id": "elementary-2-47-11",
+     "w": "お宅",
+     "r": "おたく",
+     "p": "noun",
+     "zh": "府上，您家",
+     "en": "your home"
+    },
+    {
+     "id": "elementary-2-47-12",
+     "w": "ご家族",
+     "r": "ごかぞく",
+     "p": "noun",
+     "zh": "您的家人",
+     "en": "your family"
+    },
+    {
+     "id": "elementary-2-47-13",
+     "w": "ご意見",
+     "r": "ごいけん",
+     "p": "noun",
+     "zh": "您的意见",
+     "en": "your opinion"
+    },
+    {
+     "id": "elementary-2-47-14",
+     "w": "ご予定",
+     "r": "ごよてい",
+     "p": "noun",
+     "zh": "您的安排",
+     "en": "your schedule"
+    },
+    {
+     "id": "elementary-2-47-15",
+     "w": "お客様",
+     "r": "おきゃくさま",
+     "p": "noun",
+     "zh": "客人，顾客",
+     "en": "customer; guest"
+    },
+    {
+     "id": "elementary-2-47-16",
+     "w": "先生方",
+     "r": "せんせいがた",
+     "p": "noun",
+     "zh": "老师们",
+     "en": "teachers (polite plural)"
+    },
+    {
+     "id": "elementary-2-47-17",
+     "w": "皆様",
+     "r": "みなさま",
+     "p": "noun",
+     "zh": "各位（敬）",
+     "en": "everyone (polite)"
+    },
+    {
+     "id": "elementary-2-47-18",
+     "w": "目上",
+     "r": "めうえ",
+     "p": "noun",
+     "zh": "长辈，上级",
+     "en": "one's superior"
+    },
+    {
+     "id": "elementary-2-47-19",
+     "w": "目下",
+     "r": "めした",
+     "p": "noun",
+     "zh": "晚辈，下级",
+     "en": "one's junior"
+    },
+    {
+     "id": "elementary-2-47-20",
+     "w": "上司",
+     "r": "じょうし",
+     "p": "noun",
+     "zh": "上司",
+     "en": "boss"
+    },
+    {
+     "id": "elementary-2-47-21",
+     "w": "敬語",
+     "r": "けいご",
+     "p": "noun",
+     "zh": "敬语",
+     "en": "honorific language"
+    },
+    {
+     "id": "elementary-2-47-22",
+     "w": "尊敬語",
+     "r": "そんけいご",
+     "p": "noun",
+     "zh": "尊敬语",
+     "en": "respectful language"
+    },
+    {
+     "id": "elementary-2-47-23",
+     "w": "丁寧語",
+     "r": "ていねいご",
+     "p": "noun",
+     "zh": "礼貌语，丁宁语",
+     "en": "polite language"
+    },
+    {
+     "id": "elementary-2-47-24",
+     "w": "挨拶",
+     "r": "あいさつ",
+     "p": "noun",
+     "zh": "寒暄，问候",
+     "en": "greeting"
+    },
+    {
+     "id": "elementary-2-47-25",
+     "w": "訪問する",
+     "r": "ほうもんする",
+     "p": "verb",
+     "zh": "访问",
+     "en": "to visit",
+     "g": 3
+    },
+    {
+     "id": "elementary-2-47-26",
+     "w": "出席する",
+     "r": "しゅっせきする",
+     "p": "verb",
+     "zh": "出席",
+     "en": "to attend",
+     "g": 3
+    },
+    {
+     "id": "elementary-2-47-27",
+     "w": "欠席する",
+     "r": "けっせきする",
+     "p": "verb",
+     "zh": "缺席",
+     "en": "to be absent",
+     "g": 3
+    },
+    {
+     "id": "elementary-2-47-28",
+     "w": "退職する",
+     "r": "たいしょくする",
+     "p": "verb",
+     "zh": "退休，离职",
+     "en": "to retire; to resign",
+     "g": 3
+    },
+    {
+     "id": "elementary-2-47-29",
+     "w": "就任する",
+     "r": "しゅうにんする",
+     "p": "verb",
+     "zh": "就任",
+     "en": "to take office",
+     "g": 3
+    },
+    {
+     "id": "elementary-2-47-30",
+     "w": "ご覧ください",
+     "r": "ごらんください",
+     "p": "expr",
+     "zh": "请看",
+     "en": "please have a look"
+    },
+    {
+     "id": "elementary-2-47-31",
+     "w": "お願い致します",
+     "r": "おねがいいたします",
+     "p": "expr",
+     "zh": "拜托您了",
+     "en": "I humbly ask you"
+    },
+    {
+     "id": "elementary-2-47-32",
+     "w": "かしこまりました",
+     "r": "かしこまりました",
+     "p": "expr",
+     "zh": "明白了（敬）",
+     "en": "certainly, sir/madam"
+    },
+    {
+     "id": "elementary-2-47-33",
+     "w": "少々",
+     "r": "しょうしょう",
+     "p": "adv",
+     "zh": "稍微，少许",
+     "en": "a little (polite)"
+    },
+    {
+     "id": "elementary-2-47-34",
+     "w": "本日",
+     "r": "ほんじつ",
+     "p": "noun",
+     "zh": "今天（郑重）",
+     "en": "today (formal)"
+    },
+    {
+     "id": "elementary-2-47-35",
+     "w": "先ほど",
+     "r": "さきほど",
+     "p": "noun",
+     "zh": "刚才（郑重）",
+     "en": "a moment ago (formal)"
+    },
+    {
+     "id": "elementary-2-47-36",
+     "w": "のちほど",
+     "r": "のちほど",
+     "p": "adv",
+     "zh": "稍后",
+     "en": "later (formal)"
+    }
+   ]
+  },
+  {
+   "n": 48,
+   "title": "お荷物は私がお持ちします",
+   "title_zh": "您的行李我来拿",
+   "words": [
+    {
+     "id": "elementary-2-48-01",
+     "w": "参る",
+     "r": "まいる",
+     "p": "verb",
+     "zh": "去，来（谦让）",
+     "en": "to go/come (humble)",
+     "g": 1
+    },
+    {
+     "id": "elementary-2-48-02",
+     "w": "申す",
+     "r": "もうす",
+     "p": "verb",
+     "zh": "说，叫（谦让）",
+     "en": "to say (humble)",
+     "g": 1
+    },
+    {
+     "id": "elementary-2-48-03",
+     "w": "申し上げる",
+     "r": "もうしあげる",
+     "p": "verb",
+     "zh": "说（谦让）",
+     "en": "to say (very humble)",
+     "g": 2
+    },
+    {
+     "id": "elementary-2-48-04",
+     "w": "伺う",
+     "r": "うかがう",
+     "p": "verb",
+     "zh": "拜访；请教（谦让）",
+     "en": "to visit; to ask (humble)",
+     "g": 1
+    },
+    {
+     "id": "elementary-2-48-05",
+     "w": "拝見する",
+     "r": "はいけんする",
+     "p": "verb",
+     "zh": "拜读，看（谦让）",
+     "en": "to look at (humble)",
+     "g": 3
+    },
+    {
+     "id": "elementary-2-48-06",
+     "w": "存じる",
+     "r": "ぞんじる",
+     "p": "verb",
+     "zh": "知道，认为（谦让）",
+     "en": "to know; to think (humble)",
+     "g": 2
+    },
+    {
+     "id": "elementary-2-48-07",
+     "w": "致す",
+     "r": "いたす",
+     "p": "verb",
+     "zh": "做（谦让）",
+     "en": "to do (humble)",
+     "g": 1
+    },
+    {
+     "id": "elementary-2-48-08",
+     "w": "おる",
+     "r": "おる",
+     "p": "verb",
+     "zh": "在（谦让）",
+     "en": "to be (humble)",
+     "g": 1
+    },
+    {
+     "id": "elementary-2-48-09",
+     "w": "お持ちする",
+     "r": "おもちする",
+     "p": "verb",
+     "zh": "（我）拿，帮您拿",
+     "en": "to carry (humble)",
+     "g": 3
+    },
+    {
+     "id": "elementary-2-48-10",
+     "w": "ご案内する",
+     "r": "ごあんないする",
+     "p": "verb",
+     "zh": "（我）带路",
+     "en": "to show the way (humble)",
+     "g": 3
+    },
+    {
+     "id": "elementary-2-48-11",
+     "w": "ご説明する",
+     "r": "ごせつめいする",
+     "p": "verb",
+     "zh": "（我）说明",
+     "en": "to explain (humble)",
+     "g": 3
+    },
+    {
+     "id": "elementary-2-48-12",
+     "w": "ご連絡する",
+     "r": "ごれんらくする",
+     "p": "verb",
+     "zh": "（我）联系",
+     "en": "to contact (humble)",
+     "g": 3
+    },
+    {
+     "id": "elementary-2-48-13",
+     "w": "謙譲語",
+     "r": "けんじょうご",
+     "p": "noun",
+     "zh": "谦让语",
+     "en": "humble language"
+    },
+    {
+     "id": "elementary-2-48-14",
+     "w": "弊社",
+     "r": "へいしゃ",
+     "p": "noun",
+     "zh": "敝公司",
+     "en": "our company (humble)"
+    },
+    {
+     "id": "elementary-2-48-15",
+     "w": "御社",
+     "r": "おんしゃ",
+     "p": "noun",
+     "zh": "贵公司",
+     "en": "your company (honorific)"
+    },
+    {
+     "id": "elementary-2-48-16",
+     "w": "担当者",
+     "r": "たんとうしゃ",
+     "p": "noun",
+     "zh": "负责人",
+     "en": "person in charge"
+    },
+    {
+     "id": "elementary-2-48-17",
+     "w": "名刺",
+     "r": "めいし",
+     "p": "noun",
+     "zh": "名片",
+     "en": "business card"
+    },
+    {
+     "id": "elementary-2-48-18",
+     "w": "受付",
+     "r": "うけつけ",
+     "p": "noun",
+     "zh": "前台，接待",
+     "en": "reception"
+    },
+    {
+     "id": "elementary-2-48-19",
+     "w": "応接室",
+     "r": "おうせつしつ",
+     "p": "noun",
+     "zh": "接待室",
+     "en": "reception room"
+    },
+    {
+     "id": "elementary-2-48-20",
+     "w": "会議室",
+     "r": "かいぎしつ",
+     "p": "noun",
+     "zh": "会议室",
+     "en": "meeting room"
+    },
+    {
+     "id": "elementary-2-48-21",
+     "w": "手続き",
+     "r": "てつづき",
+     "p": "noun",
+     "zh": "手续",
+     "en": "procedure"
+    },
+    {
+     "id": "elementary-2-48-22",
+     "w": "契約",
+     "r": "けいやく",
+     "p": "noun",
+     "zh": "合同，签约",
+     "en": "contract"
+    },
+    {
+     "id": "elementary-2-48-23",
+     "w": "見積もり",
+     "r": "みつもり",
+     "p": "noun",
+     "zh": "报价，估价",
+     "en": "estimate; quotation"
+    },
+    {
+     "id": "elementary-2-48-24",
+     "w": "納期",
+     "r": "のうき",
+     "p": "noun",
+     "zh": "交货期",
+     "en": "delivery deadline"
+    },
+    {
+     "id": "elementary-2-48-25",
+     "w": "取引",
+     "r": "とりひき",
+     "p": "noun",
+     "zh": "交易",
+     "en": "business dealings"
+    },
+    {
+     "id": "elementary-2-48-26",
+     "w": "支払い",
+     "r": "しはらい",
+     "p": "noun",
+     "zh": "支付",
+     "en": "payment"
+    },
+    {
+     "id": "elementary-2-48-27",
+     "w": "請求書",
+     "r": "せいきゅうしょ",
+     "p": "noun",
+     "zh": "账单，发票",
+     "en": "invoice"
+    },
+    {
+     "id": "elementary-2-48-28",
+     "w": "領収書",
+     "r": "りょうしゅうしょ",
+     "p": "noun",
+     "zh": "收据",
+     "en": "receipt"
+    },
+    {
+     "id": "elementary-2-48-29",
+     "w": "承知する",
+     "r": "しょうちする",
+     "p": "verb",
+     "zh": "知道，同意",
+     "en": "to understand; to consent",
+     "g": 3
+    },
+    {
+     "id": "elementary-2-48-30",
+     "w": "了解する",
+     "r": "りょうかいする",
+     "p": "verb",
+     "zh": "了解，明白",
+     "en": "to acknowledge",
+     "g": 3
+    },
+    {
+     "id": "elementary-2-48-31",
+     "w": "失礼します",
+     "r": "しつれいします",
+     "p": "expr",
+     "zh": "打扰了，告辞了",
+     "en": "excuse me"
+    },
+    {
+     "id": "elementary-2-48-32",
+     "w": "お世話になります",
+     "r": "おせわになります",
+     "p": "expr",
+     "zh": "承蒙关照",
+     "en": "thank you for your support"
+    },
+    {
+     "id": "elementary-2-48-33",
+     "w": "よろしくお伝えください",
+     "r": "よろしくおつたえください",
+     "p": "expr",
+     "zh": "请代我问好",
+     "en": "please give my regards"
+    },
+    {
+     "id": "elementary-2-48-34",
+     "w": "恐縮",
+     "r": "きょうしゅく",
+     "p": "na-adj",
+     "zh": "惶恐，过意不去",
+     "en": "much obliged; sorry to trouble"
+    },
+    {
+     "id": "elementary-2-48-35",
+     "w": "早速",
+     "r": "さっそく",
+     "p": "adv",
+     "zh": "立刻，马上",
+     "en": "at once; promptly"
+    },
+    {
+     "id": "elementary-2-48-36",
+     "w": "改めて",
+     "r": "あらためて",
+     "p": "adv",
+     "zh": "重新，另行",
+     "en": "anew; another time"
+    }
+   ]
+  }
+ ]
+}

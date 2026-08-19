@@ -1,5 +1,5 @@
 import { useEffect } from 'react'
-import { ORIGIN, PAGE_META, articleMeta } from '../lib/seo'
+import { ORIGIN, PAGE_META, articleMeta, type PageMeta } from '../lib/seo'
 import type { Article } from '../types'
 
 function setMeta(selector: string, attr: string, value: string) {
@@ -34,4 +34,11 @@ export function useArticlePageMeta(article: Article | undefined) {
     const m = articleMeta(article)
     apply(m.title, m.desc, `/practice/${article.id}`)
   }, [article])
+}
+
+/** For routes whose meta is computed from data (textbook books and lessons). */
+export function useComputedPageMeta(meta: PageMeta | undefined, path: string) {
+  useEffect(() => {
+    if (meta) apply(meta.title, meta.desc, path)
+  }, [meta?.title, meta?.desc, path])
 }

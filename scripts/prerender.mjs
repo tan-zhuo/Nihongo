@@ -25,12 +25,24 @@ const vite = await createServer({
 
 try {
   const { render } = await vite.ssrLoadModule('/src/entry-server.tsx')
-  const { ORIGIN, PAGE_META, articleMeta } = await vite.ssrLoadModule('/src/lib/seo.ts')
+  const { ORIGIN, PAGE_META, articleMeta, textbookBookMeta, textbookLessonMeta } =
+    await vite.ssrLoadModule('/src/lib/seo.ts')
   const { articles } = await vite.ssrLoadModule('/src/data/articles/index.ts')
+  const { books } = await vite.ssrLoadModule('/src/data/textbook/index.ts')
 
   const routes = [
     ...Object.entries(PAGE_META).map(([path, meta]) => ({ path, ...meta })),
     ...articles.map((a) => ({ path: `/practice/${a.id}`, ...articleMeta(a), article: a })),
+    ...books
+      .filter((b) => b.lessons.length > 0)
+      .flatMap((b) => [
+        { path: `/textbook/${b.id}`, ...textbookBookMeta(b) },
+        ...b.lessons.map((l) => ({
+          path: `/textbook/${b.id}/${l.n}`,
+          ...textbookLessonMeta(b, l),
+          lesson: { book: b, lesson: l },
+        })),
+      ]),
   ]
 
   const template = readFileSync(join(dist, 'index.html'), 'utf8')
@@ -69,6 +81,24 @@ try {
       )
     }
 
+    if (route.lesson) {
+      const { book, lesson } = route.lesson
+      const ld = {
+        '@context': 'https://schema.org',
+        '@type': 'LearningResource',
+        name: `标准日本语${book.title_zh} 第${lesson.n}课 ${lesson.title}`,
+        url,
+        inLanguage: 'ja',
+        learningResourceType: 'vocabulary flashcards',
+        teaches: lesson.words.slice(0, 30).map((w) => w.w).join('、'),
+        isPartOf: { '@type': 'Book', name: `新版中日交流标准日本语 ${book.title_zh}` },
+      }
+      html = html.replace(
+        '</head>',
+        `  <script type="application/ld+json">${JSON.stringify(ld)}</script>\n  </head>`,
+      )
+    }
+
     const app = await render(route.path)
     html = html.replace('<div id="root"></div>', `<div id="root">${app}</div>`)
 
@@ -83,7 +113,7 @@ try {
     .filter((r) => !r.noindex)
     .map((r) => {
       const loc = ORIGIN + (r.path === '/' ? '/' : r.path)
-      const priority = r.path === '/' ? '1.0' : r.article ? '0.6' : '0.8'
+      const priority = r.path === '/' ? '1.0' : r.article || r.lesson ? '0.6' : '0.8'
       return `  <url><loc>${loc}</loc><priority>${priority}</priority></url>`
     })
   writeFileSync(

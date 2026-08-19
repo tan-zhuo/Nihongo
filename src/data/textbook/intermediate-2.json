@@ -1,0 +1,5357 @@
+{
+ "id": "intermediate-2",
+ "series": "intermediate",
+ "volume": 2,
+ "title": "中級 下",
+ "title_zh": "中级 下册",
+ "title_en": "Intermediate II",
+ "themed": true,
+ "lessons": [
+  {
+   "n": 17,
+   "title": "マスメディアと情報",
+   "title_zh": "大众传媒与信息",
+   "words": [
+    {
+     "id": "intermediate-2-17-01",
+     "w": "報道",
+     "r": "ほうどう",
+     "p": "noun",
+     "zh": "报道",
+     "en": "news coverage"
+    },
+    {
+     "id": "intermediate-2-17-02",
+     "w": "記事",
+     "r": "きじ",
+     "p": "noun",
+     "zh": "报道，文章",
+     "en": "article"
+    },
+    {
+     "id": "intermediate-2-17-03",
+     "w": "見出し",
+     "r": "みだし",
+     "p": "noun",
+     "zh": "标题",
+     "en": "headline"
+    },
+    {
+     "id": "intermediate-2-17-04",
+     "w": "社説",
+     "r": "しゃせつ",
+     "p": "noun",
+     "zh": "社论",
+     "en": "editorial"
+    },
+    {
+     "id": "intermediate-2-17-05",
+     "w": "取材",
+     "r": "しゅざい",
+     "p": "noun",
+     "zh": "采访",
+     "en": "news gathering"
+    },
+    {
+     "id": "intermediate-2-17-06",
+     "w": "記者",
+     "r": "きしゃ",
+     "p": "noun",
+     "zh": "记者",
+     "en": "reporter"
+    },
+    {
+     "id": "intermediate-2-17-07",
+     "w": "会見",
+     "r": "かいけん",
+     "p": "noun",
+     "zh": "记者会",
+     "en": "press conference"
+    },
+    {
+     "id": "intermediate-2-17-08",
+     "w": "特集",
+     "r": "とくしゅう",
+     "p": "noun",
+     "zh": "特辑",
+     "en": "feature"
+    },
+    {
+     "id": "intermediate-2-17-09",
+     "w": "視聴率",
+     "r": "しちょうりつ",
+     "p": "noun",
+     "zh": "收视率",
+     "en": "viewer ratings"
+    },
+    {
+     "id": "intermediate-2-17-10",
+     "w": "世論",
+     "r": "よろん",
+     "p": "noun",
+     "zh": "舆论",
+     "en": "public opinion"
+    },
+    {
+     "id": "intermediate-2-17-11",
+     "w": "世論調査",
+     "r": "よろんちょうさ",
+     "p": "noun",
+     "zh": "民意调查",
+     "en": "opinion poll"
+    },
+    {
+     "id": "intermediate-2-17-12",
+     "w": "情報源",
+     "r": "じょうほうげん",
+     "p": "noun",
+     "zh": "信息来源",
+     "en": "source"
+    },
+    {
+     "id": "intermediate-2-17-13",
+     "w": "信憑性",
+     "r": "しんぴょうせい",
+     "p": "noun",
+     "zh": "可信度",
+     "en": "credibility"
+    },
+    {
+     "id": "intermediate-2-17-14",
+     "w": "偏り",
+     "r": "かたより",
+     "p": "noun",
+     "zh": "偏颇",
+     "en": "bias"
+    },
+    {
+     "id": "intermediate-2-17-15",
+     "w": "誇張",
+     "r": "こちょう",
+     "p": "noun",
+     "zh": "夸张",
+     "en": "exaggeration"
+    },
+    {
+     "id": "intermediate-2-17-16",
+     "w": "訂正記事",
+     "r": "ていせいきじ",
+     "p": "noun",
+     "zh": "更正声明",
+     "en": "correction"
+    },
+    {
+     "id": "intermediate-2-17-17",
+     "w": "広告",
+     "r": "こうこく",
+     "p": "noun",
+     "zh": "广告",
+     "en": "advertisement"
+    },
+    {
+     "id": "intermediate-2-17-18",
+     "w": "宣伝",
+     "r": "せんでん",
+     "p": "noun",
+     "zh": "宣传",
+     "en": "publicity"
+    },
+    {
+     "id": "intermediate-2-17-19",
+     "w": "検閲",
+     "r": "けんえつ",
+     "p": "noun",
+     "zh": "审查",
+     "en": "censorship"
+    },
+    {
+     "id": "intermediate-2-17-20",
+     "w": "言論の自由",
+     "r": "げんろんのじゆう",
+     "p": "noun",
+     "zh": "言论自由",
+     "en": "freedom of speech"
+    },
+    {
+     "id": "intermediate-2-17-21",
+     "w": "個人情報",
+     "r": "こじんじょうほう",
+     "p": "noun",
+     "zh": "个人信息",
+     "en": "personal information"
+    },
+    {
+     "id": "intermediate-2-17-22",
+     "w": "プライバシー",
+     "r": "プライバシー",
+     "p": "noun",
+     "zh": "隐私",
+     "en": "privacy"
+    },
+    {
+     "id": "intermediate-2-17-23",
+     "w": "名誉毀損",
+     "r": "めいよきそん",
+     "p": "noun",
+     "zh": "诽谤",
+     "en": "defamation"
+    },
+    {
+     "id": "intermediate-2-17-24",
+     "w": "影響力",
+     "r": "えいきょうりょく",
+     "p": "noun",
+     "zh": "影响力",
+     "en": "influence"
+    },
+    {
+     "id": "intermediate-2-17-25",
+     "w": "報じる",
+     "r": "ほうじる",
+     "p": "verb",
+     "zh": "报道",
+     "en": "to report",
+     "g": 2
+    },
+    {
+     "id": "intermediate-2-17-26",
+     "w": "伝える",
+     "r": "つたえる",
+     "p": "verb",
+     "zh": "传达",
+     "en": "to convey",
+     "g": 2
+    },
+    {
+     "id": "intermediate-2-17-27",
+     "w": "取り上げる",
+     "r": "とりあげる",
+     "p": "verb",
+     "zh": "提及，报道",
+     "en": "to take up (a topic)",
+     "g": 2
+    },
+    {
+     "id": "intermediate-2-17-28",
+     "w": "暴く",
+     "r": "あばく",
+     "p": "verb",
+     "zh": "揭露",
+     "en": "to expose",
+     "g": 1
+    },
+    {
+     "id": "intermediate-2-17-29",
+     "w": "批判する",
+     "r": "ひはんする",
+     "p": "verb",
+     "zh": "批判",
+     "en": "to criticize",
+     "g": 3
+    },
+    {
+     "id": "intermediate-2-17-30",
+     "w": "注目を集める",
+     "r": "ちゅうもくをあつめる",
+     "p": "expr",
+     "zh": "引人注目",
+     "en": "to attract attention"
+    },
+    {
+     "id": "intermediate-2-17-31",
+     "w": "鵜呑みにする",
+     "r": "うのみにする",
+     "p": "expr",
+     "zh": "囫囵吞枣，全盘接受",
+     "en": "to swallow whole"
+    },
+    {
+     "id": "intermediate-2-17-32",
+     "w": "事実確認",
+     "r": "じじつかくにん",
+     "p": "noun",
+     "zh": "核实事实",
+     "en": "fact-checking"
+    },
+    {
+     "id": "intermediate-2-17-33",
+     "w": "客観性",
+     "r": "きゃっかんせい",
+     "p": "noun",
+     "zh": "客观性",
+     "en": "objectivity"
+    },
+    {
+     "id": "intermediate-2-17-34",
+     "w": "中立",
+     "r": "ちゅうりつ",
+     "p": "noun",
+     "zh": "中立",
+     "en": "neutrality"
+    },
+    {
+     "id": "intermediate-2-17-35",
+     "w": "一方的",
+     "r": "いっぽうてき",
+     "p": "na-adj",
+     "zh": "片面的",
+     "en": "one-sided"
+    },
+    {
+     "id": "intermediate-2-17-36",
+     "w": "大々的",
+     "r": "だいだいてき",
+     "p": "na-adj",
+     "zh": "大规模的",
+     "en": "on a grand scale"
+    },
+    {
+     "id": "intermediate-2-17-37",
+     "w": "連日",
+     "r": "れんじつ",
+     "p": "noun",
+     "zh": "连日",
+     "en": "day after day"
+    },
+    {
+     "id": "intermediate-2-17-38",
+     "w": "一斉に",
+     "r": "いっせいに",
+     "p": "adv",
+     "zh": "一齐",
+     "en": "all at once"
+    },
+    {
+     "id": "intermediate-2-17-39",
+     "w": "相次いで",
+     "r": "あいついで",
+     "p": "adv",
+     "zh": "接二连三地",
+     "en": "one after another"
+    },
+    {
+     "id": "intermediate-2-17-40",
+     "w": "改めて",
+     "r": "あらためて",
+     "p": "adv",
+     "zh": "重新",
+     "en": "anew"
+    }
+   ]
+  },
+  {
+   "n": 18,
+   "title": "インターネットとSNS",
+   "title_zh": "网络与社交媒体",
+   "words": [
+    {
+     "id": "intermediate-2-18-01",
+     "w": "検索",
+     "r": "けんさく",
+     "p": "noun",
+     "zh": "检索，搜索",
+     "en": "search"
+    },
+    {
+     "id": "intermediate-2-18-02",
+     "w": "閲覧",
+     "r": "えつらん",
+     "p": "noun",
+     "zh": "浏览",
+     "en": "browsing"
+    },
+    {
+     "id": "intermediate-2-18-03",
+     "w": "投稿",
+     "r": "とうこう",
+     "p": "noun",
+     "zh": "投稿，发帖",
+     "en": "post"
+    },
+    {
+     "id": "intermediate-2-18-04",
+     "w": "拡散",
+     "r": "かくさん",
+     "p": "noun",
+     "zh": "扩散，转发",
+     "en": "spread; sharing"
+    },
+    {
+     "id": "intermediate-2-18-05",
+     "w": "炎上",
+     "r": "えんじょう",
+     "p": "noun",
+     "zh": "网络围攻",
+     "en": "online firestorm"
+    },
+    {
+     "id": "intermediate-2-18-06",
+     "w": "匿名",
+     "r": "とくめい",
+     "p": "noun",
+     "zh": "匿名",
+     "en": "anonymity"
+    },
+    {
+     "id": "intermediate-2-18-07",
+     "w": "実名",
+     "r": "じつめい",
+     "p": "noun",
+     "zh": "实名",
+     "en": "real name"
+    },
+    {
+     "id": "intermediate-2-18-08",
+     "w": "利用者",
+     "r": "りようしゃ",
+     "p": "noun",
+     "zh": "用户",
+     "en": "user"
+    },
+    {
+     "id": "intermediate-2-18-09",
+     "w": "登録",
+     "r": "とうろく",
+     "p": "noun",
+     "zh": "注册",
+     "en": "registration"
+    },
+    {
+     "id": "intermediate-2-18-10",
+     "w": "認証",
+     "r": "にんしょう",
+     "p": "noun",
+     "zh": "认证",
+     "en": "authentication"
+    },
+    {
+     "id": "intermediate-2-18-11",
+     "w": "暗証番号",
+     "r": "あんしょうばんごう",
+     "p": "noun",
+     "zh": "密码",
+     "en": "PIN"
+    },
+    {
+     "id": "intermediate-2-18-12",
+     "w": "流出",
+     "r": "りゅうしゅつ",
+     "p": "noun",
+     "zh": "泄露",
+     "en": "leak"
+    },
+    {
+     "id": "intermediate-2-18-13",
+     "w": "詐欺",
+     "r": "さぎ",
+     "p": "noun",
+     "zh": "诈骗",
+     "en": "fraud"
+    },
+    {
+     "id": "intermediate-2-18-14",
+     "w": "迷惑メール",
+     "r": "めいわくメール",
+     "p": "noun",
+     "zh": "垃圾邮件",
+     "en": "spam"
+    },
+    {
+     "id": "intermediate-2-18-15",
+     "w": "依存",
+     "r": "いぞん",
+     "p": "noun",
+     "zh": "依赖，成瘾",
+     "en": "dependence"
+    },
+    {
+     "id": "intermediate-2-18-16",
+     "w": "通信速度",
+     "r": "つうしんそくど",
+     "p": "noun",
+     "zh": "网速",
+     "en": "connection speed"
+    },
+    {
+     "id": "intermediate-2-18-17",
+     "w": "回線",
+     "r": "かいせん",
+     "p": "noun",
+     "zh": "线路，网络",
+     "en": "line; connection"
+    },
+    {
+     "id": "intermediate-2-18-18",
+     "w": "端末",
+     "r": "たんまつ",
+     "p": "noun",
+     "zh": "终端设备",
+     "en": "terminal; device"
+    },
+    {
+     "id": "intermediate-2-18-19",
+     "w": "画面共有",
+     "r": "がめんきょうゆう",
+     "p": "noun",
+     "zh": "共享屏幕",
+     "en": "screen sharing"
+    },
+    {
+     "id": "intermediate-2-18-20",
+     "w": "配信",
+     "r": "はいしん",
+     "p": "noun",
+     "zh": "发布，直播",
+     "en": "streaming; delivery"
+    },
+    {
+     "id": "intermediate-2-18-21",
+     "w": "動画",
+     "r": "どうが",
+     "p": "noun",
+     "zh": "视频",
+     "en": "video"
+    },
+    {
+     "id": "intermediate-2-18-22",
+     "w": "通知",
+     "r": "つうち",
+     "p": "noun",
+     "zh": "通知",
+     "en": "notification"
+    },
+    {
+     "id": "intermediate-2-18-23",
+     "w": "設定",
+     "r": "せってい",
+     "p": "noun",
+     "zh": "设置",
+     "en": "settings"
+    },
+    {
+     "id": "intermediate-2-18-24",
+     "w": "更新する",
+     "r": "こうしんする",
+     "p": "verb",
+     "zh": "更新",
+     "en": "to update",
+     "g": 3
+    },
+    {
+     "id": "intermediate-2-18-25",
+     "w": "削除する",
+     "r": "さくじょする",
+     "p": "verb",
+     "zh": "删除",
+     "en": "to delete",
+     "g": 3
+    },
+    {
+     "id": "intermediate-2-18-26",
+     "w": "保存する",
+     "r": "ほぞんする",
+     "p": "verb",
+     "zh": "保存",
+     "en": "to save",
+     "g": 3
+    },
+    {
+     "id": "intermediate-2-18-27",
+     "w": "共有する",
+     "r": "きょうゆうする",
+     "p": "verb",
+     "zh": "共享",
+     "en": "to share",
+     "g": 3
+    },
+    {
+     "id": "intermediate-2-18-28",
+     "w": "ダウンロードする",
+     "r": "ダウンロードする",
+     "p": "verb",
+     "zh": "下载",
+     "en": "to download",
+     "g": 3
+    },
+    {
+     "id": "intermediate-2-18-29",
+     "w": "アップロードする",
+     "r": "アップロードする",
+     "p": "verb",
+     "zh": "上传",
+     "en": "to upload",
+     "g": 3
+    },
+    {
+     "id": "intermediate-2-18-30",
+     "w": "接続する",
+     "r": "せつぞくする",
+     "p": "verb",
+     "zh": "连接",
+     "en": "to connect",
+     "g": 3
+    },
+    {
+     "id": "intermediate-2-18-31",
+     "w": "検索する",
+     "r": "けんさくする",
+     "p": "verb",
+     "zh": "搜索",
+     "en": "to search",
+     "g": 3
+    },
+    {
+     "id": "intermediate-2-18-32",
+     "w": "書き込む",
+     "r": "かきこむ",
+     "p": "verb",
+     "zh": "写入，发帖",
+     "en": "to post; to write in",
+     "g": 1
+    },
+    {
+     "id": "intermediate-2-18-33",
+     "w": "つながる",
+     "r": "つながる",
+     "p": "verb",
+     "zh": "连接上",
+     "en": "to be connected",
+     "g": 1
+    },
+    {
+     "id": "intermediate-2-18-34",
+     "w": "手軽",
+     "r": "てがる",
+     "p": "na-adj",
+     "zh": "简便的",
+     "en": "easy; casual"
+    },
+    {
+     "id": "intermediate-2-18-35",
+     "w": "便利",
+     "r": "べんり",
+     "p": "na-adj",
+     "zh": "方便的",
+     "en": "convenient"
+    },
+    {
+     "id": "intermediate-2-18-36",
+     "w": "危険性",
+     "r": "きけんせい",
+     "p": "noun",
+     "zh": "危险性",
+     "en": "risk"
+    },
+    {
+     "id": "intermediate-2-18-37",
+     "w": "信頼性",
+     "r": "しんらいせい",
+     "p": "noun",
+     "zh": "可靠性",
+     "en": "reliability"
+    },
+    {
+     "id": "intermediate-2-18-38",
+     "w": "急速",
+     "r": "きゅうそく",
+     "p": "na-adj",
+     "zh": "迅速的",
+     "en": "rapid"
+    },
+    {
+     "id": "intermediate-2-18-39",
+     "w": "次々と",
+     "r": "つぎつぎと",
+     "p": "adv",
+     "zh": "接连不断",
+     "en": "one after another"
+    },
+    {
+     "id": "intermediate-2-18-40",
+     "w": "瞬く間に",
+     "r": "またたくまに",
+     "p": "adv",
+     "zh": "转眼间",
+     "en": "in the blink of an eye"
+    }
+   ]
+  },
+  {
+   "n": 19,
+   "title": "経済と景気",
+   "title_zh": "经济与景气",
+   "words": [
+    {
+     "id": "intermediate-2-19-01",
+     "w": "景気",
+     "r": "けいき",
+     "p": "noun",
+     "zh": "经济景气",
+     "en": "economic conditions"
+    },
+    {
+     "id": "intermediate-2-19-02",
+     "w": "好況",
+     "r": "こうきょう",
+     "p": "noun",
+     "zh": "繁荣",
+     "en": "boom"
+    },
+    {
+     "id": "intermediate-2-19-03",
+     "w": "不況",
+     "r": "ふきょう",
+     "p": "noun",
+     "zh": "不景气，萧条",
+     "en": "recession"
+    },
+    {
+     "id": "intermediate-2-19-04",
+     "w": "回復",
+     "r": "かいふく",
+     "p": "noun",
+     "zh": "复苏",
+     "en": "recovery"
+    },
+    {
+     "id": "intermediate-2-19-05",
+     "w": "成長率",
+     "r": "せいちょうりつ",
+     "p": "noun",
+     "zh": "增长率",
+     "en": "growth rate"
+    },
+    {
+     "id": "intermediate-2-19-06",
+     "w": "物価上昇",
+     "r": "ぶっかじょうしょう",
+     "p": "noun",
+     "zh": "物价上涨",
+     "en": "price increase"
+    },
+    {
+     "id": "intermediate-2-19-07",
+     "w": "インフレ",
+     "r": "インフレ",
+     "p": "noun",
+     "zh": "通货膨胀",
+     "en": "inflation"
+    },
+    {
+     "id": "intermediate-2-19-08",
+     "w": "デフレ",
+     "r": "デフレ",
+     "p": "noun",
+     "zh": "通货紧缩",
+     "en": "deflation"
+    },
+    {
+     "id": "intermediate-2-19-09",
+     "w": "為替",
+     "r": "かわせ",
+     "p": "noun",
+     "zh": "汇兑，汇率",
+     "en": "exchange"
+    },
+    {
+     "id": "intermediate-2-19-10",
+     "w": "円高",
+     "r": "えんだか",
+     "p": "noun",
+     "zh": "日元升值",
+     "en": "strong yen"
+    },
+    {
+     "id": "intermediate-2-19-11",
+     "w": "円安",
+     "r": "えんやす",
+     "p": "noun",
+     "zh": "日元贬值",
+     "en": "weak yen"
+    },
+    {
+     "id": "intermediate-2-19-12",
+     "w": "株価",
+     "r": "かぶか",
+     "p": "noun",
+     "zh": "股价",
+     "en": "stock price"
+    },
+    {
+     "id": "intermediate-2-19-13",
+     "w": "投資",
+     "r": "とうし",
+     "p": "noun",
+     "zh": "投资",
+     "en": "investment"
+    },
+    {
+     "id": "intermediate-2-19-14",
+     "w": "融資",
+     "r": "ゆうし",
+     "p": "noun",
+     "zh": "融资，贷款",
+     "en": "financing"
+    },
+    {
+     "id": "intermediate-2-19-15",
+     "w": "金利",
+     "r": "きんり",
+     "p": "noun",
+     "zh": "利率",
+     "en": "interest rate"
+    },
+    {
+     "id": "intermediate-2-19-16",
+     "w": "貿易",
+     "r": "ぼうえき",
+     "p": "noun",
+     "zh": "贸易",
+     "en": "trade"
+    },
+    {
+     "id": "intermediate-2-19-17",
+     "w": "輸出入",
+     "r": "ゆしゅつにゅう",
+     "p": "noun",
+     "zh": "进出口",
+     "en": "imports and exports"
+    },
+    {
+     "id": "intermediate-2-19-18",
+     "w": "関税",
+     "r": "かんぜい",
+     "p": "noun",
+     "zh": "关税",
+     "en": "tariff"
+    },
+    {
+     "id": "intermediate-2-19-19",
+     "w": "黒字",
+     "r": "くろじ",
+     "p": "noun",
+     "zh": "盈余",
+     "en": "surplus"
+    },
+    {
+     "id": "intermediate-2-19-20",
+     "w": "赤字",
+     "r": "あかじ",
+     "p": "noun",
+     "zh": "赤字",
+     "en": "deficit"
+    },
+    {
+     "id": "intermediate-2-19-21",
+     "w": "需要",
+     "r": "じゅよう",
+     "p": "noun",
+     "zh": "需求",
+     "en": "demand"
+    },
+    {
+     "id": "intermediate-2-19-22",
+     "w": "供給",
+     "r": "きょうきゅう",
+     "p": "noun",
+     "zh": "供给",
+     "en": "supply"
+    },
+    {
+     "id": "intermediate-2-19-23",
+     "w": "消費",
+     "r": "しょうひ",
+     "p": "noun",
+     "zh": "消费",
+     "en": "consumption"
+    },
+    {
+     "id": "intermediate-2-19-24",
+     "w": "生産",
+     "r": "せいさん",
+     "p": "noun",
+     "zh": "生产",
+     "en": "production"
+    },
+    {
+     "id": "intermediate-2-19-25",
+     "w": "雇用",
+     "r": "こよう",
+     "p": "noun",
+     "zh": "雇用",
+     "en": "employment"
+    },
+    {
+     "id": "intermediate-2-19-26",
+     "w": "失業率",
+     "r": "しつぎょうりつ",
+     "p": "noun",
+     "zh": "失业率",
+     "en": "unemployment rate"
+    },
+    {
+     "id": "intermediate-2-19-27",
+     "w": "賃金",
+     "r": "ちんぎん",
+     "p": "noun",
+     "zh": "工资",
+     "en": "wages"
+    },
+    {
+     "id": "intermediate-2-19-28",
+     "w": "倒産",
+     "r": "とうさん",
+     "p": "noun",
+     "zh": "破产",
+     "en": "bankruptcy"
+    },
+    {
+     "id": "intermediate-2-19-29",
+     "w": "競争",
+     "r": "きょうそう",
+     "p": "noun",
+     "zh": "竞争",
+     "en": "competition"
+    },
+    {
+     "id": "intermediate-2-19-30",
+     "w": "市場",
+     "r": "しじょう",
+     "p": "noun",
+     "zh": "市场",
+     "en": "market"
+    },
+    {
+     "id": "intermediate-2-19-31",
+     "w": "規制",
+     "r": "きせい",
+     "p": "noun",
+     "zh": "管制，规制",
+     "en": "regulation"
+    },
+    {
+     "id": "intermediate-2-19-32",
+     "w": "緩和",
+     "r": "かんわ",
+     "p": "noun",
+     "zh": "缓和，放宽",
+     "en": "easing"
+    },
+    {
+     "id": "intermediate-2-19-33",
+     "w": "落ち込む",
+     "r": "おちこむ",
+     "p": "verb",
+     "zh": "下滑，低落",
+     "en": "to slump",
+     "g": 1
+    },
+    {
+     "id": "intermediate-2-19-34",
+     "w": "持ち直す",
+     "r": "もちなおす",
+     "p": "verb",
+     "zh": "好转",
+     "en": "to pick up again",
+     "g": 1
+    },
+    {
+     "id": "intermediate-2-19-35",
+     "w": "急騰する",
+     "r": "きゅうとうする",
+     "p": "verb",
+     "zh": "暴涨",
+     "en": "to soar",
+     "g": 3
+    },
+    {
+     "id": "intermediate-2-19-36",
+     "w": "急落する",
+     "r": "きゅうらくする",
+     "p": "verb",
+     "zh": "暴跌",
+     "en": "to plunge",
+     "g": 3
+    },
+    {
+     "id": "intermediate-2-19-37",
+     "w": "見込む",
+     "r": "みこむ",
+     "p": "verb",
+     "zh": "预计",
+     "en": "to expect",
+     "g": 1
+    },
+    {
+     "id": "intermediate-2-19-38",
+     "w": "低迷",
+     "r": "ていめい",
+     "p": "noun",
+     "zh": "低迷",
+     "en": "stagnation"
+    },
+    {
+     "id": "intermediate-2-19-39",
+     "w": "深刻",
+     "r": "しんこく",
+     "p": "na-adj",
+     "zh": "严重的",
+     "en": "serious"
+    },
+    {
+     "id": "intermediate-2-19-40",
+     "w": "大幅",
+     "r": "おおはば",
+     "p": "na-adj",
+     "zh": "大幅度的",
+     "en": "substantial"
+    }
+   ]
+  },
+  {
+   "n": 20,
+   "title": "就職活動",
+   "title_zh": "求职",
+   "words": [
+    {
+     "id": "intermediate-2-20-01",
+     "w": "就職活動",
+     "r": "しゅうしょくかつどう",
+     "p": "noun",
+     "zh": "求职活动",
+     "en": "job hunting"
+    },
+    {
+     "id": "intermediate-2-20-02",
+     "w": "求人",
+     "r": "きゅうじん",
+     "p": "noun",
+     "zh": "招聘",
+     "en": "job offer"
+    },
+    {
+     "id": "intermediate-2-20-03",
+     "w": "募集",
+     "r": "ぼしゅう",
+     "p": "noun",
+     "zh": "招募",
+     "en": "recruitment"
+    },
+    {
+     "id": "intermediate-2-20-04",
+     "w": "応募",
+     "r": "おうぼ",
+     "p": "noun",
+     "zh": "应聘",
+     "en": "application"
+    },
+    {
+     "id": "intermediate-2-20-05",
+     "w": "履歴書",
+     "r": "りれきしょ",
+     "p": "noun",
+     "zh": "简历",
+     "en": "resume"
+    },
+    {
+     "id": "intermediate-2-20-06",
+     "w": "職務経歴書",
+     "r": "しょくむけいれきしょ",
+     "p": "noun",
+     "zh": "工作履历书",
+     "en": "CV"
+    },
+    {
+     "id": "intermediate-2-20-07",
+     "w": "エントリーシート",
+     "r": "エントリーシート",
+     "p": "noun",
+     "zh": "求职申请表",
+     "en": "entry sheet"
+    },
+    {
+     "id": "intermediate-2-20-08",
+     "w": "説明会",
+     "r": "せつめいかい",
+     "p": "noun",
+     "zh": "说明会",
+     "en": "information session"
+    },
+    {
+     "id": "intermediate-2-20-09",
+     "w": "内定",
+     "r": "ないてい",
+     "p": "noun",
+     "zh": "内定，预录用",
+     "en": "informal job offer"
+    },
+    {
+     "id": "intermediate-2-20-10",
+     "w": "採用",
+     "r": "さいよう",
+     "p": "noun",
+     "zh": "录用",
+     "en": "hiring"
+    },
+    {
+     "id": "intermediate-2-20-11",
+     "w": "不採用",
+     "r": "ふさいよう",
+     "p": "noun",
+     "zh": "不予录用",
+     "en": "rejection"
+    },
+    {
+     "id": "intermediate-2-20-12",
+     "w": "新卒",
+     "r": "しんそつ",
+     "p": "noun",
+     "zh": "应届毕业生",
+     "en": "new graduate"
+    },
+    {
+     "id": "intermediate-2-20-13",
+     "w": "中途採用",
+     "r": "ちゅうとさいよう",
+     "p": "noun",
+     "zh": "社招",
+     "en": "mid-career hiring"
+    },
+    {
+     "id": "intermediate-2-20-14",
+     "w": "正社員",
+     "r": "せいしゃいん",
+     "p": "noun",
+     "zh": "正式员工",
+     "en": "full-time employee"
+    },
+    {
+     "id": "intermediate-2-20-15",
+     "w": "派遣社員",
+     "r": "はけんしゃいん",
+     "p": "noun",
+     "zh": "派遣员工",
+     "en": "temp worker"
+    },
+    {
+     "id": "intermediate-2-20-16",
+     "w": "契約社員",
+     "r": "けいやくしゃいん",
+     "p": "noun",
+     "zh": "合同工",
+     "en": "contract employee"
+    },
+    {
+     "id": "intermediate-2-20-17",
+     "w": "アルバイト",
+     "r": "アルバイト",
+     "p": "noun",
+     "zh": "打工，兼职",
+     "en": "part-time job"
+    },
+    {
+     "id": "intermediate-2-20-18",
+     "w": "待遇",
+     "r": "たいぐう",
+     "p": "noun",
+     "zh": "待遇",
+     "en": "treatment; terms"
+    },
+    {
+     "id": "intermediate-2-20-19",
+     "w": "給与",
+     "r": "きゅうよ",
+     "p": "noun",
+     "zh": "薪资",
+     "en": "salary"
+    },
+    {
+     "id": "intermediate-2-20-20",
+     "w": "手当",
+     "r": "てあて",
+     "p": "noun",
+     "zh": "津贴",
+     "en": "allowance"
+    },
+    {
+     "id": "intermediate-2-20-21",
+     "w": "賞与",
+     "r": "しょうよ",
+     "p": "noun",
+     "zh": "奖金",
+     "en": "bonus"
+    },
+    {
+     "id": "intermediate-2-20-22",
+     "w": "福利厚生",
+     "r": "ふくりこうせい",
+     "p": "noun",
+     "zh": "福利",
+     "en": "employee benefits"
+    },
+    {
+     "id": "intermediate-2-20-23",
+     "w": "職種",
+     "r": "しょくしゅ",
+     "p": "noun",
+     "zh": "职种",
+     "en": "job category"
+    },
+    {
+     "id": "intermediate-2-20-24",
+     "w": "業界",
+     "r": "ぎょうかい",
+     "p": "noun",
+     "zh": "行业",
+     "en": "industry"
+    },
+    {
+     "id": "intermediate-2-20-25",
+     "w": "志望動機",
+     "r": "しぼうどうき",
+     "p": "noun",
+     "zh": "应聘动机",
+     "en": "reason for applying"
+    },
+    {
+     "id": "intermediate-2-20-26",
+     "w": "自己PR",
+     "r": "じこピーアール",
+     "p": "noun",
+     "zh": "自我推荐",
+     "en": "self-promotion"
+    },
+    {
+     "id": "intermediate-2-20-27",
+     "w": "長所",
+     "r": "ちょうしょ",
+     "p": "noun",
+     "zh": "优点",
+     "en": "strong point"
+    },
+    {
+     "id": "intermediate-2-20-28",
+     "w": "短所",
+     "r": "たんしょ",
+     "p": "noun",
+     "zh": "缺点",
+     "en": "weak point"
+    },
+    {
+     "id": "intermediate-2-20-29",
+     "w": "適職",
+     "r": "てきしょく",
+     "p": "noun",
+     "zh": "合适的工作",
+     "en": "suitable job"
+    },
+    {
+     "id": "intermediate-2-20-30",
+     "w": "転職",
+     "r": "てんしょく",
+     "p": "noun",
+     "zh": "跳槽",
+     "en": "changing jobs"
+    },
+    {
+     "id": "intermediate-2-20-31",
+     "w": "退職",
+     "r": "たいしょく",
+     "p": "noun",
+     "zh": "离职",
+     "en": "resignation"
+    },
+    {
+     "id": "intermediate-2-20-32",
+     "w": "面接官",
+     "r": "めんせつかん",
+     "p": "noun",
+     "zh": "面试官",
+     "en": "interviewer"
+    },
+    {
+     "id": "intermediate-2-20-33",
+     "w": "応募する",
+     "r": "おうぼする",
+     "p": "verb",
+     "zh": "应聘",
+     "en": "to apply",
+     "g": 3
+    },
+    {
+     "id": "intermediate-2-20-34",
+     "w": "受かる",
+     "r": "うかる",
+     "p": "verb",
+     "zh": "考上，通过",
+     "en": "to pass",
+     "g": 1
+    },
+    {
+     "id": "intermediate-2-20-35",
+     "w": "落ちる",
+     "r": "おちる",
+     "p": "verb",
+     "zh": "落选",
+     "en": "to be rejected",
+     "g": 2
+    },
+    {
+     "id": "intermediate-2-20-36",
+     "w": "内定をもらう",
+     "r": "ないていをもらう",
+     "p": "expr",
+     "zh": "拿到内定",
+     "en": "to get a job offer"
+    },
+    {
+     "id": "intermediate-2-20-37",
+     "w": "辞退する",
+     "r": "じたいする",
+     "p": "verb",
+     "zh": "谢绝，放弃",
+     "en": "to decline",
+     "g": 3
+    },
+    {
+     "id": "intermediate-2-20-38",
+     "w": "就職難",
+     "r": "しゅうしょくなん",
+     "p": "noun",
+     "zh": "就业难",
+     "en": "difficulty finding work"
+    },
+    {
+     "id": "intermediate-2-20-39",
+     "w": "競争率",
+     "r": "きょうそうりつ",
+     "p": "noun",
+     "zh": "竞争率",
+     "en": "competition rate"
+    },
+    {
+     "id": "intermediate-2-20-40",
+     "w": "必死",
+     "r": "ひっし",
+     "p": "na-adj",
+     "zh": "拼命的",
+     "en": "desperate"
+    }
+   ]
+  },
+  {
+   "n": 21,
+   "title": "職場の人間関係",
+   "title_zh": "职场人际关系",
+   "words": [
+    {
+     "id": "intermediate-2-21-01",
+     "w": "同期",
+     "r": "どうき",
+     "p": "noun",
+     "zh": "同期入职者",
+     "en": "same-year hire"
+    },
+    {
+     "id": "intermediate-2-21-02",
+     "w": "後輩",
+     "r": "こうはい",
+     "p": "noun",
+     "zh": "后辈，学弟妹",
+     "en": "junior"
+    },
+    {
+     "id": "intermediate-2-21-03",
+     "w": "部下",
+     "r": "ぶか",
+     "p": "noun",
+     "zh": "下属",
+     "en": "subordinate"
+    },
+    {
+     "id": "intermediate-2-21-04",
+     "w": "先輩後輩",
+     "r": "せんぱいこうはい",
+     "p": "noun",
+     "zh": "前后辈关系",
+     "en": "senior-junior relations"
+    },
+    {
+     "id": "intermediate-2-21-05",
+     "w": "上下",
+     "r": "じょうげ",
+     "p": "noun",
+     "zh": "上下（级）",
+     "en": "hierarchy"
+    },
+    {
+     "id": "intermediate-2-21-06",
+     "w": "派閥",
+     "r": "はばつ",
+     "p": "noun",
+     "zh": "派系",
+     "en": "faction"
+    },
+    {
+     "id": "intermediate-2-21-07",
+     "w": "評価",
+     "r": "ひょうか",
+     "p": "noun",
+     "zh": "评价",
+     "en": "evaluation"
+    },
+    {
+     "id": "intermediate-2-21-08",
+     "w": "信用",
+     "r": "しんよう",
+     "p": "noun",
+     "zh": "信用",
+     "en": "credit; trust"
+    },
+    {
+     "id": "intermediate-2-21-09",
+     "w": "協力",
+     "r": "きょうりょく",
+     "p": "noun",
+     "zh": "合作",
+     "en": "cooperation"
+    },
+    {
+     "id": "intermediate-2-21-10",
+     "w": "連携",
+     "r": "れんけい",
+     "p": "noun",
+     "zh": "协作，配合",
+     "en": "coordination"
+    },
+    {
+     "id": "intermediate-2-21-11",
+     "w": "チームワーク",
+     "r": "チームワーク",
+     "p": "noun",
+     "zh": "团队合作",
+     "en": "teamwork"
+    },
+    {
+     "id": "intermediate-2-21-12",
+     "w": "衝突",
+     "r": "しょうとつ",
+     "p": "noun",
+     "zh": "冲突",
+     "en": "clash"
+    },
+    {
+     "id": "intermediate-2-21-13",
+     "w": "摩擦",
+     "r": "まさつ",
+     "p": "noun",
+     "zh": "摩擦",
+     "en": "friction"
+    },
+    {
+     "id": "intermediate-2-21-14",
+     "w": "誤解",
+     "r": "ごかい",
+     "p": "noun",
+     "zh": "误解",
+     "en": "misunderstanding"
+    },
+    {
+     "id": "intermediate-2-21-15",
+     "w": "愚痴",
+     "r": "ぐち",
+     "p": "noun",
+     "zh": "牢骚",
+     "en": "grumbling"
+    },
+    {
+     "id": "intermediate-2-21-16",
+     "w": "陰口",
+     "r": "かげぐち",
+     "p": "noun",
+     "zh": "背后说坏话",
+     "en": "backbiting"
+    },
+    {
+     "id": "intermediate-2-21-17",
+     "w": "根回し",
+     "r": "ねまわし",
+     "p": "noun",
+     "zh": "事前疏通",
+     "en": "laying the groundwork"
+    },
+    {
+     "id": "intermediate-2-21-18",
+     "w": "配慮",
+     "r": "はいりょ",
+     "p": "noun",
+     "zh": "体谅，照顾",
+     "en": "consideration"
+    },
+    {
+     "id": "intermediate-2-21-19",
+     "w": "気遣い",
+     "r": "きづかい",
+     "p": "noun",
+     "zh": "关心，顾虑",
+     "en": "thoughtfulness"
+    },
+    {
+     "id": "intermediate-2-21-20",
+     "w": "距離感",
+     "r": "きょりかん",
+     "p": "noun",
+     "zh": "分寸感",
+     "en": "sense of distance"
+    },
+    {
+     "id": "intermediate-2-21-21",
+     "w": "本音",
+     "r": "ほんね",
+     "p": "noun",
+     "zh": "真心话",
+     "en": "true feelings"
+    },
+    {
+     "id": "intermediate-2-21-22",
+     "w": "建前",
+     "r": "たてまえ",
+     "p": "noun",
+     "zh": "场面话",
+     "en": "public stance"
+    },
+    {
+     "id": "intermediate-2-21-23",
+     "w": "甘える",
+     "r": "あまえる",
+     "p": "verb",
+     "zh": "撒娇，依赖",
+     "en": "to presume on someone's kindness",
+     "g": 2
+    },
+    {
+     "id": "intermediate-2-21-24",
+     "w": "頼る",
+     "r": "たよる",
+     "p": "verb",
+     "zh": "依靠",
+     "en": "to rely on",
+     "g": 1
+    },
+    {
+     "id": "intermediate-2-21-25",
+     "w": "支える",
+     "r": "ささえる",
+     "p": "verb",
+     "zh": "支持",
+     "en": "to support",
+     "g": 2
+    },
+    {
+     "id": "intermediate-2-21-26",
+     "w": "励ます",
+     "r": "はげます",
+     "p": "verb",
+     "zh": "鼓励",
+     "en": "to encourage",
+     "g": 1
+    },
+    {
+     "id": "intermediate-2-21-27",
+     "w": "慰める",
+     "r": "なぐさめる",
+     "p": "verb",
+     "zh": "安慰",
+     "en": "to console",
+     "g": 2
+    },
+    {
+     "id": "intermediate-2-21-28",
+     "w": "譲る",
+     "r": "ゆずる",
+     "p": "verb",
+     "zh": "让步，让给",
+     "en": "to yield",
+     "g": 1
+    },
+    {
+     "id": "intermediate-2-21-29",
+     "w": "避ける",
+     "r": "さける",
+     "p": "verb",
+     "zh": "回避",
+     "en": "to avoid",
+     "g": 2
+    },
+    {
+     "id": "intermediate-2-21-30",
+     "w": "打ち明ける",
+     "r": "うちあける",
+     "p": "verb",
+     "zh": "坦白，倾诉",
+     "en": "to confide",
+     "g": 2
+    },
+    {
+     "id": "intermediate-2-21-31",
+     "w": "仲直りする",
+     "r": "なかなおりする",
+     "p": "verb",
+     "zh": "和好",
+     "en": "to make up",
+     "g": 3
+    },
+    {
+     "id": "intermediate-2-21-32",
+     "w": "気まずい",
+     "r": "きまずい",
+     "p": "i-adj",
+     "zh": "尴尬的",
+     "en": "awkward"
+    },
+    {
+     "id": "intermediate-2-21-33",
+     "w": "煩わしい",
+     "r": "わずらわしい",
+     "p": "i-adj",
+     "zh": "麻烦的，繁琐的",
+     "en": "troublesome"
+    },
+    {
+     "id": "intermediate-2-21-34",
+     "w": "率直",
+     "r": "そっちょく",
+     "p": "na-adj",
+     "zh": "坦率的",
+     "en": "frank"
+    },
+    {
+     "id": "intermediate-2-21-35",
+     "w": "円満",
+     "r": "えんまん",
+     "p": "na-adj",
+     "zh": "和睦的，圆满的",
+     "en": "harmonious"
+    },
+    {
+     "id": "intermediate-2-21-36",
+     "w": "素直",
+     "r": "すなお",
+     "p": "na-adj",
+     "zh": "坦率的，听话的",
+     "en": "honest; obedient"
+    },
+    {
+     "id": "intermediate-2-21-37",
+     "w": "頑固",
+     "r": "がんこ",
+     "p": "na-adj",
+     "zh": "顽固的",
+     "en": "stubborn"
+    },
+    {
+     "id": "intermediate-2-21-38",
+     "w": "慎重",
+     "r": "しんちょう",
+     "p": "na-adj",
+     "zh": "慎重的",
+     "en": "cautious"
+    },
+    {
+     "id": "intermediate-2-21-39",
+     "w": "何気なく",
+     "r": "なにげなく",
+     "p": "adv",
+     "zh": "若无其事地",
+     "en": "casually"
+    },
+    {
+     "id": "intermediate-2-21-40",
+     "w": "つい",
+     "r": "つい",
+     "p": "adv",
+     "zh": "不由得",
+     "en": "unintentionally"
+    }
+   ]
+  },
+  {
+   "n": 22,
+   "title": "契約と交渉",
+   "title_zh": "合同与谈判",
+   "words": [
+    {
+     "id": "intermediate-2-22-01",
+     "w": "条項",
+     "r": "じょうこう",
+     "p": "noun",
+     "zh": "条款",
+     "en": "clause"
+    },
+    {
+     "id": "intermediate-2-22-02",
+     "w": "締結",
+     "r": "ていけつ",
+     "p": "noun",
+     "zh": "缔结，签订",
+     "en": "conclusion (of a contract)"
+    },
+    {
+     "id": "intermediate-2-22-03",
+     "w": "署名",
+     "r": "しょめい",
+     "p": "noun",
+     "zh": "签署",
+     "en": "signature"
+    },
+    {
+     "id": "intermediate-2-22-04",
+     "w": "捺印",
+     "r": "なついん",
+     "p": "noun",
+     "zh": "盖章",
+     "en": "affixing a seal"
+    },
+    {
+     "id": "intermediate-2-22-05",
+     "w": "印鑑",
+     "r": "いんかん",
+     "p": "noun",
+     "zh": "印章",
+     "en": "seal; stamp"
+    },
+    {
+     "id": "intermediate-2-22-06",
+     "w": "有効期限",
+     "r": "ゆうこうきげん",
+     "p": "noun",
+     "zh": "有效期",
+     "en": "expiry date"
+    },
+    {
+     "id": "intermediate-2-22-07",
+     "w": "更新料",
+     "r": "こうしんりょう",
+     "p": "noun",
+     "zh": "续约费",
+     "en": "renewal fee"
+    },
+    {
+     "id": "intermediate-2-22-08",
+     "w": "違約金",
+     "r": "いやくきん",
+     "p": "noun",
+     "zh": "违约金",
+     "en": "penalty"
+    },
+    {
+     "id": "intermediate-2-22-09",
+     "w": "取り消し",
+     "r": "とりけし",
+     "p": "noun",
+     "zh": "取消",
+     "en": "cancellation"
+    },
+    {
+     "id": "intermediate-2-22-10",
+     "w": "合意書",
+     "r": "ごういしょ",
+     "p": "noun",
+     "zh": "协议书",
+     "en": "agreement"
+    },
+    {
+     "id": "intermediate-2-22-11",
+     "w": "覚書",
+     "r": "おぼえがき",
+     "p": "noun",
+     "zh": "备忘录",
+     "en": "memorandum"
+    },
+    {
+     "id": "intermediate-2-22-12",
+     "w": "条件交渉",
+     "r": "じょうけんこうしょう",
+     "p": "noun",
+     "zh": "条件谈判",
+     "en": "negotiating terms"
+    },
+    {
+     "id": "intermediate-2-22-13",
+     "w": "見積書",
+     "r": "みつもりしょ",
+     "p": "noun",
+     "zh": "报价单",
+     "en": "quotation"
+    },
+    {
+     "id": "intermediate-2-22-14",
+     "w": "納品",
+     "r": "のうひん",
+     "p": "noun",
+     "zh": "交货",
+     "en": "delivery"
+    },
+    {
+     "id": "intermediate-2-22-15",
+     "w": "検収",
+     "r": "けんしゅう",
+     "p": "noun",
+     "zh": "验收",
+     "en": "acceptance inspection"
+    },
+    {
+     "id": "intermediate-2-22-16",
+     "w": "支払条件",
+     "r": "しはらいじょうけん",
+     "p": "noun",
+     "zh": "付款条件",
+     "en": "payment terms"
+    },
+    {
+     "id": "intermediate-2-22-17",
+     "w": "前払い",
+     "r": "まえばらい",
+     "p": "noun",
+     "zh": "预付",
+     "en": "advance payment"
+    },
+    {
+     "id": "intermediate-2-22-18",
+     "w": "後払い",
+     "r": "あとばらい",
+     "p": "noun",
+     "zh": "后付",
+     "en": "deferred payment"
+    },
+    {
+     "id": "intermediate-2-22-19",
+     "w": "値引き交渉",
+     "r": "ねびきこうしょう",
+     "p": "noun",
+     "zh": "议价",
+     "en": "price negotiation"
+    },
+    {
+     "id": "intermediate-2-22-20",
+     "w": "歩み寄り",
+     "r": "あゆみより",
+     "p": "noun",
+     "zh": "互相让步",
+     "en": "meeting halfway"
+    },
+    {
+     "id": "intermediate-2-22-21",
+     "w": "落としどころ",
+     "r": "おとしどころ",
+     "p": "noun",
+     "zh": "折中点",
+     "en": "compromise point"
+    },
+    {
+     "id": "intermediate-2-22-22",
+     "w": "駆け引き",
+     "r": "かけひき",
+     "p": "noun",
+     "zh": "讨价还价，博弈",
+     "en": "bargaining"
+    },
+    {
+     "id": "intermediate-2-22-23",
+     "w": "優位",
+     "r": "ゆうい",
+     "p": "noun",
+     "zh": "优势",
+     "en": "advantage"
+    },
+    {
+     "id": "intermediate-2-22-24",
+     "w": "利害",
+     "r": "りがい",
+     "p": "noun",
+     "zh": "利害",
+     "en": "interests"
+    },
+    {
+     "id": "intermediate-2-22-25",
+     "w": "信義",
+     "r": "しんぎ",
+     "p": "noun",
+     "zh": "信义",
+     "en": "good faith"
+    },
+    {
+     "id": "intermediate-2-22-26",
+     "w": "守秘義務",
+     "r": "しゅひぎむ",
+     "p": "noun",
+     "zh": "保密义务",
+     "en": "confidentiality obligation"
+    },
+    {
+     "id": "intermediate-2-22-27",
+     "w": "責任範囲",
+     "r": "せきにんはんい",
+     "p": "noun",
+     "zh": "责任范围",
+     "en": "scope of responsibility"
+    },
+    {
+     "id": "intermediate-2-22-28",
+     "w": "締結する",
+     "r": "ていけつする",
+     "p": "verb",
+     "zh": "缔结",
+     "en": "to conclude",
+     "g": 3
+    },
+    {
+     "id": "intermediate-2-22-29",
+     "w": "交わす",
+     "r": "かわす",
+     "p": "verb",
+     "zh": "交换（合同、意见）",
+     "en": "to exchange",
+     "g": 1
+    },
+    {
+     "id": "intermediate-2-22-30",
+     "w": "取り決める",
+     "r": "とりきめる",
+     "p": "verb",
+     "zh": "约定，商定",
+     "en": "to arrange; to agree on",
+     "g": 2
+    },
+    {
+     "id": "intermediate-2-22-31",
+     "w": "履行する",
+     "r": "りこうする",
+     "p": "verb",
+     "zh": "履行",
+     "en": "to fulfill",
+     "g": 3
+    },
+    {
+     "id": "intermediate-2-22-32",
+     "w": "違反する",
+     "r": "いはんする",
+     "p": "verb",
+     "zh": "违反",
+     "en": "to violate",
+     "g": 3
+    },
+    {
+     "id": "intermediate-2-22-33",
+     "w": "破棄する",
+     "r": "はきする",
+     "p": "verb",
+     "zh": "废除，作废",
+     "en": "to annul",
+     "g": 3
+    },
+    {
+     "id": "intermediate-2-22-34",
+     "w": "譲歩する",
+     "r": "じょうほする",
+     "p": "verb",
+     "zh": "让步",
+     "en": "to concede",
+     "g": 3
+    },
+    {
+     "id": "intermediate-2-22-35",
+     "w": "応じる",
+     "r": "おうじる",
+     "p": "verb",
+     "zh": "答应，响应",
+     "en": "to comply with",
+     "g": 2
+    },
+    {
+     "id": "intermediate-2-22-36",
+     "w": "拒否する",
+     "r": "きょひする",
+     "p": "verb",
+     "zh": "拒绝",
+     "en": "to refuse",
+     "g": 3
+    },
+    {
+     "id": "intermediate-2-22-37",
+     "w": "見直す",
+     "r": "みなおす",
+     "p": "verb",
+     "zh": "重新审视",
+     "en": "to review",
+     "g": 1
+    },
+    {
+     "id": "intermediate-2-22-38",
+     "w": "慎重",
+     "r": "しんちょう",
+     "p": "na-adj",
+     "zh": "慎重的",
+     "en": "careful"
+    },
+    {
+     "id": "intermediate-2-22-39",
+     "w": "厳密",
+     "r": "げんみつ",
+     "p": "na-adj",
+     "zh": "严密的",
+     "en": "strict; precise"
+    },
+    {
+     "id": "intermediate-2-22-40",
+     "w": "曖昧",
+     "r": "あいまい",
+     "p": "na-adj",
+     "zh": "含糊的",
+     "en": "ambiguous"
+    }
+   ]
+  },
+  {
+   "n": 23,
+   "title": "都市と地方",
+   "title_zh": "城市与乡村",
+   "words": [
+    {
+     "id": "intermediate-2-23-01",
+     "w": "都市",
+     "r": "とし",
+     "p": "noun",
+     "zh": "都市",
+     "en": "city"
+    },
+    {
+     "id": "intermediate-2-23-02",
+     "w": "地方",
+     "r": "ちほう",
+     "p": "noun",
+     "zh": "地方，外地",
+     "en": "region; provinces"
+    },
+    {
+     "id": "intermediate-2-23-03",
+     "w": "過疎",
+     "r": "かそ",
+     "p": "noun",
+     "zh": "人口过疏",
+     "en": "depopulation"
+    },
+    {
+     "id": "intermediate-2-23-04",
+     "w": "過密",
+     "r": "かみつ",
+     "p": "noun",
+     "zh": "过密",
+     "en": "overcrowding"
+    },
+    {
+     "id": "intermediate-2-23-05",
+     "w": "一極集中",
+     "r": "いっきょくしゅうちゅう",
+     "p": "noun",
+     "zh": "过度集中",
+     "en": "over-concentration"
+    },
+    {
+     "id": "intermediate-2-23-06",
+     "w": "人口流出",
+     "r": "じんこうりゅうしゅつ",
+     "p": "noun",
+     "zh": "人口外流",
+     "en": "population outflow"
+    },
+    {
+     "id": "intermediate-2-23-07",
+     "w": "移住",
+     "r": "いじゅう",
+     "p": "noun",
+     "zh": "移居",
+     "en": "migration"
+    },
+    {
+     "id": "intermediate-2-23-08",
+     "w": "定住",
+     "r": "ていじゅう",
+     "p": "noun",
+     "zh": "定居",
+     "en": "settling down"
+    },
+    {
+     "id": "intermediate-2-23-09",
+     "w": "地域社会",
+     "r": "ちいきしゃかい",
+     "p": "noun",
+     "zh": "社区，地区社会",
+     "en": "local community"
+    },
+    {
+     "id": "intermediate-2-23-10",
+     "w": "自治体",
+     "r": "じちたい",
+     "p": "noun",
+     "zh": "地方自治体",
+     "en": "local government"
+    },
+    {
+     "id": "intermediate-2-23-11",
+     "w": "住民",
+     "r": "じゅうみん",
+     "p": "noun",
+     "zh": "居民",
+     "en": "resident"
+    },
+    {
+     "id": "intermediate-2-23-12",
+     "w": "郊外",
+     "r": "こうがい",
+     "p": "noun",
+     "zh": "郊外",
+     "en": "suburbs"
+    },
+    {
+     "id": "intermediate-2-23-13",
+     "w": "中心街",
+     "r": "ちゅうしんがい",
+     "p": "noun",
+     "zh": "市中心",
+     "en": "downtown"
+    },
+    {
+     "id": "intermediate-2-23-14",
+     "w": "商店街",
+     "r": "しょうてんがい",
+     "p": "noun",
+     "zh": "商业街",
+     "en": "shopping street"
+    },
+    {
+     "id": "intermediate-2-23-15",
+     "w": "シャッター街",
+     "r": "シャッターがい",
+     "p": "noun",
+     "zh": "倒闭的商业街",
+     "en": "shuttered shopping street"
+    },
+    {
+     "id": "intermediate-2-23-16",
+     "w": "公共交通",
+     "r": "こうきょうこうつう",
+     "p": "noun",
+     "zh": "公共交通",
+     "en": "public transport"
+    },
+    {
+     "id": "intermediate-2-23-17",
+     "w": "インフラ",
+     "r": "インフラ",
+     "p": "noun",
+     "zh": "基础设施",
+     "en": "infrastructure"
+    },
+    {
+     "id": "intermediate-2-23-18",
+     "w": "再開発",
+     "r": "さいかいはつ",
+     "p": "noun",
+     "zh": "再开发",
+     "en": "redevelopment"
+    },
+    {
+     "id": "intermediate-2-23-19",
+     "w": "活性化",
+     "r": "かっせいか",
+     "p": "noun",
+     "zh": "振兴，活跃化",
+     "en": "revitalization"
+    },
+    {
+     "id": "intermediate-2-23-20",
+     "w": "街づくり",
+     "r": "まちづくり",
+     "p": "noun",
+     "zh": "城镇建设",
+     "en": "town planning"
+    },
+    {
+     "id": "intermediate-2-23-21",
+     "w": "特産",
+     "r": "とくさん",
+     "p": "noun",
+     "zh": "特产",
+     "en": "local product"
+    },
+    {
+     "id": "intermediate-2-23-22",
+     "w": "観光資源",
+     "r": "かんこうしげん",
+     "p": "noun",
+     "zh": "旅游资源",
+     "en": "tourism resources"
+    },
+    {
+     "id": "intermediate-2-23-23",
+     "w": "農村",
+     "r": "のうそん",
+     "p": "noun",
+     "zh": "农村",
+     "en": "farming village"
+    },
+    {
+     "id": "intermediate-2-23-24",
+     "w": "漁村",
+     "r": "ぎょそん",
+     "p": "noun",
+     "zh": "渔村",
+     "en": "fishing village"
+    },
+    {
+     "id": "intermediate-2-23-25",
+     "w": "山間部",
+     "r": "さんかんぶ",
+     "p": "noun",
+     "zh": "山区",
+     "en": "mountainous area"
+    },
+    {
+     "id": "intermediate-2-23-26",
+     "w": "生活水準",
+     "r": "せいかつすいじゅん",
+     "p": "noun",
+     "zh": "生活水平",
+     "en": "standard of living"
+    },
+    {
+     "id": "intermediate-2-23-27",
+     "w": "格差",
+     "r": "かくさ",
+     "p": "noun",
+     "zh": "差距",
+     "en": "gap; disparity"
+    },
+    {
+     "id": "intermediate-2-23-28",
+     "w": "利便性",
+     "r": "りべんせい",
+     "p": "noun",
+     "zh": "便利性",
+     "en": "convenience"
+    },
+    {
+     "id": "intermediate-2-23-29",
+     "w": "衰退する",
+     "r": "すいたいする",
+     "p": "verb",
+     "zh": "衰退",
+     "en": "to decline",
+     "g": 3
+    },
+    {
+     "id": "intermediate-2-23-30",
+     "w": "発展する",
+     "r": "はってんする",
+     "p": "verb",
+     "zh": "发展",
+     "en": "to develop",
+     "g": 3
+    },
+    {
+     "id": "intermediate-2-23-31",
+     "w": "支援する",
+     "r": "しえんする",
+     "p": "verb",
+     "zh": "支援",
+     "en": "to support",
+     "g": 3
+    },
+    {
+     "id": "intermediate-2-23-32",
+     "w": "取り組む",
+     "r": "とりくむ",
+     "p": "verb",
+     "zh": "致力于",
+     "en": "to work on",
+     "g": 1
+    },
+    {
+     "id": "intermediate-2-23-33",
+     "w": "根付く",
+     "r": "ねづく",
+     "p": "verb",
+     "zh": "扎根",
+     "en": "to take root",
+     "g": 1
+    },
+    {
+     "id": "intermediate-2-23-34",
+     "w": "見直される",
+     "r": "みなおされる",
+     "p": "verb",
+     "zh": "被重新评价",
+     "en": "to be reappraised",
+     "g": 2
+    },
+    {
+     "id": "intermediate-2-23-35",
+     "w": "豊か",
+     "r": "ゆたか",
+     "p": "na-adj",
+     "zh": "丰富的，富裕的",
+     "en": "rich; abundant"
+    },
+    {
+     "id": "intermediate-2-23-36",
+     "w": "深刻",
+     "r": "しんこく",
+     "p": "na-adj",
+     "zh": "严重的",
+     "en": "serious"
+    },
+    {
+     "id": "intermediate-2-23-37",
+     "w": "活気",
+     "r": "かっき",
+     "p": "noun",
+     "zh": "活力",
+     "en": "vitality"
+    },
+    {
+     "id": "intermediate-2-23-38",
+     "w": "魅力",
+     "r": "みりょく",
+     "p": "noun",
+     "zh": "魅力",
+     "en": "appeal"
+    },
+    {
+     "id": "intermediate-2-23-39",
+     "w": "次第に",
+     "r": "しだいに",
+     "p": "adv",
+     "zh": "逐渐地",
+     "en": "gradually"
+    },
+    {
+     "id": "intermediate-2-23-40",
+     "w": "一方で",
+     "r": "いっぽうで",
+     "p": "conj",
+     "zh": "另一方面",
+     "en": "on the other hand"
+    }
+   ]
+  },
+  {
+   "n": 24,
+   "title": "環境とエコ",
+   "title_zh": "环境与环保",
+   "words": [
+    {
+     "id": "intermediate-2-24-01",
+     "w": "地球温暖化",
+     "r": "ちきゅうおんだんか",
+     "p": "noun",
+     "zh": "全球变暖",
+     "en": "global warming"
+    },
+    {
+     "id": "intermediate-2-24-02",
+     "w": "温室効果ガス",
+     "r": "おんしつこうかガス",
+     "p": "noun",
+     "zh": "温室气体",
+     "en": "greenhouse gas"
+    },
+    {
+     "id": "intermediate-2-24-03",
+     "w": "二酸化炭素",
+     "r": "にさんかたんそ",
+     "p": "noun",
+     "zh": "二氧化碳",
+     "en": "carbon dioxide"
+    },
+    {
+     "id": "intermediate-2-24-04",
+     "w": "排出",
+     "r": "はいしゅつ",
+     "p": "noun",
+     "zh": "排放",
+     "en": "emission"
+    },
+    {
+     "id": "intermediate-2-24-05",
+     "w": "汚染",
+     "r": "おせん",
+     "p": "noun",
+     "zh": "污染",
+     "en": "pollution"
+    },
+    {
+     "id": "intermediate-2-24-06",
+     "w": "大気汚染",
+     "r": "たいきおせん",
+     "p": "noun",
+     "zh": "大气污染",
+     "en": "air pollution"
+    },
+    {
+     "id": "intermediate-2-24-07",
+     "w": "水質",
+     "r": "すいしつ",
+     "p": "noun",
+     "zh": "水质",
+     "en": "water quality"
+    },
+    {
+     "id": "intermediate-2-24-08",
+     "w": "廃棄物",
+     "r": "はいきぶつ",
+     "p": "noun",
+     "zh": "废弃物",
+     "en": "waste"
+    },
+    {
+     "id": "intermediate-2-24-09",
+     "w": "産業廃棄物",
+     "r": "さんぎょうはいきぶつ",
+     "p": "noun",
+     "zh": "工业废弃物",
+     "en": "industrial waste"
+    },
+    {
+     "id": "intermediate-2-24-10",
+     "w": "再生可能エネルギー",
+     "r": "さいせいかのうエネルギー",
+     "p": "noun",
+     "zh": "可再生能源",
+     "en": "renewable energy"
+    },
+    {
+     "id": "intermediate-2-24-11",
+     "w": "太陽光発電",
+     "r": "たいようこうはつでん",
+     "p": "noun",
+     "zh": "太阳能发电",
+     "en": "solar power"
+    },
+    {
+     "id": "intermediate-2-24-12",
+     "w": "風力",
+     "r": "ふうりょく",
+     "p": "noun",
+     "zh": "风力",
+     "en": "wind power"
+    },
+    {
+     "id": "intermediate-2-24-13",
+     "w": "原子力",
+     "r": "げんしりょく",
+     "p": "noun",
+     "zh": "核能",
+     "en": "nuclear power"
+    },
+    {
+     "id": "intermediate-2-24-14",
+     "w": "化石燃料",
+     "r": "かせきねんりょう",
+     "p": "noun",
+     "zh": "化石燃料",
+     "en": "fossil fuel"
+    },
+    {
+     "id": "intermediate-2-24-15",
+     "w": "省エネ",
+     "r": "しょうエネ",
+     "p": "noun",
+     "zh": "节能",
+     "en": "energy saving"
+    },
+    {
+     "id": "intermediate-2-24-16",
+     "w": "再利用",
+     "r": "さいりよう",
+     "p": "noun",
+     "zh": "再利用",
+     "en": "reuse"
+    },
+    {
+     "id": "intermediate-2-24-17",
+     "w": "分別収集",
+     "r": "ぶんべつしゅうしゅう",
+     "p": "noun",
+     "zh": "分类回收",
+     "en": "separated collection"
+    },
+    {
+     "id": "intermediate-2-24-18",
+     "w": "生態系",
+     "r": "せいたいけい",
+     "p": "noun",
+     "zh": "生态系统",
+     "en": "ecosystem"
+    },
+    {
+     "id": "intermediate-2-24-19",
+     "w": "絶滅危惧種",
+     "r": "ぜつめつきぐしゅ",
+     "p": "noun",
+     "zh": "濒危物种",
+     "en": "endangered species"
+    },
+    {
+     "id": "intermediate-2-24-20",
+     "w": "森林伐採",
+     "r": "しんりんばっさい",
+     "p": "noun",
+     "zh": "森林砍伐",
+     "en": "deforestation"
+    },
+    {
+     "id": "intermediate-2-24-21",
+     "w": "砂漠化",
+     "r": "さばくか",
+     "p": "noun",
+     "zh": "沙漠化",
+     "en": "desertification"
+    },
+    {
+     "id": "intermediate-2-24-22",
+     "w": "異常気象",
+     "r": "いじょうきしょう",
+     "p": "noun",
+     "zh": "异常气候",
+     "en": "extreme weather"
+    },
+    {
+     "id": "intermediate-2-24-23",
+     "w": "持続可能",
+     "r": "じぞくかのう",
+     "p": "na-adj",
+     "zh": "可持续的",
+     "en": "sustainable"
+    },
+    {
+     "id": "intermediate-2-24-24",
+     "w": "環境保護",
+     "r": "かんきょうほご",
+     "p": "noun",
+     "zh": "环境保护",
+     "en": "environmental protection"
+    },
+    {
+     "id": "intermediate-2-24-25",
+     "w": "規制強化",
+     "r": "きせいきょうか",
+     "p": "noun",
+     "zh": "加强管制",
+     "en": "tighter regulation"
+    },
+    {
+     "id": "intermediate-2-24-26",
+     "w": "取り組み",
+     "r": "とりくみ",
+     "p": "noun",
+     "zh": "举措，努力",
+     "en": "initiative"
+    },
+    {
+     "id": "intermediate-2-24-27",
+     "w": "意識",
+     "r": "いしき",
+     "p": "noun",
+     "zh": "意识",
+     "en": "awareness"
+    },
+    {
+     "id": "intermediate-2-24-28",
+     "w": "啓発",
+     "r": "けいはつ",
+     "p": "noun",
+     "zh": "启发，宣传教育",
+     "en": "awareness-raising"
+    },
+    {
+     "id": "intermediate-2-24-29",
+     "w": "削減する",
+     "r": "さくげんする",
+     "p": "verb",
+     "zh": "削减",
+     "en": "to reduce",
+     "g": 3
+    },
+    {
+     "id": "intermediate-2-24-30",
+     "w": "抑える",
+     "r": "おさえる",
+     "p": "verb",
+     "zh": "抑制",
+     "en": "to restrain",
+     "g": 2
+    },
+    {
+     "id": "intermediate-2-24-31",
+     "w": "守る",
+     "r": "まもる",
+     "p": "verb",
+     "zh": "保护",
+     "en": "to protect",
+     "g": 1
+    },
+    {
+     "id": "intermediate-2-24-32",
+     "w": "破壊する",
+     "r": "はかいする",
+     "p": "verb",
+     "zh": "破坏",
+     "en": "to destroy",
+     "g": 3
+    },
+    {
+     "id": "intermediate-2-24-33",
+     "w": "汚染する",
+     "r": "おせんする",
+     "p": "verb",
+     "zh": "污染",
+     "en": "to pollute",
+     "g": 3
+    },
+    {
+     "id": "intermediate-2-24-34",
+     "w": "回収する",
+     "r": "かいしゅうする",
+     "p": "verb",
+     "zh": "回收",
+     "en": "to collect; to recover",
+     "g": 3
+    },
+    {
+     "id": "intermediate-2-24-35",
+     "w": "及ぼす",
+     "r": "およぼす",
+     "p": "verb",
+     "zh": "波及，造成（影响）",
+     "en": "to exert (influence)",
+     "g": 1
+    },
+    {
+     "id": "intermediate-2-24-36",
+     "w": "深刻化する",
+     "r": "しんこくかする",
+     "p": "verb",
+     "zh": "日益严重",
+     "en": "to become serious",
+     "g": 3
+    },
+    {
+     "id": "intermediate-2-24-37",
+     "w": "取り返しがつかない",
+     "r": "とりかえしがつかない",
+     "p": "expr",
+     "zh": "无法挽回",
+     "en": "irreversible"
+    },
+    {
+     "id": "intermediate-2-24-38",
+     "w": "地道",
+     "r": "じみち",
+     "p": "na-adj",
+     "zh": "踏实的",
+     "en": "steady; down-to-earth"
+    },
+    {
+     "id": "intermediate-2-24-39",
+     "w": "身近",
+     "r": "みぢか",
+     "p": "na-adj",
+     "zh": "身边的",
+     "en": "close at hand"
+    },
+    {
+     "id": "intermediate-2-24-40",
+     "w": "今や",
+     "r": "いまや",
+     "p": "adv",
+     "zh": "如今",
+     "en": "now; by now"
+    }
+   ]
+  },
+  {
+   "n": 25,
+   "title": "科学技術",
+   "title_zh": "科学技术",
+   "words": [
+    {
+     "id": "intermediate-2-25-01",
+     "w": "技術革新",
+     "r": "ぎじゅつかくしん",
+     "p": "noun",
+     "zh": "技术革新",
+     "en": "technological innovation"
+    },
+    {
+     "id": "intermediate-2-25-02",
+     "w": "研究開発",
+     "r": "けんきゅうかいはつ",
+     "p": "noun",
+     "zh": "研发",
+     "en": "R&D"
+    },
+    {
+     "id": "intermediate-2-25-03",
+     "w": "実験",
+     "r": "じっけん",
+     "p": "noun",
+     "zh": "实验",
+     "en": "experiment"
+    },
+    {
+     "id": "intermediate-2-25-04",
+     "w": "仮説",
+     "r": "かせつ",
+     "p": "noun",
+     "zh": "假说",
+     "en": "hypothesis"
+    },
+    {
+     "id": "intermediate-2-25-05",
+     "w": "検証",
+     "r": "けんしょう",
+     "p": "noun",
+     "zh": "验证",
+     "en": "verification"
+    },
+    {
+     "id": "intermediate-2-25-06",
+     "w": "データ",
+     "r": "データ",
+     "p": "noun",
+     "zh": "数据",
+     "en": "data"
+    },
+    {
+     "id": "intermediate-2-25-07",
+     "w": "分析",
+     "r": "ぶんせき",
+     "p": "noun",
+     "zh": "分析",
+     "en": "analysis"
+    },
+    {
+     "id": "intermediate-2-25-08",
+     "w": "応用",
+     "r": "おうよう",
+     "p": "noun",
+     "zh": "应用",
+     "en": "application"
+    },
+    {
+     "id": "intermediate-2-25-09",
+     "w": "実用化",
+     "r": "じつようか",
+     "p": "noun",
+     "zh": "实用化",
+     "en": "practical application"
+    },
+    {
+     "id": "intermediate-2-25-10",
+     "w": "特許",
+     "r": "とっきょ",
+     "p": "noun",
+     "zh": "专利",
+     "en": "patent"
+    },
+    {
+     "id": "intermediate-2-25-11",
+     "w": "発明",
+     "r": "はつめい",
+     "p": "noun",
+     "zh": "发明",
+     "en": "invention"
+    },
+    {
+     "id": "intermediate-2-25-12",
+     "w": "発見",
+     "r": "はっけん",
+     "p": "noun",
+     "zh": "发现",
+     "en": "discovery"
+    },
+    {
+     "id": "intermediate-2-25-13",
+     "w": "人工知能",
+     "r": "じんこうちのう",
+     "p": "noun",
+     "zh": "人工智能",
+     "en": "artificial intelligence"
+    },
+    {
+     "id": "intermediate-2-25-14",
+     "w": "ロボット",
+     "r": "ロボット",
+     "p": "noun",
+     "zh": "机器人",
+     "en": "robot"
+    },
+    {
+     "id": "intermediate-2-25-15",
+     "w": "自動運転",
+     "r": "じどううんてん",
+     "p": "noun",
+     "zh": "自动驾驶",
+     "en": "autonomous driving"
+    },
+    {
+     "id": "intermediate-2-25-16",
+     "w": "半導体",
+     "r": "はんどうたい",
+     "p": "noun",
+     "zh": "半导体",
+     "en": "semiconductor"
+    },
+    {
+     "id": "intermediate-2-25-17",
+     "w": "通信技術",
+     "r": "つうしんぎじゅつ",
+     "p": "noun",
+     "zh": "通信技术",
+     "en": "communication technology"
+    },
+    {
+     "id": "intermediate-2-25-18",
+     "w": "宇宙開発",
+     "r": "うちゅうかいはつ",
+     "p": "noun",
+     "zh": "太空开发",
+     "en": "space development"
+    },
+    {
+     "id": "intermediate-2-25-19",
+     "w": "衛星",
+     "r": "えいせい",
+     "p": "noun",
+     "zh": "卫星",
+     "en": "satellite"
+    },
+    {
+     "id": "intermediate-2-25-20",
+     "w": "遺伝子",
+     "r": "いでんし",
+     "p": "noun",
+     "zh": "基因",
+     "en": "gene"
+    },
+    {
+     "id": "intermediate-2-25-21",
+     "w": "バイオ技術",
+     "r": "バイオぎじゅつ",
+     "p": "noun",
+     "zh": "生物技术",
+     "en": "biotechnology"
+    },
+    {
+     "id": "intermediate-2-25-22",
+     "w": "素材",
+     "r": "そざい",
+     "p": "noun",
+     "zh": "素材，材料",
+     "en": "material"
+    },
+    {
+     "id": "intermediate-2-25-23",
+     "w": "精度",
+     "r": "せいど",
+     "p": "noun",
+     "zh": "精度",
+     "en": "precision"
+    },
+    {
+     "id": "intermediate-2-25-24",
+     "w": "性能",
+     "r": "せいのう",
+     "p": "noun",
+     "zh": "性能",
+     "en": "performance"
+    },
+    {
+     "id": "intermediate-2-25-25",
+     "w": "効率化",
+     "r": "こうりつか",
+     "p": "noun",
+     "zh": "提高效率",
+     "en": "streamlining"
+    },
+    {
+     "id": "intermediate-2-25-26",
+     "w": "省力化",
+     "r": "しょうりょくか",
+     "p": "noun",
+     "zh": "省力化",
+     "en": "labor saving"
+    },
+    {
+     "id": "intermediate-2-25-27",
+     "w": "倫理",
+     "r": "りんり",
+     "p": "noun",
+     "zh": "伦理",
+     "en": "ethics"
+    },
+    {
+     "id": "intermediate-2-25-28",
+     "w": "安全性",
+     "r": "あんぜんせい",
+     "p": "noun",
+     "zh": "安全性",
+     "en": "safety"
+    },
+    {
+     "id": "intermediate-2-25-29",
+     "w": "リスク",
+     "r": "リスク",
+     "p": "noun",
+     "zh": "风险",
+     "en": "risk"
+    },
+    {
+     "id": "intermediate-2-25-30",
+     "w": "開発する",
+     "r": "かいはつする",
+     "p": "verb",
+     "zh": "开发",
+     "en": "to develop",
+     "g": 3
+    },
+    {
+     "id": "intermediate-2-25-31",
+     "w": "導入する",
+     "r": "どうにゅうする",
+     "p": "verb",
+     "zh": "引进",
+     "en": "to introduce",
+     "g": 3
+    },
+    {
+     "id": "intermediate-2-25-32",
+     "w": "普及する",
+     "r": "ふきゅうする",
+     "p": "verb",
+     "zh": "普及",
+     "en": "to spread widely",
+     "g": 3
+    },
+    {
+     "id": "intermediate-2-25-33",
+     "w": "実現する",
+     "r": "じつげんする",
+     "p": "verb",
+     "zh": "实现",
+     "en": "to realize",
+     "g": 3
+    },
+    {
+     "id": "intermediate-2-25-34",
+     "w": "進化する",
+     "r": "しんかする",
+     "p": "verb",
+     "zh": "进化，演进",
+     "en": "to evolve",
+     "g": 3
+    },
+    {
+     "id": "intermediate-2-25-35",
+     "w": "置き換える",
+     "r": "おきかえる",
+     "p": "verb",
+     "zh": "取代，替换",
+     "en": "to replace",
+     "g": 2
+    },
+    {
+     "id": "intermediate-2-25-36",
+     "w": "依存する",
+     "r": "いぞんする",
+     "p": "verb",
+     "zh": "依赖",
+     "en": "to depend on",
+     "g": 3
+    },
+    {
+     "id": "intermediate-2-25-37",
+     "w": "画期的",
+     "r": "かっきてき",
+     "p": "na-adj",
+     "zh": "划时代的",
+     "en": "groundbreaking"
+    },
+    {
+     "id": "intermediate-2-25-38",
+     "w": "飛躍的",
+     "r": "ひやくてき",
+     "p": "na-adj",
+     "zh": "飞跃的",
+     "en": "dramatic"
+    },
+    {
+     "id": "intermediate-2-25-39",
+     "w": "高度",
+     "r": "こうど",
+     "p": "na-adj",
+     "zh": "高度的，先进的",
+     "en": "advanced"
+    },
+    {
+     "id": "intermediate-2-25-40",
+     "w": "従来",
+     "r": "じゅうらい",
+     "p": "noun",
+     "zh": "以往，从来",
+     "en": "conventional; up to now"
+    }
+   ]
+  },
+  {
+   "n": 26,
+   "title": "教育と子育て",
+   "title_zh": "教育与育儿",
+   "words": [
+    {
+     "id": "intermediate-2-26-01",
+     "w": "子育て",
+     "r": "こそだて",
+     "p": "noun",
+     "zh": "育儿",
+     "en": "child rearing"
+    },
+    {
+     "id": "intermediate-2-26-02",
+     "w": "育児",
+     "r": "いくじ",
+     "p": "noun",
+     "zh": "育儿",
+     "en": "childcare"
+    },
+    {
+     "id": "intermediate-2-26-03",
+     "w": "保育園",
+     "r": "ほいくえん",
+     "p": "noun",
+     "zh": "保育园",
+     "en": "nursery school"
+    },
+    {
+     "id": "intermediate-2-26-04",
+     "w": "幼稚園",
+     "r": "ようちえん",
+     "p": "noun",
+     "zh": "幼儿园",
+     "en": "kindergarten"
+    },
+    {
+     "id": "intermediate-2-26-05",
+     "w": "待機児童",
+     "r": "たいきじどう",
+     "p": "noun",
+     "zh": "等待入托儿童",
+     "en": "children on daycare waiting lists"
+    },
+    {
+     "id": "intermediate-2-26-06",
+     "w": "育休",
+     "r": "いくきゅう",
+     "p": "noun",
+     "zh": "育儿假",
+     "en": "childcare leave"
+    },
+    {
+     "id": "intermediate-2-26-07",
+     "w": "しつけ",
+     "r": "しつけ",
+     "p": "noun",
+     "zh": "教养，管教",
+     "en": "discipline; upbringing"
+    },
+    {
+     "id": "intermediate-2-26-08",
+     "w": "甘やかす",
+     "r": "あまやかす",
+     "p": "verb",
+     "zh": "娇惯",
+     "en": "to spoil",
+     "g": 1
+    },
+    {
+     "id": "intermediate-2-26-09",
+     "w": "叱る",
+     "r": "しかる",
+     "p": "verb",
+     "zh": "责备",
+     "en": "to scold",
+     "g": 1
+    },
+    {
+     "id": "intermediate-2-26-10",
+     "w": "褒める",
+     "r": "ほめる",
+     "p": "verb",
+     "zh": "表扬",
+     "en": "to praise",
+     "g": 2
+    },
+    {
+     "id": "intermediate-2-26-11",
+     "w": "見守る",
+     "r": "みまもる",
+     "p": "verb",
+     "zh": "守护，关注",
+     "en": "to watch over",
+     "g": 1
+    },
+    {
+     "id": "intermediate-2-26-12",
+     "w": "個性",
+     "r": "こせい",
+     "p": "noun",
+     "zh": "个性",
+     "en": "individuality"
+    },
+    {
+     "id": "intermediate-2-26-13",
+     "w": "才能",
+     "r": "さいのう",
+     "p": "noun",
+     "zh": "才能",
+     "en": "talent"
+    },
+    {
+     "id": "intermediate-2-26-14",
+     "w": "能力開発",
+     "r": "のうりょくかいはつ",
+     "p": "noun",
+     "zh": "能力开发",
+     "en": "skill development"
+    },
+    {
+     "id": "intermediate-2-26-15",
+     "w": "習い事",
+     "r": "ならいごと",
+     "p": "noun",
+     "zh": "课外才艺",
+     "en": "lessons; extracurriculars"
+    },
+    {
+     "id": "intermediate-2-26-16",
+     "w": "教育熱心",
+     "r": "きょういくねっしん",
+     "p": "na-adj",
+     "zh": "热衷教育的",
+     "en": "education-minded"
+    },
+    {
+     "id": "intermediate-2-26-17",
+     "w": "詰め込み教育",
+     "r": "つめこみきょういく",
+     "p": "noun",
+     "zh": "填鸭式教育",
+     "en": "cramming education"
+    },
+    {
+     "id": "intermediate-2-26-18",
+     "w": "ゆとり教育",
+     "r": "ゆとりきょういく",
+     "p": "noun",
+     "zh": "宽松教育",
+     "en": "relaxed education"
+    },
+    {
+     "id": "intermediate-2-26-19",
+     "w": "学力",
+     "r": "がくりょく",
+     "p": "noun",
+     "zh": "学力，学习能力",
+     "en": "academic ability"
+    },
+    {
+     "id": "intermediate-2-26-20",
+     "w": "競争社会",
+     "r": "きょうそうしゃかい",
+     "p": "noun",
+     "zh": "竞争社会",
+     "en": "competitive society"
+    },
+    {
+     "id": "intermediate-2-26-21",
+     "w": "いじめ",
+     "r": "いじめ",
+     "p": "noun",
+     "zh": "欺凌",
+     "en": "bullying"
+    },
+    {
+     "id": "intermediate-2-26-22",
+     "w": "不登校",
+     "r": "ふとうこう",
+     "p": "noun",
+     "zh": "拒绝上学",
+     "en": "school refusal"
+    },
+    {
+     "id": "intermediate-2-26-23",
+     "w": "学級崩壊",
+     "r": "がっきゅうほうかい",
+     "p": "noun",
+     "zh": "课堂崩溃",
+     "en": "classroom breakdown"
+    },
+    {
+     "id": "intermediate-2-26-24",
+     "w": "教師",
+     "r": "きょうし",
+     "p": "noun",
+     "zh": "教师",
+     "en": "teacher"
+    },
+    {
+     "id": "intermediate-2-26-25",
+     "w": "担任",
+     "r": "たんにん",
+     "p": "noun",
+     "zh": "班主任",
+     "en": "homeroom teacher"
+    },
+    {
+     "id": "intermediate-2-26-26",
+     "w": "保護者",
+     "r": "ほごしゃ",
+     "p": "noun",
+     "zh": "监护人",
+     "en": "guardian"
+    },
+    {
+     "id": "intermediate-2-26-27",
+     "w": "家庭環境",
+     "r": "かていかんきょう",
+     "p": "noun",
+     "zh": "家庭环境",
+     "en": "home environment"
+    },
+    {
+     "id": "intermediate-2-26-28",
+     "w": "共働き",
+     "r": "ともばたらき",
+     "p": "noun",
+     "zh": "双职工",
+     "en": "both parents working"
+    },
+    {
+     "id": "intermediate-2-26-29",
+     "w": "少子化対策",
+     "r": "しょうしかたいさく",
+     "p": "noun",
+     "zh": "少子化对策",
+     "en": "measures for the low birthrate"
+    },
+    {
+     "id": "intermediate-2-26-30",
+     "w": "手当",
+     "r": "てあて",
+     "p": "noun",
+     "zh": "补贴",
+     "en": "allowance"
+    },
+    {
+     "id": "intermediate-2-26-31",
+     "w": "成長",
+     "r": "せいちょう",
+     "p": "noun",
+     "zh": "成长",
+     "en": "growth"
+    },
+    {
+     "id": "intermediate-2-26-32",
+     "w": "自立",
+     "r": "じりつ",
+     "p": "noun",
+     "zh": "自立",
+     "en": "independence"
+    },
+    {
+     "id": "intermediate-2-26-33",
+     "w": "反抗期",
+     "r": "はんこうき",
+     "p": "noun",
+     "zh": "叛逆期",
+     "en": "rebellious phase"
+    },
+    {
+     "id": "intermediate-2-26-34",
+     "w": "思春期",
+     "r": "ししゅんき",
+     "p": "noun",
+     "zh": "青春期",
+     "en": "adolescence"
+    },
+    {
+     "id": "intermediate-2-26-35",
+     "w": "育てる",
+     "r": "そだてる",
+     "p": "verb",
+     "zh": "养育，培养",
+     "en": "to raise",
+     "g": 2
+    },
+    {
+     "id": "intermediate-2-26-36",
+     "w": "伸ばす",
+     "r": "のばす",
+     "p": "verb",
+     "zh": "发展，提高",
+     "en": "to develop (ability)",
+     "g": 1
+    },
+    {
+     "id": "intermediate-2-26-37",
+     "w": "押し付ける",
+     "r": "おしつける",
+     "p": "verb",
+     "zh": "强加",
+     "en": "to force upon",
+     "g": 2
+    },
+    {
+     "id": "intermediate-2-26-38",
+     "w": "寄り添う",
+     "r": "よりそう",
+     "p": "verb",
+     "zh": "贴近，陪伴",
+     "en": "to stay close to",
+     "g": 1
+    },
+    {
+     "id": "intermediate-2-26-39",
+     "w": "のびのび",
+     "r": "のびのび",
+     "p": "adv",
+     "zh": "无拘无束地",
+     "en": "freely; unrestrained"
+    },
+    {
+     "id": "intermediate-2-26-40",
+     "w": "厳格",
+     "r": "げんかく",
+     "p": "na-adj",
+     "zh": "严格的",
+     "en": "strict"
+    }
+   ]
+  },
+  {
+   "n": 27,
+   "title": "医療と健康",
+   "title_zh": "医疗与健康",
+   "words": [
+    {
+     "id": "intermediate-2-27-01",
+     "w": "医療制度",
+     "r": "いりょうせいど",
+     "p": "noun",
+     "zh": "医疗制度",
+     "en": "medical system"
+    },
+    {
+     "id": "intermediate-2-27-02",
+     "w": "健康保険",
+     "r": "けんこうほけん",
+     "p": "noun",
+     "zh": "医疗保险",
+     "en": "health insurance"
+    },
+    {
+     "id": "intermediate-2-27-03",
+     "w": "自己負担",
+     "r": "じこふたん",
+     "p": "noun",
+     "zh": "自付部分",
+     "en": "out-of-pocket cost"
+    },
+    {
+     "id": "intermediate-2-27-04",
+     "w": "医療費",
+     "r": "いりょうひ",
+     "p": "noun",
+     "zh": "医疗费",
+     "en": "medical expenses"
+    },
+    {
+     "id": "intermediate-2-27-05",
+     "w": "救急",
+     "r": "きゅうきゅう",
+     "p": "noun",
+     "zh": "急救",
+     "en": "emergency care"
+    },
+    {
+     "id": "intermediate-2-27-06",
+     "w": "救命",
+     "r": "きゅうめい",
+     "p": "noun",
+     "zh": "救命",
+     "en": "lifesaving"
+    },
+    {
+     "id": "intermediate-2-27-07",
+     "w": "感染",
+     "r": "かんせん",
+     "p": "noun",
+     "zh": "感染",
+     "en": "infection"
+    },
+    {
+     "id": "intermediate-2-27-08",
+     "w": "感染症",
+     "r": "かんせんしょう",
+     "p": "noun",
+     "zh": "传染病",
+     "en": "infectious disease"
+    },
+    {
+     "id": "intermediate-2-27-09",
+     "w": "流行",
+     "r": "りゅうこう",
+     "p": "noun",
+     "zh": "流行",
+     "en": "epidemic; trend"
+    },
+    {
+     "id": "intermediate-2-27-10",
+     "w": "予防接種",
+     "r": "よぼうせっしゅ",
+     "p": "noun",
+     "zh": "预防接种",
+     "en": "vaccination"
+    },
+    {
+     "id": "intermediate-2-27-11",
+     "w": "免疫",
+     "r": "めんえき",
+     "p": "noun",
+     "zh": "免疫",
+     "en": "immunity"
+    },
+    {
+     "id": "intermediate-2-27-12",
+     "w": "生活習慣病",
+     "r": "せいかつしゅうかんびょう",
+     "p": "noun",
+     "zh": "生活习惯病",
+     "en": "lifestyle disease"
+    },
+    {
+     "id": "intermediate-2-27-13",
+     "w": "肥満",
+     "r": "ひまん",
+     "p": "noun",
+     "zh": "肥胖",
+     "en": "obesity"
+    },
+    {
+     "id": "intermediate-2-27-14",
+     "w": "糖尿病",
+     "r": "とうにょうびょう",
+     "p": "noun",
+     "zh": "糖尿病",
+     "en": "diabetes"
+    },
+    {
+     "id": "intermediate-2-27-15",
+     "w": "がん",
+     "r": "がん",
+     "p": "noun",
+     "zh": "癌症",
+     "en": "cancer"
+    },
+    {
+     "id": "intermediate-2-27-16",
+     "w": "精神的",
+     "r": "せいしんてき",
+     "p": "na-adj",
+     "zh": "精神上的",
+     "en": "mental"
+    },
+    {
+     "id": "intermediate-2-27-17",
+     "w": "ストレス",
+     "r": "ストレス",
+     "p": "noun",
+     "zh": "压力",
+     "en": "stress"
+    },
+    {
+     "id": "intermediate-2-27-18",
+     "w": "うつ病",
+     "r": "うつびょう",
+     "p": "noun",
+     "zh": "抑郁症",
+     "en": "depression"
+    },
+    {
+     "id": "intermediate-2-27-19",
+     "w": "カウンセリング",
+     "r": "カウンセリング",
+     "p": "noun",
+     "zh": "心理咨询",
+     "en": "counseling"
+    },
+    {
+     "id": "intermediate-2-27-20",
+     "w": "健康診断",
+     "r": "けんこうしんだん",
+     "p": "noun",
+     "zh": "体检",
+     "en": "health checkup"
+    },
+    {
+     "id": "intermediate-2-27-21",
+     "w": "人間ドック",
+     "r": "にんげんドック",
+     "p": "noun",
+     "zh": "全面体检",
+     "en": "comprehensive medical exam"
+    },
+    {
+     "id": "intermediate-2-27-22",
+     "w": "早期発見",
+     "r": "そうきはっけん",
+     "p": "noun",
+     "zh": "早期发现",
+     "en": "early detection"
+    },
+    {
+     "id": "intermediate-2-27-23",
+     "w": "副作用",
+     "r": "ふくさよう",
+     "p": "noun",
+     "zh": "副作用",
+     "en": "side effect"
+    },
+    {
+     "id": "intermediate-2-27-24",
+     "w": "服用",
+     "r": "ふくよう",
+     "p": "noun",
+     "zh": "服用",
+     "en": "taking (medicine)"
+    },
+    {
+     "id": "intermediate-2-27-25",
+     "w": "手術室",
+     "r": "しゅじゅつしつ",
+     "p": "noun",
+     "zh": "手术室",
+     "en": "operating room"
+    },
+    {
+     "id": "intermediate-2-27-26",
+     "w": "医師不足",
+     "r": "いしぶそく",
+     "p": "noun",
+     "zh": "医生短缺",
+     "en": "doctor shortage"
+    },
+    {
+     "id": "intermediate-2-27-27",
+     "w": "在宅医療",
+     "r": "ざいたくいりょう",
+     "p": "noun",
+     "zh": "居家医疗",
+     "en": "home medical care"
+    },
+    {
+     "id": "intermediate-2-27-28",
+     "w": "終末期",
+     "r": "しゅうまつき",
+     "p": "noun",
+     "zh": "临终期",
+     "en": "terminal stage"
+    },
+    {
+     "id": "intermediate-2-27-29",
+     "w": "延命",
+     "r": "えんめい",
+     "p": "noun",
+     "zh": "延长生命",
+     "en": "life extension"
+    },
+    {
+     "id": "intermediate-2-27-30",
+     "w": "臓器移植",
+     "r": "ぞうきいしょく",
+     "p": "noun",
+     "zh": "器官移植",
+     "en": "organ transplant"
+    },
+    {
+     "id": "intermediate-2-27-31",
+     "w": "献血",
+     "r": "けんけつ",
+     "p": "noun",
+     "zh": "献血",
+     "en": "blood donation"
+    },
+    {
+     "id": "intermediate-2-27-32",
+     "w": "治療する",
+     "r": "ちりょうする",
+     "p": "verb",
+     "zh": "治疗",
+     "en": "to treat",
+     "g": 3
+    },
+    {
+     "id": "intermediate-2-27-33",
+     "w": "投薬する",
+     "r": "とうやくする",
+     "p": "verb",
+     "zh": "用药",
+     "en": "to medicate",
+     "g": 3
+    },
+    {
+     "id": "intermediate-2-27-34",
+     "w": "回復する",
+     "r": "かいふくする",
+     "p": "verb",
+     "zh": "恢复",
+     "en": "to recover",
+     "g": 3
+    },
+    {
+     "id": "intermediate-2-27-35",
+     "w": "再発する",
+     "r": "さいはつする",
+     "p": "verb",
+     "zh": "复发",
+     "en": "to recur",
+     "g": 3
+    },
+    {
+     "id": "intermediate-2-27-36",
+     "w": "予防する",
+     "r": "よぼうする",
+     "p": "verb",
+     "zh": "预防",
+     "en": "to prevent",
+     "g": 3
+    },
+    {
+     "id": "intermediate-2-27-37",
+     "w": "心がける",
+     "r": "こころがける",
+     "p": "verb",
+     "zh": "留心，注意做到",
+     "en": "to make a point of",
+     "g": 2
+    },
+    {
+     "id": "intermediate-2-27-38",
+     "w": "栄養バランス",
+     "r": "えいようバランス",
+     "p": "noun",
+     "zh": "营养均衡",
+     "en": "nutritional balance"
+    },
+    {
+     "id": "intermediate-2-27-39",
+     "w": "適度",
+     "r": "てきど",
+     "p": "na-adj",
+     "zh": "适度的",
+     "en": "moderate"
+    },
+    {
+     "id": "intermediate-2-27-40",
+     "w": "規則正しい",
+     "r": "きそくただしい",
+     "p": "i-adj",
+     "zh": "有规律的",
+     "en": "regular; orderly"
+    }
+   ]
+  },
+  {
+   "n": 28,
+   "title": "高齢社会と福祉",
+   "title_zh": "老龄社会与福利",
+   "words": [
+    {
+     "id": "intermediate-2-28-01",
+     "w": "高齢社会",
+     "r": "こうれいしゃかい",
+     "p": "noun",
+     "zh": "老龄社会",
+     "en": "aging society"
+    },
+    {
+     "id": "intermediate-2-28-02",
+     "w": "超高齢",
+     "r": "ちょうこうれい",
+     "p": "noun",
+     "zh": "超高龄",
+     "en": "super-aged"
+    },
+    {
+     "id": "intermediate-2-28-03",
+     "w": "平均余命",
+     "r": "へいきんよみょう",
+     "p": "noun",
+     "zh": "平均余命",
+     "en": "life expectancy"
+    },
+    {
+     "id": "intermediate-2-28-04",
+     "w": "寝たきり",
+     "r": "ねたきり",
+     "p": "noun",
+     "zh": "卧床不起",
+     "en": "bedridden"
+    },
+    {
+     "id": "intermediate-2-28-05",
+     "w": "認知症",
+     "r": "にんちしょう",
+     "p": "noun",
+     "zh": "认知症，失智",
+     "en": "dementia"
+    },
+    {
+     "id": "intermediate-2-28-06",
+     "w": "介護士",
+     "r": "かいごし",
+     "p": "noun",
+     "zh": "护理员",
+     "en": "caregiver"
+    },
+    {
+     "id": "intermediate-2-28-07",
+     "w": "介護保険",
+     "r": "かいごほけん",
+     "p": "noun",
+     "zh": "护理保险",
+     "en": "nursing care insurance"
+    },
+    {
+     "id": "intermediate-2-28-08",
+     "w": "施設",
+     "r": "しせつ",
+     "p": "noun",
+     "zh": "设施，机构",
+     "en": "facility"
+    },
+    {
+     "id": "intermediate-2-28-09",
+     "w": "老人ホーム",
+     "r": "ろうじんホーム",
+     "p": "noun",
+     "zh": "养老院",
+     "en": "nursing home"
+    },
+    {
+     "id": "intermediate-2-28-10",
+     "w": "デイサービス",
+     "r": "デイサービス",
+     "p": "noun",
+     "zh": "日间照料",
+     "en": "day service"
+    },
+    {
+     "id": "intermediate-2-28-11",
+     "w": "訪問介護",
+     "r": "ほうもんかいご",
+     "p": "noun",
+     "zh": "上门护理",
+     "en": "home care visit"
+    },
+    {
+     "id": "intermediate-2-28-12",
+     "w": "年金制度",
+     "r": "ねんきんせいど",
+     "p": "noun",
+     "zh": "养老金制度",
+     "en": "pension system"
+    },
+    {
+     "id": "intermediate-2-28-13",
+     "w": "受給",
+     "r": "じゅきゅう",
+     "p": "noun",
+     "zh": "领取",
+     "en": "receiving (benefits)"
+    },
+    {
+     "id": "intermediate-2-28-14",
+     "w": "負担",
+     "r": "ふたん",
+     "p": "noun",
+     "zh": "负担",
+     "en": "burden"
+    },
+    {
+     "id": "intermediate-2-28-15",
+     "w": "財源",
+     "r": "ざいげん",
+     "p": "noun",
+     "zh": "财源",
+     "en": "financial resources"
+    },
+    {
+     "id": "intermediate-2-28-16",
+     "w": "社会保障",
+     "r": "しゃかいほしょう",
+     "p": "noun",
+     "zh": "社会保障",
+     "en": "social security"
+    },
+    {
+     "id": "intermediate-2-28-17",
+     "w": "生活保護",
+     "r": "せいかつほご",
+     "p": "noun",
+     "zh": "低保",
+     "en": "welfare assistance"
+    },
+    {
+     "id": "intermediate-2-28-18",
+     "w": "孤独死",
+     "r": "こどくし",
+     "p": "noun",
+     "zh": "孤独死",
+     "en": "dying alone"
+    },
+    {
+     "id": "intermediate-2-28-19",
+     "w": "独居",
+     "r": "どっきょ",
+     "p": "noun",
+     "zh": "独居",
+     "en": "living alone"
+    },
+    {
+     "id": "intermediate-2-28-20",
+     "w": "支え合い",
+     "r": "ささえあい",
+     "p": "noun",
+     "zh": "互相扶持",
+     "en": "mutual support"
+    },
+    {
+     "id": "intermediate-2-28-21",
+     "w": "バリアフリー",
+     "r": "バリアフリー",
+     "p": "noun",
+     "zh": "无障碍",
+     "en": "barrier-free"
+    },
+    {
+     "id": "intermediate-2-28-22",
+     "w": "車椅子",
+     "r": "くるまいす",
+     "p": "noun",
+     "zh": "轮椅",
+     "en": "wheelchair"
+    },
+    {
+     "id": "intermediate-2-28-23",
+     "w": "手すり",
+     "r": "てすり",
+     "p": "noun",
+     "zh": "扶手",
+     "en": "handrail"
+    },
+    {
+     "id": "intermediate-2-28-24",
+     "w": "介護疲れ",
+     "r": "かいごづかれ",
+     "p": "noun",
+     "zh": "护理疲劳",
+     "en": "caregiver burnout"
+    },
+    {
+     "id": "intermediate-2-28-25",
+     "w": "世代間",
+     "r": "せだいかん",
+     "p": "noun",
+     "zh": "代际",
+     "en": "intergenerational"
+    },
+    {
+     "id": "intermediate-2-28-26",
+     "w": "労働力不足",
+     "r": "ろうどうりょくぶそく",
+     "p": "noun",
+     "zh": "劳动力不足",
+     "en": "labor shortage"
+    },
+    {
+     "id": "intermediate-2-28-27",
+     "w": "定年",
+     "r": "ていねん",
+     "p": "noun",
+     "zh": "退休年龄",
+     "en": "retirement age"
+    },
+    {
+     "id": "intermediate-2-28-28",
+     "w": "再雇用",
+     "r": "さいこよう",
+     "p": "noun",
+     "zh": "再雇用",
+     "en": "rehiring"
+    },
+    {
+     "id": "intermediate-2-28-29",
+     "w": "生きがい",
+     "r": "いきがい",
+     "p": "noun",
+     "zh": "生活的意义",
+     "en": "purpose in life"
+    },
+    {
+     "id": "intermediate-2-28-30",
+     "w": "ボランティア",
+     "r": "ボランティア",
+     "p": "noun",
+     "zh": "志愿者",
+     "en": "volunteer"
+    },
+    {
+     "id": "intermediate-2-28-31",
+     "w": "介護する",
+     "r": "かいごする",
+     "p": "verb",
+     "zh": "护理",
+     "en": "to provide care",
+     "g": 3
+    },
+    {
+     "id": "intermediate-2-28-32",
+     "w": "支える",
+     "r": "ささえる",
+     "p": "verb",
+     "zh": "支撑",
+     "en": "to support",
+     "g": 2
+    },
+    {
+     "id": "intermediate-2-28-33",
+     "w": "見守る",
+     "r": "みまもる",
+     "p": "verb",
+     "zh": "守护",
+     "en": "to watch over",
+     "g": 1
+    },
+    {
+     "id": "intermediate-2-28-34",
+     "w": "補う",
+     "r": "おぎなう",
+     "p": "verb",
+     "zh": "补充，弥补",
+     "en": "to make up for",
+     "g": 1
+    },
+    {
+     "id": "intermediate-2-28-35",
+     "w": "賄う",
+     "r": "まかなう",
+     "p": "verb",
+     "zh": "供给，筹措",
+     "en": "to cover (costs)",
+     "g": 1
+    },
+    {
+     "id": "intermediate-2-28-36",
+     "w": "衰える",
+     "r": "おとろえる",
+     "p": "verb",
+     "zh": "衰退，衰弱",
+     "en": "to decline",
+     "g": 2
+    },
+    {
+     "id": "intermediate-2-28-37",
+     "w": "深刻さ",
+     "r": "しんこくさ",
+     "p": "noun",
+     "zh": "严重程度",
+     "en": "seriousness"
+    },
+    {
+     "id": "intermediate-2-28-38",
+     "w": "切実",
+     "r": "せつじつ",
+     "p": "na-adj",
+     "zh": "迫切的",
+     "en": "pressing; urgent"
+    },
+    {
+     "id": "intermediate-2-28-39",
+     "w": "充実",
+     "r": "じゅうじつ",
+     "p": "na-adj",
+     "zh": "充实的",
+     "en": "fulfilling"
+    },
+    {
+     "id": "intermediate-2-28-40",
+     "w": "今後とも",
+     "r": "こんごとも",
+     "p": "adv",
+     "zh": "今后也",
+     "en": "from now on as well"
+    }
+   ]
+  },
+  {
+   "n": 29,
+   "title": "法律とルール",
+   "title_zh": "法律与规则",
+   "words": [
+    {
+     "id": "intermediate-2-29-01",
+     "w": "法律",
+     "r": "ほうりつ",
+     "p": "noun",
+     "zh": "法律",
+     "en": "law"
+    },
+    {
+     "id": "intermediate-2-29-02",
+     "w": "憲法",
+     "r": "けんぽう",
+     "p": "noun",
+     "zh": "宪法",
+     "en": "constitution"
+    },
+    {
+     "id": "intermediate-2-29-03",
+     "w": "条例",
+     "r": "じょうれい",
+     "p": "noun",
+     "zh": "条例",
+     "en": "ordinance"
+    },
+    {
+     "id": "intermediate-2-29-04",
+     "w": "制度",
+     "r": "せいど",
+     "p": "noun",
+     "zh": "制度",
+     "en": "system"
+    },
+    {
+     "id": "intermediate-2-29-05",
+     "w": "義務",
+     "r": "ぎむ",
+     "p": "noun",
+     "zh": "义务",
+     "en": "obligation"
+    },
+    {
+     "id": "intermediate-2-29-06",
+     "w": "権利",
+     "r": "けんり",
+     "p": "noun",
+     "zh": "权利",
+     "en": "right"
+    },
+    {
+     "id": "intermediate-2-29-07",
+     "w": "人権",
+     "r": "じんけん",
+     "p": "noun",
+     "zh": "人权",
+     "en": "human rights"
+    },
+    {
+     "id": "intermediate-2-29-08",
+     "w": "平等",
+     "r": "びょうどう",
+     "p": "noun",
+     "zh": "平等",
+     "en": "equality"
+    },
+    {
+     "id": "intermediate-2-29-09",
+     "w": "差別",
+     "r": "さべつ",
+     "p": "noun",
+     "zh": "歧视",
+     "en": "discrimination"
+    },
+    {
+     "id": "intermediate-2-29-10",
+     "w": "公平",
+     "r": "こうへい",
+     "p": "na-adj",
+     "zh": "公平的",
+     "en": "fair"
+    },
+    {
+     "id": "intermediate-2-29-11",
+     "w": "裁判",
+     "r": "さいばん",
+     "p": "noun",
+     "zh": "审判",
+     "en": "trial"
+    },
+    {
+     "id": "intermediate-2-29-12",
+     "w": "裁判所",
+     "r": "さいばんしょ",
+     "p": "noun",
+     "zh": "法院",
+     "en": "court"
+    },
+    {
+     "id": "intermediate-2-29-13",
+     "w": "弁護士",
+     "r": "べんごし",
+     "p": "noun",
+     "zh": "律师",
+     "en": "lawyer"
+    },
+    {
+     "id": "intermediate-2-29-14",
+     "w": "検察",
+     "r": "けんさつ",
+     "p": "noun",
+     "zh": "检察",
+     "en": "prosecution"
+    },
+    {
+     "id": "intermediate-2-29-15",
+     "w": "裁判官",
+     "r": "さいばんかん",
+     "p": "noun",
+     "zh": "法官",
+     "en": "judge"
+    },
+    {
+     "id": "intermediate-2-29-16",
+     "w": "訴訟",
+     "r": "そしょう",
+     "p": "noun",
+     "zh": "诉讼",
+     "en": "lawsuit"
+    },
+    {
+     "id": "intermediate-2-29-17",
+     "w": "訴える",
+     "r": "うったえる",
+     "p": "verb",
+     "zh": "起诉，控告",
+     "en": "to sue",
+     "g": 2
+    },
+    {
+     "id": "intermediate-2-29-18",
+     "w": "判決",
+     "r": "はんけつ",
+     "p": "noun",
+     "zh": "判决",
+     "en": "verdict"
+    },
+    {
+     "id": "intermediate-2-29-19",
+     "w": "有罪",
+     "r": "ゆうざい",
+     "p": "noun",
+     "zh": "有罪",
+     "en": "guilty"
+    },
+    {
+     "id": "intermediate-2-29-20",
+     "w": "無罪",
+     "r": "むざい",
+     "p": "noun",
+     "zh": "无罪",
+     "en": "not guilty"
+    },
+    {
+     "id": "intermediate-2-29-21",
+     "w": "犯罪",
+     "r": "はんざい",
+     "p": "noun",
+     "zh": "犯罪",
+     "en": "crime"
+    },
+    {
+     "id": "intermediate-2-29-22",
+     "w": "逮捕",
+     "r": "たいほ",
+     "p": "noun",
+     "zh": "逮捕",
+     "en": "arrest"
+    },
+    {
+     "id": "intermediate-2-29-23",
+     "w": "刑罰",
+     "r": "けいばつ",
+     "p": "noun",
+     "zh": "刑罚",
+     "en": "punishment"
+    },
+    {
+     "id": "intermediate-2-29-24",
+     "w": "罰則",
+     "r": "ばっそく",
+     "p": "noun",
+     "zh": "罚则",
+     "en": "penalty provision"
+    },
+    {
+     "id": "intermediate-2-29-25",
+     "w": "賠償",
+     "r": "ばいしょう",
+     "p": "noun",
+     "zh": "赔偿",
+     "en": "compensation"
+    },
+    {
+     "id": "intermediate-2-29-26",
+     "w": "責任を負う",
+     "r": "せきにんをおう",
+     "p": "expr",
+     "zh": "承担责任",
+     "en": "to bear responsibility"
+    },
+    {
+     "id": "intermediate-2-29-27",
+     "w": "違法",
+     "r": "いほう",
+     "p": "na-adj",
+     "zh": "违法的",
+     "en": "illegal"
+    },
+    {
+     "id": "intermediate-2-29-28",
+     "w": "合法",
+     "r": "ごうほう",
+     "p": "na-adj",
+     "zh": "合法的",
+     "en": "legal"
+    },
+    {
+     "id": "intermediate-2-29-29",
+     "w": "適用する",
+     "r": "てきようする",
+     "p": "verb",
+     "zh": "适用",
+     "en": "to apply (a law)",
+     "g": 3
+    },
+    {
+     "id": "intermediate-2-29-30",
+     "w": "改正する",
+     "r": "かいせいする",
+     "p": "verb",
+     "zh": "修改（法律）",
+     "en": "to amend",
+     "g": 3
+    },
+    {
+     "id": "intermediate-2-29-31",
+     "w": "施行する",
+     "r": "しこうする",
+     "p": "verb",
+     "zh": "施行",
+     "en": "to enforce",
+     "g": 3
+    },
+    {
+     "id": "intermediate-2-29-32",
+     "w": "定める",
+     "r": "さだめる",
+     "p": "verb",
+     "zh": "规定，制定",
+     "en": "to stipulate",
+     "g": 2
+    },
+    {
+     "id": "intermediate-2-29-33",
+     "w": "取り締まる",
+     "r": "とりしまる",
+     "p": "verb",
+     "zh": "取缔，管制",
+     "en": "to crack down on",
+     "g": 1
+    },
+    {
+     "id": "intermediate-2-29-34",
+     "w": "守られる",
+     "r": "まもられる",
+     "p": "verb",
+     "zh": "受到保护",
+     "en": "to be protected",
+     "g": 2
+    },
+    {
+     "id": "intermediate-2-29-35",
+     "w": "認める",
+     "r": "みとめる",
+     "p": "verb",
+     "zh": "承认，认可",
+     "en": "to acknowledge",
+     "g": 2
+    },
+    {
+     "id": "intermediate-2-29-36",
+     "w": "禁じる",
+     "r": "きんじる",
+     "p": "verb",
+     "zh": "禁止",
+     "en": "to forbid",
+     "g": 2
+    },
+    {
+     "id": "intermediate-2-29-37",
+     "w": "厳重",
+     "r": "げんじゅう",
+     "p": "na-adj",
+     "zh": "严格的，森严的",
+     "en": "strict"
+    },
+    {
+     "id": "intermediate-2-29-38",
+     "w": "正当",
+     "r": "せいとう",
+     "p": "na-adj",
+     "zh": "正当的",
+     "en": "legitimate"
+    },
+    {
+     "id": "intermediate-2-29-39",
+     "w": "不当",
+     "r": "ふとう",
+     "p": "na-adj",
+     "zh": "不当的",
+     "en": "unjust"
+    },
+    {
+     "id": "intermediate-2-29-40",
+     "w": "原則として",
+     "r": "げんそくとして",
+     "p": "expr",
+     "zh": "原则上",
+     "en": "in principle"
+    }
+   ]
+  },
+  {
+   "n": 30,
+   "title": "伝統文化と芸能",
+   "title_zh": "传统文化与艺能",
+   "words": [
+    {
+     "id": "intermediate-2-30-01",
+     "w": "伝統芸能",
+     "r": "でんとうげいのう",
+     "p": "noun",
+     "zh": "传统艺能",
+     "en": "traditional performing arts"
+    },
+    {
+     "id": "intermediate-2-30-02",
+     "w": "歌舞伎",
+     "r": "かぶき",
+     "p": "noun",
+     "zh": "歌舞伎",
+     "en": "kabuki"
+    },
+    {
+     "id": "intermediate-2-30-03",
+     "w": "能",
+     "r": "のう",
+     "p": "noun",
+     "zh": "能乐",
+     "en": "noh"
+    },
+    {
+     "id": "intermediate-2-30-04",
+     "w": "狂言",
+     "r": "きょうげん",
+     "p": "noun",
+     "zh": "狂言",
+     "en": "kyogen"
+    },
+    {
+     "id": "intermediate-2-30-05",
+     "w": "落語",
+     "r": "らくご",
+     "p": "noun",
+     "zh": "落语",
+     "en": "rakugo"
+    },
+    {
+     "id": "intermediate-2-30-06",
+     "w": "茶道",
+     "r": "さどう",
+     "p": "noun",
+     "zh": "茶道",
+     "en": "tea ceremony"
+    },
+    {
+     "id": "intermediate-2-30-07",
+     "w": "華道",
+     "r": "かどう",
+     "p": "noun",
+     "zh": "花道",
+     "en": "flower arrangement"
+    },
+    {
+     "id": "intermediate-2-30-08",
+     "w": "書道",
+     "r": "しょどう",
+     "p": "noun",
+     "zh": "书法",
+     "en": "calligraphy"
+    },
+    {
+     "id": "intermediate-2-30-09",
+     "w": "陶芸",
+     "r": "とうげい",
+     "p": "noun",
+     "zh": "陶艺",
+     "en": "ceramics"
+    },
+    {
+     "id": "intermediate-2-30-10",
+     "w": "和太鼓",
+     "r": "わだいこ",
+     "p": "noun",
+     "zh": "和太鼓",
+     "en": "Japanese drums"
+    },
+    {
+     "id": "intermediate-2-30-11",
+     "w": "三味線",
+     "r": "しゃみせん",
+     "p": "noun",
+     "zh": "三味线",
+     "en": "shamisen"
+    },
+    {
+     "id": "intermediate-2-30-12",
+     "w": "浮世絵",
+     "r": "うきよえ",
+     "p": "noun",
+     "zh": "浮世绘",
+     "en": "ukiyo-e"
+    },
+    {
+     "id": "intermediate-2-30-13",
+     "w": "俳句",
+     "r": "はいく",
+     "p": "noun",
+     "zh": "俳句",
+     "en": "haiku"
+    },
+    {
+     "id": "intermediate-2-30-14",
+     "w": "短歌",
+     "r": "たんか",
+     "p": "noun",
+     "zh": "短歌",
+     "en": "tanka"
+    },
+    {
+     "id": "intermediate-2-30-15",
+     "w": "相撲",
+     "r": "すもう",
+     "p": "noun",
+     "zh": "相扑",
+     "en": "sumo"
+    },
+    {
+     "id": "intermediate-2-30-16",
+     "w": "武道",
+     "r": "ぶどう",
+     "p": "noun",
+     "zh": "武道",
+     "en": "martial arts"
+    },
+    {
+     "id": "intermediate-2-30-17",
+     "w": "職人",
+     "r": "しょくにん",
+     "p": "noun",
+     "zh": "手艺人，工匠",
+     "en": "craftsman"
+    },
+    {
+     "id": "intermediate-2-30-18",
+     "w": "名人",
+     "r": "めいじん",
+     "p": "noun",
+     "zh": "名家，高手",
+     "en": "master"
+    },
+    {
+     "id": "intermediate-2-30-19",
+     "w": "弟子",
+     "r": "でし",
+     "p": "noun",
+     "zh": "徒弟",
+     "en": "apprentice"
+    },
+    {
+     "id": "intermediate-2-30-20",
+     "w": "師匠",
+     "r": "ししょう",
+     "p": "noun",
+     "zh": "师傅",
+     "en": "master; teacher"
+    },
+    {
+     "id": "intermediate-2-30-21",
+     "w": "稽古",
+     "r": "けいこ",
+     "p": "noun",
+     "zh": "练习，训练",
+     "en": "practice; training"
+    },
+    {
+     "id": "intermediate-2-30-22",
+     "w": "修行",
+     "r": "しゅぎょう",
+     "p": "noun",
+     "zh": "修行",
+     "en": "training; discipline"
+    },
+    {
+     "id": "intermediate-2-30-23",
+     "w": "技",
+     "r": "わざ",
+     "p": "noun",
+     "zh": "技艺",
+     "en": "technique"
+    },
+    {
+     "id": "intermediate-2-30-24",
+     "w": "作法",
+     "r": "さほう",
+     "p": "noun",
+     "zh": "礼法，规矩",
+     "en": "etiquette"
+    },
+    {
+     "id": "intermediate-2-30-25",
+     "w": "精神",
+     "r": "せいしん",
+     "p": "noun",
+     "zh": "精神",
+     "en": "spirit"
+    },
+    {
+     "id": "intermediate-2-30-26",
+     "w": "美意識",
+     "r": "びいしき",
+     "p": "noun",
+     "zh": "审美意识",
+     "en": "aesthetic sense"
+    },
+    {
+     "id": "intermediate-2-30-27",
+     "w": "侘び寂び",
+     "r": "わびさび",
+     "p": "noun",
+     "zh": "侘寂",
+     "en": "wabi-sabi"
+    },
+    {
+     "id": "intermediate-2-30-28",
+     "w": "無形文化財",
+     "r": "むけいぶんかざい",
+     "p": "noun",
+     "zh": "非物质文化遗产",
+     "en": "intangible cultural property"
+    },
+    {
+     "id": "intermediate-2-30-29",
+     "w": "後継者",
+     "r": "こうけいしゃ",
+     "p": "noun",
+     "zh": "接班人",
+     "en": "successor"
+    },
+    {
+     "id": "intermediate-2-30-30",
+     "w": "継承",
+     "r": "けいしょう",
+     "p": "noun",
+     "zh": "传承",
+     "en": "succession"
+    },
+    {
+     "id": "intermediate-2-30-31",
+     "w": "保存",
+     "r": "ほぞん",
+     "p": "noun",
+     "zh": "保存",
+     "en": "preservation"
+    },
+    {
+     "id": "intermediate-2-30-32",
+     "w": "復活",
+     "r": "ふっかつ",
+     "p": "noun",
+     "zh": "复兴，复活",
+     "en": "revival"
+    },
+    {
+     "id": "intermediate-2-30-33",
+     "w": "受け継ぐ",
+     "r": "うけつぐ",
+     "p": "verb",
+     "zh": "继承",
+     "en": "to inherit",
+     "g": 1
+    },
+    {
+     "id": "intermediate-2-30-34",
+     "w": "守り伝える",
+     "r": "まもりつたえる",
+     "p": "verb",
+     "zh": "守护并传承",
+     "en": "to preserve and pass on",
+     "g": 2
+    },
+    {
+     "id": "intermediate-2-30-35",
+     "w": "磨く",
+     "r": "みがく",
+     "p": "verb",
+     "zh": "磨练",
+     "en": "to polish; to hone",
+     "g": 1
+    },
+    {
+     "id": "intermediate-2-30-36",
+     "w": "極める",
+     "r": "きわめる",
+     "p": "verb",
+     "zh": "钻研到极致",
+     "en": "to master",
+     "g": 2
+    },
+    {
+     "id": "intermediate-2-30-37",
+     "w": "廃れる",
+     "r": "すたれる",
+     "p": "verb",
+     "zh": "衰微",
+     "en": "to die out",
+     "g": 2
+    },
+    {
+     "id": "intermediate-2-30-38",
+     "w": "由緒ある",
+     "r": "ゆいしょある",
+     "p": "expr",
+     "zh": "有来历的",
+     "en": "of noble origin"
+    },
+    {
+     "id": "intermediate-2-30-39",
+     "w": "格式",
+     "r": "かくしき",
+     "p": "noun",
+     "zh": "格式，规格",
+     "en": "formality; status"
+    },
+    {
+     "id": "intermediate-2-30-40",
+     "w": "奥深い",
+     "r": "おくぶかい",
+     "p": "i-adj",
+     "zh": "深奥的",
+     "en": "profound"
+    }
+   ]
+  },
+  {
+   "n": 31,
+   "title": "国際交流と異文化",
+   "title_zh": "国际交流与异文化",
+   "words": [
+    {
+     "id": "intermediate-2-31-01",
+     "w": "国際交流",
+     "r": "こくさいこうりゅう",
+     "p": "noun",
+     "zh": "国际交流",
+     "en": "international exchange"
+    },
+    {
+     "id": "intermediate-2-31-02",
+     "w": "異文化",
+     "r": "いぶんか",
+     "p": "noun",
+     "zh": "异文化",
+     "en": "foreign culture"
+    },
+    {
+     "id": "intermediate-2-31-03",
+     "w": "文化摩擦",
+     "r": "ぶんかまさつ",
+     "p": "noun",
+     "zh": "文化摩擦",
+     "en": "cultural friction"
+    },
+    {
+     "id": "intermediate-2-31-04",
+     "w": "カルチャーショック",
+     "r": "カルチャーショック",
+     "p": "noun",
+     "zh": "文化冲击",
+     "en": "culture shock"
+    },
+    {
+     "id": "intermediate-2-31-05",
+     "w": "価値観",
+     "r": "かちかん",
+     "p": "noun",
+     "zh": "价值观",
+     "en": "values"
+    },
+    {
+     "id": "intermediate-2-31-06",
+     "w": "習慣の違い",
+     "r": "しゅうかんのちがい",
+     "p": "noun",
+     "zh": "习惯差异",
+     "en": "difference in customs"
+    },
+    {
+     "id": "intermediate-2-31-07",
+     "w": "偏見",
+     "r": "へんけん",
+     "p": "noun",
+     "zh": "偏见",
+     "en": "prejudice"
+    },
+    {
+     "id": "intermediate-2-31-08",
+     "w": "固定観念",
+     "r": "こていかんねん",
+     "p": "noun",
+     "zh": "固有观念",
+     "en": "stereotype"
+    },
+    {
+     "id": "intermediate-2-31-09",
+     "w": "多様性",
+     "r": "たようせい",
+     "p": "noun",
+     "zh": "多样性",
+     "en": "diversity"
+    },
+    {
+     "id": "intermediate-2-31-10",
+     "w": "共生",
+     "r": "きょうせい",
+     "p": "noun",
+     "zh": "共生",
+     "en": "coexistence"
+    },
+    {
+     "id": "intermediate-2-31-11",
+     "w": "相互理解",
+     "r": "そうごりかい",
+     "p": "noun",
+     "zh": "相互理解",
+     "en": "mutual understanding"
+    },
+    {
+     "id": "intermediate-2-31-12",
+     "w": "受容",
+     "r": "じゅよう",
+     "p": "noun",
+     "zh": "接受，包容",
+     "en": "acceptance"
+    },
+    {
+     "id": "intermediate-2-31-13",
+     "w": "移民",
+     "r": "いみん",
+     "p": "noun",
+     "zh": "移民",
+     "en": "immigrant"
+    },
+    {
+     "id": "intermediate-2-31-14",
+     "w": "外国人労働者",
+     "r": "がいこくじんろうどうしゃ",
+     "p": "noun",
+     "zh": "外国劳工",
+     "en": "foreign worker"
+    },
+    {
+     "id": "intermediate-2-31-15",
+     "w": "在留資格",
+     "r": "ざいりゅうしかく",
+     "p": "noun",
+     "zh": "在留资格",
+     "en": "residence status"
+    },
+    {
+     "id": "intermediate-2-31-16",
+     "w": "永住権",
+     "r": "えいじゅうけん",
+     "p": "noun",
+     "zh": "永住权",
+     "en": "permanent residency"
+    },
+    {
+     "id": "intermediate-2-31-17",
+     "w": "帰化",
+     "r": "きか",
+     "p": "noun",
+     "zh": "归化，入籍",
+     "en": "naturalization"
+    },
+    {
+     "id": "intermediate-2-31-18",
+     "w": "語学留学",
+     "r": "ごがくりゅうがく",
+     "p": "noun",
+     "zh": "语言留学",
+     "en": "language study abroad"
+    },
+    {
+     "id": "intermediate-2-31-19",
+     "w": "交換留学",
+     "r": "こうかんりゅうがく",
+     "p": "noun",
+     "zh": "交换留学",
+     "en": "exchange program"
+    },
+    {
+     "id": "intermediate-2-31-20",
+     "w": "ホームステイ",
+     "r": "ホームステイ",
+     "p": "noun",
+     "zh": "寄宿家庭",
+     "en": "homestay"
+    },
+    {
+     "id": "intermediate-2-31-21",
+     "w": "姉妹都市",
+     "r": "しまいとし",
+     "p": "noun",
+     "zh": "友好城市",
+     "en": "sister city"
+    },
+    {
+     "id": "intermediate-2-31-22",
+     "w": "国際結婚",
+     "r": "こくさいけっこん",
+     "p": "noun",
+     "zh": "跨国婚姻",
+     "en": "international marriage"
+    },
+    {
+     "id": "intermediate-2-31-23",
+     "w": "通訳者",
+     "r": "つうやくしゃ",
+     "p": "noun",
+     "zh": "口译人员",
+     "en": "interpreter"
+    },
+    {
+     "id": "intermediate-2-31-24",
+     "w": "母国",
+     "r": "ぼこく",
+     "p": "noun",
+     "zh": "祖国",
+     "en": "home country"
+    },
+    {
+     "id": "intermediate-2-31-25",
+     "w": "出身",
+     "r": "しゅっしん",
+     "p": "noun",
+     "zh": "出身，籍贯",
+     "en": "origin"
+    },
+    {
+     "id": "intermediate-2-31-26",
+     "w": "民族",
+     "r": "みんぞく",
+     "p": "noun",
+     "zh": "民族",
+     "en": "ethnic group"
+    },
+    {
+     "id": "intermediate-2-31-27",
+     "w": "宗教",
+     "r": "しゅうきょう",
+     "p": "noun",
+     "zh": "宗教",
+     "en": "religion"
+    },
+    {
+     "id": "intermediate-2-31-28",
+     "w": "言語の壁",
+     "r": "げんごのかべ",
+     "p": "noun",
+     "zh": "语言障碍",
+     "en": "language barrier"
+    },
+    {
+     "id": "intermediate-2-31-29",
+     "w": "適応する",
+     "r": "てきおうする",
+     "p": "verb",
+     "zh": "适应",
+     "en": "to adapt",
+     "g": 3
+    },
+    {
+     "id": "intermediate-2-31-30",
+     "w": "馴染む",
+     "r": "なじむ",
+     "p": "verb",
+     "zh": "融入",
+     "en": "to fit in",
+     "g": 1
+    },
+    {
+     "id": "intermediate-2-31-31",
+     "w": "尊重する",
+     "r": "そんちょうする",
+     "p": "verb",
+     "zh": "尊重",
+     "en": "to respect",
+     "g": 3
+    },
+    {
+     "id": "intermediate-2-31-32",
+     "w": "受け入れる",
+     "r": "うけいれる",
+     "p": "verb",
+     "zh": "接受，接纳",
+     "en": "to accept",
+     "g": 2
+    },
+    {
+     "id": "intermediate-2-31-33",
+     "w": "分かり合う",
+     "r": "わかりあう",
+     "p": "verb",
+     "zh": "互相理解",
+     "en": "to understand each other",
+     "g": 1
+    },
+    {
+     "id": "intermediate-2-31-34",
+     "w": "歩み寄る",
+     "r": "あゆみよる",
+     "p": "verb",
+     "zh": "互相靠拢",
+     "en": "to meet halfway",
+     "g": 1
+    },
+    {
+     "id": "intermediate-2-31-35",
+     "w": "戸惑う",
+     "r": "とまどう",
+     "p": "verb",
+     "zh": "困惑",
+     "en": "to be bewildered",
+     "g": 1
+    },
+    {
+     "id": "intermediate-2-31-36",
+     "w": "排除する",
+     "r": "はいじょする",
+     "p": "verb",
+     "zh": "排斥",
+     "en": "to exclude",
+     "g": 3
+    },
+    {
+     "id": "intermediate-2-31-37",
+     "w": "寛容",
+     "r": "かんよう",
+     "p": "na-adj",
+     "zh": "宽容的",
+     "en": "tolerant"
+    },
+    {
+     "id": "intermediate-2-31-38",
+     "w": "閉鎖的",
+     "r": "へいさてき",
+     "p": "na-adj",
+     "zh": "封闭的",
+     "en": "closed-off"
+    },
+    {
+     "id": "intermediate-2-31-39",
+     "w": "開放的",
+     "r": "かいほうてき",
+     "p": "na-adj",
+     "zh": "开放的",
+     "en": "open"
+    },
+    {
+     "id": "intermediate-2-31-40",
+     "w": "お互いに",
+     "r": "おたがいに",
+     "p": "adv",
+     "zh": "互相",
+     "en": "mutually"
+    }
+   ]
+  },
+  {
+   "n": 32,
+   "title": "将来の夢と人生設計",
+   "title_zh": "未来的梦想与人生规划",
+   "words": [
+    {
+     "id": "intermediate-2-32-01",
+     "w": "人生設計",
+     "r": "じんせいせっけい",
+     "p": "noun",
+     "zh": "人生规划",
+     "en": "life planning"
+    },
+    {
+     "id": "intermediate-2-32-02",
+     "w": "生き方",
+     "r": "いきかた",
+     "p": "noun",
+     "zh": "生活方式，活法",
+     "en": "way of living"
+    },
+    {
+     "id": "intermediate-2-32-03",
+     "w": "価値",
+     "r": "かち",
+     "p": "noun",
+     "zh": "价值",
+     "en": "value"
+    },
+    {
+     "id": "intermediate-2-32-04",
+     "w": "信念",
+     "r": "しんねん",
+     "p": "noun",
+     "zh": "信念",
+     "en": "conviction"
+    },
+    {
+     "id": "intermediate-2-32-05",
+     "w": "理想",
+     "r": "りそう",
+     "p": "noun",
+     "zh": "理想",
+     "en": "ideal"
+    },
+    {
+     "id": "intermediate-2-32-06",
+     "w": "現実",
+     "r": "げんじつ",
+     "p": "noun",
+     "zh": "现实",
+     "en": "reality"
+    },
+    {
+     "id": "intermediate-2-32-07",
+     "w": "妥協点",
+     "r": "だきょうてん",
+     "p": "noun",
+     "zh": "妥协点",
+     "en": "compromise"
+    },
+    {
+     "id": "intermediate-2-32-08",
+     "w": "優先順位",
+     "r": "ゆうせんじゅんい",
+     "p": "noun",
+     "zh": "优先顺序",
+     "en": "priority"
+    },
+    {
+     "id": "intermediate-2-32-09",
+     "w": "転機",
+     "r": "てんき",
+     "p": "noun",
+     "zh": "转折点",
+     "en": "turning point"
+    },
+    {
+     "id": "intermediate-2-32-10",
+     "w": "節目",
+     "r": "ふしめ",
+     "p": "noun",
+     "zh": "关口，转折",
+     "en": "milestone"
+    },
+    {
+     "id": "intermediate-2-32-11",
+     "w": "独立",
+     "r": "どくりつ",
+     "p": "noun",
+     "zh": "独立",
+     "en": "independence"
+    },
+    {
+     "id": "intermediate-2-32-12",
+     "w": "起業",
+     "r": "きぎょう",
+     "p": "noun",
+     "zh": "创业",
+     "en": "starting a business"
+    },
+    {
+     "id": "intermediate-2-32-13",
+     "w": "副業",
+     "r": "ふくぎょう",
+     "p": "noun",
+     "zh": "副业",
+     "en": "side job"
+    },
+    {
+     "id": "intermediate-2-32-14",
+     "w": "老後",
+     "r": "ろうご",
+     "p": "noun",
+     "zh": "晚年",
+     "en": "one's later years"
+    },
+    {
+     "id": "intermediate-2-32-15",
+     "w": "貯蓄",
+     "r": "ちょちく",
+     "p": "noun",
+     "zh": "储蓄",
+     "en": "savings"
+    },
+    {
+     "id": "intermediate-2-32-16",
+     "w": "住宅ローン",
+     "r": "じゅうたくローン",
+     "p": "noun",
+     "zh": "房贷",
+     "en": "mortgage"
+    },
+    {
+     "id": "intermediate-2-32-17",
+     "w": "結婚観",
+     "r": "けっこんかん",
+     "p": "noun",
+     "zh": "婚姻观",
+     "en": "view on marriage"
+    },
+    {
+     "id": "intermediate-2-32-18",
+     "w": "晩婚",
+     "r": "ばんこん",
+     "p": "noun",
+     "zh": "晚婚",
+     "en": "late marriage"
+    },
+    {
+     "id": "intermediate-2-32-19",
+     "w": "共働き世帯",
+     "r": "ともばたらきせたい",
+     "p": "noun",
+     "zh": "双职工家庭",
+     "en": "dual-income household"
+    },
+    {
+     "id": "intermediate-2-32-20",
+     "w": "ワークライフバランス",
+     "r": "ワークライフバランス",
+     "p": "noun",
+     "zh": "工作生活平衡",
+     "en": "work-life balance"
+    },
+    {
+     "id": "intermediate-2-32-21",
+     "w": "やりがい",
+     "r": "やりがい",
+     "p": "noun",
+     "zh": "值得做，成就感",
+     "en": "sense of fulfillment"
+    },
+    {
+     "id": "intermediate-2-32-22",
+     "w": "充実感",
+     "r": "じゅうじつかん",
+     "p": "noun",
+     "zh": "充实感",
+     "en": "sense of fulfillment"
+    },
+    {
+     "id": "intermediate-2-32-23",
+     "w": "満足度",
+     "r": "まんぞくど",
+     "p": "noun",
+     "zh": "满意度",
+     "en": "satisfaction level"
+    },
+    {
+     "id": "intermediate-2-32-24",
+     "w": "後悔",
+     "r": "こうかい",
+     "p": "noun",
+     "zh": "后悔",
+     "en": "regret"
+    },
+    {
+     "id": "intermediate-2-32-25",
+     "w": "覚悟",
+     "r": "かくご",
+     "p": "noun",
+     "zh": "觉悟，思想准备",
+     "en": "resolve"
+    },
+    {
+     "id": "intermediate-2-32-26",
+     "w": "挑戦",
+     "r": "ちょうせん",
+     "p": "noun",
+     "zh": "挑战",
+     "en": "challenge"
+    },
+    {
+     "id": "intermediate-2-32-27",
+     "w": "見通し",
+     "r": "みとおし",
+     "p": "noun",
+     "zh": "前景，预测",
+     "en": "outlook"
+    },
+    {
+     "id": "intermediate-2-32-28",
+     "w": "実現可能",
+     "r": "じつげんかのう",
+     "p": "na-adj",
+     "zh": "可实现的",
+     "en": "feasible"
+    },
+    {
+     "id": "intermediate-2-32-29",
+     "w": "描く",
+     "r": "えがく",
+     "p": "verb",
+     "zh": "描绘（蓝图）",
+     "en": "to envision",
+     "g": 1
+    },
+    {
+     "id": "intermediate-2-32-30",
+     "w": "目指す",
+     "r": "めざす",
+     "p": "verb",
+     "zh": "以…为目标",
+     "en": "to aim for",
+     "g": 1
+    },
+    {
+     "id": "intermediate-2-32-31",
+     "w": "歩む",
+     "r": "あゆむ",
+     "p": "verb",
+     "zh": "走（人生道路）",
+     "en": "to walk (a path)",
+     "g": 1
+    },
+    {
+     "id": "intermediate-2-32-32",
+     "w": "切り開く",
+     "r": "きりひらく",
+     "p": "verb",
+     "zh": "开拓",
+     "en": "to carve out",
+     "g": 1
+    },
+    {
+     "id": "intermediate-2-32-33",
+     "w": "見据える",
+     "r": "みすえる",
+     "p": "verb",
+     "zh": "正视，着眼于",
+     "en": "to look squarely at",
+     "g": 2
+    },
+    {
+     "id": "intermediate-2-32-34",
+     "w": "備える",
+     "r": "そなえる",
+     "p": "verb",
+     "zh": "准备，防备",
+     "en": "to prepare for",
+     "g": 2
+    },
+    {
+     "id": "intermediate-2-32-35",
+     "w": "揺らぐ",
+     "r": "ゆらぐ",
+     "p": "verb",
+     "zh": "动摇",
+     "en": "to waver",
+     "g": 1
+    },
+    {
+     "id": "intermediate-2-32-36",
+     "w": "貫く",
+     "r": "つらぬく",
+     "p": "verb",
+     "zh": "贯彻",
+     "en": "to carry through",
+     "g": 1
+    },
+    {
+     "id": "intermediate-2-32-37",
+     "w": "前向き",
+     "r": "まえむき",
+     "p": "na-adj",
+     "zh": "积极向前的",
+     "en": "positive"
+    },
+    {
+     "id": "intermediate-2-32-38",
+     "w": "堅実",
+     "r": "けんじつ",
+     "p": "na-adj",
+     "zh": "稳健的",
+     "en": "steady; sound"
+    },
+    {
+     "id": "intermediate-2-32-39",
+     "w": "柔軟",
+     "r": "じゅうなん",
+     "p": "na-adj",
+     "zh": "灵活的",
+     "en": "flexible"
+    },
+    {
+     "id": "intermediate-2-32-40",
+     "w": "いずれ",
+     "r": "いずれ",
+     "p": "adv",
+     "zh": "迟早，将来",
+     "en": "sooner or later"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,4012 @@
+{
+ "id": "advanced-1",
+ "series": "advanced",
+ "volume": 1,
+ "title": "上級 上",
+ "title_zh": "高级 上册",
+ "title_en": "Advanced I",
+ "themed": true,
+ "lessons": [
+  {
+   "n": 1,
+   "title": "言葉と表現",
+   "title_zh": "语言与表达",
+   "words": [
+    {
+     "id": "advanced-1-01-01",
+     "w": "語彙",
+     "r": "ごい",
+     "p": "noun",
+     "zh": "词汇",
+     "en": "vocabulary"
+    },
+    {
+     "id": "advanced-1-01-02",
+     "w": "語感",
+     "r": "ごかん",
+     "p": "noun",
+     "zh": "语感",
+     "en": "feel for words"
+    },
+    {
+     "id": "advanced-1-01-03",
+     "w": "言い回し",
+     "r": "いいまわし",
+     "p": "noun",
+     "zh": "说法，措辞",
+     "en": "turn of phrase"
+    },
+    {
+     "id": "advanced-1-01-04",
+     "w": "表現力",
+     "r": "ひょうげんりょく",
+     "p": "noun",
+     "zh": "表现力",
+     "en": "expressiveness"
+    },
+    {
+     "id": "advanced-1-01-05",
+     "w": "比喩",
+     "r": "ひゆ",
+     "p": "noun",
+     "zh": "比喻",
+     "en": "metaphor"
+    },
+    {
+     "id": "advanced-1-01-06",
+     "w": "皮肉",
+     "r": "ひにく",
+     "p": "noun",
+     "zh": "讽刺",
+     "en": "irony; sarcasm"
+    },
+    {
+     "id": "advanced-1-01-07",
+     "w": "婉曲",
+     "r": "えんきょく",
+     "p": "na-adj",
+     "zh": "委婉的",
+     "en": "euphemistic"
+    },
+    {
+     "id": "advanced-1-01-08",
+     "w": "含蓄",
+     "r": "がんちく",
+     "p": "noun",
+     "zh": "含蓄，意味深长",
+     "en": "implication; depth"
+    },
+    {
+     "id": "advanced-1-01-09",
+     "w": "ニュアンス",
+     "r": "ニュアンス",
+     "p": "noun",
+     "zh": "语感差别，微妙差异",
+     "en": "nuance"
+    },
+    {
+     "id": "advanced-1-01-10",
+     "w": "語源",
+     "r": "ごげん",
+     "p": "noun",
+     "zh": "词源",
+     "en": "etymology"
+    },
+    {
+     "id": "advanced-1-01-11",
+     "w": "方言",
+     "r": "ほうげん",
+     "p": "noun",
+     "zh": "方言",
+     "en": "dialect"
+    },
+    {
+     "id": "advanced-1-01-12",
+     "w": "標準語",
+     "r": "ひょうじゅんご",
+     "p": "noun",
+     "zh": "标准语",
+     "en": "standard language"
+    },
+    {
+     "id": "advanced-1-01-13",
+     "w": "若者言葉",
+     "r": "わかものことば",
+     "p": "noun",
+     "zh": "年轻人用语",
+     "en": "youth slang"
+    },
+    {
+     "id": "advanced-1-01-14",
+     "w": "流行語",
+     "r": "りゅうこうご",
+     "p": "noun",
+     "zh": "流行语",
+     "en": "buzzword"
+    },
+    {
+     "id": "advanced-1-01-15",
+     "w": "死語",
+     "r": "しご",
+     "p": "noun",
+     "zh": "过时的词",
+     "en": "obsolete word"
+    },
+    {
+     "id": "advanced-1-01-16",
+     "w": "造語",
+     "r": "ぞうご",
+     "p": "noun",
+     "zh": "造词，新词",
+     "en": "coined word"
+    },
+    {
+     "id": "advanced-1-01-17",
+     "w": "外来語",
+     "r": "がいらいご",
+     "p": "noun",
+     "zh": "外来语",
+     "en": "loanword"
+    },
+    {
+     "id": "advanced-1-01-18",
+     "w": "和製英語",
+     "r": "わせいえいご",
+     "p": "noun",
+     "zh": "和制英语",
+     "en": "Japanese-made English"
+    },
+    {
+     "id": "advanced-1-01-19",
+     "w": "慣用句",
+     "r": "かんようく",
+     "p": "noun",
+     "zh": "惯用句",
+     "en": "idiom"
+    },
+    {
+     "id": "advanced-1-01-20",
+     "w": "諺",
+     "r": "ことわざ",
+     "p": "noun",
+     "zh": "谚语",
+     "en": "proverb"
+    },
+    {
+     "id": "advanced-1-01-21",
+     "w": "四字熟語",
+     "r": "よじじゅくご",
+     "p": "noun",
+     "zh": "四字成语",
+     "en": "four-character idiom"
+    },
+    {
+     "id": "advanced-1-01-22",
+     "w": "敬語体系",
+     "r": "けいごたいけい",
+     "p": "noun",
+     "zh": "敬语体系",
+     "en": "honorific system"
+    },
+    {
+     "id": "advanced-1-01-23",
+     "w": "文体",
+     "r": "ぶんたい",
+     "p": "noun",
+     "zh": "文体",
+     "en": "writing style"
+    },
+    {
+     "id": "advanced-1-01-24",
+     "w": "口語",
+     "r": "こうご",
+     "p": "noun",
+     "zh": "口语",
+     "en": "colloquial language"
+    },
+    {
+     "id": "advanced-1-01-25",
+     "w": "文語",
+     "r": "ぶんご",
+     "p": "noun",
+     "zh": "文言",
+     "en": "literary language"
+    },
+    {
+     "id": "advanced-1-01-26",
+     "w": "言語学",
+     "r": "げんごがく",
+     "p": "noun",
+     "zh": "语言学",
+     "en": "linguistics"
+    },
+    {
+     "id": "advanced-1-01-27",
+     "w": "語り口",
+     "r": "かたりくち",
+     "p": "noun",
+     "zh": "叙述口吻",
+     "en": "manner of speaking"
+    },
+    {
+     "id": "advanced-1-01-28",
+     "w": "言葉の乱れ",
+     "r": "ことばのみだれ",
+     "p": "noun",
+     "zh": "语言的混乱",
+     "en": "corruption of language"
+    },
+    {
+     "id": "advanced-1-01-29",
+     "w": "使い分ける",
+     "r": "つかいわける",
+     "p": "verb",
+     "zh": "区分使用",
+     "en": "to use properly for each case",
+     "g": 2
+    },
+    {
+     "id": "advanced-1-01-30",
+     "w": "言い換える",
+     "r": "いいかえる",
+     "p": "verb",
+     "zh": "换个说法",
+     "en": "to paraphrase",
+     "g": 2
+    },
+    {
+     "id": "advanced-1-01-31",
+     "w": "ぼかす",
+     "r": "ぼかす",
+     "p": "verb",
+     "zh": "含糊其辞",
+     "en": "to make vague",
+     "g": 1
+    },
+    {
+     "id": "advanced-1-01-32",
+     "w": "和らげる",
+     "r": "やわらげる",
+     "p": "verb",
+     "zh": "缓和（语气）",
+     "en": "to soften",
+     "g": 2
+    },
+    {
+     "id": "advanced-1-01-33",
+     "w": "言い切る",
+     "r": "いいきる",
+     "p": "verb",
+     "zh": "断言",
+     "en": "to assert flatly",
+     "g": 1
+    },
+    {
+     "id": "advanced-1-01-34",
+     "w": "意図する",
+     "r": "いとする",
+     "p": "verb",
+     "zh": "意图",
+     "en": "to intend",
+     "g": 3
+    },
+    {
+     "id": "advanced-1-01-35",
+     "w": "通用する",
+     "r": "つうようする",
+     "p": "verb",
+     "zh": "通用，行得通",
+     "en": "to be accepted",
+     "g": 3
+    },
+    {
+     "id": "advanced-1-01-36",
+     "w": "微妙",
+     "r": "びみょう",
+     "p": "na-adj",
+     "zh": "微妙的",
+     "en": "subtle"
+    },
+    {
+     "id": "advanced-1-01-37",
+     "w": "適切",
+     "r": "てきせつ",
+     "p": "na-adj",
+     "zh": "恰当的",
+     "en": "appropriate"
+    },
+    {
+     "id": "advanced-1-01-38",
+     "w": "不適切",
+     "r": "ふてきせつ",
+     "p": "na-adj",
+     "zh": "不恰当的",
+     "en": "inappropriate"
+    },
+    {
+     "id": "advanced-1-01-39",
+     "w": "紛らわしい",
+     "r": "まぎらわしい",
+     "p": "i-adj",
+     "zh": "容易混淆的",
+     "en": "confusing"
+    },
+    {
+     "id": "advanced-1-01-40",
+     "w": "すなわち",
+     "r": "すなわち",
+     "p": "conj",
+     "zh": "即，也就是",
+     "en": "namely"
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "title": "文学と読書",
+   "title_zh": "文学与阅读",
+   "words": [
+    {
+     "id": "advanced-1-02-01",
+     "w": "文芸",
+     "r": "ぶんげい",
+     "p": "noun",
+     "zh": "文艺",
+     "en": "literary arts"
+    },
+    {
+     "id": "advanced-1-02-02",
+     "w": "随筆",
+     "r": "ずいひつ",
+     "p": "noun",
+     "zh": "随笔",
+     "en": "essay"
+    },
+    {
+     "id": "advanced-1-02-03",
+     "w": "評論",
+     "r": "ひょうろん",
+     "p": "noun",
+     "zh": "评论",
+     "en": "critique"
+    },
+    {
+     "id": "advanced-1-02-04",
+     "w": "戯曲",
+     "r": "ぎきょく",
+     "p": "noun",
+     "zh": "戏剧剧本",
+     "en": "play; drama"
+    },
+    {
+     "id": "advanced-1-02-05",
+     "w": "詩歌",
+     "r": "しいか",
+     "p": "noun",
+     "zh": "诗歌",
+     "en": "poetry"
+    },
+    {
+     "id": "advanced-1-02-06",
+     "w": "物語",
+     "r": "ものがたり",
+     "p": "noun",
+     "zh": "故事，物语",
+     "en": "tale"
+    },
+    {
+     "id": "advanced-1-02-07",
+     "w": "作風",
+     "r": "さくふう",
+     "p": "noun",
+     "zh": "创作风格",
+     "en": "style (of an author)"
+    },
+    {
+     "id": "advanced-1-02-08",
+     "w": "文豪",
+     "r": "ぶんごう",
+     "p": "noun",
+     "zh": "文豪",
+     "en": "great writer"
+    },
+    {
+     "id": "advanced-1-02-09",
+     "w": "著者",
+     "r": "ちょしゃ",
+     "p": "noun",
+     "zh": "作者",
+     "en": "author"
+    },
+    {
+     "id": "advanced-1-02-10",
+     "w": "著作",
+     "r": "ちょさく",
+     "p": "noun",
+     "zh": "著作",
+     "en": "literary work"
+    },
+    {
+     "id": "advanced-1-02-11",
+     "w": "原作",
+     "r": "げんさく",
+     "p": "noun",
+     "zh": "原著",
+     "en": "original work"
+    },
+    {
+     "id": "advanced-1-02-12",
+     "w": "翻案",
+     "r": "ほんあん",
+     "p": "noun",
+     "zh": "改编",
+     "en": "adaptation"
+    },
+    {
+     "id": "advanced-1-02-13",
+     "w": "筋書き",
+     "r": "すじがき",
+     "p": "noun",
+     "zh": "情节，梗概",
+     "en": "plot"
+    },
+    {
+     "id": "advanced-1-02-14",
+     "w": "伏線",
+     "r": "ふくせん",
+     "p": "noun",
+     "zh": "伏笔",
+     "en": "foreshadowing"
+    },
+    {
+     "id": "advanced-1-02-15",
+     "w": "結末",
+     "r": "けつまつ",
+     "p": "noun",
+     "zh": "结局",
+     "en": "ending"
+    },
+    {
+     "id": "advanced-1-02-16",
+     "w": "登場人物",
+     "r": "とうじょうじんぶつ",
+     "p": "noun",
+     "zh": "登场人物",
+     "en": "character"
+    },
+    {
+     "id": "advanced-1-02-17",
+     "w": "主人公",
+     "r": "しゅじんこう",
+     "p": "noun",
+     "zh": "主人公",
+     "en": "protagonist"
+    },
+    {
+     "id": "advanced-1-02-18",
+     "w": "心理描写",
+     "r": "しんりびょうしゃ",
+     "p": "noun",
+     "zh": "心理描写",
+     "en": "psychological portrayal"
+    },
+    {
+     "id": "advanced-1-02-19",
+     "w": "情景",
+     "r": "じょうけい",
+     "p": "noun",
+     "zh": "情景",
+     "en": "scene"
+    },
+    {
+     "id": "advanced-1-02-20",
+     "w": "余韻",
+     "r": "よいん",
+     "p": "noun",
+     "zh": "余韵",
+     "en": "lingering resonance"
+    },
+    {
+     "id": "advanced-1-02-21",
+     "w": "抒情",
+     "r": "じょじょう",
+     "p": "noun",
+     "zh": "抒情",
+     "en": "lyricism"
+    },
+    {
+     "id": "advanced-1-02-22",
+     "w": "文体論",
+     "r": "ぶんたいろん",
+     "p": "noun",
+     "zh": "文体论",
+     "en": "stylistics"
+    },
+    {
+     "id": "advanced-1-02-23",
+     "w": "解釈",
+     "r": "かいしゃく",
+     "p": "noun",
+     "zh": "解释，诠释",
+     "en": "interpretation"
+    },
+    {
+     "id": "advanced-1-02-24",
+     "w": "読解力",
+     "r": "どっかいりょく",
+     "p": "noun",
+     "zh": "阅读理解能力",
+     "en": "reading comprehension"
+    },
+    {
+     "id": "advanced-1-02-25",
+     "w": "愛読書",
+     "r": "あいどくしょ",
+     "p": "noun",
+     "zh": "喜爱的书",
+     "en": "favorite book"
+    },
+    {
+     "id": "advanced-1-02-26",
+     "w": "名作",
+     "r": "めいさく",
+     "p": "noun",
+     "zh": "名作",
+     "en": "masterpiece"
+    },
+    {
+     "id": "advanced-1-02-27",
+     "w": "傑作",
+     "r": "けっさく",
+     "p": "noun",
+     "zh": "杰作",
+     "en": "masterwork"
+    },
+    {
+     "id": "advanced-1-02-28",
+     "w": "駄作",
+     "r": "ださく",
+     "p": "noun",
+     "zh": "拙劣之作",
+     "en": "poor work"
+    },
+    {
+     "id": "advanced-1-02-29",
+     "w": "批評",
+     "r": "ひひょう",
+     "p": "noun",
+     "zh": "批评，评论",
+     "en": "criticism"
+    },
+    {
+     "id": "advanced-1-02-30",
+     "w": "味わう",
+     "r": "あじわう",
+     "p": "verb",
+     "zh": "品味",
+     "en": "to savor",
+     "g": 1
+    },
+    {
+     "id": "advanced-1-02-31",
+     "w": "綴る",
+     "r": "つづる",
+     "p": "verb",
+     "zh": "写，缀文",
+     "en": "to write; to compose",
+     "g": 1
+    },
+    {
+     "id": "advanced-1-02-32",
+     "w": "描写する",
+     "r": "びょうしゃする",
+     "p": "verb",
+     "zh": "描写",
+     "en": "to depict",
+     "g": 3
+    },
+    {
+     "id": "advanced-1-02-33",
+     "w": "象徴する",
+     "r": "しょうちょうする",
+     "p": "verb",
+     "zh": "象征",
+     "en": "to symbolize",
+     "g": 3
+    },
+    {
+     "id": "advanced-1-02-34",
+     "w": "引き込まれる",
+     "r": "ひきこまれる",
+     "p": "verb",
+     "zh": "被吸引进去",
+     "en": "to be drawn in",
+     "g": 2
+    },
+    {
+     "id": "advanced-1-02-35",
+     "w": "読み耽る",
+     "r": "よみふける",
+     "p": "verb",
+     "zh": "埋头阅读",
+     "en": "to be absorbed in reading",
+     "g": 1
+    },
+    {
+     "id": "advanced-1-02-36",
+     "w": "感銘を受ける",
+     "r": "かんめいをうける",
+     "p": "expr",
+     "zh": "深受感动",
+     "en": "to be deeply moved"
+    },
+    {
+     "id": "advanced-1-02-37",
+     "w": "斬新",
+     "r": "ざんしん",
+     "p": "na-adj",
+     "zh": "新颖的",
+     "en": "novel; original"
+    },
+    {
+     "id": "advanced-1-02-38",
+     "w": "難解",
+     "r": "なんかい",
+     "p": "na-adj",
+     "zh": "晦涩难懂的",
+     "en": "abstruse"
+    },
+    {
+     "id": "advanced-1-02-39",
+     "w": "緻密",
+     "r": "ちみつ",
+     "p": "na-adj",
+     "zh": "细密的",
+     "en": "meticulous"
+    },
+    {
+     "id": "advanced-1-02-40",
+     "w": "鮮やか",
+     "r": "あざやか",
+     "p": "na-adj",
+     "zh": "鲜明的",
+     "en": "vivid"
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "title": "歴史と時代",
+   "title_zh": "历史与时代",
+   "words": [
+    {
+     "id": "advanced-1-03-01",
+     "w": "史料",
+     "r": "しりょう",
+     "p": "noun",
+     "zh": "史料",
+     "en": "historical materials"
+    },
+    {
+     "id": "advanced-1-03-02",
+     "w": "考古学",
+     "r": "こうこがく",
+     "p": "noun",
+     "zh": "考古学",
+     "en": "archaeology"
+    },
+    {
+     "id": "advanced-1-03-03",
+     "w": "遺跡",
+     "r": "いせき",
+     "p": "noun",
+     "zh": "遗迹",
+     "en": "ruins"
+    },
+    {
+     "id": "advanced-1-03-04",
+     "w": "文明",
+     "r": "ぶんめい",
+     "p": "noun",
+     "zh": "文明",
+     "en": "civilization"
+    },
+    {
+     "id": "advanced-1-03-05",
+     "w": "王朝",
+     "r": "おうちょう",
+     "p": "noun",
+     "zh": "王朝",
+     "en": "dynasty"
+    },
+    {
+     "id": "advanced-1-03-06",
+     "w": "幕府",
+     "r": "ばくふ",
+     "p": "noun",
+     "zh": "幕府",
+     "en": "shogunate"
+    },
+    {
+     "id": "advanced-1-03-07",
+     "w": "武士",
+     "r": "ぶし",
+     "p": "noun",
+     "zh": "武士",
+     "en": "samurai"
+    },
+    {
+     "id": "advanced-1-03-08",
+     "w": "戦国時代",
+     "r": "せんごくじだい",
+     "p": "noun",
+     "zh": "战国时代",
+     "en": "Warring States period"
+    },
+    {
+     "id": "advanced-1-03-09",
+     "w": "明治維新",
+     "r": "めいじいしん",
+     "p": "noun",
+     "zh": "明治维新",
+     "en": "Meiji Restoration"
+    },
+    {
+     "id": "advanced-1-03-10",
+     "w": "近代化",
+     "r": "きんだいか",
+     "p": "noun",
+     "zh": "近代化",
+     "en": "modernization"
+    },
+    {
+     "id": "advanced-1-03-11",
+     "w": "産業革命",
+     "r": "さんぎょうかくめい",
+     "p": "noun",
+     "zh": "工业革命",
+     "en": "industrial revolution"
+    },
+    {
+     "id": "advanced-1-03-12",
+     "w": "植民地",
+     "r": "しょくみんち",
+     "p": "noun",
+     "zh": "殖民地",
+     "en": "colony"
+    },
+    {
+     "id": "advanced-1-03-13",
+     "w": "侵略",
+     "r": "しんりゃく",
+     "p": "noun",
+     "zh": "侵略",
+     "en": "invasion"
+    },
+    {
+     "id": "advanced-1-03-14",
+     "w": "戦争",
+     "r": "せんそう",
+     "p": "noun",
+     "zh": "战争",
+     "en": "war"
+    },
+    {
+     "id": "advanced-1-03-15",
+     "w": "敗戦",
+     "r": "はいせん",
+     "p": "noun",
+     "zh": "战败",
+     "en": "defeat in war"
+    },
+    {
+     "id": "advanced-1-03-16",
+     "w": "復興",
+     "r": "ふっこう",
+     "p": "noun",
+     "zh": "复兴，重建",
+     "en": "reconstruction"
+    },
+    {
+     "id": "advanced-1-03-17",
+     "w": "高度経済成長",
+     "r": "こうどけいざいせいちょう",
+     "p": "noun",
+     "zh": "经济高速增长",
+     "en": "rapid economic growth"
+    },
+    {
+     "id": "advanced-1-03-18",
+     "w": "時代背景",
+     "r": "じだいはいけい",
+     "p": "noun",
+     "zh": "时代背景",
+     "en": "historical background"
+    },
+    {
+     "id": "advanced-1-03-19",
+     "w": "歴史観",
+     "r": "れきしかん",
+     "p": "noun",
+     "zh": "历史观",
+     "en": "view of history"
+    },
+    {
+     "id": "advanced-1-03-20",
+     "w": "史観",
+     "r": "しかん",
+     "p": "noun",
+     "zh": "史观",
+     "en": "historical perspective"
+    },
+    {
+     "id": "advanced-1-03-21",
+     "w": "年代",
+     "r": "ねんだい",
+     "p": "noun",
+     "zh": "年代",
+     "en": "era; period"
+    },
+    {
+     "id": "advanced-1-03-22",
+     "w": "転換期",
+     "r": "てんかんき",
+     "p": "noun",
+     "zh": "转型期",
+     "en": "turning point"
+    },
+    {
+     "id": "advanced-1-03-23",
+     "w": "変遷",
+     "r": "へんせん",
+     "p": "noun",
+     "zh": "变迁",
+     "en": "transition"
+    },
+    {
+     "id": "advanced-1-03-24",
+     "w": "興亡",
+     "r": "こうぼう",
+     "p": "noun",
+     "zh": "兴亡",
+     "en": "rise and fall"
+    },
+    {
+     "id": "advanced-1-03-25",
+     "w": "遺産",
+     "r": "いさん",
+     "p": "noun",
+     "zh": "遗产",
+     "en": "heritage"
+    },
+    {
+     "id": "advanced-1-03-26",
+     "w": "教訓",
+     "r": "きょうくん",
+     "p": "noun",
+     "zh": "教训",
+     "en": "lesson"
+    },
+    {
+     "id": "advanced-1-03-27",
+     "w": "検証",
+     "r": "けんしょう",
+     "p": "noun",
+     "zh": "考证，验证",
+     "en": "verification"
+    },
+    {
+     "id": "advanced-1-03-28",
+     "w": "通説",
+     "r": "つうせつ",
+     "p": "noun",
+     "zh": "通说，一般说法",
+     "en": "accepted theory"
+    },
+    {
+     "id": "advanced-1-03-29",
+     "w": "諸説",
+     "r": "しょせつ",
+     "p": "noun",
+     "zh": "各种说法",
+     "en": "various theories"
+    },
+    {
+     "id": "advanced-1-03-30",
+     "w": "栄える",
+     "r": "さかえる",
+     "p": "verb",
+     "zh": "繁荣",
+     "en": "to prosper",
+     "g": 2
+    },
+    {
+     "id": "advanced-1-03-31",
+     "w": "滅びる",
+     "r": "ほろびる",
+     "p": "verb",
+     "zh": "灭亡",
+     "en": "to perish",
+     "g": 2
+    },
+    {
+     "id": "advanced-1-03-32",
+     "w": "築く",
+     "r": "きずく",
+     "p": "verb",
+     "zh": "建立，构筑",
+     "en": "to build up",
+     "g": 1
+    },
+    {
+     "id": "advanced-1-03-33",
+     "w": "覆す",
+     "r": "くつがえす",
+     "p": "verb",
+     "zh": "推翻",
+     "en": "to overturn",
+     "g": 1
+    },
+    {
+     "id": "advanced-1-03-34",
+     "w": "辿る",
+     "r": "たどる",
+     "p": "verb",
+     "zh": "追溯",
+     "en": "to trace",
+     "g": 1
+    },
+    {
+     "id": "advanced-1-03-35",
+     "w": "物語る",
+     "r": "ものがたる",
+     "p": "verb",
+     "zh": "说明，表明",
+     "en": "to tell of",
+     "g": 1
+    },
+    {
+     "id": "advanced-1-03-36",
+     "w": "位置づける",
+     "r": "いちづける",
+     "p": "verb",
+     "zh": "定位",
+     "en": "to position",
+     "g": 2
+    },
+    {
+     "id": "advanced-1-03-37",
+     "w": "壮大",
+     "r": "そうだい",
+     "p": "na-adj",
+     "zh": "宏大的",
+     "en": "grand"
+    },
+    {
+     "id": "advanced-1-03-38",
+     "w": "悲惨",
+     "r": "ひさん",
+     "p": "na-adj",
+     "zh": "悲惨的",
+     "en": "tragic"
+    },
+    {
+     "id": "advanced-1-03-39",
+     "w": "画期的",
+     "r": "かっきてき",
+     "p": "na-adj",
+     "zh": "划时代的",
+     "en": "epoch-making"
+    },
+    {
+     "id": "advanced-1-03-40",
+     "w": "かつて",
+     "r": "かつて",
+     "p": "adv",
+     "zh": "曾经",
+     "en": "once; formerly"
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "title": "思想と価値観",
+   "title_zh": "思想与价值观",
+   "words": [
+    {
+     "id": "advanced-1-04-01",
+     "w": "思想",
+     "r": "しそう",
+     "p": "noun",
+     "zh": "思想",
+     "en": "thought; ideology"
+    },
+    {
+     "id": "advanced-1-04-02",
+     "w": "哲学",
+     "r": "てつがく",
+     "p": "noun",
+     "zh": "哲学",
+     "en": "philosophy"
+    },
+    {
+     "id": "advanced-1-04-03",
+     "w": "理念",
+     "r": "りねん",
+     "p": "noun",
+     "zh": "理念",
+     "en": "principle; ideal"
+    },
+    {
+     "id": "advanced-1-04-04",
+     "w": "概念",
+     "r": "がいねん",
+     "p": "noun",
+     "zh": "概念",
+     "en": "concept"
+    },
+    {
+     "id": "advanced-1-04-05",
+     "w": "観念",
+     "r": "かんねん",
+     "p": "noun",
+     "zh": "观念",
+     "en": "idea; notion"
+    },
+    {
+     "id": "advanced-1-04-06",
+     "w": "本質",
+     "r": "ほんしつ",
+     "p": "noun",
+     "zh": "本质",
+     "en": "essence"
+    },
+    {
+     "id": "advanced-1-04-07",
+     "w": "根本",
+     "r": "こんぽん",
+     "p": "noun",
+     "zh": "根本",
+     "en": "foundation; root"
+    },
+    {
+     "id": "advanced-1-04-08",
+     "w": "前提",
+     "r": "ぜんてい",
+     "p": "noun",
+     "zh": "前提",
+     "en": "premise"
+    },
+    {
+     "id": "advanced-1-04-09",
+     "w": "論理",
+     "r": "ろんり",
+     "p": "noun",
+     "zh": "逻辑",
+     "en": "logic"
+    },
+    {
+     "id": "advanced-1-04-10",
+     "w": "矛盾",
+     "r": "むじゅん",
+     "p": "noun",
+     "zh": "矛盾",
+     "en": "contradiction"
+    },
+    {
+     "id": "advanced-1-04-11",
+     "w": "命題",
+     "r": "めいだい",
+     "p": "noun",
+     "zh": "命题",
+     "en": "proposition"
+    },
+    {
+     "id": "advanced-1-04-12",
+     "w": "認識",
+     "r": "にんしき",
+     "p": "noun",
+     "zh": "认识",
+     "en": "perception; recognition"
+    },
+    {
+     "id": "advanced-1-04-13",
+     "w": "主観",
+     "r": "しゅかん",
+     "p": "noun",
+     "zh": "主观",
+     "en": "subjectivity"
+    },
+    {
+     "id": "advanced-1-04-14",
+     "w": "客観",
+     "r": "きゃっかん",
+     "p": "noun",
+     "zh": "客观",
+     "en": "objectivity"
+    },
+    {
+     "id": "advanced-1-04-15",
+     "w": "倫理観",
+     "r": "りんりかん",
+     "p": "noun",
+     "zh": "伦理观",
+     "en": "ethical outlook"
+    },
+    {
+     "id": "advanced-1-04-16",
+     "w": "道徳",
+     "r": "どうとく",
+     "p": "noun",
+     "zh": "道德",
+     "en": "morality"
+    },
+    {
+     "id": "advanced-1-04-17",
+     "w": "善悪",
+     "r": "ぜんあく",
+     "p": "noun",
+     "zh": "善恶",
+     "en": "good and evil"
+    },
+    {
+     "id": "advanced-1-04-18",
+     "w": "正義",
+     "r": "せいぎ",
+     "p": "noun",
+     "zh": "正义",
+     "en": "justice"
+    },
+    {
+     "id": "advanced-1-04-19",
+     "w": "自由意志",
+     "r": "じゆういし",
+     "p": "noun",
+     "zh": "自由意志",
+     "en": "free will"
+    },
+    {
+     "id": "advanced-1-04-20",
+     "w": "個人主義",
+     "r": "こじんしゅぎ",
+     "p": "noun",
+     "zh": "个人主义",
+     "en": "individualism"
+    },
+    {
+     "id": "advanced-1-04-21",
+     "w": "集団主義",
+     "r": "しゅうだんしゅぎ",
+     "p": "noun",
+     "zh": "集体主义",
+     "en": "collectivism"
+    },
+    {
+     "id": "advanced-1-04-22",
+     "w": "合理主義",
+     "r": "ごうりしゅぎ",
+     "p": "noun",
+     "zh": "理性主义",
+     "en": "rationalism"
+    },
+    {
+     "id": "advanced-1-04-23",
+     "w": "多元的",
+     "r": "たげんてき",
+     "p": "na-adj",
+     "zh": "多元的",
+     "en": "pluralistic"
+    },
+    {
+     "id": "advanced-1-04-24",
+     "w": "普遍的",
+     "r": "ふへんてき",
+     "p": "na-adj",
+     "zh": "普遍的",
+     "en": "universal"
+    },
+    {
+     "id": "advanced-1-04-25",
+     "w": "相対的",
+     "r": "そうたいてき",
+     "p": "na-adj",
+     "zh": "相对的",
+     "en": "relative"
+    },
+    {
+     "id": "advanced-1-04-26",
+     "w": "絶対的",
+     "r": "ぜったいてき",
+     "p": "na-adj",
+     "zh": "绝对的",
+     "en": "absolute"
+    },
+    {
+     "id": "advanced-1-04-27",
+     "w": "根源",
+     "r": "こんげん",
+     "p": "noun",
+     "zh": "根源",
+     "en": "origin; root"
+    },
+    {
+     "id": "advanced-1-04-28",
+     "w": "考察",
+     "r": "こうさつ",
+     "p": "noun",
+     "zh": "考察，探讨",
+     "en": "consideration"
+    },
+    {
+     "id": "advanced-1-04-29",
+     "w": "洞察",
+     "r": "どうさつ",
+     "p": "noun",
+     "zh": "洞察",
+     "en": "insight"
+    },
+    {
+     "id": "advanced-1-04-30",
+     "w": "探究",
+     "r": "たんきゅう",
+     "p": "noun",
+     "zh": "探究",
+     "en": "inquiry"
+    },
+    {
+     "id": "advanced-1-04-31",
+     "w": "問い直す",
+     "r": "といなおす",
+     "p": "verb",
+     "zh": "重新追问",
+     "en": "to question anew",
+     "g": 1
+    },
+    {
+     "id": "advanced-1-04-32",
+     "w": "捉える",
+     "r": "とらえる",
+     "p": "verb",
+     "zh": "把握，理解",
+     "en": "to grasp",
+     "g": 2
+    },
+    {
+     "id": "advanced-1-04-33",
+     "w": "導く",
+     "r": "みちびく",
+     "p": "verb",
+     "zh": "引导，导出",
+     "en": "to lead; to derive",
+     "g": 1
+    },
+    {
+     "id": "advanced-1-04-34",
+     "w": "帰結する",
+     "r": "きけつする",
+     "p": "verb",
+     "zh": "归结",
+     "en": "to result in",
+     "g": 3
+    },
+    {
+     "id": "advanced-1-04-35",
+     "w": "排する",
+     "r": "はいする",
+     "p": "verb",
+     "zh": "排除",
+     "en": "to exclude",
+     "g": 3
+    },
+    {
+     "id": "advanced-1-04-36",
+     "w": "貫徹する",
+     "r": "かんてつする",
+     "p": "verb",
+     "zh": "贯彻",
+     "en": "to carry through",
+     "g": 3
+    },
+    {
+     "id": "advanced-1-04-37",
+     "w": "曖昧さ",
+     "r": "あいまいさ",
+     "p": "noun",
+     "zh": "含糊性",
+     "en": "ambiguity"
+    },
+    {
+     "id": "advanced-1-04-38",
+     "w": "厳密",
+     "r": "げんみつ",
+     "p": "na-adj",
+     "zh": "严密的",
+     "en": "rigorous"
+    },
+    {
+     "id": "advanced-1-04-39",
+     "w": "本来",
+     "r": "ほんらい",
+     "p": "adv",
+     "zh": "本来，原本",
+     "en": "originally; by nature"
+    },
+    {
+     "id": "advanced-1-04-40",
+     "w": "いわば",
+     "r": "いわば",
+     "p": "adv",
+     "zh": "可以说是",
+     "en": "so to speak"
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "title": "政治と行政",
+   "title_zh": "政治与行政",
+   "words": [
+    {
+     "id": "advanced-1-05-01",
+     "w": "政権",
+     "r": "せいけん",
+     "p": "noun",
+     "zh": "政权",
+     "en": "administration"
+    },
+    {
+     "id": "advanced-1-05-02",
+     "w": "内閣",
+     "r": "ないかく",
+     "p": "noun",
+     "zh": "内阁",
+     "en": "cabinet"
+    },
+    {
+     "id": "advanced-1-05-03",
+     "w": "国会",
+     "r": "こっかい",
+     "p": "noun",
+     "zh": "国会",
+     "en": "parliament; Diet"
+    },
+    {
+     "id": "advanced-1-05-04",
+     "w": "議員",
+     "r": "ぎいん",
+     "p": "noun",
+     "zh": "议员",
+     "en": "legislator"
+    },
+    {
+     "id": "advanced-1-05-05",
+     "w": "与党",
+     "r": "よとう",
+     "p": "noun",
+     "zh": "执政党",
+     "en": "ruling party"
+    },
+    {
+     "id": "advanced-1-05-06",
+     "w": "野党",
+     "r": "やとう",
+     "p": "noun",
+     "zh": "在野党",
+     "en": "opposition party"
+    },
+    {
+     "id": "advanced-1-05-07",
+     "w": "選挙",
+     "r": "せんきょ",
+     "p": "noun",
+     "zh": "选举",
+     "en": "election"
+    },
+    {
+     "id": "advanced-1-05-08",
+     "w": "投票率",
+     "r": "とうひょうりつ",
+     "p": "noun",
+     "zh": "投票率",
+     "en": "voter turnout"
+    },
+    {
+     "id": "advanced-1-05-09",
+     "w": "公約",
+     "r": "こうやく",
+     "p": "noun",
+     "zh": "竞选承诺",
+     "en": "campaign pledge"
+    },
+    {
+     "id": "advanced-1-05-10",
+     "w": "政策",
+     "r": "せいさく",
+     "p": "noun",
+     "zh": "政策",
+     "en": "policy"
+    },
+    {
+     "id": "advanced-1-05-11",
+     "w": "法案",
+     "r": "ほうあん",
+     "p": "noun",
+     "zh": "法案",
+     "en": "bill"
+    },
+    {
+     "id": "advanced-1-05-12",
+     "w": "可決",
+     "r": "かけつ",
+     "p": "noun",
+     "zh": "通过（议案）",
+     "en": "approval; passage"
+    },
+    {
+     "id": "advanced-1-05-13",
+     "w": "否決",
+     "r": "ひけつ",
+     "p": "noun",
+     "zh": "否决",
+     "en": "rejection"
+    },
+    {
+     "id": "advanced-1-05-14",
+     "w": "審議",
+     "r": "しんぎ",
+     "p": "noun",
+     "zh": "审议",
+     "en": "deliberation"
+    },
+    {
+     "id": "advanced-1-05-15",
+     "w": "官僚",
+     "r": "かんりょう",
+     "p": "noun",
+     "zh": "官僚",
+     "en": "bureaucrat"
+    },
+    {
+     "id": "advanced-1-05-16",
+     "w": "省庁",
+     "r": "しょうちょう",
+     "p": "noun",
+     "zh": "省厅，部委",
+     "en": "ministries and agencies"
+    },
+    {
+     "id": "advanced-1-05-17",
+     "w": "行政",
+     "r": "ぎょうせい",
+     "p": "noun",
+     "zh": "行政",
+     "en": "administration"
+    },
+    {
+     "id": "advanced-1-05-18",
+     "w": "財政",
+     "r": "ざいせい",
+     "p": "noun",
+     "zh": "财政",
+     "en": "public finance"
+    },
+    {
+     "id": "advanced-1-05-19",
+     "w": "予算案",
+     "r": "よさんあん",
+     "p": "noun",
+     "zh": "预算案",
+     "en": "budget proposal"
+    },
+    {
+     "id": "advanced-1-05-20",
+     "w": "増税",
+     "r": "ぞうぜい",
+     "p": "noun",
+     "zh": "增税",
+     "en": "tax increase"
+    },
+    {
+     "id": "advanced-1-05-21",
+     "w": "減税",
+     "r": "げんぜい",
+     "p": "noun",
+     "zh": "减税",
+     "en": "tax cut"
+    },
+    {
+     "id": "advanced-1-05-22",
+     "w": "国債",
+     "r": "こくさい",
+     "p": "noun",
+     "zh": "国债",
+     "en": "government bond"
+    },
+    {
+     "id": "advanced-1-05-23",
+     "w": "地方分権",
+     "r": "ちほうぶんけん",
+     "p": "noun",
+     "zh": "地方分权",
+     "en": "decentralization"
+    },
+    {
+     "id": "advanced-1-05-24",
+     "w": "民主主義",
+     "r": "みんしゅしゅぎ",
+     "p": "noun",
+     "zh": "民主主义",
+     "en": "democracy"
+    },
+    {
+     "id": "advanced-1-05-25",
+     "w": "支持率",
+     "r": "しじりつ",
+     "p": "noun",
+     "zh": "支持率",
+     "en": "approval rating"
+    },
+    {
+     "id": "advanced-1-05-26",
+     "w": "汚職",
+     "r": "おしょく",
+     "p": "noun",
+     "zh": "贪污腐败",
+     "en": "corruption"
+    },
+    {
+     "id": "advanced-1-05-27",
+     "w": "癒着",
+     "r": "ゆちゃく",
+     "p": "noun",
+     "zh": "勾结",
+     "en": "collusion"
+    },
+    {
+     "id": "advanced-1-05-28",
+     "w": "改革",
+     "r": "かいかく",
+     "p": "noun",
+     "zh": "改革",
+     "en": "reform"
+    },
+    {
+     "id": "advanced-1-05-29",
+     "w": "公務員",
+     "r": "こうむいん",
+     "p": "noun",
+     "zh": "公务员",
+     "en": "civil servant"
+    },
+    {
+     "id": "advanced-1-05-30",
+     "w": "施策",
+     "r": "しさく",
+     "p": "noun",
+     "zh": "措施",
+     "en": "measure; policy"
+    },
+    {
+     "id": "advanced-1-05-31",
+     "w": "実施する",
+     "r": "じっしする",
+     "p": "verb",
+     "zh": "实施",
+     "en": "to implement",
+     "g": 3
+    },
+    {
+     "id": "advanced-1-05-32",
+     "w": "打ち出す",
+     "r": "うちだす",
+     "p": "verb",
+     "zh": "提出，推出",
+     "en": "to put forward",
+     "g": 1
+    },
+    {
+     "id": "advanced-1-05-33",
+     "w": "見送る",
+     "r": "みおくる",
+     "p": "verb",
+     "zh": "暂缓，搁置",
+     "en": "to postpone",
+     "g": 1
+    },
+    {
+     "id": "advanced-1-05-34",
+     "w": "批准する",
+     "r": "ひじゅんする",
+     "p": "verb",
+     "zh": "批准",
+     "en": "to ratify",
+     "g": 3
+    },
+    {
+     "id": "advanced-1-05-35",
+     "w": "辞任する",
+     "r": "じにんする",
+     "p": "verb",
+     "zh": "辞职",
+     "en": "to resign",
+     "g": 3
+    },
+    {
+     "id": "advanced-1-05-36",
+     "w": "追及する",
+     "r": "ついきゅうする",
+     "p": "verb",
+     "zh": "追究",
+     "en": "to press (for answers)",
+     "g": 3
+    },
+    {
+     "id": "advanced-1-05-37",
+     "w": "透明性",
+     "r": "とうめいせい",
+     "p": "noun",
+     "zh": "透明度",
+     "en": "transparency"
+    },
+    {
+     "id": "advanced-1-05-38",
+     "w": "公正",
+     "r": "こうせい",
+     "p": "na-adj",
+     "zh": "公正的",
+     "en": "fair; impartial"
+    },
+    {
+     "id": "advanced-1-05-39",
+     "w": "抜本的",
+     "r": "ばっぽんてき",
+     "p": "na-adj",
+     "zh": "根本性的",
+     "en": "drastic; fundamental"
+    },
+    {
+     "id": "advanced-1-05-40",
+     "w": "事実上",
+     "r": "じじつじょう",
+     "p": "adv",
+     "zh": "事实上",
+     "en": "in effect"
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "title": "国際情勢と外交",
+   "title_zh": "国际形势与外交",
+   "words": [
+    {
+     "id": "advanced-1-06-01",
+     "w": "外交",
+     "r": "がいこう",
+     "p": "noun",
+     "zh": "外交",
+     "en": "diplomacy"
+    },
+    {
+     "id": "advanced-1-06-02",
+     "w": "国交",
+     "r": "こっこう",
+     "p": "noun",
+     "zh": "邦交",
+     "en": "diplomatic relations"
+    },
+    {
+     "id": "advanced-1-06-03",
+     "w": "首脳",
+     "r": "しゅのう",
+     "p": "noun",
+     "zh": "首脑",
+     "en": "head of state"
+    },
+    {
+     "id": "advanced-1-06-04",
+     "w": "会談",
+     "r": "かいだん",
+     "p": "noun",
+     "zh": "会谈",
+     "en": "talks"
+    },
+    {
+     "id": "advanced-1-06-05",
+     "w": "協定",
+     "r": "きょうてい",
+     "p": "noun",
+     "zh": "协定",
+     "en": "agreement"
+    },
+    {
+     "id": "advanced-1-06-06",
+     "w": "条約",
+     "r": "じょうやく",
+     "p": "noun",
+     "zh": "条约",
+     "en": "treaty"
+    },
+    {
+     "id": "advanced-1-06-07",
+     "w": "同盟",
+     "r": "どうめい",
+     "p": "noun",
+     "zh": "同盟",
+     "en": "alliance"
+    },
+    {
+     "id": "advanced-1-06-08",
+     "w": "連携",
+     "r": "れんけい",
+     "p": "noun",
+     "zh": "合作",
+     "en": "cooperation"
+    },
+    {
+     "id": "advanced-1-06-09",
+     "w": "対立",
+     "r": "たいりつ",
+     "p": "noun",
+     "zh": "对立",
+     "en": "confrontation"
+    },
+    {
+     "id": "advanced-1-06-10",
+     "w": "紛争",
+     "r": "ふんそう",
+     "p": "noun",
+     "zh": "纷争",
+     "en": "conflict"
+    },
+    {
+     "id": "advanced-1-06-11",
+     "w": "緊張",
+     "r": "きんちょう",
+     "p": "noun",
+     "zh": "紧张（局势）",
+     "en": "tension"
+    },
+    {
+     "id": "advanced-1-06-12",
+     "w": "制裁",
+     "r": "せいさい",
+     "p": "noun",
+     "zh": "制裁",
+     "en": "sanctions"
+    },
+    {
+     "id": "advanced-1-06-13",
+     "w": "交渉決裂",
+     "r": "こうしょうけつれつ",
+     "p": "noun",
+     "zh": "谈判破裂",
+     "en": "breakdown of talks"
+    },
+    {
+     "id": "advanced-1-06-14",
+     "w": "和平",
+     "r": "わへい",
+     "p": "noun",
+     "zh": "和平（谈判）",
+     "en": "peace"
+    },
+    {
+     "id": "advanced-1-06-15",
+     "w": "仲介",
+     "r": "ちゅうかい",
+     "p": "noun",
+     "zh": "斡旋，调停",
+     "en": "mediation"
+    },
+    {
+     "id": "advanced-1-06-16",
+     "w": "国際機関",
+     "r": "こくさいきかん",
+     "p": "noun",
+     "zh": "国际机构",
+     "en": "international organization"
+    },
+    {
+     "id": "advanced-1-06-17",
+     "w": "安全保障",
+     "r": "あんぜんほしょう",
+     "p": "noun",
+     "zh": "安全保障",
+     "en": "national security"
+    },
+    {
+     "id": "advanced-1-06-18",
+     "w": "防衛",
+     "r": "ぼうえい",
+     "p": "noun",
+     "zh": "防卫",
+     "en": "defense"
+    },
+    {
+     "id": "advanced-1-06-19",
+     "w": "軍事",
+     "r": "ぐんじ",
+     "p": "noun",
+     "zh": "军事",
+     "en": "military affairs"
+    },
+    {
+     "id": "advanced-1-06-20",
+     "w": "核兵器",
+     "r": "かくへいき",
+     "p": "noun",
+     "zh": "核武器",
+     "en": "nuclear weapons"
+    },
+    {
+     "id": "advanced-1-06-21",
+     "w": "難民",
+     "r": "なんみん",
+     "p": "noun",
+     "zh": "难民",
+     "en": "refugee"
+    },
+    {
+     "id": "advanced-1-06-22",
+     "w": "人道支援",
+     "r": "じんどうしえん",
+     "p": "noun",
+     "zh": "人道援助",
+     "en": "humanitarian aid"
+    },
+    {
+     "id": "advanced-1-06-23",
+     "w": "開発援助",
+     "r": "かいはつえんじょ",
+     "p": "noun",
+     "zh": "开发援助",
+     "en": "development aid"
+    },
+    {
+     "id": "advanced-1-06-24",
+     "w": "経済連携",
+     "r": "けいざいれんけい",
+     "p": "noun",
+     "zh": "经济合作",
+     "en": "economic partnership"
+    },
+    {
+     "id": "advanced-1-06-25",
+     "w": "領土",
+     "r": "りょうど",
+     "p": "noun",
+     "zh": "领土",
+     "en": "territory"
+    },
+    {
+     "id": "advanced-1-06-26",
+     "w": "主権",
+     "r": "しゅけん",
+     "p": "noun",
+     "zh": "主权",
+     "en": "sovereignty"
+    },
+    {
+     "id": "advanced-1-06-27",
+     "w": "国益",
+     "r": "こくえき",
+     "p": "noun",
+     "zh": "国家利益",
+     "en": "national interest"
+    },
+    {
+     "id": "advanced-1-06-28",
+     "w": "世界秩序",
+     "r": "せかいちつじょ",
+     "p": "noun",
+     "zh": "世界秩序",
+     "en": "world order"
+    },
+    {
+     "id": "advanced-1-06-29",
+     "w": "グローバル化",
+     "r": "グローバルか",
+     "p": "noun",
+     "zh": "全球化",
+     "en": "globalization"
+    },
+    {
+     "id": "advanced-1-06-30",
+     "w": "相互依存",
+     "r": "そうごいぞん",
+     "p": "noun",
+     "zh": "相互依存",
+     "en": "interdependence"
+    },
+    {
+     "id": "advanced-1-06-31",
+     "w": "締結する",
+     "r": "ていけつする",
+     "p": "verb",
+     "zh": "缔结",
+     "en": "to conclude (a treaty)",
+     "g": 3
+    },
+    {
+     "id": "advanced-1-06-32",
+     "w": "抗議する",
+     "r": "こうぎする",
+     "p": "verb",
+     "zh": "抗议",
+     "en": "to protest",
+     "g": 3
+    },
+    {
+     "id": "advanced-1-06-33",
+     "w": "支援する",
+     "r": "しえんする",
+     "p": "verb",
+     "zh": "支援",
+     "en": "to support",
+     "g": 3
+    },
+    {
+     "id": "advanced-1-06-34",
+     "w": "牽制する",
+     "r": "けんせいする",
+     "p": "verb",
+     "zh": "牵制",
+     "en": "to keep in check",
+     "g": 3
+    },
+    {
+     "id": "advanced-1-06-35",
+     "w": "介入する",
+     "r": "かいにゅうする",
+     "p": "verb",
+     "zh": "介入",
+     "en": "to intervene",
+     "g": 3
+    },
+    {
+     "id": "advanced-1-06-36",
+     "w": "歩調を合わせる",
+     "r": "ほちょうをあわせる",
+     "p": "expr",
+     "zh": "步调一致",
+     "en": "to act in concert"
+    },
+    {
+     "id": "advanced-1-06-37",
+     "w": "深刻化",
+     "r": "しんこくか",
+     "p": "noun",
+     "zh": "加剧",
+     "en": "aggravation"
+    },
+    {
+     "id": "advanced-1-06-38",
+     "w": "不安定",
+     "r": "ふあんてい",
+     "p": "na-adj",
+     "zh": "不稳定的",
+     "en": "unstable"
+    },
+    {
+     "id": "advanced-1-06-39",
+     "w": "友好的",
+     "r": "ゆうこうてき",
+     "p": "na-adj",
+     "zh": "友好的",
+     "en": "friendly"
+    },
+    {
+     "id": "advanced-1-06-40",
+     "w": "依然として",
+     "r": "いぜんとして",
+     "p": "adv",
+     "zh": "依然",
+     "en": "still; as before"
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "title": "経営とマネジメント",
+   "title_zh": "经营与管理",
+   "words": [
+    {
+     "id": "advanced-1-07-01",
+     "w": "経営",
+     "r": "けいえい",
+     "p": "noun",
+     "zh": "经营",
+     "en": "management"
+    },
+    {
+     "id": "advanced-1-07-02",
+     "w": "経営戦略",
+     "r": "けいえいせんりゃく",
+     "p": "noun",
+     "zh": "经营战略",
+     "en": "business strategy"
+    },
+    {
+     "id": "advanced-1-07-03",
+     "w": "企業理念",
+     "r": "きぎょうりねん",
+     "p": "noun",
+     "zh": "企业理念",
+     "en": "corporate philosophy"
+    },
+    {
+     "id": "advanced-1-07-04",
+     "w": "組織",
+     "r": "そしき",
+     "p": "noun",
+     "zh": "组织",
+     "en": "organization"
+    },
+    {
+     "id": "advanced-1-07-05",
+     "w": "体制",
+     "r": "たいせい",
+     "p": "noun",
+     "zh": "体制",
+     "en": "system; structure"
+    },
+    {
+     "id": "advanced-1-07-06",
+     "w": "役員",
+     "r": "やくいん",
+     "p": "noun",
+     "zh": "董事，高管",
+     "en": "executive"
+    },
+    {
+     "id": "advanced-1-07-07",
+     "w": "株主",
+     "r": "かぶぬし",
+     "p": "noun",
+     "zh": "股东",
+     "en": "shareholder"
+    },
+    {
+     "id": "advanced-1-07-08",
+     "w": "取締役",
+     "r": "とりしまりやく",
+     "p": "noun",
+     "zh": "董事",
+     "en": "director"
+    },
+    {
+     "id": "advanced-1-07-09",
+     "w": "合併",
+     "r": "がっぺい",
+     "p": "noun",
+     "zh": "合并",
+     "en": "merger"
+    },
+    {
+     "id": "advanced-1-07-10",
+     "w": "買収",
+     "r": "ばいしゅう",
+     "p": "noun",
+     "zh": "收购",
+     "en": "acquisition"
+    },
+    {
+     "id": "advanced-1-07-11",
+     "w": "提携",
+     "r": "ていけい",
+     "p": "noun",
+     "zh": "合作，提携",
+     "en": "tie-up"
+    },
+    {
+     "id": "advanced-1-07-12",
+     "w": "子会社",
+     "r": "こがいしゃ",
+     "p": "noun",
+     "zh": "子公司",
+     "en": "subsidiary"
+    },
+    {
+     "id": "advanced-1-07-13",
+     "w": "収益",
+     "r": "しゅうえき",
+     "p": "noun",
+     "zh": "收益",
+     "en": "earnings"
+    },
+    {
+     "id": "advanced-1-07-14",
+     "w": "利益率",
+     "r": "りえきりつ",
+     "p": "noun",
+     "zh": "利润率",
+     "en": "profit margin"
+    },
+    {
+     "id": "advanced-1-07-15",
+     "w": "コスト削減",
+     "r": "コストさくげん",
+     "p": "noun",
+     "zh": "削减成本",
+     "en": "cost cutting"
+    },
+    {
+     "id": "advanced-1-07-16",
+     "w": "人件費",
+     "r": "じんけんひ",
+     "p": "noun",
+     "zh": "人工成本",
+     "en": "labor costs"
+    },
+    {
+     "id": "advanced-1-07-17",
+     "w": "設備投資",
+     "r": "せつびとうし",
+     "p": "noun",
+     "zh": "设备投资",
+     "en": "capital investment"
+    },
+    {
+     "id": "advanced-1-07-18",
+     "w": "品質管理",
+     "r": "ひんしつかんり",
+     "p": "noun",
+     "zh": "质量管理",
+     "en": "quality control"
+    },
+    {
+     "id": "advanced-1-07-19",
+     "w": "リスク管理",
+     "r": "リスクかんり",
+     "p": "noun",
+     "zh": "风险管理",
+     "en": "risk management"
+    },
+    {
+     "id": "advanced-1-07-20",
+     "w": "危機管理",
+     "r": "ききかんり",
+     "p": "noun",
+     "zh": "危机管理",
+     "en": "crisis management"
+    },
+    {
+     "id": "advanced-1-07-21",
+     "w": "内部統制",
+     "r": "ないぶとうせい",
+     "p": "noun",
+     "zh": "内部控制",
+     "en": "internal control"
+    },
+    {
+     "id": "advanced-1-07-22",
+     "w": "社会的責任",
+     "r": "しゃかいてきせきにん",
+     "p": "noun",
+     "zh": "社会责任",
+     "en": "social responsibility"
+    },
+    {
+     "id": "advanced-1-07-23",
+     "w": "人材育成",
+     "r": "じんざいいくせい",
+     "p": "noun",
+     "zh": "人才培养",
+     "en": "talent development"
+    },
+    {
+     "id": "advanced-1-07-24",
+     "w": "評価制度",
+     "r": "ひょうかせいど",
+     "p": "noun",
+     "zh": "考核制度",
+     "en": "evaluation system"
+    },
+    {
+     "id": "advanced-1-07-25",
+     "w": "成果主義",
+     "r": "せいかしゅぎ",
+     "p": "noun",
+     "zh": "绩效主义",
+     "en": "performance-based system"
+    },
+    {
+     "id": "advanced-1-07-26",
+     "w": "年功序列",
+     "r": "ねんこうじょれつ",
+     "p": "noun",
+     "zh": "论资排辈",
+     "en": "seniority system"
+    },
+    {
+     "id": "advanced-1-07-27",
+     "w": "終身雇用",
+     "r": "しゅうしんこよう",
+     "p": "noun",
+     "zh": "终身雇用",
+     "en": "lifetime employment"
+    },
+    {
+     "id": "advanced-1-07-28",
+     "w": "リストラ",
+     "r": "リストラ",
+     "p": "noun",
+     "zh": "裁员，重组",
+     "en": "restructuring; layoffs"
+    },
+    {
+     "id": "advanced-1-07-29",
+     "w": "効率化する",
+     "r": "こうりつかする",
+     "p": "verb",
+     "zh": "提高效率",
+     "en": "to streamline",
+     "g": 3
+    },
+    {
+     "id": "advanced-1-07-30",
+     "w": "再建する",
+     "r": "さいけんする",
+     "p": "verb",
+     "zh": "重建",
+     "en": "to rebuild",
+     "g": 3
+    },
+    {
+     "id": "advanced-1-07-31",
+     "w": "展開する",
+     "r": "てんかいする",
+     "p": "verb",
+     "zh": "开展",
+     "en": "to develop; to roll out",
+     "g": 3
+    },
+    {
+     "id": "advanced-1-07-32",
+     "w": "撤退する",
+     "r": "てったいする",
+     "p": "verb",
+     "zh": "撤退，退出",
+     "en": "to withdraw",
+     "g": 3
+    },
+    {
+     "id": "advanced-1-07-33",
+     "w": "見込む",
+     "r": "みこむ",
+     "p": "verb",
+     "zh": "预计",
+     "en": "to anticipate",
+     "g": 1
+    },
+    {
+     "id": "advanced-1-07-34",
+     "w": "統括する",
+     "r": "とうかつする",
+     "p": "verb",
+     "zh": "统管",
+     "en": "to oversee",
+     "g": 3
+    },
+    {
+     "id": "advanced-1-07-35",
+     "w": "委ねる",
+     "r": "ゆだねる",
+     "p": "verb",
+     "zh": "委托，交由",
+     "en": "to entrust",
+     "g": 2
+    },
+    {
+     "id": "advanced-1-07-36",
+     "w": "手腕",
+     "r": "しゅわん",
+     "p": "noun",
+     "zh": "手腕，本领",
+     "en": "ability; skill"
+    },
+    {
+     "id": "advanced-1-07-37",
+     "w": "迅速",
+     "r": "じんそく",
+     "p": "na-adj",
+     "zh": "迅速的",
+     "en": "prompt"
+    },
+    {
+     "id": "advanced-1-07-38",
+     "w": "柔軟",
+     "r": "じゅうなん",
+     "p": "na-adj",
+     "zh": "灵活的",
+     "en": "flexible"
+    },
+    {
+     "id": "advanced-1-07-39",
+     "w": "独自",
+     "r": "どくじ",
+     "p": "na-adj",
+     "zh": "独自的，独特的",
+     "en": "proprietary; unique"
+    },
+    {
+     "id": "advanced-1-07-40",
+     "w": "総じて",
+     "r": "そうじて",
+     "p": "adv",
+     "zh": "总的来说",
+     "en": "on the whole"
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "title": "金融と投資",
+   "title_zh": "金融与投资",
+   "words": [
+    {
+     "id": "advanced-1-08-01",
+     "w": "金融",
+     "r": "きんゆう",
+     "p": "noun",
+     "zh": "金融",
+     "en": "finance"
+    },
+    {
+     "id": "advanced-1-08-02",
+     "w": "中央銀行",
+     "r": "ちゅうおうぎんこう",
+     "p": "noun",
+     "zh": "中央银行",
+     "en": "central bank"
+    },
+    {
+     "id": "advanced-1-08-03",
+     "w": "金融政策",
+     "r": "きんゆうせいさく",
+     "p": "noun",
+     "zh": "货币政策",
+     "en": "monetary policy"
+    },
+    {
+     "id": "advanced-1-08-04",
+     "w": "金利政策",
+     "r": "きんりせいさく",
+     "p": "noun",
+     "zh": "利率政策",
+     "en": "interest rate policy"
+    },
+    {
+     "id": "advanced-1-08-05",
+     "w": "通貨",
+     "r": "つうか",
+     "p": "noun",
+     "zh": "货币",
+     "en": "currency"
+    },
+    {
+     "id": "advanced-1-08-06",
+     "w": "為替相場",
+     "r": "かわせそうば",
+     "p": "noun",
+     "zh": "汇率行情",
+     "en": "exchange rate"
+    },
+    {
+     "id": "advanced-1-08-07",
+     "w": "証券",
+     "r": "しょうけん",
+     "p": "noun",
+     "zh": "证券",
+     "en": "securities"
+    },
+    {
+     "id": "advanced-1-08-08",
+     "w": "株式",
+     "r": "かぶしき",
+     "p": "noun",
+     "zh": "股票",
+     "en": "stock"
+    },
+    {
+     "id": "advanced-1-08-09",
+     "w": "債券",
+     "r": "さいけん",
+     "p": "noun",
+     "zh": "债券",
+     "en": "bond"
+    },
+    {
+     "id": "advanced-1-08-10",
+     "w": "配当",
+     "r": "はいとう",
+     "p": "noun",
+     "zh": "分红",
+     "en": "dividend"
+    },
+    {
+     "id": "advanced-1-08-11",
+     "w": "利回り",
+     "r": "りまわり",
+     "p": "noun",
+     "zh": "收益率",
+     "en": "yield"
+    },
+    {
+     "id": "advanced-1-08-12",
+     "w": "資産",
+     "r": "しさん",
+     "p": "noun",
+     "zh": "资产",
+     "en": "assets"
+    },
+    {
+     "id": "advanced-1-08-13",
+     "w": "負債",
+     "r": "ふさい",
+     "p": "noun",
+     "zh": "负债",
+     "en": "liabilities"
+    },
+    {
+     "id": "advanced-1-08-14",
+     "w": "資本",
+     "r": "しほん",
+     "p": "noun",
+     "zh": "资本",
+     "en": "capital"
+    },
+    {
+     "id": "advanced-1-08-15",
+     "w": "融資枠",
+     "r": "ゆうしわく",
+     "p": "noun",
+     "zh": "授信额度",
+     "en": "credit line"
+    },
+    {
+     "id": "advanced-1-08-16",
+     "w": "担保",
+     "r": "たんぽ",
+     "p": "noun",
+     "zh": "担保，抵押",
+     "en": "collateral"
+    },
+    {
+     "id": "advanced-1-08-17",
+     "w": "返済",
+     "r": "へんさい",
+     "p": "noun",
+     "zh": "还款",
+     "en": "repayment"
+    },
+    {
+     "id": "advanced-1-08-18",
+     "w": "元本",
+     "r": "がんぽん",
+     "p": "noun",
+     "zh": "本金",
+     "en": "principal"
+    },
+    {
+     "id": "advanced-1-08-19",
+     "w": "利息",
+     "r": "りそく",
+     "p": "noun",
+     "zh": "利息",
+     "en": "interest"
+    },
+    {
+     "id": "advanced-1-08-20",
+     "w": "信用格付け",
+     "r": "しんようかくづけ",
+     "p": "noun",
+     "zh": "信用评级",
+     "en": "credit rating"
+    },
+    {
+     "id": "advanced-1-08-21",
+     "w": "分散投資",
+     "r": "ぶんさんとうし",
+     "p": "noun",
+     "zh": "分散投资",
+     "en": "diversified investment"
+    },
+    {
+     "id": "advanced-1-08-22",
+     "w": "投機",
+     "r": "とうき",
+     "p": "noun",
+     "zh": "投机",
+     "en": "speculation"
+    },
+    {
+     "id": "advanced-1-08-23",
+     "w": "バブル",
+     "r": "バブル",
+     "p": "noun",
+     "zh": "泡沫",
+     "en": "bubble"
+    },
+    {
+     "id": "advanced-1-08-24",
+     "w": "暴落",
+     "r": "ぼうらく",
+     "p": "noun",
+     "zh": "暴跌",
+     "en": "crash"
+    },
+    {
+     "id": "advanced-1-08-25",
+     "w": "高騰",
+     "r": "こうとう",
+     "p": "noun",
+     "zh": "暴涨",
+     "en": "sharp rise"
+    },
+    {
+     "id": "advanced-1-08-26",
+     "w": "損失",
+     "r": "そんしつ",
+     "p": "noun",
+     "zh": "损失",
+     "en": "loss"
+    },
+    {
+     "id": "advanced-1-08-27",
+     "w": "利益確定",
+     "r": "りえきかくてい",
+     "p": "noun",
+     "zh": "获利了结",
+     "en": "profit taking"
+    },
+    {
+     "id": "advanced-1-08-28",
+     "w": "元本割れ",
+     "r": "がんぽんわれ",
+     "p": "noun",
+     "zh": "亏本",
+     "en": "falling below principal"
+    },
+    {
+     "id": "advanced-1-08-29",
+     "w": "運用する",
+     "r": "うんようする",
+     "p": "verb",
+     "zh": "运用（资金）",
+     "en": "to manage (funds)",
+     "g": 3
+    },
+    {
+     "id": "advanced-1-08-30",
+     "w": "調達する",
+     "r": "ちょうたつする",
+     "p": "verb",
+     "zh": "筹措",
+     "en": "to raise (funds)",
+     "g": 3
+    },
+    {
+     "id": "advanced-1-08-31",
+     "w": "融資する",
+     "r": "ゆうしする",
+     "p": "verb",
+     "zh": "贷款",
+     "en": "to lend",
+     "g": 3
+    },
+    {
+     "id": "advanced-1-08-32",
+     "w": "投じる",
+     "r": "とうじる",
+     "p": "verb",
+     "zh": "投入",
+     "en": "to invest; to throw in",
+     "g": 2
+    },
+    {
+     "id": "advanced-1-08-33",
+     "w": "回収する",
+     "r": "かいしゅうする",
+     "p": "verb",
+     "zh": "回收（资金）",
+     "en": "to recover (funds)",
+     "g": 3
+    },
+    {
+     "id": "advanced-1-08-34",
+     "w": "見合わせる",
+     "r": "みあわせる",
+     "p": "verb",
+     "zh": "暂缓",
+     "en": "to hold off on",
+     "g": 2
+    },
+    {
+     "id": "advanced-1-08-35",
+     "w": "リスクを取る",
+     "r": "リスクをとる",
+     "p": "expr",
+     "zh": "承担风险",
+     "en": "to take a risk"
+    },
+    {
+     "id": "advanced-1-08-36",
+     "w": "堅調",
+     "r": "けんちょう",
+     "p": "na-adj",
+     "zh": "坚挺的",
+     "en": "firm; steady"
+    },
+    {
+     "id": "advanced-1-08-37",
+     "w": "低迷する",
+     "r": "ていめいする",
+     "p": "verb",
+     "zh": "低迷",
+     "en": "to stagnate",
+     "g": 3
+    },
+    {
+     "id": "advanced-1-08-38",
+     "w": "手堅い",
+     "r": "てがたい",
+     "p": "i-adj",
+     "zh": "稳妥的",
+     "en": "solid; safe"
+    },
+    {
+     "id": "advanced-1-08-39",
+     "w": "割高感",
+     "r": "わりだかかん",
+     "p": "noun",
+     "zh": "偏贵的感觉",
+     "en": "sense of overvaluation"
+    },
+    {
+     "id": "advanced-1-08-40",
+     "w": "軒並み",
+     "r": "のきなみ",
+     "p": "adv",
+     "zh": "全都，普遍",
+     "en": "across the board"
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "title": "産業と製造",
+   "title_zh": "产业与制造",
+   "words": [
+    {
+     "id": "advanced-1-09-01",
+     "w": "産業構造",
+     "r": "さんぎょうこうぞう",
+     "p": "noun",
+     "zh": "产业结构",
+     "en": "industrial structure"
+    },
+    {
+     "id": "advanced-1-09-02",
+     "w": "製造業",
+     "r": "せいぞうぎょう",
+     "p": "noun",
+     "zh": "制造业",
+     "en": "manufacturing"
+    },
+    {
+     "id": "advanced-1-09-03",
+     "w": "重工業",
+     "r": "じゅうこうぎょう",
+     "p": "noun",
+     "zh": "重工业",
+     "en": "heavy industry"
+    },
+    {
+     "id": "advanced-1-09-04",
+     "w": "軽工業",
+     "r": "けいこうぎょう",
+     "p": "noun",
+     "zh": "轻工业",
+     "en": "light industry"
+    },
+    {
+     "id": "advanced-1-09-05",
+     "w": "サービス業",
+     "r": "サービスぎょう",
+     "p": "noun",
+     "zh": "服务业",
+     "en": "service industry"
+    },
+    {
+     "id": "advanced-1-09-06",
+     "w": "生産性",
+     "r": "せいさんせい",
+     "p": "noun",
+     "zh": "生产率",
+     "en": "productivity"
+    },
+    {
+     "id": "advanced-1-09-07",
+     "w": "生産ライン",
+     "r": "せいさんライン",
+     "p": "noun",
+     "zh": "生产线",
+     "en": "production line"
+    },
+    {
+     "id": "advanced-1-09-08",
+     "w": "工程",
+     "r": "こうてい",
+     "p": "noun",
+     "zh": "工序",
+     "en": "process"
+    },
+    {
+     "id": "advanced-1-09-09",
+     "w": "自動化",
+     "r": "じどうか",
+     "p": "noun",
+     "zh": "自动化",
+     "en": "automation"
+    },
+    {
+     "id": "advanced-1-09-10",
+     "w": "量産",
+     "r": "りょうさん",
+     "p": "noun",
+     "zh": "量产",
+     "en": "mass production"
+    },
+    {
+     "id": "advanced-1-09-11",
+     "w": "歩留まり",
+     "r": "ぶどまり",
+     "p": "noun",
+     "zh": "成品率",
+     "en": "yield rate"
+    },
+    {
+     "id": "advanced-1-09-12",
+     "w": "不良品",
+     "r": "ふりょうひん",
+     "p": "noun",
+     "zh": "次品",
+     "en": "defective product"
+    },
+    {
+     "id": "advanced-1-09-13",
+     "w": "検品",
+     "r": "けんぴん",
+     "p": "noun",
+     "zh": "检品",
+     "en": "inspection"
+    },
+    {
+     "id": "advanced-1-09-14",
+     "w": "納期短縮",
+     "r": "のうきたんしゅく",
+     "p": "noun",
+     "zh": "缩短交期",
+     "en": "shortening lead time"
+    },
+    {
+     "id": "advanced-1-09-15",
+     "w": "在庫管理",
+     "r": "ざいこかんり",
+     "p": "noun",
+     "zh": "库存管理",
+     "en": "inventory control"
+    },
+    {
+     "id": "advanced-1-09-16",
+     "w": "供給網",
+     "r": "きょうきゅうもう",
+     "p": "noun",
+     "zh": "供应链",
+     "en": "supply chain"
+    },
+    {
+     "id": "advanced-1-09-17",
+     "w": "部品",
+     "r": "ぶひん",
+     "p": "noun",
+     "zh": "零部件",
+     "en": "parts"
+    },
+    {
+     "id": "advanced-1-09-18",
+     "w": "下請け",
+     "r": "したうけ",
+     "p": "noun",
+     "zh": "分包，转包",
+     "en": "subcontracting"
+    },
+    {
+     "id": "advanced-1-09-19",
+     "w": "外注",
+     "r": "がいちゅう",
+     "p": "noun",
+     "zh": "外包",
+     "en": "outsourcing"
+    },
+    {
+     "id": "advanced-1-09-20",
+     "w": "海外移転",
+     "r": "かいがいいてん",
+     "p": "noun",
+     "zh": "向海外转移",
+     "en": "offshoring"
+    },
+    {
+     "id": "advanced-1-09-21",
+     "w": "空洞化",
+     "r": "くうどうか",
+     "p": "noun",
+     "zh": "产业空心化",
+     "en": "hollowing out"
+    },
+    {
+     "id": "advanced-1-09-22",
+     "w": "競争力",
+     "r": "きょうそうりょく",
+     "p": "noun",
+     "zh": "竞争力",
+     "en": "competitiveness"
+    },
+    {
+     "id": "advanced-1-09-23",
+     "w": "付加価値",
+     "r": "ふかかち",
+     "p": "noun",
+     "zh": "附加值",
+     "en": "added value"
+    },
+    {
+     "id": "advanced-1-09-24",
+     "w": "技能",
+     "r": "ぎのう",
+     "p": "noun",
+     "zh": "技能",
+     "en": "skill"
+    },
+    {
+     "id": "advanced-1-09-25",
+     "w": "熟練",
+     "r": "じゅくれん",
+     "p": "noun",
+     "zh": "熟练",
+     "en": "proficiency"
+    },
+    {
+     "id": "advanced-1-09-26",
+     "w": "設計図",
+     "r": "せっけいず",
+     "p": "noun",
+     "zh": "设计图",
+     "en": "blueprint"
+    },
+    {
+     "id": "advanced-1-09-27",
+     "w": "試作品",
+     "r": "しさくひん",
+     "p": "noun",
+     "zh": "样品，试制品",
+     "en": "prototype"
+    },
+    {
+     "id": "advanced-1-09-28",
+     "w": "規格",
+     "r": "きかく",
+     "p": "noun",
+     "zh": "规格，标准",
+     "en": "standard"
+    },
+    {
+     "id": "advanced-1-09-29",
+     "w": "安全基準",
+     "r": "あんぜんきじゅん",
+     "p": "noun",
+     "zh": "安全标准",
+     "en": "safety standard"
+    },
+    {
+     "id": "advanced-1-09-30",
+     "w": "稼働率",
+     "r": "かどうりつ",
+     "p": "noun",
+     "zh": "开工率",
+     "en": "operating rate"
+    },
+    {
+     "id": "advanced-1-09-31",
+     "w": "製造する",
+     "r": "せいぞうする",
+     "p": "verb",
+     "zh": "制造",
+     "en": "to manufacture",
+     "g": 3
+    },
+    {
+     "id": "advanced-1-09-32",
+     "w": "加工する",
+     "r": "かこうする",
+     "p": "verb",
+     "zh": "加工",
+     "en": "to process",
+     "g": 3
+    },
+    {
+     "id": "advanced-1-09-33",
+     "w": "組み立てる",
+     "r": "くみたてる",
+     "p": "verb",
+     "zh": "组装",
+     "en": "to assemble",
+     "g": 2
+    },
+    {
+     "id": "advanced-1-09-34",
+     "w": "出荷する",
+     "r": "しゅっかする",
+     "p": "verb",
+     "zh": "出货",
+     "en": "to ship",
+     "g": 3
+    },
+    {
+     "id": "advanced-1-09-35",
+     "w": "改良する",
+     "r": "かいりょうする",
+     "p": "verb",
+     "zh": "改良",
+     "en": "to improve",
+     "g": 3
+    },
+    {
+     "id": "advanced-1-09-36",
+     "w": "見直す",
+     "r": "みなおす",
+     "p": "verb",
+     "zh": "重新审视",
+     "en": "to reexamine",
+     "g": 1
+    },
+    {
+     "id": "advanced-1-09-37",
+     "w": "担う",
+     "r": "になう",
+     "p": "verb",
+     "zh": "承担，肩负",
+     "en": "to shoulder",
+     "g": 1
+    },
+    {
+     "id": "advanced-1-09-38",
+     "w": "支える",
+     "r": "ささえる",
+     "p": "verb",
+     "zh": "支撑",
+     "en": "to underpin",
+     "g": 2
+    },
+    {
+     "id": "advanced-1-09-39",
+     "w": "精緻",
+     "r": "せいち",
+     "p": "na-adj",
+     "zh": "精细的",
+     "en": "elaborate"
+    },
+    {
+     "id": "advanced-1-09-40",
+     "w": "大規模",
+     "r": "だいきぼ",
+     "p": "na-adj",
+     "zh": "大规模的",
+     "en": "large-scale"
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "title": "情報社会とAI",
+   "title_zh": "信息社会与人工智能",
+   "words": [
+    {
+     "id": "advanced-1-10-01",
+     "w": "情報社会",
+     "r": "じょうほうしゃかい",
+     "p": "noun",
+     "zh": "信息社会",
+     "en": "information society"
+    },
+    {
+     "id": "advanced-1-10-02",
+     "w": "デジタル化",
+     "r": "デジタルか",
+     "p": "noun",
+     "zh": "数字化",
+     "en": "digitalization"
+    },
+    {
+     "id": "advanced-1-10-03",
+     "w": "機械学習",
+     "r": "きかいがくしゅう",
+     "p": "noun",
+     "zh": "机器学习",
+     "en": "machine learning"
+    },
+    {
+     "id": "advanced-1-10-04",
+     "w": "深層学習",
+     "r": "しんそうがくしゅう",
+     "p": "noun",
+     "zh": "深度学习",
+     "en": "deep learning"
+    },
+    {
+     "id": "advanced-1-10-05",
+     "w": "アルゴリズム",
+     "r": "アルゴリズム",
+     "p": "noun",
+     "zh": "算法",
+     "en": "algorithm"
+    },
+    {
+     "id": "advanced-1-10-06",
+     "w": "膨大",
+     "r": "ぼうだい",
+     "p": "na-adj",
+     "zh": "庞大的",
+     "en": "vast"
+    },
+    {
+     "id": "advanced-1-10-07",
+     "w": "蓄積",
+     "r": "ちくせき",
+     "p": "noun",
+     "zh": "积累",
+     "en": "accumulation"
+    },
+    {
+     "id": "advanced-1-10-08",
+     "w": "解析",
+     "r": "かいせき",
+     "p": "noun",
+     "zh": "解析",
+     "en": "analysis"
+    },
+    {
+     "id": "advanced-1-10-09",
+     "w": "予測精度",
+     "r": "よそくせいど",
+     "p": "noun",
+     "zh": "预测精度",
+     "en": "prediction accuracy"
+    },
+    {
+     "id": "advanced-1-10-10",
+     "w": "学習データ",
+     "r": "がくしゅうデータ",
+     "p": "noun",
+     "zh": "训练数据",
+     "en": "training data"
+    },
+    {
+     "id": "advanced-1-10-11",
+     "w": "偏り",
+     "r": "かたより",
+     "p": "noun",
+     "zh": "偏差",
+     "en": "bias"
+    },
+    {
+     "id": "advanced-1-10-12",
+     "w": "自動生成",
+     "r": "じどうせいせい",
+     "p": "noun",
+     "zh": "自动生成",
+     "en": "automatic generation"
+    },
+    {
+     "id": "advanced-1-10-13",
+     "w": "生成",
+     "r": "せいせい",
+     "p": "noun",
+     "zh": "生成",
+     "en": "generation"
+    },
+    {
+     "id": "advanced-1-10-14",
+     "w": "認識技術",
+     "r": "にんしきぎじゅつ",
+     "p": "noun",
+     "zh": "识别技术",
+     "en": "recognition technology"
+    },
+    {
+     "id": "advanced-1-10-15",
+     "w": "音声認識",
+     "r": "おんせいにんしき",
+     "p": "noun",
+     "zh": "语音识别",
+     "en": "speech recognition"
+    },
+    {
+     "id": "advanced-1-10-16",
+     "w": "画像認識",
+     "r": "がぞうにんしき",
+     "p": "noun",
+     "zh": "图像识别",
+     "en": "image recognition"
+    },
+    {
+     "id": "advanced-1-10-17",
+     "w": "自然言語処理",
+     "r": "しぜんげんごしょり",
+     "p": "noun",
+     "zh": "自然语言处理",
+     "en": "natural language processing"
+    },
+    {
+     "id": "advanced-1-10-18",
+     "w": "仮想現実",
+     "r": "かそうげんじつ",
+     "p": "noun",
+     "zh": "虚拟现实",
+     "en": "virtual reality"
+    },
+    {
+     "id": "advanced-1-10-19",
+     "w": "個人情報保護",
+     "r": "こじんじょうほうほご",
+     "p": "noun",
+     "zh": "个人信息保护",
+     "en": "privacy protection"
+    },
+    {
+     "id": "advanced-1-10-20",
+     "w": "情報漏洩",
+     "r": "じょうほうろうえい",
+     "p": "noun",
+     "zh": "信息泄露",
+     "en": "information leak"
+    },
+    {
+     "id": "advanced-1-10-21",
+     "w": "サイバー攻撃",
+     "r": "サイバーこうげき",
+     "p": "noun",
+     "zh": "网络攻击",
+     "en": "cyberattack"
+    },
+    {
+     "id": "advanced-1-10-22",
+     "w": "暗号化",
+     "r": "あんごうか",
+     "p": "noun",
+     "zh": "加密",
+     "en": "encryption"
+    },
+    {
+     "id": "advanced-1-10-23",
+     "w": "監視社会",
+     "r": "かんししゃかい",
+     "p": "noun",
+     "zh": "监视社会",
+     "en": "surveillance society"
+    },
+    {
+     "id": "advanced-1-10-24",
+     "w": "雇用喪失",
+     "r": "こようそうしつ",
+     "p": "noun",
+     "zh": "就业岗位流失",
+     "en": "job loss"
+    },
+    {
+     "id": "advanced-1-10-25",
+     "w": "代替",
+     "r": "だいたい",
+     "p": "noun",
+     "zh": "替代",
+     "en": "substitution"
+    },
+    {
+     "id": "advanced-1-10-26",
+     "w": "共存",
+     "r": "きょうそん",
+     "p": "noun",
+     "zh": "共存",
+     "en": "coexistence"
+    },
+    {
+     "id": "advanced-1-10-27",
+     "w": "透明性",
+     "r": "とうめいせい",
+     "p": "noun",
+     "zh": "透明性",
+     "en": "transparency"
+    },
+    {
+     "id": "advanced-1-10-28",
+     "w": "説明責任",
+     "r": "せつめいせきにん",
+     "p": "noun",
+     "zh": "问责，说明责任",
+     "en": "accountability"
+    },
+    {
+     "id": "advanced-1-10-29",
+     "w": "倫理指針",
+     "r": "りんりししん",
+     "p": "noun",
+     "zh": "伦理准则",
+     "en": "ethical guidelines"
+    },
+    {
+     "id": "advanced-1-10-30",
+     "w": "規制枠組み",
+     "r": "きせいわくぐみ",
+     "p": "noun",
+     "zh": "监管框架",
+     "en": "regulatory framework"
+    },
+    {
+     "id": "advanced-1-10-31",
+     "w": "活用する",
+     "r": "かつようする",
+     "p": "verb",
+     "zh": "活用",
+     "en": "to utilize",
+     "g": 3
+    },
+    {
+     "id": "advanced-1-10-32",
+     "w": "最適化する",
+     "r": "さいてきかする",
+     "p": "verb",
+     "zh": "优化",
+     "en": "to optimize",
+     "g": 3
+    },
+    {
+     "id": "advanced-1-10-33",
+     "w": "自動化する",
+     "r": "じどうかする",
+     "p": "verb",
+     "zh": "自动化",
+     "en": "to automate",
+     "g": 3
+    },
+    {
+     "id": "advanced-1-10-34",
+     "w": "補完する",
+     "r": "ほかんする",
+     "p": "verb",
+     "zh": "补充，互补",
+     "en": "to complement",
+     "g": 3
+    },
+    {
+     "id": "advanced-1-10-35",
+     "w": "淘汰される",
+     "r": "とうたされる",
+     "p": "verb",
+     "zh": "被淘汰",
+     "en": "to be weeded out",
+     "g": 2
+    },
+    {
+     "id": "advanced-1-10-36",
+     "w": "制御する",
+     "r": "せいぎょする",
+     "p": "verb",
+     "zh": "控制",
+     "en": "to control",
+     "g": 3
+    },
+    {
+     "id": "advanced-1-10-37",
+     "w": "依存度",
+     "r": "いぞんど",
+     "p": "noun",
+     "zh": "依赖程度",
+     "en": "degree of dependence"
+    },
+    {
+     "id": "advanced-1-10-38",
+     "w": "急速",
+     "r": "きゅうそく",
+     "p": "na-adj",
+     "zh": "迅速的",
+     "en": "rapid"
+    },
+    {
+     "id": "advanced-1-10-39",
+     "w": "不可欠",
+     "r": "ふかけつ",
+     "p": "na-adj",
+     "zh": "不可或缺的",
+     "en": "indispensable"
+    },
+    {
+     "id": "advanced-1-10-40",
+     "w": "もはや",
+     "r": "もはや",
+     "p": "adv",
+     "zh": "已经，再也",
+     "en": "no longer; by now"
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "title": "研究と論文",
+   "title_zh": "研究与论文",
+   "words": [
+    {
+     "id": "advanced-1-11-01",
+     "w": "研究者",
+     "r": "けんきゅうしゃ",
+     "p": "noun",
+     "zh": "研究者",
+     "en": "researcher"
+    },
+    {
+     "id": "advanced-1-11-02",
+     "w": "学会",
+     "r": "がっかい",
+     "p": "noun",
+     "zh": "学会，学术会议",
+     "en": "academic society"
+    },
+    {
+     "id": "advanced-1-11-03",
+     "w": "論文",
+     "r": "ろんぶん",
+     "p": "noun",
+     "zh": "论文",
+     "en": "paper; thesis"
+    },
+    {
+     "id": "advanced-1-11-04",
+     "w": "投稿",
+     "r": "とうこう",
+     "p": "noun",
+     "zh": "投稿",
+     "en": "submission"
+    },
+    {
+     "id": "advanced-1-11-05",
+     "w": "査読",
+     "r": "さどく",
+     "p": "noun",
+     "zh": "同行评审",
+     "en": "peer review"
+    },
+    {
+     "id": "advanced-1-11-06",
+     "w": "掲載",
+     "r": "けいさい",
+     "p": "noun",
+     "zh": "刊登",
+     "en": "publication"
+    },
+    {
+     "id": "advanced-1-11-07",
+     "w": "引用文献",
+     "r": "いんようぶんけん",
+     "p": "noun",
+     "zh": "引用文献",
+     "en": "cited works"
+    },
+    {
+     "id": "advanced-1-11-08",
+     "w": "参考文献",
+     "r": "さんこうぶんけん",
+     "p": "noun",
+     "zh": "参考文献",
+     "en": "references"
+    },
+    {
+     "id": "advanced-1-11-09",
+     "w": "先行研究",
+     "r": "せんこうけんきゅう",
+     "p": "noun",
+     "zh": "先行研究",
+     "en": "prior research"
+    },
+    {
+     "id": "advanced-1-11-10",
+     "w": "研究課題",
+     "r": "けんきゅうかだい",
+     "p": "noun",
+     "zh": "研究课题",
+     "en": "research question"
+    },
+    {
+     "id": "advanced-1-11-11",
+     "w": "仮説検証",
+     "r": "かせつけんしょう",
+     "p": "noun",
+     "zh": "假说验证",
+     "en": "hypothesis testing"
+    },
+    {
+     "id": "advanced-1-11-12",
+     "w": "実証",
+     "r": "じっしょう",
+     "p": "noun",
+     "zh": "实证",
+     "en": "empirical proof"
+    },
+    {
+     "id": "advanced-1-11-13",
+     "w": "手法",
+     "r": "しゅほう",
+     "p": "noun",
+     "zh": "方法，手法",
+     "en": "method"
+    },
+    {
+     "id": "advanced-1-11-14",
+     "w": "標本",
+     "r": "ひょうほん",
+     "p": "noun",
+     "zh": "样本",
+     "en": "sample"
+    },
+    {
+     "id": "advanced-1-11-15",
+     "w": "統計的",
+     "r": "とうけいてき",
+     "p": "na-adj",
+     "zh": "统计的",
+     "en": "statistical"
+    },
+    {
+     "id": "advanced-1-11-16",
+     "w": "有意",
+     "r": "ゆうい",
+     "p": "na-adj",
+     "zh": "显著的（统计）",
+     "en": "significant"
+    },
+    {
+     "id": "advanced-1-11-17",
+     "w": "再現性",
+     "r": "さいげんせい",
+     "p": "noun",
+     "zh": "可重复性",
+     "en": "reproducibility"
+    },
+    {
+     "id": "advanced-1-11-18",
+     "w": "信頼区間",
+     "r": "しんらいくかん",
+     "p": "noun",
+     "zh": "置信区间",
+     "en": "confidence interval"
+    },
+    {
+     "id": "advanced-1-11-19",
+     "w": "考察",
+     "r": "こうさつ",
+     "p": "noun",
+     "zh": "讨论，考察",
+     "en": "discussion"
+    },
+    {
+     "id": "advanced-1-11-20",
+     "w": "結論づける",
+     "r": "けつろんづける",
+     "p": "verb",
+     "zh": "得出结论",
+     "en": "to conclude",
+     "g": 2
+    },
+    {
+     "id": "advanced-1-11-21",
+     "w": "要旨",
+     "r": "ようし",
+     "p": "noun",
+     "zh": "摘要",
+     "en": "abstract"
+    },
+    {
+     "id": "advanced-1-11-22",
+     "w": "序論",
+     "r": "じょろん",
+     "p": "noun",
+     "zh": "绪论",
+     "en": "introduction"
+    },
+    {
+     "id": "advanced-1-11-23",
+     "w": "注釈",
+     "r": "ちゅうしゃく",
+     "p": "noun",
+     "zh": "注释",
+     "en": "annotation"
+    },
+    {
+     "id": "advanced-1-11-24",
+     "w": "剽窃",
+     "r": "ひょうせつ",
+     "p": "noun",
+     "zh": "抄袭",
+     "en": "plagiarism"
+    },
+    {
+     "id": "advanced-1-11-25",
+     "w": "捏造",
+     "r": "ねつぞう",
+     "p": "noun",
+     "zh": "捏造",
+     "en": "fabrication"
+    },
+    {
+     "id": "advanced-1-11-26",
+     "w": "研究倫理",
+     "r": "けんきゅうりんり",
+     "p": "noun",
+     "zh": "科研伦理",
+     "en": "research ethics"
+    },
+    {
+     "id": "advanced-1-11-27",
+     "w": "科研費",
+     "r": "かけんひ",
+     "p": "noun",
+     "zh": "科研经费",
+     "en": "research grant"
+    },
+    {
+     "id": "advanced-1-11-28",
+     "w": "指導教官",
+     "r": "しどうきょうかん",
+     "p": "noun",
+     "zh": "导师",
+     "en": "academic advisor"
+    },
+    {
+     "id": "advanced-1-11-29",
+     "w": "博士課程",
+     "r": "はかせかてい",
+     "p": "noun",
+     "zh": "博士课程",
+     "en": "doctoral program"
+    },
+    {
+     "id": "advanced-1-11-30",
+     "w": "学位",
+     "r": "がくい",
+     "p": "noun",
+     "zh": "学位",
+     "en": "academic degree"
+    },
+    {
+     "id": "advanced-1-11-31",
+     "w": "分析する",
+     "r": "ぶんせきする",
+     "p": "verb",
+     "zh": "分析",
+     "en": "to analyze",
+     "g": 3
+    },
+    {
+     "id": "advanced-1-11-32",
+     "w": "検討を加える",
+     "r": "けんとうをくわえる",
+     "p": "expr",
+     "zh": "加以探讨",
+     "en": "to examine further"
+    },
+    {
+     "id": "advanced-1-11-33",
+     "w": "裏付ける",
+     "r": "うらづける",
+     "p": "verb",
+     "zh": "佐证，证实",
+     "en": "to corroborate",
+     "g": 2
+    },
+    {
+     "id": "advanced-1-11-34",
+     "w": "示唆する",
+     "r": "しさする",
+     "p": "verb",
+     "zh": "暗示，提示",
+     "en": "to suggest",
+     "g": 3
+    },
+    {
+     "id": "advanced-1-11-35",
+     "w": "立証する",
+     "r": "りっしょうする",
+     "p": "verb",
+     "zh": "证明",
+     "en": "to prove",
+     "g": 3
+    },
+    {
+     "id": "advanced-1-11-36",
+     "w": "反証する",
+     "r": "はんしょうする",
+     "p": "verb",
+     "zh": "反证",
+     "en": "to disprove",
+     "g": 3
+    },
+    {
+     "id": "advanced-1-11-37",
+     "w": "精査する",
+     "r": "せいさする",
+     "p": "verb",
+     "zh": "细致审查",
+     "en": "to scrutinize",
+     "g": 3
+    },
+    {
+     "id": "advanced-1-11-38",
+     "w": "厳密性",
+     "r": "げんみつせい",
+     "p": "noun",
+     "zh": "严密性",
+     "en": "rigor"
+    },
+    {
+     "id": "advanced-1-11-39",
+     "w": "独創的",
+     "r": "どくそうてき",
+     "p": "na-adj",
+     "zh": "独创的",
+     "en": "original"
+    },
+    {
+     "id": "advanced-1-11-40",
+     "w": "従って",
+     "r": "したがって",
+     "p": "conj",
+     "zh": "因此",
+     "en": "therefore"
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "title": "教育制度",
+   "title_zh": "教育制度",
+   "words": [
+    {
+     "id": "advanced-1-12-01",
+     "w": "教育制度",
+     "r": "きょういくせいど",
+     "p": "noun",
+     "zh": "教育制度",
+     "en": "education system"
+    },
+    {
+     "id": "advanced-1-12-02",
+     "w": "義務教育",
+     "r": "ぎむきょういく",
+     "p": "noun",
+     "zh": "义务教育",
+     "en": "compulsory education"
+    },
+    {
+     "id": "advanced-1-12-03",
+     "w": "学習指導要領",
+     "r": "がくしゅうしどうようりょう",
+     "p": "noun",
+     "zh": "教学大纲",
+     "en": "curriculum guidelines"
+    },
+    {
+     "id": "advanced-1-12-04",
+     "w": "カリキュラム",
+     "r": "カリキュラム",
+     "p": "noun",
+     "zh": "课程设置",
+     "en": "curriculum"
+    },
+    {
+     "id": "advanced-1-12-05",
+     "w": "教科",
+     "r": "きょうか",
+     "p": "noun",
+     "zh": "学科",
+     "en": "school subject"
+    },
+    {
+     "id": "advanced-1-12-06",
+     "w": "評定",
+     "r": "ひょうてい",
+     "p": "noun",
+     "zh": "评定，评分",
+     "en": "grading"
+    },
+    {
+     "id": "advanced-1-12-07",
+     "w": "入試制度",
+     "r": "にゅうしせいど",
+     "p": "noun",
+     "zh": "升学考试制度",
+     "en": "entrance exam system"
+    },
+    {
+     "id": "advanced-1-12-08",
+     "w": "共通テスト",
+     "r": "きょうつうテスト",
+     "p": "noun",
+     "zh": "统一考试",
+     "en": "common entrance test"
+    },
+    {
+     "id": "advanced-1-12-09",
+     "w": "学歴社会",
+     "r": "がくれきしゃかい",
+     "p": "noun",
+     "zh": "学历社会",
+     "en": "credential-oriented society"
+    },
+    {
+     "id": "advanced-1-12-10",
+     "w": "教育格差",
+     "r": "きょういくかくさ",
+     "p": "noun",
+     "zh": "教育差距",
+     "en": "educational disparity"
+    },
+    {
+     "id": "advanced-1-12-11",
+     "w": "進学率",
+     "r": "しんがくりつ",
+     "p": "noun",
+     "zh": "升学率",
+     "en": "advancement rate"
+    },
+    {
+     "id": "advanced-1-12-12",
+     "w": "公立",
+     "r": "こうりつ",
+     "p": "noun",
+     "zh": "公立",
+     "en": "public (school)"
+    },
+    {
+     "id": "advanced-1-12-13",
+     "w": "私立",
+     "r": "しりつ",
+     "p": "noun",
+     "zh": "私立",
+     "en": "private (school)"
+    },
+    {
+     "id": "advanced-1-12-14",
+     "w": "授業料",
+     "r": "じゅぎょうりょう",
+     "p": "noun",
+     "zh": "学费",
+     "en": "tuition"
+    },
+    {
+     "id": "advanced-1-12-15",
+     "w": "無償化",
+     "r": "むしょうか",
+     "p": "noun",
+     "zh": "免费化",
+     "en": "making free of charge"
+    },
+    {
+     "id": "advanced-1-12-16",
+     "w": "教員免許",
+     "r": "きょういんめんきょ",
+     "p": "noun",
+     "zh": "教师资格",
+     "en": "teaching license"
+    },
+    {
+     "id": "advanced-1-12-17",
+     "w": "教職員",
+     "r": "きょうしょくいん",
+     "p": "noun",
+     "zh": "教职员",
+     "en": "faculty and staff"
+    },
+    {
+     "id": "advanced-1-12-18",
+     "w": "多忙化",
+     "r": "たぼうか",
+     "p": "noun",
+     "zh": "日益繁忙",
+     "en": "increasing workload"
+    },
+    {
+     "id": "advanced-1-12-19",
+     "w": "少人数学級",
+     "r": "しょうにんずうがっきゅう",
+     "p": "noun",
+     "zh": "小班教学",
+     "en": "small class size"
+    },
+    {
+     "id": "advanced-1-12-20",
+     "w": "習熟度",
+     "r": "しゅうじゅくど",
+     "p": "noun",
+     "zh": "熟练度，掌握程度",
+     "en": "proficiency level"
+    },
+    {
+     "id": "advanced-1-12-21",
+     "w": "生涯教育",
+     "r": "しょうがいきょういく",
+     "p": "noun",
+     "zh": "终身教育",
+     "en": "lifelong education"
+    },
+    {
+     "id": "advanced-1-12-22",
+     "w": "リカレント教育",
+     "r": "リカレントきょういく",
+     "p": "noun",
+     "zh": "回归教育，再教育",
+     "en": "recurrent education"
+    },
+    {
+     "id": "advanced-1-12-23",
+     "w": "職業訓練",
+     "r": "しょくぎょうくんれん",
+     "p": "noun",
+     "zh": "职业培训",
+     "en": "vocational training"
+    },
+    {
+     "id": "advanced-1-12-24",
+     "w": "高等教育",
+     "r": "こうとうきょういく",
+     "p": "noun",
+     "zh": "高等教育",
+     "en": "higher education"
+    },
+    {
+     "id": "advanced-1-12-25",
+     "w": "特別支援",
+     "r": "とくべつしえん",
+     "p": "noun",
+     "zh": "特殊支援教育",
+     "en": "special needs support"
+    },
+    {
+     "id": "advanced-1-12-26",
+     "w": "不登校対策",
+     "r": "ふとうこうたいさく",
+     "p": "noun",
+     "zh": "厌学对策",
+     "en": "measures for school refusal"
+    },
+    {
+     "id": "advanced-1-12-27",
+     "w": "教育方針",
+     "r": "きょういくほうしん",
+     "p": "noun",
+     "zh": "教育方针",
+     "en": "educational policy"
+    },
+    {
+     "id": "advanced-1-12-28",
+     "w": "理念",
+     "r": "りねん",
+     "p": "noun",
+     "zh": "理念",
+     "en": "principle"
+    },
+    {
+     "id": "advanced-1-12-29",
+     "w": "見直し",
+     "r": "みなおし",
+     "p": "noun",
+     "zh": "重新审视，修订",
+     "en": "review; revision"
+    },
+    {
+     "id": "advanced-1-12-30",
+     "w": "是正",
+     "r": "ぜせい",
+     "p": "noun",
+     "zh": "纠正",
+     "en": "correction"
+    },
+    {
+     "id": "advanced-1-12-31",
+     "w": "充実させる",
+     "r": "じゅうじつさせる",
+     "p": "verb",
+     "zh": "充实",
+     "en": "to enhance",
+     "g": 2
+    },
+    {
+     "id": "advanced-1-12-32",
+     "w": "取り入れる",
+     "r": "とりいれる",
+     "p": "verb",
+     "zh": "引入，采纳",
+     "en": "to adopt",
+     "g": 2
+    },
+    {
+     "id": "advanced-1-12-33",
+     "w": "是正する",
+     "r": "ぜせいする",
+     "p": "verb",
+     "zh": "纠正",
+     "en": "to rectify",
+     "g": 3
+    },
+    {
+     "id": "advanced-1-12-34",
+     "w": "促す",
+     "r": "うながす",
+     "p": "verb",
+     "zh": "促进，敦促",
+     "en": "to urge; to promote",
+     "g": 1
+    },
+    {
+     "id": "advanced-1-12-35",
+     "w": "底上げする",
+     "r": "そこあげする",
+     "p": "verb",
+     "zh": "整体提升",
+     "en": "to raise the baseline",
+     "g": 3
+    },
+    {
+     "id": "advanced-1-12-36",
+     "w": "位置づけ",
+     "r": "いちづけ",
+     "p": "noun",
+     "zh": "定位",
+     "en": "positioning"
+    },
+    {
+     "id": "advanced-1-12-37",
+     "w": "抜本的",
+     "r": "ばっぽんてき",
+     "p": "na-adj",
+     "zh": "根本性的",
+     "en": "fundamental"
+    },
+    {
+     "id": "advanced-1-12-38",
+     "w": "画一的",
+     "r": "かくいつてき",
+     "p": "na-adj",
+     "zh": "千篇一律的",
+     "en": "uniform; standardized"
+    },
+    {
+     "id": "advanced-1-12-39",
+     "w": "実践的",
+     "r": "じっせんてき",
+     "p": "na-adj",
+     "zh": "实践性的",
+     "en": "practical"
+    },
+    {
+     "id": "advanced-1-12-40",
+     "w": "一律に",
+     "r": "いちりつに",
+     "p": "adv",
+     "zh": "一律",
+     "en": "uniformly"
+    }
+   ]
+  }
+ ]
+}

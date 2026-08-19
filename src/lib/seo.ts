@@ -1,4 +1,4 @@
-import type { Article } from '../types'
+import type { Article, TextbookBook, TextbookLesson } from '../types'
 
 export const ORIGIN = 'https://www.nihongo.ink'
 
@@ -40,6 +40,10 @@ export const PAGE_META: Record<string, PageMeta> = {
     title: 'JLPT Practice Quiz (N5–N1) — 模擬試験 · 模拟刷题 — nihongo.ink',
     desc: 'Free JLPT practice questions for N5–N1 in the official exam format: kanji reading, orthography, context, paraphrase, usage, grammar, sentence order and reading comprehension — with explanations.',
   },
+  '/textbook': {
+    title: '标准日本语单词卡片 · 初级/中级/高级分课背单词 — nihongo.ink',
+    desc: '《新版中日交流标准日本语》初级上下册、中级上下册、高级上下册，按课整理的单词表。翻卡记忆 + 四选一选择题，中日英三语释义、发音朗读，进度自动保存。',
+  },
   '/stats': {
     title: 'My Stats — nihongo.ink',
     desc: 'Your typing practice history and progress on nihongo.ink.',
@@ -69,6 +73,31 @@ export function articleMeta(a: Article): PageMeta {
     title: `${a.title}${en} — JLPT ${a.level} Japanese Typing Practice | nihongo.ink`,
     desc: clip(
       `Type the JLPT ${a.level} Japanese article ${a.title}${en}. ${firstSentence(a)} With furigana, Chinese and English translations, and audio.`,
+    ),
+  }
+}
+
+
+export function textbookBookMeta(book: TextbookBook): PageMeta {
+  const words = book.lessons.reduce((n, l) => n + l.words.length, 0)
+  return {
+    title: `标准日本语${book.title_zh} 分课单词表（第${book.lessons[0]?.n ?? 1}–${
+      book.lessons[book.lessons.length - 1]?.n ?? 1
+    }课）— nihongo.ink`,
+    desc: clip(
+      `《新版中日交流标准日本语》${book.title_zh}共 ${book.lessons.length} 课、${words} 个单词，按课分组。卡片翻背 + 选择题自测，附假名读音、词性和中英释义。`,
+    ),
+  }
+}
+
+export function textbookLessonMeta(book: TextbookBook, lesson: TextbookLesson): PageMeta {
+  return {
+    title: `标日${book.title_zh} 第${lesson.n}课 ${lesson.title} 单词表 — nihongo.ink`,
+    desc: clip(
+      `《标准日本语》${book.title_zh}第${lesson.n}课「${lesson.title}」（${lesson.title_zh}）的 ${lesson.words.length} 个单词：${lesson.words
+        .slice(0, 8)
+        .map((w) => w.w)
+        .join('、')}… 卡片记忆与选择题练习，带读音和中英释义。`,
     ),
   }
 }

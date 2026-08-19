@@ -30,6 +30,9 @@ function NavIcon({ name }: { name: string }) {
   if (name === 'grammar') {
     return <span className="flex h-5 w-5 items-center justify-center font-serif text-[15px] leading-none">文</span>
   }
+  if (name === 'textbook') {
+    return <span className="flex h-5 w-5 items-center justify-center font-serif text-[15px] leading-none">標</span>
+  }
   if (name === 'quiz') {
     return <span className="flex h-5 w-5 items-center justify-center font-serif text-[15px] leading-none">験</span>
   }
@@ -54,6 +57,7 @@ const NAV_ITEMS = [
   { to: '/grammar', key: 'grammar', icon: 'grammar' },
   { to: '/articles', key: 'articles', icon: 'articles' },
   { to: '/vocab', key: 'vocab', icon: 'vocab' },
+  { to: '/textbook', key: 'textbook', icon: 'textbook' },
   { to: '/quiz', key: 'quiz', icon: 'quiz' },
   { to: '/stats', key: 'stats', icon: 'stats' },
 ]
@@ -64,6 +68,7 @@ const FOOTER_LINKS = [
   { to: '/grammar', key: 'nav.grammar' },
   { to: '/articles', key: 'nav.articles' },
   { to: '/vocab', key: 'nav.vocab' },
+  { to: '/textbook', key: 'nav.textbook' },
   { to: '/quiz', key: 'nav.quiz' },
 ]
 

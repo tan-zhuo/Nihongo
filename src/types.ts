@@ -94,3 +94,59 @@ export interface QuizQuestion {
   expl_zh: string
   expl_en: string
 }
+
+/** 《新版中日交流标准日本语》— six volumes, lesson-by-lesson vocabulary. */
+export type BookId =
+  | 'elementary-1'
+  | 'elementary-2'
+  | 'intermediate-1'
+  | 'intermediate-2'
+  | 'advanced-1'
+  | 'advanced-2'
+
+export type BookSeries = 'elementary' | 'intermediate' | 'advanced'
+
+export const BOOK_IDS: BookId[] = [
+  'elementary-1',
+  'elementary-2',
+  'intermediate-1',
+  'intermediate-2',
+  'advanced-1',
+  'advanced-2',
+]
+
+export interface TextbookWord {
+  /** `${bookId}-${lesson}-${index}`, e.g. elementary-1-03-12 */
+  id: string
+  /** surface form as printed in the book */
+  w: string
+  /** kana reading; equals `w` for words already written in kana */
+  r: string
+  p: string
+  zh: string
+  en: string
+  /** verb conjugation group as the book marks it: 動1 / 動2 / 動3 */
+  g?: 1 | 2 | 3
+}
+
+export interface TextbookLesson {
+  n: number
+  title: string
+  title_zh: string
+  words: TextbookWord[]
+}
+
+export interface TextbookBook {
+  id: BookId
+  series: BookSeries
+  volume: 1 | 2
+  title: string
+  title_zh: string
+  title_en: string
+  /**
+   * true when the lessons are grouped by topic rather than carrying the
+   * textbook's own lesson titles — the UI says so on those volumes.
+   */
+  themed: boolean
+  lessons: TextbookLesson[]
+}
